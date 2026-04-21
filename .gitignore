@@ -29,3 +29,12 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Agents
+CLAUDE.md
+
