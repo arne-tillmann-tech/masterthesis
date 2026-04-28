@@ -45,7 +45,7 @@ load_dotenv(Path(__file__).parent / ".env")
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 
-REPO_ROOT = Path(__file__).parent.parent
+REPO_ROOT = Path(__file__).parent
 SCENARIOS_PATH = REPO_ROOT / "data" / "scenarios" / "scenarios.jsonl"
 OUTPUTS_DIR = REPO_ROOT / "data" / "model_outputs"
 

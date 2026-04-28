@@ -37,4 +37,9 @@ Thumbs.db
 
 # Agents
 CLAUDE.md
+.claude/
+
+# Private / unredacted corpus material
+data/Testung1DIVA.zip
+data/legal_qa/raw/
 

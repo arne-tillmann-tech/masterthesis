@@ -3,7 +3,7 @@ Validate JSONL scenario files against the canonical schema.
 
 Usage:
     python validate_scenarios.py <path_to_scenarios.jsonl>
-    python validate_scenarios.py            # defaults to ../data/scenarios/scenarios.jsonl
+    python validate_scenarios.py            # defaults to data/scenarios/scenarios.jsonl
 """
 
 import json
@@ -11,11 +11,15 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+# Make the project root importable so `from schema import ...` resolves
+# when this script is run as `python scripts/validate_scenarios.py`.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from pydantic import ValidationError
 
 from schema import Scenario, Domain, Role, Jurisdiction
 
-DEFAULT_PATH = Path(__file__).parent.parent / "data" / "scenarios" / "scenarios.jsonl"
+DEFAULT_PATH = Path(__file__).resolve().parent.parent / "data" / "scenarios" / "scenarios.jsonl"
 
 
 def load_and_validate(filepath: Path) -> tuple[list[Scenario], list[dict]]:

@@ -46,9 +46,9 @@ from inspect_ai.solver import (
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parent
 SCENARIOS_PATH = REPO_ROOT / "data" / "scenarios" / "scenarios.jsonl"
-RUBRIC_TEMPLATE_PATH = Path(__file__).resolve().parent / "rubric_template.txt"
+RUBRIC_TEMPLATE_PATH = REPO_ROOT / "rubric_template.txt"
 
 # ── System prompt (same as run_benchmark.py) ─────────────────────────────────
 

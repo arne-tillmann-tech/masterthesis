@@ -26,14 +26,18 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-# Load .env from codebase directory
-load_dotenv(Path(__file__).parent / ".env")
+# Make the project root importable so `from schema import ...` resolves
+# when this script is run as `python scripts/generate_scenarios.py`.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+
+# Load .env from project root
+load_dotenv(REPO_ROOT / ".env")
 
 from schema import (
     Domain, Jurisdiction, Role, Difficulty, Scenario,
 )
 
-REPO_ROOT = Path(__file__).parent.parent
 SCENARIOS_PATH = REPO_ROOT / "data" / "scenarios" / "scenarios.jsonl"
 
 
