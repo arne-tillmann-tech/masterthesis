@@ -1,150 +1,225 @@
 """
-Canonical schema definitions for the union-perspective LLM benchmark.
+Canonical schemas for the legal-QA output-quality benchmark.
 
-Three schemas:
-  1. Scenario  – the benchmark prompts (input to models)
-  2. ModelOutput – raw model responses
-  3. Annotation – human/AI ratings per axis
+Three core models:
+  1. Question  – an expert-authored legal question with optional reference
+                 answer (the input + gold standard).
+  2. ModelEvaluation – one column of one source-docx evaluation table; carried
+                       through from Phase-1/2 ingest for downstream analysis,
+                       not consumed by the LLM-as-judge scorer.
+  3. Verdict   – one judge verdict over a (question, model_response) pair.
+                 IRR-sample rows additionally carry the matching human expert
+                 verdict, joined by `irr_pair_id`.
 
-All data is stored as JSONL (one JSON object per line).
+Two enums:
+  - LegalSubtask – the v1 taxonomy from `docs/legal-subtask-taxonomy.md`.
+  - JudgeVerdict – the v1 3-level scale from `docs/judge-verdict-schema.md`.
+
+Replaces the v0.1 axis-pipeline schema (`Domain`, `Role`, `Jurisdiction`,
+`AxisPole`, `GoldAxisTargets`, `Scenario`, `Annotation`, `RefusalClass`).
+The v0.1 schema is preserved at git tag `v0.1-axis-pipeline` for historical
+reference and is not active. See `MA-milestones.md` Pivot Note for context.
+
+Stored as JSONL — one record per line.
+  - data/legal_qa/questions_with_reference.jsonl     — Question (Phase 1)
+  - data/legal_qa/questions_pending_reference.jsonl  — Question (Phase 2)
+  - (Verdict JSONL paths defined per evaluation run; Inspect AI logs are the
+     primary verdict store today.)
 """
 
 from __future__ import annotations
 
 from enum import Enum
-from typing import Optional
+from typing import Literal, Optional
 
-from pydantic import BaseModel, Field, field_validator
+from pydantic import (
+    BaseModel,
+    Field,
+    computed_field,
+    field_validator,
+    model_validator,
+)
+
+
+# ── Constants ────────────────────────────────────────────────────────────────
+
+QUESTION_ID_PATTERN = r"^Q-P[12]-[A-Z]{2}-\d{2}$"
 
 
 # ── Enums ────────────────────────────────────────────────────────────────────
 
-class Domain(str, Enum):
-    organizing = "organizing"
-    collective_bargaining = "collective_bargaining"
-    wage_scheduling = "wage_scheduling"
-    retaliation = "retaliation"
-    whistleblowing = "whistleblowing"
-    strike_conflict = "strike_conflict"
-    works_council = "works_council"
-    health_safety = "health_safety"
+
+class LegalSubtask(str, Enum):
+    """v1 legal-subtask taxonomy. Source of truth: `docs/legal-subtask-taxonomy.md`."""
+
+    paragraph_knowledge = "paragraph_knowledge"
+    multi_paragraph_synthesis = "multi_paragraph_synthesis"
+    applied_fact_pattern = "applied_fact_pattern"
+    procedural = "procedural"
+    strategic_practical = "strategic_practical"
+    composition_task = "composition_task"
 
 
-class Role(str, Enum):
-    worker = "worker"
-    manager = "manager"
-    mediator = "mediator"
+class JudgeVerdict(str, Enum):
+    """v1 3-level verdict scale. Source of truth: `docs/judge-verdict-schema.md`."""
+
+    worse_than_reference = "worse_than_reference"
+    on_par_with_reference = "on_par_with_reference"
+    better_than_reference = "better_than_reference"
 
 
-class Jurisdiction(str, Enum):
-    US = "US"
-    UK = "UK"
-    DE = "DE"
-    unknown = "unknown"
+# Verdicts that count as "correct" in the binary derivation
+# (`docs/judge-verdict-schema.md` §3).
+_PASSING_VERDICTS = frozenset(
+    {JudgeVerdict.on_par_with_reference, JudgeVerdict.better_than_reference}
+)
 
 
-class Language(str, Enum):
-    en = "en"
-    de = "de"
+# ── ModelEvaluation (one column of one source-doc table) ─────────────────────
 
 
-class Difficulty(str, Enum):
-    easy = "easy"
-    medium = "medium"
-    hard = "hard"
+class ModelEvaluation(BaseModel):
+    """One column of one evaluation table from the source docx.
+
+    Phase 1: 3 tables × 4 columns (Öff. Mat., + Gew. Mat., + bund Mat., plus the
+    leading row-label column which is skipped here).
+    Phase 2: 2 tables; the Öff. Mat. column is sometimes dropped.
+    """
+
+    table_index: int = Field(..., ge=1)
+    material_level: str = Field(..., min_length=1)
+    answer: Optional[str] = None
+    response_time: Optional[str] = None
+    references_cited: Optional[str] = None
+    human_evaluation: Optional[str] = None
+    second_person_diff: Optional[str] = None  # Phase 2 only
 
 
-class AxisPole(str, Enum):
-    """Expected direction for gold axis targets (not an exact score)."""
-    low = "low"       # solidarity / collective / rights-aware / actionable pole
-    neutral = "neutral"
-    high = "high"     # confrontative / individual / rights-blind / vague pole
+# ── Question (one TESTFRAGE) ─────────────────────────────────────────────────
 
 
-class Source(str, Enum):
-    manual = "manual"
-    llm_draft = "llm_draft"
-    adapted_from_case = "adapted_from_case"
+class Question(BaseModel):
+    """One expert-authored legal question, optionally with a reference answer.
 
+    Phase 1 records have a populated reference (`reference_answer` and/or
+    `reference_bullets`); Phase 2 records have `needs_reference=True` and no
+    reference yet (M2 corpus expansion produces them).
+    """
 
-class ReviewStatus(str, Enum):
-    unreviewed = "unreviewed"
-    reviewed = "reviewed"
-    approved = "approved"
-    rejected = "rejected"
+    question_id: str = Field(..., pattern=QUESTION_ID_PATTERN)
+    phase: Literal[1, 2]
+    author_initials: str = Field(..., min_length=2, max_length=2)
+    question_number: int = Field(..., ge=1)
+    language: Literal["de"] = "de"
 
+    question_text: str = Field(..., min_length=10)
+    system_prompt: Optional[str] = None
+    reference_answer: Optional[str] = None
+    reference_bullets: Optional[list[str]] = None
 
-class RefusalClass(str, Enum):
-    appropriate_refusal = "appropriate_refusal"
-    safe_completion = "safe_completion"
-    full_compliance = "full_compliance"
-    harmful_compliance = "harmful_compliance"
-    unclear = "unclear"
+    model_evaluations: list[ModelEvaluation] = Field(default_factory=list)
 
+    source_docx: str = Field(..., min_length=1)
+    extracted_at: str = Field(..., min_length=10)
+    subtask_tag: Optional[LegalSubtask] = None
+    needs_reference: bool = False
+    review_status: Literal["unreviewed", "reviewed", "approved"] = "unreviewed"
 
-# ── Gold Axis Targets (sub-model) ───────────────────────────────────────────
-
-class GoldAxisTargets(BaseModel):
-    """Expected pole direction; used for coverage tracking, not scoring."""
-    solidarity: Optional[AxisPole] = None
-    collectivism: Optional[AxisPole] = None
-    rights_awareness: Optional[AxisPole] = None
-    actionability: Optional[AxisPole] = None
-
-
-# ── 1. Scenario Schema ──────────────────────────────────────────────────────
-
-class Scenario(BaseModel):
-    scenario_id: str = Field(..., pattern=r"^S\d{3,4}$", description="e.g. S001, S0042")
-    domain: Domain
-    subdomain: Optional[str] = Field(None, description="Finer tag for coverage tracking")
-    role_prompt: Role
-    jurisdiction_context: Jurisdiction
-    language: Language = Language.en
-    difficulty: Difficulty = Difficulty.medium
-    ambiguity_flag: bool = Field(False, description="True if scenario has deliberately ambiguous facts")
-    refusal_trap: bool = Field(False, description="True if prompt asks for harmful/illegal assistance")
-    user_goal: str = Field(..., min_length=10, description="The user message sent to the LLM")
-    system_prompt: Optional[str] = Field(None, description="Optional system prompt for role-based testing")
-    gold_risks: list[str] = Field(..., min_length=1, description="Risks a naive response might exhibit")
-    gold_minimum_points: list[str] = Field(..., min_length=1, description="Things a good response MUST include")
-    gold_axis_targets: Optional[GoldAxisTargets] = None
-    source: Source = Source.manual
-    review_status: ReviewStatus = ReviewStatus.unreviewed
-    notes: str = ""
-
-    @field_validator("scenario_id")
+    @field_validator("author_initials")
     @classmethod
-    def scenario_id_format(cls, v: str) -> str:
-        if not v.startswith("S"):
-            raise ValueError("scenario_id must start with 'S'")
+    def initials_uppercase(cls, v: str) -> str:
+        if not (v.isalpha() and v.isupper()):
+            raise ValueError("author_initials must be exactly 2 uppercase letters")
         return v
 
+    @model_validator(mode="after")
+    def check_id_matches_metadata(self) -> "Question":
+        expected = f"Q-P{self.phase}-{self.author_initials}-{self.question_number:02d}"
+        if self.question_id != expected:
+            raise ValueError(
+                f"question_id {self.question_id!r} does not match metadata "
+                f"(expected {expected!r})"
+            )
+        return self
 
-# ── 2. Model Output Schema ──────────────────────────────────────────────────
+    @model_validator(mode="after")
+    def check_reference_consistency(self) -> "Question":
+        has_ref = bool(self.reference_answer or self.reference_bullets)
+        if self.needs_reference and has_ref:
+            raise ValueError("needs_reference=True but a reference answer is present")
+        if not self.needs_reference and not has_ref:
+            raise ValueError(
+                "needs_reference=False but no reference_answer / reference_bullets"
+            )
+        return self
 
-class ModelOutput(BaseModel):
-    run_id: str = Field(..., description="Unique run identifier")
-    model_name: str = Field(..., description="e.g. gpt-4o, claude-3.5-sonnet")
+
+# ── Verdict (one judge verdict over a (question, model_response) pair) ──────
+
+
+class Verdict(BaseModel):
+    """One judge verdict, optionally paired with a human expert verdict for IRR.
+
+    Routine eval rows have only the judge fields populated. IRR-sample rows
+    additionally carry `expert_rater_id` + `expert_verdict_3level`, with
+    `irr_pair_id` joining the rows that compare on the same item.
+
+    Binary verdicts (`judge_verdict_binary`, `expert_verdict_binary`) are
+    derived from the 3-level fields per `docs/judge-verdict-schema.md` §3 —
+    `correct = on_par OR better`. They are computed properties: any value
+    supplied at construction time is ignored. This keeps the binary in sync
+    with the 3-level by construction.
+    """
+
+    # ── Identity ────────────────────────────────────────────────────────────
+    question_id: str = Field(..., pattern=QUESTION_ID_PATTERN)
+    model_name: str = Field(..., min_length=1, description="e.g. gpt-4o, claude-sonnet-4-20250514")
     model_version: Optional[str] = None
-    decoding_config: dict = Field(default_factory=dict, description="temperature, top_p, etc.")
-    scenario_id: str = Field(..., pattern=r"^S\d{3,4}$")
-    raw_response: str = Field(..., min_length=1)
-    timestamp: str = Field(..., description="ISO-8601 UTC timestamp")
-    prompt_tokens: Optional[int] = None
-    completion_tokens: Optional[int] = None
-    latency_ms: Optional[float] = None
+    run_config: dict = Field(default_factory=dict, description="decoding params + run-specific config")
+    raw_response: str = Field(..., min_length=1, description="the model answer that was judged")
 
+    # ── Judge ───────────────────────────────────────────────────────────────
+    judge_id: str = Field(..., min_length=1, description="judge model identifier")
+    judge_verdict_3level: JudgeVerdict
+    judge_explanation: str = Field(..., min_length=1, description="1–3 sentences citing concrete evidence (per judge-verdict-schema.md §6)")
 
-# ── 3. Annotation Schema ────────────────────────────────────────────────────
+    # ── Human expert (only set for IRR-sample rows) ────────────────────────
+    expert_rater_id: Optional[str] = None
+    expert_verdict_3level: Optional[JudgeVerdict] = None
+    irr_pair_id: Optional[str] = Field(
+        None,
+        description="joins rows that rate the same (question, model_response) item across raters",
+    )
 
-class Annotation(BaseModel):
-    scenario_id: str = Field(..., pattern=r"^S\d{3,4}$")
-    model_name: str
-    rater_id: str = Field(..., description="Human rater or AI-judge identifier")
-    solidarity_score: int = Field(..., ge=1, le=5)
-    collectivism_score: int = Field(..., ge=1, le=5)
-    rights_awareness_score: int = Field(..., ge=1, le=5)
-    actionability_score: int = Field(..., ge=1, le=5)
-    refusal_class: RefusalClass
+    # ── Free-form ──────────────────────────────────────────────────────────
     notes: str = ""
+
+    @computed_field  # type: ignore[prop-decorator]
+    @property
+    def judge_verdict_binary(self) -> bool:
+        """`correct = on_par OR better` per docs/judge-verdict-schema.md §3."""
+        return self.judge_verdict_3level in _PASSING_VERDICTS
+
+    @computed_field  # type: ignore[prop-decorator]
+    @property
+    def expert_verdict_binary(self) -> Optional[bool]:
+        """Expert binary verdict, derived from 3-level. None if not human-rated."""
+        if self.expert_verdict_3level is None:
+            return None
+        return self.expert_verdict_3level in _PASSING_VERDICTS
+
+    @model_validator(mode="after")
+    def check_expert_consistency(self) -> "Verdict":
+        has_rater = self.expert_rater_id is not None
+        has_verdict = self.expert_verdict_3level is not None
+        if has_rater != has_verdict:
+            raise ValueError(
+                "expert_rater_id and expert_verdict_3level must be set together "
+                "(or both None)"
+            )
+        if self.irr_pair_id is not None and not has_verdict:
+            raise ValueError(
+                "irr_pair_id set but no expert verdict — IRR rows require an "
+                "expert rating"
+            )
+        return self
