@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv(REPO_ROOT / ".env")
 
 from inspect_ai import eval
-from inspect_benchmark import union_benchmark
+from inspect_benchmark import legal_qa_benchmark
 
 MODELS = [
     "openai/gpt-5-mini",
@@ -24,7 +24,7 @@ MODELS = [
     "openai/gpt-5.2",
 ]
 
-task = union_benchmark()
+task = legal_qa_benchmark()
 
 for model in MODELS:
     print(f"\n{'='*60}")

@@ -28,7 +28,7 @@ load_dotenv(REPO_ROOT / ".env")
 from inspect_ai import eval
 from inspect_ai.model import GenerateConfig
 
-from inspect_benchmark import union_benchmark
+from inspect_benchmark import legal_qa_benchmark
 
 # ── Arcana RAG config ────────────────────────────────────────────────────────
 
@@ -69,7 +69,7 @@ MODELS = [
 
 # ── Run ──────────────────────────────────────────────────────────────────────
 
-task = union_benchmark()
+task = legal_qa_benchmark()
 task.config = GenerateConfig(extra_body=ARCANA_EXTRA_BODY)
 
 for model in MODELS:
