@@ -97,6 +97,12 @@ class BearerCache:
             ttl = int(self._expires_at - time.time())
             print(f"[proxy] refreshed bearer (ttl={ttl}s)", flush=True)
 
+    def invalidate(self) -> None:
+        """Force a refresh on the next .get() call. Used when an in-flight
+        request hits 401 because the bearer expired between mint and use."""
+        with self._lock:
+            self._expires_at = 0.0
+
 
 # ── Stream handling ─────────────────────────────────────────────────────────
 
@@ -230,37 +236,54 @@ class CopilotProxyHandler(BaseHTTPRequestHandler):
         request_body["stream"] = True
         upstream_body = json.dumps(request_body).encode()
 
-        try:
-            bearer = self.bearer_cache.get()
-        except Exception as e:
-            self._send_error(502, f"bearer mint failed: {e}")
-            return
+        # Try the upstream POST up to twice. If the first attempt returns 401
+        # (bearer expired between mint and use — e.g. during a long Arcana
+        # retrieval), invalidate the cache and retry once with a fresh bearer.
+        upstream_resp = None
+        last_err_code: Optional[int] = None
+        last_err_body = ""
+        for attempt in (1, 2):
+            try:
+                bearer = self.bearer_cache.get()
+            except Exception as e:
+                self._send_error(502, f"bearer mint failed: {e}")
+                return
 
-        upstream_headers = {
-            "Authorization": f"Bearer {bearer}",
-            "Content-Type": "application/json",
-            "Accept": "text/event-stream",
-            "X-Initiator": "user",
-            "Openai-Intent": "conversation-edits",
-            "Editor-Version": IDE_HEADERS["Editor-Version"],
-            "User-Agent": IDE_HEADERS["User-Agent"],
-        }
+            upstream_headers = {
+                "Authorization": f"Bearer {bearer}",
+                "Content-Type": "application/json",
+                "Accept": "text/event-stream",
+                "X-Initiator": "user",
+                "Openai-Intent": "conversation-edits",
+                "Editor-Version": IDE_HEADERS["Editor-Version"],
+                "User-Agent": IDE_HEADERS["User-Agent"],
+            }
+            req = urllib.request.Request(
+                COPILOT_CHAT_URL,
+                data=upstream_body,
+                headers=upstream_headers,
+                method="POST",
+            )
 
-        req = urllib.request.Request(
-            COPILOT_CHAT_URL,
-            data=upstream_body,
-            headers=upstream_headers,
-            method="POST",
-        )
+            try:
+                upstream_resp = urllib.request.urlopen(req, timeout=300)
+                break
+            except urllib.error.HTTPError as e:
+                last_err_code = e.code
+                last_err_body = e.read().decode("utf-8", errors="replace")[:500]
+                if e.code == 401 and attempt == 1:
+                    if VERBOSE:
+                        print("[proxy] upstream 401 — invalidating bearer + retrying once", flush=True)
+                    self.bearer_cache.invalidate()
+                    continue
+                self._send_error(e.code, f"upstream {e.code}: {last_err_body}")
+                return
+            except Exception as e:
+                self._send_error(502, f"upstream connection error: {e}")
+                return
 
-        try:
-            upstream_resp = urllib.request.urlopen(req, timeout=300)
-        except urllib.error.HTTPError as e:
-            err_body = e.read().decode("utf-8", errors="replace")[:500]
-            self._send_error(e.code, f"upstream {e.code}: {err_body}")
-            return
-        except Exception as e:
-            self._send_error(502, f"upstream connection error: {e}")
+        if upstream_resp is None:
+            self._send_error(last_err_code or 502, f"upstream call failed after retry: {last_err_body}")
             return
 
         if inbound_stream:

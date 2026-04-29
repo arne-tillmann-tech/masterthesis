@@ -61,7 +61,7 @@ RAG_CONFIGS: list[tuple[str, str]] = [
     ("+ all DIVA documents", "ananyapam.de01/All+Documents"),
 ]
 
-GRADER = "openai-api/copilot/claude-haiku-4.5"
+GRADER = "openai-api/copilot/gpt-5-mini"
 
 
 # ── Runner ──────────────────────────────────────────────────────────────────

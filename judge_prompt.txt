@@ -9,28 +9,43 @@ Sie sind ein Experte für deutsches Arbeitsrecht und Betriebsverfassungsrecht. I
 === KI-MODELLANTWORT ===
 {model_response}
 
-=== BEWERTUNGSKRITERIEN ===
+=== ARBEITSSCHRITTE (in dieser Reihenfolge durchlaufen) ===
 
-Vergeben Sie genau eines der folgenden drei Verdikte, basierend auf einem direkten Vergleich der Modellantwort mit der Referenz:
+**Schritt 1 — Frage-Antwort-Passung prüfen.** Lesen Sie die Frage erneut. Was wird konkret verlangt? Eine paragraphenbezogene Wissensfrage? Eine praktische Handlungsempfehlung? Eine strategische oder kommunikative Beratung? Eine Fallanwendung? Wenn die Modellantwort den Fragetyp **inhaltlich verfehlt** (z. B. die Frage verlangt praktische Strategien zur Vertrauensbildung, das Modell antwortet rein juristisch-dogmatisch mit Paragraphenkatalogen), ist die Antwort `worse_than_reference`, unabhängig davon, wie korrekt der gelieferte juristische Inhalt für sich genommen ist.
 
-- worse_than_reference: Die Modellantwort lässt wesentliche Inhalte der Referenz aus, enthält juristische Fehler, frei erfundene Inhalte (Halluzinationen) oder widerspricht der Referenz in zentralen Punkten.
+**Schritt 2 — Referenzpunkte abdecken.** Identifizieren Sie die wesentlichen inhaltlichen Punkte der Referenz (jede Stichpunktzeile, jeder Kernsatz). Werden alle wesentlichen Punkte in der Modellantwort adressiert (ggf. paraphrasiert)? Fehlen wesentliche Referenzpunkte oder werden sie nur oberflächlich gestreift, tendiert das Verdikt zu `worse_than_reference`.
 
-- on_par_with_reference: Die Modellantwort deckt die wesentlichen Punkte der Referenz ab, enthält keine größeren juristischen Fehler und ist inhaltlich vergleichbar belastbar. Kleinere Auslassungen oder unterschiedliche Schwerpunkte sind zulässig, solange die Antwort fachlich korrekt bleibt.
+**Schritt 3 — Halluzinationen prüfen.** Jede konkrete §-Angabe (z. B. „§ 95 BetrVG"), jedes Aktenzeichen einer Gerichtsentscheidung (z. B. „BAG 2 AZR 124/19"), jeder zitierte Dokumentname oder Leitfaden in der Modellantwort ist ein **Halluzinations-Risikopunkt**. Prüfen Sie aus eigener Sachkenntnis:
 
-- better_than_reference: Die Modellantwort deckt alle wesentlichen Punkte der Referenz ab UND fügt zusätzlichen, inhaltlich korrekten Mehrwert hinzu (z. B. weitere einschlägige Paragraphen, präzisere Differenzierung, anwendungsbezogene Beispiele oder relevante Rechtsprechung).
+- **Existiert die zitierte Norm?** Plausibilitätshinweise: das BetrVG hat ca. 132 Paragraphen — Zitate weit darüber hinaus (z. B. „§ 200 BetrVG") oder lange aufeinanderfolgende §-Listen ohne erkennbaren Bezug sind verdächtig. Andere relevante Gesetze (BGB, KSchG, ArbZG, MuSchG, BUrlG, AGG, BDSG) haben ihre eigenen Bereiche; prüfen Sie, ob die zitierte Nummer sinnvoll im Geltungsbereich liegt.
+- **Passt das Aktenzeichen zum Gericht?** AZR-Aktenzeichen gehören zum **BAG** (Bundesarbeitsgericht), nicht zum BGH oder LAG. LAG-Aktenzeichen verwenden in der Regel Sa/TaBV/BV. Mismatched Court-Docket-Kombinationen sind klare Halluzinationen.
+- **Sagt die zitierte Norm tatsächlich, was die Modellantwort behauptet?** Beispiel: § 95 BetrVG behandelt Auswahlrichtlinien, nicht „Kooperationsvereinbarungen mit Gewerkschaften". Inhaltlich falsche Zuordnungen sind Halluzinationen.
+- **Wenn Sie die Korrektheit eines Zitats nicht aus Ihrer Sachkenntnis bestätigen können**, behandeln Sie es als **nicht verifizierbar** (siehe Schritt 4).
+
+**Schritt 4 — Mehrwert beurteilen (entscheidet `better` vs. `on_par`).** Geht die Modellantwort über die Referenz hinaus? Falls ja:
+
+- Wenn die zusätzlichen Inhalte aus Ihrer Sachkenntnis **nachweislich korrekt** und juristisch relevant sind: `better_than_reference`.
+- Wenn die zusätzlichen Inhalte **plausibel klingen, aber nicht von Ihnen verifiziert werden können** (insbesondere spezifische Aktenzeichen, exotische Paragraphenketten, Verweise auf nicht-belegbare Leitfäden oder Behörden-Publikationen): `on_par_with_reference` — **nicht** `better`. Das ist die **Standardeinstufung**, wenn die Modellantwort die Referenz inhaltlich abdeckt, ihre Erweiterungen aber nicht erkennbar verifiziert sind.
+- Wenn die Modellantwort die Referenz inhaltlich abdeckt, aber **nicht erkennbar darüber hinausgeht**: ebenfalls `on_par_with_reference`.
+
+=== VERDIKTE ===
+
+- **`worse_than_reference`**: Die Modellantwort verfehlt den Fragetyp (Schritt 1), lässt wesentliche Referenzpunkte aus (Schritt 2), **oder** enthält belegbare juristische Fehler / nachweisliche Halluzinationen (mehrere oder gravierende Fundstellen aus Schritt 3).
+- **`on_par_with_reference`**: Die Modellantwort deckt die wesentlichen Referenzpunkte ab und enthält keine erkennbaren juristischen Fehler. Geht entweder nicht über die Referenz hinaus, **oder** ihre Erweiterungen sind aus Ihrer Sachkenntnis nicht eindeutig verifizierbar. Dies ist die häufigste Einstufung für gut-formatierte Modellantworten mit unverifiziert wirkenden Detailerweiterungen.
+- **`better_than_reference`**: Die Modellantwort deckt alle wesentlichen Referenzpunkte ab UND fügt zusätzlichen, **aus Ihrer Sachkenntnis nachweislich korrekten** und juristisch relevanten Mehrwert hinzu (z. B. korrekt zitierte einschlägige Paragraphen, präzisere und prüfbare Differenzierung, korrekte anwendungsbezogene Beispiele).
 
 === ENTSCHEIDUNGSREGELN ===
 
-1. Bewerten Sie ausschließlich die juristische Korrektheit und inhaltliche Abdeckung — nicht Stil, Tonfall oder Lesbarkeit.
-2. Halluzinationen (frei erfundene Paragraphen, Gerichtsentscheidungen oder Quellen) führen zu worse_than_reference, auch wenn die übrigen Inhalte stimmen.
-3. Eine kürzere Antwort ist nicht automatisch worse — entscheidend ist die Abdeckung der Referenzpunkte.
-4. Im Zweifel zwischen zwei Stufen wählen Sie die strengere.
-5. Beziehen Sie sich in der Begründung auf konkrete Stellen der Modellantwort und der Referenz.
+1. Bewerten Sie ausschließlich die juristische Korrektheit und inhaltliche Abdeckung — **nicht** Stil, Tonfall, Tabellenformat, Überschriften-Struktur, Länge oder Lesbarkeit. Eine ausführliche, gut formatierte Antwort ist nicht automatisch besser; eine kürzere Antwort ist nicht automatisch schlechter.
+2. **Verifizierung schlägt Plausibilität.** Im Zweifel zwischen `better` und `on_par` wählen Sie `on_par`. Eine plausibel klingende, aber unverifizierte Erweiterung ist kein Mehrwert.
+3. Halluzinationen — frei erfundene Paragraphen (z. B. § 200 BetrVG), erfundene oder mismatched Gerichtsentscheidungen (z. B. BGH-Aktenzeichen mit AZR-Schema), zitierte Leitfäden ohne nachweisbare Existenz — führen mindestens zu `on_par_with_reference`. Bei mehreren oder gravierenden Halluzinationen: `worse_than_reference`.
+4. Im Zweifel zwischen `worse` und `on_par` wählen Sie `worse`, wenn der Fragetyp verfehlt wird (Schritt 1) oder wesentliche Referenzpunkte fehlen (Schritt 2).
+5. Beziehen Sie sich in der Begründung auf konkrete Stellen der Modellantwort und der Referenz. Nennen Sie ggf. konkrete Halluzinationen oder unverifizierbare Zitate beim Namen.
 
 === AUSGABEFORMAT ===
 
 Antworten Sie ausschließlich mit einem JSON-Objekt (kein Markdown-Codeblock, kein erklärender Text außerhalb des JSON):
 {{
   "verdict": "<worse_than_reference | on_par_with_reference | better_than_reference>",
-  "reasoning": "<2-3 Sätze, die das Verdikt mit konkreten Verweisen auf Inhalte der Modellantwort und der Referenz belegen>"
+  "reasoning": "<2-3 Sätze, die das Verdikt mit konkreten Verweisen auf Inhalte der Modellantwort und der Referenz belegen. Nennen Sie ggf. konkrete Halluzinationen, unverifizierbare Zitate oder die Frage-Antwort-Passung beim Namen.>"
 }}
