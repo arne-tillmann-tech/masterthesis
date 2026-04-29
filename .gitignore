@@ -43,3 +43,5 @@ CLAUDE.md
 data/Testung1DIVA.zip
 data/legal_qa/raw/
 
+# IRR unblinding keys (raters mustn't see judge verdicts)
+data/irr/_*
