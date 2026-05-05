@@ -126,9 +126,9 @@ on the unmetered free pool. If you have `ANTHROPIC_API_KEY` set, edit
 
 ## Results
 
-Full DIVA matrix run 2026-05-04 (post-FIX milestone — see *Methodology
-disclosure* below): judge prompt v2 + `gpt-5-mini` grader, 2 SUTs × 4
-Arcana RAG configurations × 18 Phase-1 questions = **144 graded samples**.
+Full DIVA matrix run 2026-05-04 (post-FIX milestone[^fix]): judge
+prompt v2 + `gpt-5-mini` grader, 2 SUTs × 4 Arcana RAG configurations
+× 18 Phase-1 questions = **144 graded samples**.
 
 **Per-cell verdict counts:**
 
@@ -150,7 +150,7 @@ Arcana RAG configurations × 18 Phase-1 questions = **144 graded samples**.
 - **`openai-gpt-oss-120b` is non-monotonic in correct%**: peaks at T2 (83.3%), dips at T3 (66.7%), recovers at T4 (77.8%). Verdict mean still climbs (1.11 → 1.28 → 1.33 → 1.39), but the T2→T3 transition flips 3 hits back to misses. Adding b+Bund material *hurt* gpt-oss on a subset of questions.
 - **gpt-oss × T2 (Gew. Mat.) is the matrix's strongest single cell** — 83.3% correct, 7 on_par + 8 better. Training material moves gpt-oss the most in absolute terms.
 - **Both SUTs converge at the T4 logical union (77.8% correct)**, but `qwen3.5-397b-a17b` leverages broad retrieval into `better_than_reference` more often (mean 1.556 vs gpt-oss's 1.389). qwen3.5 T4 has 14 `better` and 0 `on_par` (highly polarized toward exceeding the reference).
-- **RAG depth materially moves quality** — contradicting the pre-FIX matrix's reading. The pre-FIX matrix was actually measuring raw vLLM with no RAG (see *Methodology disclosure*); the cross-tier deltas there were batch-inference noise across no-op parameter values.
+- **RAG depth materially moves quality** — contradicting the pre-FIX matrix's reading. The pre-FIX matrix was actually measuring raw vLLM with no RAG (see footnote); the cross-tier deltas there were batch-inference noise across no-op parameter values.
 
 **Caveat:** these verdicts are LLM-judge verdicts only; **inter-rater
 reliability against human experts is not yet validated**. The IRR sample
@@ -162,24 +162,6 @@ signal pending IRR validation, not as final claims.
 with `python scripts/_run_diva.py --skip-fetch`. Per-sample grading `.eval`
 logs at `data/logs/2026-05-04T13-*` and `2026-05-04T14-*`. Open with
 `inspect view --log-dir data/logs/`.
-
-## Methodology disclosure
-
-The DIVA matrix at commit `8949ea9` (2026-04-29) measured raw vLLM model
-output, **not** Arcana-augmented DIVA RAG. The matrix configuration set
-`extra_body={"arcana": {"id": ...}}` on the OpenAI-compatible endpoint, but
-SAIA gateway routing requires the `inference-service: saia-openai-gateway`
-header to actually invoke RAG retrieval. Without that header, the gateway
-silently accepts and discards the arcana parameter. The bug was discovered
-2026-04-29 via direct httpx probing (an *invalid* arcana ID returned 200
-OK without the header but a 500 error with the header — the smoking gun
-for silent no-op).
-
-The fix landed 2026-05-04 as a two-phase pipeline (see *DIVA-specific
-path*). The full matrix in this README's *Results* section uses
-post-FIX data only. The pre-FIX `.eval` logs at `data/logs/2026-04-29T*`
-remain in the repo as evidence but should not be cited for cross-tier
-conclusions.
 
 ## Historical context
 
@@ -198,3 +180,7 @@ the current task.
 ## Contact
 
 Arne Tillmann · Dr. Alexander Silbersdorff (primary supervisor)
+
+---
+
+[^fix]: **Methodology disclosure.** The DIVA matrix at commit `8949ea9` (2026-04-29) measured raw vLLM model output, *not* Arcana-augmented DIVA RAG. The matrix configuration set `extra_body={"arcana": {"id": ...}}` on the OpenAI-compatible endpoint, but SAIA gateway routing requires the `inference-service: saia-openai-gateway` header to actually invoke RAG retrieval — without that header, the gateway silently accepts and discards the arcana parameter. The bug ran undetected for ~2 weeks (2026-04-15 → 2026-05-04) and was discovered via direct httpx probing (an *invalid* arcana ID returned 200 OK without the header but a 500 error with it — the smoking gun for silent no-op). The fix landed 2026-05-04 as a two-phase pipeline (see *DIVA-specific path*). All cross-tier results above use post-FIX data only. Pre-FIX `.eval` logs at `data/logs/2026-04-29T*` remain in the repo as evidence — see `data/logs/README.md` for the per-run inventory and what each log can/cannot be cited for — but should not be cited for cross-tier conclusions.
