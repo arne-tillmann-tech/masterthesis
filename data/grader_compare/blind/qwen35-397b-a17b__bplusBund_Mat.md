@@ -1,0 +1,4365 @@
+# Cell: qwen3.5-397b-a17b__b+Bund Mat.
+
+
+---
+
+## Q-P1-AK-11  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Einflussmöglichkeiten hat ein Betriebsrat bei der Einführung von KI?
+
+### REFERENZ
+Mitbestimmungsrecht nach §87.1.6 BetrVG
+Sicherstellung der Einhaltung der DSGVO - insbesondere Rechtsgrundlage nach Art. 6 bzw. 7: individuelle Einwilligung problematisch wegen Kopplungsverbot und Freiwilligkeit.
+Verweis auf Art. 88 bzw. 26 BDSGneu: Kollektivereinbahrungen (also Betriebsvereinbahrungen) können Grundlage für die Nutzung von KI sein und somit Rechtsgrundlage sein.
+Ggf Hinweis auf AI Act der EU
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten hat der Betriebsrat bei der Einführung von Künstlicher Intelligenz (KI) umfassende Einflussmöglichkeiten, die sich aus Informations-, Beratungs-, Mitbestimmungs- und Unterstützungsrechten zusammensetzen. Im Folgenden werden die konkreten Rechte und Handlungsoptionen dargestellt:
+
+### 1. Unterrichtung und Beratung (§ 90 BetrVG)
+Der Arbeitgeber ist verpflichtet, den Betriebsrat frühzeitig über die Planung von Arbeitsverfahren und Arbeitsabläufen zu informieren. Dies umfasst ausdrücklich den **Einsatz von Künstlicher Intelligenz** [RREF2].
+
+*   **Zeitpunkt:** Die Unterrichtung muss bereits im Planungsstadium erfolgen, wenn das Unternehmen noch Ziele sucht und Alternativen prüft, bevor es sich festlegt [RREF1].
+*   **Inhalt:** Der Betriebsrat ist über Neu-, Um- und Erweiterungsbauten, technische Anlagen, Arbeitsverfahren sowie die Gestaltung von Arbeitsplätzen zu unterrichten [RREF2]. Dazu gehören insbesondere Zielsetzungen, Zeitpläne, Kostenrahmen sowie mögliche personelle Auswirkungen (z. B. Personalabbau, Qualifikationsanforderungen) [RREF1].
+*   **Unterlagen:** Dem Betriebsrat sind alle im Planungsstadium erarbeiteten Unterlagen, Berechnungen und Benchmark-Untersuchungen zur Verfügung zu stellen. Liegen diese nicht in deutscher Sprache vor, müssen sie übersetzt werden [RREF1].
+*   **Beratung:** Der Arbeitgeber hat die Maßnahmen und ihre Auswirkungen auf die Arbeitnehmer so rechtzeitig zu beraten, dass Vorschläge und Bedenken des Betriebsrats berücksichtigt werden können. Dabei sind gesicherte arbeitswissenschaftliche Erkenntnisse über die menschengerechte Gestaltung der Arbeit zu beachten [RREF2].
+
+### 2. Hinzuziehung von Sachverständigen (§ 80 Abs. 3 BetrVG)
+Aufgrund der Komplexität von KI-Systemen hat der Betriebsrat das Recht, externe Experten hinzuzuziehen.
+
+*   **Erforderlichkeit:** Durch das Betriebsrätemodernisierungsgesetz 2021 wurde klargestellt, dass die Hinzuziehung eines Sachverständigen für Fragen Künstlicher Intelligenz generell als erforderlich gilt [RREF3].
+*   **Begründung:** Der Betriebsrat kann beschließen, dass er seine Aufgaben ohne fachlichen Rat nicht ordnungsgemäß wahrnehmen kann. Dies ist bei KI-Anwendungen aufgrund der Kompliziertheit der Materie regelmäßig der Fall [RREF5].
+*   **Kosten:** Die Kosten trägt der Arbeitgeber. Kommt keine Einigung über die Auswahl des Sachverständigen zustande, kann der Betriebsrat ein arbeitsgerichtliches Beschlussverfahren zur Ersetzung der Zustimmung des Arbeitgebers einleiten [RREF5].
+
+### 3. Mitbestimmung und Belastungsschutz
+Neben den Informationsrechten bestehen Mitbestimmungs- und Schutzrechte, die bei der Einführung von KI greifen können.
+
+*   **Menschengerechte Gestaltung (§ 91 BetrVG):** Werden Arbeitnehmer durch Änderungen der Arbeitsplätze oder Arbeitsabläufe (z. B. durch KI) in besonderer Weise belastet, die gesicherten arbeitswissenschaftlichen Erkenntnissen offensichtlich widersprechen, kann der Betriebsrat angemessene Maßnahmen zur Abwendung, Milderung oder zum Ausgleich der Belastung verlangen. Bei Nichteinigung entscheidet die Einigungsstelle [RREF2].
+*   **Technische Überwachungseinrichtungen (§ 87 Abs. 1 Nr. 6 BetrVG):** Soweit KI-Systeme zur Überwachung von Verhalten oder Leistung eingesetzt werden können, besteht ein Mitbestimmungsrecht des Betriebsrats [RREF5].
+*   **Personelle Einzelmaßnahmen (§ 99 BetrVG):** Die Rechte des Betriebsrats bei der Personalauswahl werden durch den Einsatz von KI nicht infrage gestellt. Dies wurde im Rahmen der Reformen explizit klargestellt [RREF3].
+
+### 4. Personalplanung (§ 92 BetrVG)
+Der Arbeitgeber hat den Betriebsrat über die Personalplanung, insbesondere über den künftigen Personalbedarf und sich daraus ergebende Maßnahmen, rechtzeitig und umfassend zu unterrichten [RREF2].
+
+*   **Qualifizierung:** Bei KI-Einführung sind mögliche Änderungen der Qualifikationsanforderungen sowie der Schulungsbedarf zu thematisieren [RREF1].
+*   **Vermeidung von Härten:** Der Arbeitgeber hat mit dem Betriebsrat über die Vermeidung von Härten zu beraten [RREF2].
+
+### 5. Beteiligung an Projektteams
+Der Betriebsrat hat das Recht, an Sitzungen von Projektteams oder Planungsgruppen teilzunehmen, die sich mit der Einführung von KI befassen [RREF1]. Dies ermöglicht eine direkte Einflussnahme während des Implementierungsprozesses.
+
+### Zusammenfassung der Handlungsschritte
+1.  **Frühzeitige Information einfordern:** Sicherstellen, dass die Unterrichtung erfolgt, bevor sich das Unternehmen auf einen Plan festgelegt hat [RREF1].
+2.  **Sachverständige benennen:** Bei KI-Projekten umgehend die Hinzuziehung eines Experten gemäß § 80 Abs. 3 BetrVG verlangen [RREF5].
+3.  **Unterlagen prüfen:** Alle Planungsunterlagen, einschließlich solcher zu Alternativen und Auswirkungen auf Arbeitsinhalte, anfordern [RREF1].
+4.  **Risiken bewerten:** Prüfen, ob die Einführung zu unzumutbaren Belastungen (§ 91 BetrVG) oder mitbestimmungspflichtigen Überwachungsmaßnahmen (§ 87 BetrVG) führt [RREF2], [RREF5].
+
+Diese Rechte stellen sicher, dass der Betriebsrat nicht nur nachrichtlich beteiligt wird, sondern aktiv Einfluss auf die sozialverträgliche Gestaltung von KI-Systemen im Betrieb nehmen kann..
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.336)
+## § 90 Unterrichtungs- und Beratungsrechte
+
+### Umfang der Beteiligung des Betriebsrats bei Arbeitsplatzgestaltung
+
+<!-- sem-asset-id: umfang_der_beteiligung_des_betriebsrats_bei_arbeitsplatzgestaltung -->
+
+_Authors: Thomas Klebe, Micha Heilmann_
+
+- Bewertung der bisherigen Zusammenarbeit und des Informationsverhaltens des Arbeitgebers.
+- Erfolgte die Information so rechtzeitig, dass der Betriebsrat noch Einfluss auf die Planung und Entscheidung nehmen konnte?
+- Gibt es im Unternehmen standardisierte Entscheidungsabläufe? Wenn ja, muss geprüft werden, wann der Betriebsrat in diesem System einbezogen wird und wann in diesem System in der Praxis die Planungsphase stattfindet, in der der Betriebsrat zu beteiligen ist.
+- Gibt es standardisierte Planungs- und Entscheidungsunterlagen? Wenn ja, müssen diese Originalunterlagen dem Betriebsrat zur Verfügung gestellt werden.
+- Soll eine generelle Betriebsvereinbarung abgeschlossen werden oder eine, die sich auf Einzelbereiche bezieht, z. B. IT-Systeme?
+
+### Unterrichtung und Beratung
+
+<!-- sem-asset-id: unterrichtung_und_beratung -->
+
+_Authors: Thomas Klebe, Micha Heilmann_
+
+#### § 1 Geltungsbereich
+
+1. räumlich {{kasten}}
+2. persönlich {{kasten}}
+3. fachlich {{kasten}}.
+
+#### § 2 Zielsetzung
+
+Ziel dieser Betriebsvereinbarung ist die Verbesserung der Zusammenarbeit zwischen Unternehmen und Betriebsrat. Durch die rechtzeitige und umfassende Information soll die Beteiligung der Arbeitnehmer:innen und die Berücksichtigung der Interessen der Arbeitnehmer bei Planungen und Entscheidungen des Unternehmens gefördert werden.
+
+#### § 3 Unterrichtung des Betriebsrats
+
+Der Betriebsrat wird bereits im Planungsstadium unterrichtet über
+
+- mögliche Neu-, Um- und Erweiterungsbauten von Fabrikations-, Verwaltungs- und sonstigen betrieblichen Räumen,
+- die Anschaffung, Veränderung bzw. Stilllegung von technischen Anlagen,
+- die Einführung von neuen, die Veränderung von bestehenden Arbeitsverfahren und Arbeitsabläufen oder
+
+die Gestaltung und Veränderung der Arbeitsplätze.
+
+Zu dieser Unterichtung gehört insbesondere jegliche Form des Einsatzes bzw. der Nutzung von künstlicher Intelligenz.
+
+> #### **Hinweis:**
+>
+> - Künstliche Intelligenz wird künftig bei immer mehr Arbeitsabläufen und Entscheidungen in Unternehmen eine größere Rolle spielen. Eine allgemeingültige Definition für den Begriff gibt es derzeit nicht.
+
+Die Unterrichtung hat zu einem Zeitpunkt zu erfolgen, an dem das Unternehmen für das zu lösende Problem die Ziele sucht und die Alternativen prüft, die es zur Erreichung des Ziels gibt. In jedem Fall muss die Unterrichtung erfolgen, bevor sich das Unternehmen auf einen Plan zur Erreichung des Ziels festgelegt hat.
+
+Dem Betriebsrat sind alle Unterlagen, Berechnungen, Benchmark-Untersuchungen usw., die im Planungsstadium erarbeitet bzw. benutzt werden, zu überlassen.
+
+Soweit die Unterlagen nicht in deutscher Sprache vorliegen, sind sie zu übersetzen.
+
+Die Unterrichtung erfolgt insbesondere im Hinblick auf
+
+- Ziel des Vorhabens, Vorgaben für Projektteams, Zeitplan für Entscheidungsfindung und Umsetzung, Kostenrahmen, Kostenvorgaben
+- Mögliche personelle Auswirkungen (Personalabbau, Versetzungen, Einstellungen, Fremdfirmen usw.)
+- Mögliche Änderungen der Qualifikationsanforderungen sowie möglicher Schulungsbedarf
+- Mögliche Auswirkungen der Alternativen auf Arbeitsinhalte, Arbeitsumfang, Arbeitsverfahren und Methoden
+- Mögliche Auswirkungen auf Anlagen und die Gestaltung der Arbeitsplätze
+- Mögliche Veränderungen der Arbeit der Arbeitnehmer:innen (z. B. Interaktion mit Maschinen) durch den Einsatz von künstlicher Intelligenz
+- mit dem Vorhaben verbundene mögliche Auswirkungen in anderen Betrieben des Unternehmens, mögliche Produktionsverlagerungen.
+
+Die Unterrichtung erfolgt sowohl durch die Personalabteilung als auch direkt durch Arbeitnehmer, die an dem Projekt bzw. dem Vorhaben beteiligt sind, in der Regel den Projektverantwortlichen.
+
+Dem Betriebsrat steht das Recht zu, an den Sitzungen etwaiger Projektteams, Planungsgruppen usw. teilzunehmen.
+
+Weitergehende Rechte des Betriebsrats auf Unterrichtung, Beratung, Mitbestimmung bleiben unberührt.
+
+[RREF2] BetrVG.pdf p.31,y:580 (0.388)
+## Vierter Abschnitt Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung
+## § 90 Unterrichtungs- und Beratungsrechte
+- (1) Der Arbeitgeber hat den Betriebsrat über die Planung
+- 1. von Neu-, Um- und Erweiterungsbauten von Fabrikations-, Verwaltungs- und sonstigen betrieblichen Räumen,
+- 2. von technischen Anlagen,
+- 3. von Arbeitsverfahren und Arbeitsabläufen einschließlich des Einsatzes von Künstlicher Intelligenz oder
+- 4. der Arbeitsplätze
+rechtzeitig unter Vorlage der erforderlichen Unterlagen zu unterrichten.
+- (2) Der Arbeitgeber hat mit dem Betriebsrat die vorgesehenen Maßnahmen und ihre Auswirkungen auf die Arbeitnehmer, insbesondere auf die Art ihrer Arbeit sowie die sich daraus ergebenden Anforderungen an die Arbeitnehmer so rechtzeitig zu beraten, dass Vorschläge und Bedenken des Betriebsrats bei der Planung berücksichtigt werden können. Arbeitgeber und Betriebsrat sollen dabei auch die gesicherten arbeitswissenschaftlichen Erkenntnisse über die menschengerechte Gestaltung der Arbeit berücksichtigen.
+
+[Y 540]: #
+## § 91 Mitbestimmungsrecht
+Werden die Arbeitnehmer durch Änderungen der Arbeitsplätze, des Arbeitsablaufs oder der Arbeitsumgebung, die den gesicherten arbeitswissenschaftlichen Erkenntnissen über die menschengerechte Gestaltung der Arbeit offensichtlich widersprechen, in besonderer Weise belastet, so kann der Betriebsrat angemessene Maßnahmen zur Abwendung, Milderung oder zum Ausgleich der Belastung verlangen. Kommt eine Einigung nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
+## Fünfter Abschnitt Personelle Angelegenheiten
+
+[Y 376]: #
+## Erster Unterabschnitt Allgemeine personelle Angelegenheiten
+## § 92 Personalplanung
+- (1) Der Arbeitgeber hat den Betriebsrat über die Personalplanung, insbesondere über den gegenwärtigen und künftigen Personalbedarf sowie über die sich daraus ergebenden personellen Maßnahmen einschließlich der geplanten Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und Maßnahmen der Berufsbildung anhand von Unterlagen rechtzeitig und umfassend zu unterrichten. Er hat mit dem Betriebsrat über Art und Umfang der erforderlichen Maßnahmen und über die Vermeidung von Härten zu beraten.
+- (2) Der Betriebsrat kann dem Arbeitgeber Vorschläge für die Einführung einer Personalplanung und ihre Durchführung machen.
+- (3) Die Absätze 1 und 2 gelten entsprechend für Maßnahmen im Sinne des § 80 Abs. 1 Nr. 2a und 2b, insbesondere für die Aufstellung und Durchführung von Maßnahmen zur Förderung der Gleichstellung von Frauen und Männern. Gleiches gilt für die Eingliederung schwerbehinderter Menschen nach § 80 Absatz 1 Nummer 4.
+
+[RREF3] SF_Arbeits_und_Sozialordnung_2025.md (0.392)
+konnte. Damit erlangten die Betriebsräte z. B. durch die Mitbestimmung über die Verteilung von Arbeitsentgelt und -zeit erstmals einen echten Einfluss auf die Betriebsführung – der wesentliche Grund für ihre zunehmende Bedeutung im Wirtschaftsleben der Bundesrepublik Deutschland. Entgegen gewerkschaftlicher Vorstellungen wurden die Beschäftigten des öffentlichen Dienstes nicht erfasst. Für sie wurden Personalvertretungsgesetze des Bundes und der Länder geschaffen.Nach dem Wahlerfolg der SPD und FDP im Jahre 1969 kündigte die aus diesen beiden Parteien gebildete Koalition in ihrer Regierungserklärung vom 28. 10. 1969 eine Ausweitung der betrieblichen Mitbestimmung durch die Novellierung des Betriebsverfassungs- und Bundespersonalvertretungsgesetzes an. Nach heftigen politischen Auseinandersetzungen kam es Ende 1971 zur Verabschiedung des BetrVG 1972 (vgl. DKW-Deinert, Einl. Rn. 27 ff.). Dieses Gesetz kann durchaus als Produkt des „68er Geistes“ bezeichnet werden. Es war mehr als eine Reform des Gesetzes von 1952, nämlich ein wirklich neues Gesetz mit vielen Verbesserungen bei Organisations- und Mitbestimmungsrechten (eingehend Däubler/Kittner, Geschichte der Betriebsverfassung, S. 413 ff.).3.Weitere EntwicklungDas BetrVG ist seit 1972 häufig geändert worden. Die beiden umfangreichsten Änderungen, die zugleich die politische Grundausrichtung der jeweiligen Parlamentsmehrheit deutlich machten, erfolgten 1988 (a) und 2001 (b).a) Gesetz zur Änderung des Betriebsverfassungsgesetzes, über Sprecherausschüsse der leitenden Angestellten und zur Sicherung der Montanmitbestimmung vom 20. 12. 1988 (BGBl. I 2312)Nach mehrmaligen Anläufen und vielen Protesten der Gewerkschaften realisierte die Regierungskoalition aus CDU/CSU und FDP unter Kanzler Helmut Kohl ihre Pläne zur Änderung der Betriebsverfassung Ende 1988. Das BetrVG wurde insbesondere in folgender Hinsicht geändert:Verstärkter Minderheitenschutz bei der Betriebsratswahl und in der Betriebsratsarbeit (Freistellungen und Ausschussbesetzung nach Verhältniswahl);Verlängerung der Amtsperiode der Betriebsräte von 3 auf 4 Jahre;Begrenzung der Kosten für Einigungsstellenverfahren;Präzisierung der Informationspflichten des Arbeitgebers bei der Einführung neuer Technologien;Neuformulierung der Definition des „leitenden Angestellten“ (zur gleichzeitigen gesetzlichen Einführung von Sprecherausschüssen der leitenden Angestellten siehe Einl. zum SprAuG, Nr. 12 b).Diese Änderungen sind von den Gewerkschaften heftig bekämpft worden, weil unter dem Deckmantel des „Minderheitenschutzes“ erklärtermaßen die Möglichkeit einer geschlossenen Interessenvertretung innerhalb der Betriebsverfassung geschwächt werden sollte (vgl. insgesamt Apitzsch/Klebe/Schumann, Hrsg., BetrVG '90 – Der Konflikt um eine andere Betriebsverfassung, 1988; Schwerpunktheft „Die Novelle zum BetrVG“, Mitbestimmung 6/88). Die Arbeitgeber haben gleichfalls den Sinn der Reform bezweifelt (vgl. Weinrich, Der Arbeitgeber 89, 454; zur gerichtlichen Praxis aufgrund der Novellierung s. Kamphausen, NZA 91, 880).b) Betriebsverfassungs-Reformgesetz vom 23. 7. 2001 (BGBl. I 1852)Die zweite große Änderung hat das BetrVG durch die rot-grüne Regierungsmehrheit (Kanzler: Gerhard Schröder) im Jahre 2001 erfahren (zum Folgenden vgl. DKW-Däubler, Einl. Rn. 37 ff.).Ausgangspunkt war die Forderung der Gewerkschaften nach einem Ausbau der betrieblichen Mitbestimmung, die vom DGB am 3. 2. 1998 in „Novellierungsvorschlägen zum Betriebsverfassungsgesetz 1972“ konkretisiert und Anfang 1999 in einer „Bonner Erklärung für eine moderne Betriebsverfassung“ zusammengefasst worden war (Text der „Bonner Erklärung“ AiB 2000, 62; hierzu Benz-Overhage/Klebe, AiB 2000, 24; Schwerpunktheft „Reform der Betriebsverfassung“ GewMH 4/2001). Die Arbeitgeber lehnten demgegenüber jeden Ausbau der Mitbestimmung ab (Hundt, Arbeitgeber 11/00, 12). Nach knapp zweijähriger Vorbereitung legte das Bundesarbeitsministerium im Dezember 2000 einen Referentenentwurf vor (abgedruckt AiB 01, 87 mit Anm. Riester, AiB 01, 83; vgl. Däubler, AuR 01, 1; Leminsky, Mitbest. 1 – 2/01, 59; Blanke/Rose, Mitbest. 1 – 2/01, 63). Er wurde von Gewerkschaften (die mehr Mitbestimmung verlangten) und Arbeitgebern erwartungsgemäß kontrovers beurteilt (vgl. DGB, NZA 01, 135; für die Arbeitgeber Schiefer/Korte, NZA 01, 71). Unter Abschwächung einiger Vorschläge zum Ausbau der Mitbestimmung fand dieser Entwurf Eingang in den Regierungsentwurf des BetrVerfReformG (BT-Drs. 14/5741; hierzu Engels u. a., DB 01, 352; Buchner, NZA 01, 633; Hanau, RdA 01, 65; Konzen, RdA 01, 76; Richardi/Annuß, DB 01, 41; Schwerpunktheft NZA 7/2001), der schließlich im Wesentlichen unverändert verabschiedet wurde (synoptische Darstellung im Verhältnis zum alten Recht bei Reichold, NZA 16/01, Sonderbeilage „Das Betriebsverfassungs-Reformgesetz“; zum Gesetz vgl. Däubler, AuR 01, 285; Hanau, NJW 01, 2513; Löwisch, BB 01, 1734 und 1790; Nielebock, AiB 01, 441; Schaub, ZTR 01, 437).Die wesentlichen Änderungen des BetrVG durch das BetrVerfReformG betrafen organisatorische Fragen und dabei folgende Punkte:verkürztes („vereinfachtes“) Wahlverfahren für Kleinbetriebe;Abschaffung der Unterscheidung zwischen Arbeitern und Angestellten (= Aufhebung des Gruppenprinzips);Zwang zur repräsentativen Vertretung der Geschlechter im Betriebsrat (§ 15 Abs. 2 BetrVG);erweiterte Freistellung von Betriebsratsmitgliedern;Möglichkeit der Delegation von Betriebsratsaufgaben auf Arbeitsgruppen (§ 28 a BetrVG);Erstreckung der Zuständigkeit von Gesamt- und Konzernbetriebsrat auf Einheiten ohne Betriebsrat;ausdrückliche Verankerung eines Übergangs- und Restmandats (§§ 21 a und b BetrVG);ausdrückliche Anerkennung des Gemeinschaftsbetriebs (§ 1 Abs. 2 BetrVG);tarifliche Festlegung der betrieblichen Einheit (§ 3 BetrVG).Mitbestimmungsrechte wurden dagegen nur unwesentlich erweitert:Abstellen der Mindestarbeitnehmerzahl bei §§ 99 und 111 BetrVG auf das Unternehmen statt wie früher auf den Betrieb;Grundsätze der Durchführung von Gruppenarbeit (§ 87 Abs. 1 Nr. 13 BetrVG);Initiativrecht zur betrieblichen Berufsbildung (§ 97 BetrVG).c) Die europäische Richtlinie 2002/14/EG zur Unterrichtung und Anhörung der Arbeitnehmer (EU-ASO Nr. 71) sieht Mindeststandards für Information und Konsultation der Arbeitnehmer hinsichtlich bestimmter betrieblicher Zusammenhänge vor. In Deutschland wurde dadurch eine Erweiterung der Informationsrechte des Betriebsrats in wirtschaftlichen Angelegenheiten als Anpassungsmaßnahme nötig (Reichold, NZA 03, 289). Jedoch wurde dazu bislang keine Initiative ergriffen (zu einer Bilanz nach mehr als 20 Jahren Klocke, AuR 24, 95).d) Nach einer Reihe weiterer kleinerer Änderungen (vgl. 48. Aufl.) gab es in der letzten Großen Koalition unter Kanzlerin Angela Merkel (2018–2021) ein erneutes Reformvorhaben: Das Betriebsrätemodernisierungsgesetz (v. 14. 6. 2021, BGBl. I 1762; dazu Möllenkamp, DB 21, 1198; Schiefer/Worzalla, NZA 21, 817; Reinartz, NZA-RR 21, 457; Wandscher, AuR 21, 446; Entwurf: BT-Drs. 19/28899; Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales: BT-Drs. 19/29819) zielte auf eine Verbesserung der Möglichkeiten, Betriebsräte zu wählen und auf eine Stärkung der Rechte von Betriebsräten und von Initiatoren für Betriebsratswahlen. Mit ihm ist eine ganze Reihe von Änderungen verbunden:Anhebung der Schwellenwerte für das obligatorische und das fakultative vereinfachte Wahlverfahren auf 100 bzw. 200 Arbeitnehmer,Verzicht auf Stützunterschriften für Wahlvorschläge in Betrieben mit bis zu 20 wahlberechtigten Arbeitnehmern und Reduzierung der Zahl der Stützunterschriften in Betrieben bis 100 Arbeitnehmer auf zwei,Einschränkung des Anfechtungsrechts zur Stärkung der Rechtssicherheit,Herabsetzung des Wahlalters auf 16 Jahre,Streichung der Altersgrenze bei der Jugend- und Auszubildendenvertretung,Initiativrecht des Betriebsrats in Fragen der Berufsbildung mit der Möglichkeit einer Vermittlung durch die Einigungsstelle ohne Einigungszwang (§ 96 Abs. 1 a BetrVG),Bereitstellung von Sachverständigen für Fragen Künstlicher Intelligenz (§ 80 Abs. 3 S. 2 BetrVG),Klarstellung, dass das Unterrichtungs- und Beratungsrecht bei der Planung von Arbeitsverfahren und -abläufen auch den Einsatz Künstlicher Intelligenz betrifft,Klarstellung, dass die Rechte des Betriebsrats bei der Personalauswahl nicht durch den Einsatz Künstlicher Intelligenz infrage gestellt werden (vgl. insg. Frank/Heine, NZA 21, 1448),Mitbestimmungsrecht bei der Ausgestaltung mobiler Arbeit (§ 87 Abs. 1 Nr. 14 BetrVG; dazu Bayreuther, NZA 21, 839; Eylert, AuR 22, 292),Ermöglichung der Teilnahme an Betriebsratssitzungen per Video- oder Telefonkonferenz (§ 30 Abs. 2 S. 3 BetrVG),Zulassung der elektronischen Form für Einigungsstellensprüche, Betriebsvereinbarungen, Interessenausgleiche und Sozialpläne,Klarstellung, dass der Betriebsrat Teil der datenschutzrechtlich verantwortlichen Stelle Arbeitsgeber ist (§ 79 a BetrVG; dazu Brink/Joos, NZA 21, 1440),Ausweitung des Sonderkündigungsschutzes für Wahlinitiatoren nach § 15 Abs. 3 a KSchG auf 6 Personen, allerdings ohne Erfordernis der Zustimmung des Betriebsrats zur außerordentlichen Kündigung nach § 103 BetrVG undSonderkündigungsschutz für sog. Vorfeldinitiatoren, die Vorbereitungshandlungen zur Initiation einer Betriebsratswahl ergreifen (§ 15 Abs. 3 b KSchG), allerdings mit Möglichkeit der außerordentlichen Kündigung ohne Zustimmung des Betriebsrats oder des Arbeitsgerichts.Im Nachgang dazu wurde die Wahlordnung (Nr. 12a) angepasst (VO v. 8. 10. 2021, BGBl. I 4640; dazu Boemke/Haase, NZA 21, 1513; Carlson/Kummert, AuR 22, 100).e) Es folgten im Anschluss noch ein paar kleinere Änderungen des Gesetzes (vgl. 48. Aufl.).f) Im Nachgang zu einer Entscheidung des BGH, wonach Unternehmensverantwortliche sich wegen Untreue strafbar machen können, wenn sie zu hohe Vergütungen für Betriebsratsmitglieder ermöglichen (10. 1. 2023 – 6 StR 132/22, NZA 23, 301; vgl. 49. Aufl., Einl. III 1 zu Nr. 12), wurde nach Vorarbeiten einer Kommission „Rechtssicherheit in der Betriebsratsvergütung“ dazu am 12. 7. 2023 (Schlegel/Schmidt/Thüsing, NZA 23, 103) das Zweite Gesetz zur Änderung des Betriebsverfassungsgesetzes erlassen (v. 19. 7. 2024, BGBl. I Nr. 24; dazu u. III 1; ferner Buschmann, AuR 24, 373; Bayreuther, NZA 24, 946; Dzida/Castrup, BB 24, 1844; Giesen, NJW 24, 2281; Arnold, BB 24, 1973; Grimm/Krülls, BB 24, 1780; Jungbauer, ZFA 24, 534; Kleinebrink, DB 24, 1883).g) Zum Vorhaben einer Fortsetzung der durch das Betriebsrätemodernisierungsgesetz begonnenen Reformen und insb. zum DGB-Entwurf für ein modernes Betriebsverfassungsgesetz s. u. IV.II.Wesentlicher Gesetzesinhalt1.Errichtung von Betriebsräten und andere Gremien in der BetriebsverfassungDas BetrVG ermöglicht die Errichtung von Betriebsräten zur Interessenvertretung der Arbeitnehmer in Betrieben mit mindestens fünf ständigen wahlberechtigten Arbeitnehmern (§ 1 Abs. 1 BetrVG; Übersicht 30). Wer Arbeitnehmer i. S. des § 5 BetrVG ist, richtet sich nach dem allgemeinen arbeitsrechtlichen Arbeitnehmerbegriff gemäß § 611 a Abs. 1 BGB (Checkliste 5); hinzukommen muss die Zugehörigkeit zum jeweiligen Betrieb. Diese sog. Zwei-Komponenten-Lehre (Vertrag zum Betriebsinhaber und Eingliederung in den Betrieb) greift aber nicht bei drittbezogenem Personaleinsatz, wie etwa bei der Leiharbeit. Hier kommt es vielmehr auf den Zweck der jeweiligen Norm an, ob ein Arbeitnehmer ohne Vertrag zum Betriebsinhaber betriebsverfassungsrechtlich gleichwohl als Arbeitnehmer des Betriebes angesehen werden kann (BAG 5. 12. 2012 – 7 ABR 48/11, NZA 13, 793, Rn. 259). Für Leiharbeitnehmer ist dies heute in § 14 Abs. 2 S. 3 AÜG (vgl. Einl. II 4 zum AÜG) geregelt. Nicht erfasst werden „leitende Angestellte“ (§ 5 Abs. 3 BetrVG). Für sie gibt es mit dem Sprecherausschuss eine eigene Interessenvertretung (vgl. SprAuG, Nr. 12 b).Neben dem Betriebsrat haben Jugendliche und Auszubildende sowie schwerbehinderte Menschen eigene Interessenvertretungen (§§ 60 ff. BetrVG und §§ 94 ff. SGB IX), die mit dem Betriebsrat zusammenarbeiten. Mit dem 2001 eingeführten § 15 Abs. 2 BetrVG wird eine repräsentative Vertretung der Geschlechter im Betriebsrat angeordnet. Hinsichtlich anderer Beschäftigtengruppen macht das BetrVG keine bindenden Vorgaben (§ 15 Abs. 1 BetrVG).In Unternehmen und Konzernen mit mehreren Betrieben kann die betriebsverfassungsrechtliche Struktur durch Tarifvertrag festgelegt werden (§ 3 BetrVG). Betriebsräte werden alle vier Jahre gewählt (vgl. § 13 BetrVG; zur Wahlordnung s. Nr. 12 a). Für Kleinbetriebe gibt es gemäß § 14 a BetrVG ein vereinfachtes Wahlverfahren (vgl. Berg, AiB 02, 17; Franke, DB 02, 211). In Unternehmen mit mehreren Betrieben sind zwingend Gesamtbetriebsräte zu bilden (§ 47 BetrVG). Ein Konzernbetriebsrat wird dagegen nur errichtet, wenn Gesamtbetriebsräte, die mehr als die Hälfte aller Arbeitnehmer im Konzern repräsentieren, dies beschließen (§ 54 BetrVG; zum Konzernbegriff s. § 18 AktG). Die unmittelbare Einbeziehung der Arbeitnehmer erfolgt durch die Betriebsversammlung (§ 42 BetrVG) bzw. Jugend- und Auszubildendenversammlung (§ 71 BetrVG). Schließlich wird der Wirtschaftsausschuss als Informations- und Beratungsgremium auf Unternehmensebene gebildet (§ 106 BetrVG).Für Religionsgemeinschaften gilt das BetrVG insgesamt nicht (§ 118 Abs. 2 BetrVG). Für deren Bereich werden aufgrund innerkirchlichen Rechts sog. Mitarbeitervertretungen gebildet.2.Mitwirkung des BetriebsratsDie Einwirkungsmöglichkeiten des Betriebsrates auf die Entscheidungen des Arbeitgebers sind unterschiedlich stark: Sie reichen von der bloßen Informationspflicht des Arbeitgebers (§ 105 BetrVG) über Beratungspflichten (§ 92 BetrVG) zur Möglichkeit, unter bestimmten Voraussetzungen die Zustimmung zu verweigern, der Sache nach also Widerspruch einzulegen (§ 99 BetrVG), bis hin zu Fällen der Mitbestimmung (§ 87 BetrVG), bei denen im Falle der Nichteinigung die Einigungsstelle (§ 76 BetrVG) entscheidet (Übersicht 31). Der Betriebsrat hat zwar ein allgemeines Überwachungsrecht gemäß § 80 Abs. 1 BetrVG, jedoch verneint das BAG einen daraus folgenden Rechtsanspruch gegen den Arbeitgeber auf Durchführung von Gesetzen und Tarifverträgen (BAG 17. 10. 1989 – 1 ABR 75/88, NZA 90, 441; hierzu Nebendahl, DB 91, 2018) bzw. auf Unterlassung einer Verletzung entsprechender Bestimmungen (BAG 22. 8. 2017 – 1 ABR 24/16, NZA 18, 115). Keine Mitbestimmung gibt es in wirtschaftlichen Angelegenheiten (§ 111 BetrVG). Dort ist lediglich über einen Interessenausgleich zu verhandeln und für nachteilige Folgen einer Unternehmensentscheidung ein Sozialplan erzwingbar (§ 112 BetrVG). Bei personellen Einzelmaßnahmen kann der Betriebsrat beim Vorliegen bestimmter Voraussetzungen die Zustimmung mit der Folge verweigern, dass der Arbeitgeber sich an das Arbeitsgericht wenden muss, um die Zustimmung des Betriebsrates ersetzen zu lassen (§ 99 BetrVG). Hat der Arbeitgeber eine notwendige Beteiligung nach § 99 BetrVG unterlassen, kann er eine ordnungsgemäße Betei
+
+[RREF4] SF_Klebe_BetrVG_BK.md (0.400)
+n lösen, er kann nur kündigen. Eine Nachwirkung besteht nur, wenn sie vereinbart wird (vgl. § 77 Rn. 17).BAG 23. 10. 18 – 1 ABR 10/17, NZA 19, 186; 28. 4. 98 – 1 ABR 43/97, NZA 98, 1348; vgl. auch den Formulierungsvorschlag DKW-F-Berg, § 88 Rn. 2. Der Tarifvorrang des Abs. 3 ist zu beachten.BAG 18. 3. 10 – 2 AZR 337/08, brwo, NZA-RR 11, 18. Im Rahmen dieser Vorschrift können die beiden Betriebsparteien keine Einigung erzwingen. Sie können aber ein freiwilliges ESt.-Verfahren gem. § 76 Abs. 6 vereinbaren und sich in einer BV dem Spruch unterwerfen (§ 76 Abs. 6 Satz 2; vgl. auch § 76 Rn. 1a).Vgl. BAG 11. 12. 18 – 1 ABR 17/17, NZA 19, 714. Der DGB-Entwurf für ein modernes BetrVGhttps://aur-blog.eu/reformvorschlag/. sieht lediglich eine Anpassung vor, da der betriebliche Umweltschutz und die Eingliederung schwerbehinderter Menschen nach dem Vorschlag von einem MBR erfasst werden sollen.
+150|117331§ 89 Arbeits- und betrieblicher UmweltschutzbundimportedAsset##4baf06b7-7891-4a9a-88b8-df3e15ddadc2Arbeits- und betrieblicher Umweltschutz§ 89walhalla150|1523872§ 89Arbeits- und betrieblicher Umweltschutz(1)Der Betriebsrat hat sich dafür einzusetzen, dass die Vorschriften über den Arbeitsschutz und die Unfallverhütung im Betrieb sowie über den betrieblichen Umweltschutz durchgeführt werden. Er hat bei der Bekämpfung von Unfall- und Gesundheitsgefahren die für den Arbeitsschutz zuständigen Behörden, die Träger der gesetzlichen Unfallversicherung und die sonstigen in Betracht kommenden Stellen durch Anregung, Beratung und Auskunft zu unterstützen.(2)Der Arbeitgeber und die in Absatz 1 Satz 2 genannten Stellen sind verpflichtet, den Betriebsrat oder die von ihm bestimmten Mitglieder des Betriebsrats bei allen im Zusammenhang mit dem Arbeitsschutz oder der Unfallverhütung stehenden Besichtigungen und Fragen und bei Unfalluntersuchungen hinzuzuziehen. Der Arbeitgeber hat den Betriebsrat auch bei allen im Zusammenhang mit dem betrieblichen Umweltschutz stehenden Besichtigungen und Fragen hinzuzuziehen und ihm unverzüglich die den Arbeitsschutz, die Unfallverhütung und den betrieblichen Umweltschutz betreffenden Auflagen und Anordnungen der zuständigen Stellen mitzuteilen.(3)Als betrieblicher Umweltschutz im Sinne dieses Gesetzes sind alle personellen und organisatorischen Maßnahmen sowie alle die betrieblichen Bauten, Räume, technischen Anlagen, Arbeitsverfahren, Arbeitsabläufe und Arbeitsplätze betreffenden Maßnahmen zu verstehen, die dem Umweltschutz dienen.(4)An Besprechungen des Arbeitgebers mit den Sicherheitsbeauftragten im Rahmen des § 22 Abs. 2 des Siebten Buches Sozialgesetzbuch nehmen vom Betriebsrat beauftragte Betriebsratsmitglieder teil.(5)Der Betriebsrat erhält vom Arbeitgeber die Niederschriften über Untersuchungen, Besichtigungen und Besprechungen, zu denen er nach den Absätzen 2 und 4 hinzuzuziehen ist.(6)Der Arbeitgeber hat dem Betriebsrat eine Durchschrift der nach § 193 Abs. 5 des Siebten Buches Sozialgesetzbuch vom Betriebsrat zu unterschreibenden Unfallanzeige auszuhändigen.1.Grundsätze§ 89 ergänzt die Bestimmungen des § 80 Abs. 1, § 87 Abs. 1 Nr. 7, §§ 88, 90, 91, § 115 Abs. 7 Nr. 7.Vgl. diverse Musterschreiben bei DKW-F-Buschmann, § 89 Rn. 2 ff. Aus Abs. 1 ergibt sich, dass der BR ein selbstständiges Überwachungsrecht und eine Überwachungspflicht bei der Bekämpfung von Gefahren für Leben und Gesundheit der AN und beim betrieblichen Umweltschutz hat. Er soll mit seinem betrieblichen Wissen auf den Abbau von Umweltbelastungen und den Ausbau umweltschonender Produktionstechniken und -verfahren, wie z. B. mit der Vermeidung von Abfall, hinwirken.BT-Drucks. 14/5741, S. 26, 30; vgl. auch Däubler, AiB 5/20, 30; ders. Klimaschutz und Arbeitsrecht, HSI-Schriftenreihe Bd. 49, 2023. Zwischen Arbeits- und Umweltschutz besteht häufig dabei ein enger Zusammenhang.Vgl. BAG, NZA 96, 934; DKW-Buschmann, Rn. 52 ff., auch zur Teilnahme an dem europäischen Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung (EMAS) und zum Umweltauditgesetz in Rn. 66. Für eine effektive Arbeit empfiehlt sich die Bildung von paritätischen Ausschüssen, die gemeinsam den Arbeits- und betrieblichen Umweltschutz im Betrieb weiterentwickeln und fördern. Der BR kann Betriebsbegehungen und unangekündigte Stichproben vornehmen. Er ist dabei nicht vom Vorliegen konkreter Verdachtsmomente abhängig (vgl. § 80 Rn. 1, 3). Er kann auch Betriebskontrollen durch die Gewerbeaufsichtsämter, Umweltschutzbehörden und sonstige in Betracht kommende Stellen anregen, insbesondere wenn bei Verstößen des AG gegen Arbeitsschutzvorschriften eine Einigung im Betrieb nicht gelingt.BAG, DB 84, 775; 87, 101; zur Zusammenarbeit mit den Unfallversicherungsträgern und der Gewerbeaufsicht vgl. DKW-Buschmann, Rn. 37. Dann entfällt seine Schweigepflicht nach § 79. Bei der Bestellung der Sicherheitsbeauftragten hat der BR jedenfalls bei den generellen Auswahlentscheidungen, wie z. B. der Festlegung der jeweiligen Tätigkeitsbereiche und der Zahl der Sicherheitsbeauftragten, ein MBR gemäß § 87 Abs. 1 Nr. 7 (vgl. § 87 Rn. 47).Vgl. auch das Musterschreiben bei DKW-F-Buschmann, § 89 Rn. 7. Der AG hat die beabsichtigte Bestellung dabei rechtzeitig und eingehend mit dem BR zu erörtern.2.Betrieblicher UmweltschutzDie Definition des betrieblichen Umweltschutzes ist umfassend. Sie erfasst nicht nur alle dem Umweltschutz dienenden Maßnahmen, die Bauten, technische Anlagen, Arbeitsverfahren, Arbeitsabläufe und Arbeitsplätze betreffen (vgl. § 90 Abs. 1 und dort Rn. 2 ff.), sondern auch entsprechende personelle und organisatorische Maßnahmen. Der Begriff umfasst den Schutz betrieblicher Umweltgüter vor außer- und innerbetrieblichen Einflüssen ebenso wie umgekehrt den Schutz außerbetrieblicher Güter gegenüber betrieblichen Einflüssen.Konzen, RdA 01, 76 (89). Neben den staatlichen Schutzvorschriften und UVV/BGV (vgl. § 15 SGB VII) fallen auch einschlägige Regelungen in BV und TV in den Zuständigkeitsbereich des BR.DKW-Buschmann, Rn. 3. Seine Tätigkeit kommt dabei auch Beschäftigten fremder AG, Leih-AN und Selbstständigen zugute (vgl. auch §§ 2 Abs. 2, 8, 12 Abs. 2 ArbSchG).3.Aushändigung von NiederschriftenAnspruch auf Aushändigung der Niederschriften nach Abs. 5 hat der BR selbst dann, wenn er nicht an den einzelnen Maßnahmen teilgenommen hat.Das Einsichtsrecht in die Unterlagen und abschließenden Berichte umfasst auch Arbeitsunfälle von Fremdfirmenbeschäftigten bei Nutzung der betrieblichen Infrastruktur des AG. Dabei begrenzt das BAG den Anspruch aus §§ 80 Abs. 2 Satz 1 i. V. m. Abs. 1 Nr. 9Allgemein zu den Informationspflichten § 80 Rn. 14. und 89 Abs. 1 Satz 1, Abs. 2 Satz 1 auf die sachbezogenen Daten (Datum, Uhrzeit des Unfalls, Unfallstelle und -hergang, erlittene Verletzungen). Personenbezogene Daten wie z. B. Name und Anschrift des betroffenen AN und seines AG oder Namen von Unfallzeugen sind nicht erfasst.BAG 12. 3. 19 – 1 ABR 48/17, NZA 19, 850 = AuR 20, 21 mit kritischer Anm. v. Schubert. Der Anspruch besteht, weil bei solchen Arbeitsunfällen allgemeine unfallverhütungsrelevante Erkenntnisse für die betriebszugehörigen AN gewonnen werden können. Durch seine Unterschrift unter die Unfallanzeige (Abs. 6) übernimmt der BR keine Mitverantwortung für den Inhalt. Der BR kann ggf. auch eine abweichende Darstellung geben. Der DGB-Entwurf für ein modernes BetrVGhttps://aur-blog.eu/reformvorschlag/. stellt in Abs. 1 klar, dass sich der BR nach pflichtgemäßem Ermessen jederzeit zur Beratung an die genannten Stellen wenden kann.
+150|117332§ 90 Unterrichtungs- und BeratungsrechtebundimportedAsset##304bb690-5542-49ed-b82d-f215f4642449Unterrichtungs- und Beratungsrechte§ 90walhalla150|2295807§ 90Unterrichtungs- und Beratungsrechte(1)Der Arbeitgeber hat den Betriebsrat über die Planungvon Neu-, Um- und Erweiterungsbauten von Fabrikations-, Verwaltungs- und sonstigen betrieblichen Räumen,von technischen Anlagen,von Arbeitsverfahren und Arbeitsabläufen einschließlich des Einsatzes von Künstlicher Intelligenz oderder Arbeitsplätzerechtzeitig unter Vorlage der erforderlichen Unterlagen zu unterrichten.(2)Der Arbeitgeber hat mit dem Betriebsrat die vorgesehenen Maßnahmen und ihre Auswirkungen auf die Arbeitnehmer, insbesondere auf die Art ihrer Arbeit sowie die sich daraus ergebenden Anforderungen an die Arbeitnehmer so rechtzeitig zu beraten, dass Vorschläge und Bedenken des Betriebsrats bei der Planung berücksichtigt werden können. Arbeitgeber und Betriebsrat sollen dabei auch die gesicherten arbeitswissenschaftlichen Erkenntnisse über die menschengerechte Gestaltung der Arbeit berücksichtigen.1.AllgemeinesDie Vorschrift gibt dem BR das Recht auf Unterrichtung und Beratung bei den genannten Planungsmaßnahmen. Informations- und Beratungsrechte haben gerade beim Einsatz neuer Technologien eine ganz entscheidende Bedeutung. Nur ihre aktive NutzungVgl. auch die Checkliste und Mustervereinbarung bei DKW-F-Klebe/Heilmann, § 90 Rn. 2 f. versetzt den Betriebsrat in die Lage, sozial gestaltend Einfluss zu nehmen (zu weiteren Beteiligungs- und MBR vgl. die Erl. zu § 87 Abs. 1 Nrn. 1, 6, 7, §§ 91, 111 und §§ 80 Abs. 2, 92, 106 ff.).2.Unterrichtungsgegenständea)Neu-, Um- und ErweiterungsbautenIm Rahmen der Nr. 1 spielt es keine Rolle, ob es sich um einen Neubau oder um einen Um- bzw. Erweiterungsbau handelt. Es ist ferner unerheblich, in welchem Umfang die bauliche Substanz verändert wird. Reparatur- oder Renovierungsmaßnahmen fallen im Allgemeinen nicht darunter. Dagegen erfasst die Bestimmung auch sog. Sozialräume, wie z. B. Kantinen, Aufenthaltsräume und Toiletten.b)Technische AnlagenDer Begriff „technische Anlagen“ in Nr. 2 bezieht sich auf Maschinen und sonstige technische Geräte und Einrichtungen, die dem Betriebszweck und damit dem Arbeitsablauf dienen, für die Arbeitsumgebung von Bedeutung sind oder sonst Auswirkungen auf die Gestaltung des Arbeitsplatzes haben, auch wenn dies nur mittelbar (z. B. Klimaanlage, Raumbeleuchtung, Fahrstühle) der Fall ist.OLG Düsseldorf, BB 82, 1113. Gemeint ist nicht nur der technische (gewerbliche) Bereich des Betriebs, sondern auch der kaufmännische (Verwaltung), sofern dort technische Anlagen zum Einsatz kommen. Hierzu zählen z. B. die Umstellung der Lohn- und Gehaltsabrechnung von Off-line- auf On-line-BetriebLAG Hamburg, AiB 86, 23 f.; die Rechtsbeschwerdeentscheidung des BAG, DB 87, 1491 stützt den Anspruch auf § 80 Abs. 2 Satz 1. und die Einführung einer neuen DV-Anlage.OLG Stuttgart, AuR 85, 293. Erfasst wird die Einführung von Robotern, NC-, CNC-Maschinen, Datenbrillen wie Google-Glass, BildschirmgerätenBAG, DB 94, 775. oder CAD-TerminalsVgl. Klebe/Roth, AiB 84, 70. ebenso wie der Anschluss an Internet/Intranet, die Umstellung auf Cloud Computing oder die Gestattung einer freiwilligen dienstlichen Nutzung privater technischer Geräte (z. B. Smartphones oder Tablet-PCs: „Bring your own device“, BYOD; vgl. auch § 87 Rn. 13, 38).DKW-Klebe, Rn. 9.c)Arbeitsverfahren, Arbeitsabläufe, Künstliche IntelligenzIn Nr. 3 werden die Arbeitsverfahren und die Arbeitsabläufe angesprochen. Es geht hier um die Konzipierung der Art und Weise der Arbeit im Zusammenwirken mit den technischen Betriebsmitteln. Darunter ist sowohl die organisatorische als auch die räumliche und zeitliche Gestaltung der Arbeit zu verstehen, wie z. B. Gruppen- oder Einzelarbeit, Desksharing,LAG Sachsen 10. 1. 23 – 2 TaBV 1/21, NZA-RR 23, 355. Einsatz von Fremdfirmenbeschäftigten, auch mit Crowdsourcing (vgl. auch §§ 87 Rn. 38; 95 Rn. 3; 111 Rn. 14, 16),Klebe/Neugebauer, AuR 14, 4; Däubler/Klebe, NZA 15, 1032; Benner-Klebe, 279; Klebe, AuR 16, 277; zur AN-Eigenschaft v. Crowdworkern vgl. BAG 1. 12 20 – 9 AZR 102/20, NZA 21, 552. die Nutzung v. Metaverse-Anwendungen oder ChatGPT,Vgl. z. B. Höller, CuA 4/23, 8; Wedde, CuA 4/23, 14; Ruchhöft, AiB 6/23, 28. Schichtarbeit, Telearbeit, aktenlose Sachbearbeitung, Outsourcing,Vgl. auch Fitting, Rn. 13 für die Auslagerung der Datenverarbeitung. Offshoring/Nearshoring (vgl. auch § 87 Rn. 38; § 106 Rn. 12; § 111 Rn. 10, 14), der Anschluss ans Internet/Intranet, die Umstellung auf Cloud Computing, die Anwendung agiler Arbeitsformen, wie z. B. des Scrum-Verfahrens (vor allem in der Softwareentwicklung),Hierzu Heise/Friedl, NZA 15, 129 und Krause, Agile Arbeit und Betriebsverfassung, HSI-Schriftenreihe Bd. 37, S. 18 ff., 44 ff; vgl. auch § 87 Rn. 13, 77 und § 111 Rn. 14, 16. die Einführung von TQM, Kaizen, Lean Six Sigma, des Öko-Audit-Systems bzw. die Teilnahme an dem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) v. 19. 3. 2001Vgl. Fitting, Rn. 29. oder von Managementkonzepten wie Balanced Scorecard. Vor allem sind aber hier auch Rationalisierungsmaßnahmen einzuordnen (Ersetzung der Handarbeit durch Maschinenarbeit, Anwendung [weiterer] DV-Systeme). Ergänzend wird im Gesetz klargestellt, dass auch der Einsatz Künstlicher Intelligenz (KI) erfasst wird, eine Selbstverständlichkeit (vgl. auch §§ 87 Rn. 38; 95 Rn. 10; 106 Rn. 12; 111 Rn. 15). Allerdings fehlt weiter eine, zugegeben schwierige, Legaldefinition. Insofern wird man auf Definitionen zurückgreifen müssen, die in der Informatik benutzt werden bzw. diese in eine betriebliche Sprache übersetzen.Vgl. Klebe, SR 19, 128 mit einer Definition auf S. 129; zur Definition auch Art. 3 Abs. 1 i. V. m. Annex 1 des Entwurfs einer VO zur Regulierung v. KI durch die EU-Kommission v. 21. 4. 21 COM (2021) 206 final – 2021 /0106 (COD). Danach kann man KI als Oberbegriff für Informatikanwendungen verstehen, bei denen Maschinen bzw. deren Software menschenähnliches intelligentes Verhalten abbilden. Teilweise handelt es sich um wissensbasierte Systeme, wie z. B. Experten- oder Navigationssysteme, Zeichen- und einfache Spracherkennungssysteme, die das Problemlösungswissen der Menschen in computergerechte Modelle und Regeln übersetzen (schwache KI). Weitergehend sind selbstlernende Systeme (starke KI), die in gewisser Anlehnung an das Gehirn des Menschen konzipiert sind (neuronale Netze) und in einem Trainingsprozess auf das Erkennen von Mustern und Korrelationen ausgerichtet werden, um z. B. aus vorhandenen Datenbeständen neue Ergebnisse zu entwickeln. In gewisser Weise handelt es sich dann um „logisches Denken“, wenn selbstständig Probleme erfasst, bearbeitet und Entscheidungen getroffen werden. Die Schritte zu solchen Ergebnissen und auch die Ergebnisse selbst sind nicht exakt nachvollzieh- und vorhersehbar. Beispiele hierfür sind maschinelles Lernen und „Deep Learning“.Vgl. auch Waas, Künstliche Intelligenz und Arbeitsrecht, HSI-Schriftenreihe Bd. 46, 2023.d)ArbeitsplätzeDie Nr. 4, die die Planung von Arbeitsplätzen nennt, stellt eine Art begrenzte Generalklausel dar. Sie begründet nicht nur ein Unterrichtungs- und Beratungsrecht des BR bei der Ausgestaltung der einzelnen Arbeitsplätze, damit die Leistungsanforderungen die physische und psychische Leistungsfähigkeit der AN nicht übersteigen. Darüber hinaus will sie erreichen, dass schädigende Einflüsse auch aus der Arbeitsumgebung auf den
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.414)
+### Betriebsrat: Hinzuziehung von Sachverständigen
+
+<!-- sem-asset-id: betriebsrat_hinzuziehung_von_sachverstaendigen -->
+
+_Authors: Rudolf Buschmann_
+
+Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzende:r {{Name}}
+
+
+
+im Hause
+
+**Hinzuziehung eines Sachverständigen für den Betriebsrat**
+
+Sehr geehrte Damen und Herren,
+
+Sie haben uns auf unserer letzten gemeinsamen Sitzung vom {{Datum}} darüber informiert, dass der hiesige Betrieb ab dem {{Datum}} in den weltweiten Datenverbund unserer amerikanischen Muttergesellschaft einbezogen werden soll. Daraus würden sich zweifellos tief greifende Veränderungen des Arbeitsablaufs ergeben, die erhebliche Konsequenzen auch für die Belegschaft nach sich ziehen und Fragen der Mitbestimmung, etwa nach § 87 Abs. 1 Nr. 6, § 91 und §§ 111 ff. BetrVG aufwerfen. Zudem sind die Bestimmungen des Datenschutzgesetzes und der Datenschutz-Grundverordnung zu beachten.
+
+Leider mussten wir feststellen, dass der Betriebsrat nach wie vor nicht über die notwendigen Informationen und die Sachkenntnis verfügt, die der Kompliziertheit der Materie angemessen sind. Auch die von Ihnen benannten, von uns ausdrücklich befragten Fachleute konnten uns keine erschöpfende Auskunft über die Details der damit verbunden Implikationen und negativen Auswirkungen für die Belegschaft geben. Auch das uns vorliegende Handbuch {{kasten}} ist allenfalls für Computerspezialisten verständlich, darüber hinaus alles andere als erschöpfend, da es z. B. die wesentlichen Fragen der Nutzung und Weitergabe personenbezogener und personenbeziehbarer Daten im weltweiten Verbund offen lässt. Auf jeden Fall muss der Betriebsrat zur Durchführung seiner Aufgaben die Anwendung von künstlicher Intelligenz beurteilen. In einem solchen Fall gilt nach § 80 Abs. 3 BetrVG die Hinzuziehung eines Sachverständigen immer als erforderlich.
+
+Der Betriebsrat hat auf seiner ordentlichen Sitzung vom {{Datum}} festgestellt, dass er angesichts der Kompliziertheit der Materie seine gesetzlichen Aufgaben ohne den fachlichen Rat eines Sachverständigen nicht ordnungsgemäß wahrnehmen kann. Deshalb hat er gemäß § 80 Abs. 3 BetrVG beschlossen, Herrn {{Name}} von der {{Technologie-Beratungsstelle TBS}} als Sachverständigen für die Beurteilung und Verhandlung des Komplexes des weltweiten Datenverbundes heranzuziehen. Herr {{Name}}, der durch seine besondere Kompetenz und Erfahrung im Bereich der EDV-Planung und Anwendung sowie durch wissenschaftliche Veröffentlichungen ausgewiesen ist, ist zu dieser Tätigkeit bereit.
+
+Sie werden demzufolge gemäß § 80 Abs. 3 BetrVG gebeten, mit dem Betriebsrat beiliegende Vereinbarung über die Hinzuziehung des Herrn {{Name}} als Sachverständigen zu schließen. Nur vorsorglich machen wir darauf aufmerksam, dass der Betriebsrat in seiner Sitzung den Beschluss getroffen hat, für den Fall, dass es mit Ihnen bis zum {{Datum}} nicht zu o. g. Vereinbarung kommt, Herrn Rechtssekretär/Rechtsanwalt {{Name}} zu bevollmächtigen und zu beauftragen, seitens des Betriebsrats ein arbeitsgerichtliches Beschlussverfahren auf Ersetzung der Zustimmung der Arbeitgeberin zur Bestellung des Sachverständigen, Herrn {{Name}}, einzuleiten. Wir gehen aber davon aus, dass dies nicht notwendig sein wird, da auch Sie Ihr Interesse an einer Zusammenarbeit deutlich gemacht haben. Darüber hinaus ist selbstverständlich, dass eine Erhebung, Verarbeitung oder Nutzung von personenbeziehbaren Daten im Rahmen des weltweiten Verbundes während des laufenden betriebsverfassungsrechtlichen Verfahrens keinesfalls möglich ist und der Betriebsrat dazu auch seine Zustimmung nicht geben kann.
+
+> #### **Hinweis:**
+>
+> Vgl. DKW-*Buschmann*, § 80 Rn. 152 ff. Der Betriebsrat zeigt auf, dass er die zahlreichen von der früheren Rechtsprechung verlangten alternativen Wege bereits ausgeschöpft hat, und bietet eine einvernehmliche Lösung an, zeigt aber auf, dass er andernfalls die notwendigen arbeitsgerichtlichen Schritte beschreiten wird. Mit dem Betriebsrätemodernisierungsgesetz 2021 wurde die Hinzuziehung von Sachverständigen erleichtert. § 80 Abs. 3 stellt klar, dass diese bei Einführung oder Anwendung von Künstlicher Intelligenz generell als erforderlich gilt.
+
+
+
+---
+
+## Q-P1-AK-12  (subtask: procedural)
+
+### FRAGE
+Wie läuft eine ordnungsgemäße Betriebsratssitzung ab?
+
+### REFERENZ
+- Einladung mit Tagesordnung
+- Beschlussfähigkeit prüfen
+- Protokollführung
+- Abstimmungen/Beschlüsse
+- Verschwiegenheit beachten
+
+### MODELLANTWORT
+
+
+Eine ordnungsgemäße Betriebsratssitzung folgt einem strukturierten Ablauf, der von der Vorbereitung über die Durchführung bis zur Nachbereitung reicht. Basierend auf den vorliegenden Dokumenten lässt sich der Prozess wie folgt darstellen:
+
+### 1. Vorbereitung und Einladung
+Die Grundlage für eine wirksame Sitzung ist die ordnungsgemäße Einladung.
+*   **Inhalt:** Die Einladung muss Zeitpunkt, Ort und eine Tagesordnung enthalten. Es ist möglich, Einladung und Tagesordnung in einem Schreiben zusammenzufassen oder zunächst den Termin und später die Tagesordnung mitzuteilen [RREF3].
+*   **Formalien:** Die Einladung sollte vom Betriebsratsvorsitzenden unterschrieben werden und rechtzeitig erfolgen, damit sich Mitglieder vorbereiten und den Termin freihalten können [RREF3], [RREF4].
+*   **Checkliste:** Zur Sicherstellung der Ordnungsmäßigkeit sollte geprüft werden, ob alle ordentlichen Mitglieder eingeladen wurden, im Verhinderungsfall Ersatzmitglieder, sowie die Schwerbehindertenvertretung (SBV), Jugend- und Auszubildendenvertretung (JAV) und ggf. Gewerkschaftssekretäre [RREF4].
+
+### 2. Teilnehmerkreis
+*   **Betriebsratsmitglieder:** Alle Mitglieder müssen eingeladen werden. Bei Verhinderung sind Ersatzmitglieder einzuladen (unter Beachtung des Wahlverfahrens Verhältnis- oder Mehrheitswahl) [RREF1].
+*   **Weitere Teilnehmer:** Die Sitzung ist nicht öffentlich. Neben den Mitgliedern können jedoch spezifische Vertreter teilnehmen, darunter Gewerkschaftsvertreter, die Schwerbehindertenvertretung, die Jugend- und Auszubildendenvertretung und der Arbeitgeber [RREF1].
+*   **Verhinderung:** Eine tatsächliche oder rechtliche Verhinderung von Mitgliedern muss dokumentiert werden, um die Einladung von Ersatzmitgliedern zu begründen [RREF1], [RREF4].
+
+### 3. Zeitpunkt und Durchführungsart
+*   **Regelmäßigkeit:** Sitzungen sollten regelmäßig stattfinden; wöchentliche Sitzungen haben sich bewährt, um die Arbeit planbarer zu machen [RREF2].
+*   **Arbeitszeit:** Der Zeitpunkt sollte so gewählt werden, dass die Sitzung möglichst während der Arbeitszeit aller Mitglieder stattfindet (§ 30 BetrVG). Ggf. muss der Arbeitgeber aufgefordert werden, die Arbeit entsprechend zu organisieren [RREF2].
+*   **Präsenz vs. Online:**
+    *   Grundsätzlich hat die Präsenzsitzung Vorrang [RREF1].
+    *   Video- und Telefonkonferenzen sind möglich. Widerspricht jedoch mindestens ein Viertel der Betriebsratsmitglieder der Durchführung als Video- oder Telefonkonferenz, muss die Sitzung als Präsenzsitzung stattfinden (§ 30 Abs. 2 Nr. 2 BetrVG) [RREF3], [RREF5].
+    *   **Hybride Sitzungen:** Es ist zulässig, dass Mitglieder teilweise in Präsenz und teilweise per Video/Telefon teilnehmen (§ 30 Abs. 3 BetrVG) [RREF2].
+
+### 4. Ablauf der Sitzung (Tagesordnung)
+Ein typischer Ablauf der Tagesordnung sieht folgende Punkte vor [RREF5]:
+1.  Eröffnung der Sitzung und Beschlussfassung zur Tagesordnung.
+2.  Genehmigung des Protokolls der vorherigen Sitzung.
+3.  Bericht des Vorsitzenden.
+4.  Beschlussfassung zu spezifischen Themen (z. B. personelle Einzelmaßnahmen gem. § 99 BetrVG, Einführung von Arbeitszeitmodellen).
+5.  Wahl von Ausschüssen oder Benennung von Mitgliedern.
+6.  Verschiedenes.
+
+### 5. Beschlussfassung und Protokoll
+*   **Beschlussfassung:** Es müssen die Voraussetzungen für eine wirksame Beschlussfassung gegeben sein. Beschlüsse können unter bestimmten Umständen auch ausgesetzt werden [RREF1].
+*   **Protokoll:** Über die Sitzung ist ein Protokoll zu führen. Dieses muss Mindestanforderungen erfüllen (z. B. Anwesenheitsliste, Schriftführer) [RREF1].
+*   **Einsicht:** Betriebsratsmitglieder haben Anspruch auf Aushändigung von Teilen des Protokolls oder Einsichtnahme [RREF1].
+
+### 6. Information des Arbeitgebers
+Der Arbeitgeber muss über die Termine der Sitzungen informiert werden, damit er für die Freistellung der Mitglieder sorgen und Ersatz in den Abteilungen planen kann [RREF2], [RREF4].
+*   **Regelmäßige Sitzungen:** Es empfiehlt sich ein Schreiben, das den wöchentlichen Turnus, den Wochentag und die Uhrzeit mitteilt [RREF4].
+*   **Sondersitzungen:** Bei zusätzlichen Sitzungen ist der Arbeitgeber gesondert zu informieren, ggf. unter Nennung eingeladener Ersatzmitglieder [RREF4].
+
+Durch die Einhaltung dieser Schritte – insbesondere die fristgerechte Einladung mit Tagesordnung, die Beachtung der Teilnahmerechte und die korrekte Protokollierung – wird die Rechtssicherheit der Betriebsratsarbeit gewährleistet..
+-----------------------------------------
+References:
+
+[RREF1] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.371)
+## Inhaltsverzeichnis
+
+**Inhaltsverzeichnis**
+
+- Abkürzungsverzeichnis
+- I. Einführung
+- II. Betriebsratssitzung
+  - 1.  Konstituierende Sitzung
+  - 2.  Sitzungen des Betriebsrats
+    - a. Einladung zu den weiteren Sitzungen..............
+    - b. Vorrang der Präsenzsitzung
+    - c. Video- und Telefonkonferenz.....................
+  - 3.  Zeitpunkt und Anzahl der Sitzungen
+  - 4.  Information an den Arbeitgeber
+  - 5.  Teilnehmer der Betriebsratssitzung....................
+    - a. Betriebsratsmitglieder
+    - b. Verhinderung - aa. Dauerhaftes Ausscheiden................... - bb. Tatsächliche Verhinderung - cc. Rechtliche Verhinderung...................
+    - c. Einladung von Ersatzmitgliedern - aa. Verhältniswahl............................ - bb. Mehrheitswahl............................
+    - d. Weitere Teilnehmer/Nichtöffentlichkeit - aa. Gewerkschaftsvertreter..................... - bb. Schwerbehindertenvertretung............... - cc. Jugend- und Auszubildendenvertretung - dd. Arbeitgeber
+  - 6.  Einladung und Tagesordnung
+    - a. Anforderungen an eine ordnungsgemäße Einladung
+      - Tagesordnung b. Anforderungen an eine ordnungsgemäße
+      - Tagesordnung c. Fehlende Tagesordnung/Änderung der
+- III. Beschlussfassung
+  - 1.  Voraussetzung der wirksamen Beschlussfassung
+  - 2.  Aussetzen von Beschlüssen
+- IV. Protokoll
+  - 1.  Schriftführer/Protokollführer
+  - 2.  Mindestanforderung an das Protokoll
+  - 3.  Formalien
+  - 4.  Anwesenheitsliste...................................
+    - Arbeitgeber oder Gewerkschaftssekretär............... 5. Aushändigung von Teilen des Protokolls an den
+    - Betriebsratsmitglieder............................... 6. Einsichtnahme in das Protokoll durch die
+- V. Vertretung des Betriebsrats nach außen
+- VI. Der Betriebsausschuss/weitere Ausschüsse
+- VII. Geschäftsordnung
+- VIII. Kosten und Sachaufwand des Betriebsrats
+- IX. Organisation der Betriebsratsarbeit
+  - 1.  Bestandsaufnahme..................................
+  - 2.  Erstmals gewählter Betriebsrat
+  - 3.  Arbeitsplanung des Betriebsrats
+  - 4.  Postkorb für alle Betriebsratsmitglieder................
+  - 5.  Ablagesystem
+- X. Arbeitsteilung im Betriebsrat
+- Anhang
+- Betriebsrats Muster für die Einladung zur konstituierenden Sitzung des
+- Anhang
+- Termine für die Sitzungen des Betriebsrats Muster eines Schreibens an den Arbeitgeber wegen der
+- Anhang Inhaltsverzeichnis
+- Muster für die Information zu einer Sondersitzung
+- Anhang
+- Betriebsratssitzung Checkliste für die ordnungsgemäße Einladung zur
+- Anhang
+- zur Betriebsratssitzung Muster für den Nachweis der ordnungsgemäßen Einladung
+- Anhang
+- Muster einer Tagesordnung
+- Anhang
+- Muster einer Einladung der Schwerbehindertenvertretung
+- Anhang
+- Sitzung als Video- und Telefonkonferenz Muster eines Widerspruchs gegen die Einladung zu einer
+- Anhang
+- Betriebsrats mit Musterschreiben Checklisten für immer wiederkehrende Beschlüsse des
+- Anhang
+- Muster eines Protokolls für einen 7-köpfigen Betriebsrat
+- Anhang
+- Muster einer Anwesenheitsliste
+- Anhang
+- Telefonkonferenz Muster der Teilnahme-Bestätigung an einer Video- und
+- Anhang
+- Muster einer Geschäftsordnung
+- Anhang
+- To-Do-Liste
+- Stichwortverzeichnis.........................................
+
+[RREF2] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.389)
+#### wieder hergestellt ist.
+
+```
+Hinweis:
+Auch bei der Durchführung einer Betriebsratssitzung als Video- und Tele-
+fonkonferenz dürfen Betriebsratsmitglieder in Präsenz teilnehmen. Dies
+```
+
+```
+Präsenzsitzung
+```
+
+## '
+
+```
+Muster-Geschäfts-
+ordnung
+auf Seite 80 ff.
+```
+
+**!**
+
+```
+Hybride Sitzung
+```
+
+```
+Betriebsratssitzung
+```
+
+```
+stellt § 30 Abs. 3 BetrVG ausdrücklich klar. Die Teilnahme in Form der Prä-
+senzsitzung ist ebenfalls erforderliche Betriebsratsarbeit.
+```
+
+```
+Begriffserklärung:
+Eine Sitzung, an der Betriebsratsmitglieder sowohl in Präsenz als auch in
+Form einer Video- und Telefonkonferenz teilnehmen, nennt man Hybrid-
+sitzung.
+```
+
+### 3. Zeitpunkt und Anzahl der Sitzungen
+
+#### Sitzungen des Betriebsrats sollten regelmäßig stattfinden. Wöchentliche
+
+#### Sitzungen haben sich bewährt. Finden diese regelmäßig statt, müssen
+
+#### nicht mehr so viele zusätzliche Sitzungen einberufen werden. Dadurch
+
+#### wird die Betriebsratsarbeit für alle Beteiligten planbarer.
+
+```
+Wenn es nicht viele Themen zu besprechen gibt, lieber die Sitzung kurz
+abhalten, aber dennoch wöchentlich tagen. Wenn notwendig, kann die
+Sitzung auch den ganzen Tag dauern.
+```
+
+#### Der Zeitpunkt der Sitzung sollte so gewählt werden, dass die Sitzung
+
+#### möglichst während der Arbeitszeit aller Betriebsratsmitglieder stattfin-
+
+#### det (§ 30 BetrVG). Es ist also Aufgabe des Vorsitzenden, den Zeitpunkt
+
+#### der Sitzungen entsprechend zu wählen. Ist dies nicht möglich, sollte der
+
+#### Arbeitgeber aufgefordert werden, die Arbeit der Betriebsratsmitglieder
+
+#### so zu organisieren, dass diese in der Sitzungszeit liegt. Berücksichtigt der
+
+#### Arbeitgeber die Sitzungstermine nicht, so ist vom Betriebsrat zu überle-
+
+#### gen, ob er sein Mitbestimmungsrecht bei der Erstellung von Schichtplä-
+
+#### nen ausübt und Schichtpläne ablehnt, bei denen die Betriebsratssitzungen
+
+#### nicht berücksichtigt sind.
+
+```
+Hierbei sind natürlich bestehende Betriebsvereinbarungen zur Arbeitszeit
+zu berücksichtigen. Dieses Vorgehen wird also nicht in allen Betrieben
+möglich sein.
+```
+
+[RREF3] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.392)
+#### Ferner muss eine Frist gesetzt werden, innerhalb derer der Sitzung als
+
+#### Video- und Telefonkonferenz widersprochen werden kann. Möglich
+
+#### sind generelle Fristen für die ordentlich geplanten Sitzungen und situa-
+
+#### tionsangepasste Fristen bei zusätzlichen Betriebsratssitzungen, zu denen
+
+#### kurzfristig eingeladen wird und bei denen ein schnelles Handeln für den
+
+#### Betriebsrat notwendig ist.
+
+```
+Widerspricht ein Viertel der Betriebsratsmitglieder einer Sitzung in Form
+von Video- und Telefonkonferenz, muss sie als Präsenzsitzung stattfinden.
+```
+
+#### Es ist möglich, Einladung und Tagesordnung in einem Schreiben zusam-
+
+#### menzufassen, oder zunächst in einem Schreiben Termin, Zeitpunkt und
+
+#### Ort der Sitzung mitzuteilen und in einem weiteren Schreiben die Tages-
+
+#### ordnung.
+
+## '
+
+```
+Näheres zum
+Protokoll auf
+Seite 41 ff.
+```
+
+**Hinweis auf Art
+der Sitzung**
+
+```
+Frist für
+Widerspruch
+```
+
+## '
+
+```
+Muster eines
+Widerspruchs
+auf Seite 73
+```
+
+```
+Betriebsratssitzung
+```
+
+#### a. Anforderungen an eine ordnungsgemäße Einladung
+
+#### Eine Einladung zu einer Betriebsratssitzung ist ordnungsgemäß, wenn die
+
+#### richtigen Betriebsratsmitglieder eingeladen wurden und wenn die Einla-
+
+#### dung so rechtzeitig erfolgt ist, dass die Betriebsratsmitglieder den Termin
+
+#### wahrnehmen können und Zeit haben, sich auf die Sitzung vorzubereiten.
+
+#### Selbstverständlich gehören auch Zeitpunkt und Ort der Sitzung dazu.
+
+#### Bei den regelmäßigen Sitzungen wissen die Betriebsratsmitglieder zu-
+
+#### meist genau, welche Termine sie sich freihalten müssen. In diesen Fällen
+
+#### ist es meist zweckmäßig, Einladung und Tagesordnung zusammen zu ver-
+
+#### schicken. Wenn der Termin den Mitgliedern noch nicht bekannt ist, soll-
+
+#### ten schnellstmöglich alle Betriebsratsmitglieder eingeladen werden, da-
+
+#### mit sie den Termin freihalten können und die Tagesordnung kann dann
+
+#### noch später geschickt werden. Wichtig ist aber, dass die Betriebsratsmit-
+
+#### glieder zur Vorbereitung der Sitzung auch die Tagesordnung benötigen.
+
+[RREF4] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.400)
+## Anhang
+
+## Muster eines Schreibens an den
+
+## Arbeitgeber wegen der Termine für
+
+## die Sitzungen des Betriebsrats
+
+... (Absender einfügen)
+
+Sehr geehrter Herr ... (Name einfügen),
+
+der Betriebsrat hat in seiner Sitzung vom  ... (Datum einfügen) beschlossen,
+die regelmäßigen Sitzungen des Betriebsrats wöchentlich am ... (Wochentag
+einfügen), ab  ... (Uhrzeit einfügen durchzuführen. Die Sitzungen werden vor-
+aussichtlich um  ... (voraussichtliches Ende einfügen) enden. Sie können aber
+abhängig von den zu behandelnden Themen bei Bedarf auch länger dauern.
+
+Bitte informieren Sie die Abteilungsleiter/Schichtleiter/etc. entsprechend und
+tragen Sie dafür Sorge, dass für die freizustellenden Betriebsratsmitglieder Er-
+satz in den Abteilungen vorhanden ist.
+
+... (Unterschrift einfügen)
+
+## Anhang Inhaltsverzeichnis
+
+## Muster für die Information zu einer Sondersitzung
+
+```
+... (Absender einfügen)
+```
+
+```
+Sehr geehrte Frau ... (Name einfügen),
+```
+
+```
+Ich möchte Sie darüber informieren, dass der Betriebsrat am ... (Datum, Wo-
+chentag, Uhrzeit einfügen) eine zusätzliche Betriebsratssitzung durchführen
+wird. Die Sitzung wird voraussichtlich um ... (voraussichtliches Ende einfügen)
+enden. Sie kann aber abhängig von den zu behandelnden Themen bei Bedarf
+auch länger dauern.
+```
+
+```
+(Wenn nötig einfügen):
+Zu der Sitzung sind folgende Ersatzmitglieder eingeladen: ...
+(Namen einfügen)
+```
+
+```
+Bitte informieren Sie die Abteilungsleiter/Schichtleiter/etc. entsprechend und
+tragen Sie dafür Sorge, dass es zu keinen Problemen mit der Freistellung der
+Betriebsratsmitglieder von der Arbeitsleistung kommt.
+```
+
+```
+... (Unterschrift einfügen)
+```
+
+## Anhang
+
+## Betriebsratssitzung Checkliste für die ordnungsgemäße Einladung zur
+
+## Einladung zur Betriebsratssitzung
+
+- Einladung an alle ordentlichen Mitglieder und im Falle der Verhinderung
+  Einladung von Ersatzmitgliedern
+- Grund der Verhinderung dokumentieren
+- SBV und JAV einladen
+- Gewerkschaftssekretär einladen
+- Überlegen, ob weitere Teilnehmer erforderlich sind
+- Ggf. Termin mit weiteren Teilnehmern vorher abstimmen
+- Ort, Datum und Uhrzeit der Betriebsratssitzung in Einladung einfügen
+- Tagesordnung erstellen und mit der Einladung übersenden
+- Einladung vom Betriebsratsvorsitzenden unterschreiben lassen
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.404)
+### Betriebsrat: Einladung zur ordentlichen Sitzung und Tagesordnung
+
+<!-- sem-asset-id: betriebsrat_einladung_zur_ordentlichen_sitzung_und_tagesordnung -->
+
+_Authors: Peter Wedde_
+
+Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort,}} 
+ {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+nachrichtlich
+
+- Schwerbehindertenvertretung
+- Jugend- und Auszubildendenvertretung
+- Ersatzmitglieder
+
+**Einladung zur Sitzung am**
+ {{Datum}}
+
+Liebe Kolleginnen und Kollegen,
+
+hiermit lade ich zur nächsten ordentlichen Sitzung des Betriebsrats ein. Diese findet
+
+**am**
+ {{Datum}}
+ **von**
+ {{PLACEHOLDER}}
+ **bis ca.**
+ {{PLACEHOLDER}}
+ **Uhr im Raum**
+ {{PLACEHOLDER}}
+ **statt.**
+
+**Tagesordnung der Sitzung**
+
+1. Eröffnung der Sitzung/Beschlussfassung zur Tagesordnung
+2. Genehmigung des Protokolls der Sitzung vom {{Datum}}
+3. Bericht des Vorsitzenden
+    (Beispiele …)
+
+4. Beschlussfassung zu personellen Einzelmaßnahmen gem. § 99 BetrVG
+5. Geplante Einführung der Vertrauensarbeitszeit (ggf. Beschlussfassung)
+6. Wahl eines Ausschusses zum Thema „Qualifizierung“ und Benennung der Mitglieder
+7. {{PLACEHOLDER}}
+8. Verschiedenes
+
+Sollte ein Betriebsratsmitglied verhindert sein, bitte ich um unverzügliche Mitteilung, damit ich eine Einladung an das zuständige Ersatzmitglied aussprechen kann.
+
+### Betriebsrat: Einladung zur ordentlichen Sitzung mit Online-Teilnahmemöglichkeit und Tagesordnung
+
+<!-- sem-asset-id: betriebsrat_einladung_zur_ordentlichen_sitzung_mit_online-teilnahmemoeglichkeit_und_tagesordnung -->
+
+_Authors: Peter Wedde_
+
+Betriebsrat der Firma der {{Firmenbezeichnung}},
+
+{{Adresse}}
+
+{{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+Mitglieder des Betriebsrats {{Bezeichnung}}
+
+{{Adresse,}}
+
+im Hause
+
+nachrichtlich
+
+Schwerbehindertenvertretung
+
+Jugend- und Auszubildendenvertretung
+
+Ersatzmitglieder
+
+**Einladung zur Sitzung am** {{Datum}}
+
+Liebe Kolleginnen und Kollegen,
+
+hiermit lade ich zur nächsten ordentlichen Sitzung des Betriebsrats ein. Diese findet
+
+**am** {{Datum}}**von** {{kasten}} **bis ca.** {{kasten}}**Uhr im Raum** {{kasten}}**statt.**
+
+Für diese Sitzung gibt es gemäß der Geschäftsordnung des Betriebsrats ausnahmsweise die Möglichkeit einer Online-Teilnahme mit dem System {{kasten}}. Falls diese Art der Teilnahme gewünscht ist, bitte ich bis zum {{Datum}} um eine entsprechende Mitteilung an {{kasten}}. Sobald eine entsprechende Mitteilung vorliegt, werden die notwendigen Zugangsdaten elektronisch verschickt. Für den Fall einer Online-Teilnahme an dem hierfür genutzten Arbeitsplatz die Vertraulichkeit der Sitzung sichergestellt sein.
+
+Ich weise darauf hin, dass die Möglichkeit einer Online-Teilnahme entfällt, wenn mindestens ein Viertel der Mitglieder des Betriebsrats gemäß § 30 Abs. 2 Nr. 2 BetrVG mir gegenüber dem Angebot einer Video- oder Telefonkonferenz bis zum >Datum> widersprechen. Falls ein wirksamer Widerspruch eingelegt wird, werde ich sie hierüber unverzüglich informieren. In diesem Fall ist eine Online-Teilnahme an der Betriebsratssitzung nicht möglich.
+
+Tagesordnung der Sitzung
+
+…
+
+…
+
+
+
+---
+
+## Q-P1-AK-13  (subtask: procedural)
+
+### FRAGE
+Welche Formalien sind bei Beschlüssen zu beachten?
+
+### REFERENZ
+Ordnungsgemäße Einladung
+Beschlussfähiges Gremium
+Mehrheit der anwesenden Mitglieder
+Protokoll
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Referenzen sind bei der Beschlussfassung des Betriebsrats folgende Formalien zwingend zu beachten, um die Wirksamkeit der Entscheidungen sicherzustellen:
+
+### 1. Grundsatz der Sitzung und persönliche Teilnahme
+Beschlüsse dürfen ausschließlich in einer ordentlichen Betriebsratssitzung gefasst werden.
+*   **Sitzungserfordernis:** Entscheidungen des Betriebsrats können nur auf Betriebsratssitzungen durch ordnungsgemäße Beschlussfassung herbeigeführt werden [RREF3]. Eine Beschlussfassung außerhalb von Sitzungen ist unzulässig [RREF4].
+*   **Persönliche Teilnahme:** § 33 Abs. 1 Satz 1 BetrVG schreibt vor, dass Beschlüsse mit der Mehrheit der Stimmen der **anwesenden** Mitglieder gefasst werden müssen. Hieraus leitet sich die Notwendigkeit der persönlichen Teilnahme ab [RREF1].
+*   **Umlaufverfahren:** Beschlüsse im Umlaufverfahren (schriftlich, per E-Mail, telegrafisch etc.) sind unwirksam und unzulässig [RREF1], [RREF4], [RREF5].
+
+### 2. Ladung und Tagesordnung
+Eine ordnungsgemäße Beschlussfassung setzt eine korrekte Vorbereitung voraus.
+*   **Ladung:** Alle Betriebsratsmitglieder (und ggf. JAV-Mitglieder mit Stimmrecht) müssen rechtzeitig unter Mitteilung der Tagesordnung eingeladen werden [RREF2], [RREF5]. Für verhinderte Mitglieder (z. B. bei Interessenkollision) sind Ersatzmitglieder zu laden [RREF5].
+*   **Tagesordnung:** Die beabsichtigte Maßnahme muss grundsätzlich auf der Tagesordnung bezeichnet sein [RREF2]. Unter dem Punkt „Verschiedenes" kann kein Beschluss gefasst werden [RREF5].
+*   **Nachträgliche Ergänzung:** Ergänzungen der Tagesordnung in der Sitzung sind nur zulässig, wenn alle Mitglieder (bzw. Ersatzmitglieder) erschienen sind und der Ergänzung einstimmig zustimmen [RREF4], [RREF5].
+
+### 3. Beschlussfähigkeit
+Der Betriebsrat ist nur beschlussfähig, wenn mindestens die Hälfte der Betriebsratsmitglieder an der Beschlussfassung teilnimmt (§ 33 Abs. 2 BetrVG) [RREF5].
+*   **Feststellung:** Der Vorsitzende ist dafür verantwortlich, die Beschlussfähigkeit zu Beginn und ggf. erneut vor Beschlüssen festzustellen. Diese Feststellung ist in der Sitzungsniederschrift zu vermerken [RREF4].
+*   **Video- und Telefonkonferenz:** Mitglieder, die hieran teilnehmen, gelten als anwesend. Die Beschlussfähigkeit muss auch hierbei gegeben sein [RREF4], [RREF5].
+
+### 4. Abstimmung und Mehrheiten
+*   **Mehrheitserfordernis:** Beschlüsse werden mit der Mehrheit der Stimmen der **anwesenden** Mitglieder gefasst (§ 33 Abs. 1 BetrVG) [RREF1], [RREF5]. In bestimmten Fällen (z. B. § 27 Abs. 1 BetrVG) ist eine absolute Mehrheit (der gesetzlichen Mitgliederzahl) notwendig [RREF5].
+*   **Stimmengleichheit:** Bei Stimmengleichheit gilt der Antrag als abgelehnt [RREF2], [RREF5].
+*   **Enthaltungen:** Stimmenthaltungen wirken wie Nein-Stimmen, da es auf die Mehrheit der anwesenden Mitglieder ankommt [RREF2], [RREF5].
+*   **Abstimmungsmodus:** Im Regelfall wird offen abgestimmt (z. B. Handheben). Auf Antrag kann geheim abgestimmt werden, sofern keine rechtlichen Gründe entgegenstehen [RREF4].
+*   **Einschränkung bei Online-Teilnahme:** Geheime Abstimmungen sind bei Teilnahme per Video- und Telefonkonferenz technisch nicht möglich. Das Thema muss vertagt werden, bis eine Präsenzsitzung stattfindet [RREF4], [RREF5].
+
+### 5. Ausschluss von Mitgliedern und Arbeitgeber
+*   **Befangenheit:** Steht der Teilnahme eines Mitglieds eine persönliche oder rechtliche Verhinderung entgegen (z. B. eigene personelle Maßnahme), muss es den Sitzungssaal während der Beschlussfassung verlassen. Ein Ersatzmitglied ist zu laden [RREF4], [RREF5].
+*   **Anwesenheit des Arbeitgebers:** Ist der Arbeitgeber anwesend, werden keine Beschlüsse oder Abstimmungen vorgenommen. Die Sitzung ist für diesen Zeitraum zu unterbrechen [RREF4].
+
+### 6. Dokumentation (Protokoll)
+Die Beschlussfassung muss dokumentiert werden, wobei das Protokoll primär Dokumentationszwecken dient, der Beschluss aber durch die Fassung wirksam wird [RREF5].
+*   **Inhalt:** Das Protokoll sollte Datum, Thema, Beschlussnummer, anwesende Mitglieder, Feststellung der Beschlussfähigkeit, Antragstext und das Ergebnis der Abstimmung (Ja/Nein/Enthaltungen) enthalten [RREF1], [RREF2].
+*   **Besonderheit JAV:** Bei Stimmrecht der Jugend- und Auszubildendenvertretung (JAV) sind deren Stimmen bei der Feststellung der Stimmenmehrheit mitzuzählen und im Protokoll gesondert auszuweisen [RREF1], [RREF5].
+*   **Unterschrift:** Das Protokoll ist vom Betriebsratsvorsitzenden und einem weiteren Mitglied zu unterzeichnen [RREF1].
+
+### 7. Inhaltliche Bestimmtheit
+Der Inhalt eines Beschlusses muss hinreichend genau formuliert werden. Bei Zustimmungen nach § 77 Abs. 4 Satz 2 BetrVG muss sich der Beschluss auf den konkreten Einzelfall beziehen [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.483)
+### Beschlussprotokoll als Bestandteil des Protokolls des Betriebsrats bei Stimmrecht der JAV–Mitglieder
+
+<!-- sem-asset-id: beschlussprotokoll_als_bestandteil_des_protokolls_des_betriebsrats_bei_stimmrecht_der_javmitglieder -->
+
+_Authors: Peter Wedde_
+
+Betriebsratssitzung vom {{Datum}}
+
+Thema: {{PLACEHOLDER}}
+
+Beschluss Nr. {{PLACEHOLDER}} zu Punkt {{PLACEHOLDER}} der Tagesordnung vom Datum
+
+Anwesende BR-Mitglieder: {{PLACEHOLDER}}
+
+Beschlussfähigkeit gegeben: ja/nein
+
+Anwesende JAV-Mitglieder: {{PLACEHOLDER}}
+
+Einfache/absolute Mehrheit notwendig
+
+Antragsteller:
+
+Antragstext:
+
+Ergebnis der Abstimmung {{(Ist für entsprechende Beschlüsse des Betriebsrats nur eine einfache Mehrheit notwendig, ist der getrennte Nachweis der Stimmen entbehrlich)}}:
+
+BR-Mitglieder
+ 
+ 
+  
+ 
+ 
+ JAV-Mitglieder
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Ja
+ 
+ 
+  
+ 
+ 
+ Ja
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nein
+ 
+ 
+  
+ 
+ 
+ Nein
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Enthaltungen
+ 
+ 
+  
+ 
+ 
+ Enthaltungen
+
+
+
+
+
+(Betriebsratsvorsitzende) (Betriebsratsmitglied Name)
+
+### Protokoll – Muster mit Verlaufsdarstellung
+
+<!-- sem-asset-id: protokoll_muster_mit_verlaufsdarstellung -->
+
+_Authors: Peter Wedde_
+
+Betriebsratssitzung vom Datum
+
+Thema: {{PLACEHOLDER}}
+
+Beschluss Nr. {{PLACEHOLDER}} zu Punkt {{PLACEHOLDER}} der Tagesordnung vom Datum
+
+Vorherige Beschlüsse: Nr. {{PLACEHOLDER}} vom Datum/Nr. {{PLACEHOLDER}} vom Datum/Nr. {{PLACEHOLDER}} vom Datum
+
+Anwesende BR-Mitglieder {{(besteht Stimmrecht der JAV, ist eine Ergänzung gemäß Musterschreiben Rn. 14 vorzunehmen)}}:
+
+Beschlussfähigkeit gegeben: ja/nein
+
+Einfache/absolute Mehrheit notwendig
+
+Antragsteller:
+
+Antragstext:
+
+Ergebnis der Abstimmung:
+
+Ja
+
+Nein
+
+Enthaltungen
+
+Der Antrag ist angenommen/abgelehnt.
+
+
+
+(Betriebsratsvorsitzende) (Betriebsratsmitglied {{Name}})
+
+### Hinweis zur Unzulässigkeit von Umlaufbeschlüssen
+
+<!-- sem-asset-id: hinweis_zur_unzulaessigkeit_von_umlaufbeschluessen -->
+
+_Authors: Peter Wedde_
+
+Betriebsrat der Firma {{Firmenbezeichnung}}, {{Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+
+
+Sehr geehrte Damen und Herren,
+
+von ihrer Seite wurde angeregt, Beschlüsse des Betriebsrats nicht nur in gemeinsamen Sitzungen, sondern im Umlaufverfahren zu fassen. Zur Begründung haben Sie insbesondere auf die hohen Reisekosten und -zeiten einzelner Mitglieder hingewiesen.
+
+Der Betriebsrat kann dieser Bitte nicht nachkommen. § 33 Abs. 1 Satz 1 BetrVG schreibt zwingend vor, dass Beschlüsse mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst werden müssen. Hieraus leitet sich die Notwendigkeit der **persönlichen** Teilnahme aller Betriebsratsmitglieder ab. Beschlüsse im Umlaufverfahren wären vor dem Hintergrund dieser eindeutigen gesetzlichen Bestimmung unwirksam. Deshalb muss es bei der persönlichen Teilnahme an Sitzungen bleiben.
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.489)
+### Voraussetzungen für eine ordnungsgemäße Beschlussfassung des Betriebrats
+
+<!-- sem-asset-id: voraussetzungen_fuer_eine_ordnungsgemaesse_beschlussfassung_des_betriebrats -->
+
+_Authors: Michael Bachner, Johanna Wenckebach_
+
+#### **Vorbemerkung**
+
+Die Beschlussfassung im Betriebsrat bzw. in dem vom Betriebsrat beauftragten Personalausschuss über die vom Arbeitgeber beabsichtigte personelle Einzelmaßnahme bestimmt sich nach § 33 BetrVG.
+
+Eine fehlerhafte Beschlussfassung hat zur Folge, dass die Zustimmung zu der beabsichtigten personellen Maßnahme als erteilt gilt.
+
+Eine ordnungsgemäße Beschlussfassung setzt zunächst eine „richtige“ Ladung voraus, d. h. die beabsichtigte personelle Maßnahme, die Gegenstand der Betriebsratssitzung sein soll, muss grundsätzlich auf der Tagesordnung bezeichnet sein. Darüber hinaus muss die Abstimmung den gesetzlichen Bestimmungen entsprechend erfolgen.
+
+Zu der Beratung sind alle Betriebsrats- bzw. Ausschussmitglieder gemäß § 29 Abs. 2 BetrVG zu laden.
+
+**Formulierungsvorschlag für die Ladung zur Betriebsratssitzung**
+
+Betriebsratsvorsitzende:r {{Ort}}, {{Datum}}
+
+{{Arbeitgeber Firmenbezeichnung, Adresse}}
+
+
+
+{{Namen}}
+
+**Einladung zur Betriebsratssitzung am** {{Datum}}
+
+Liebe Kolleginnen und Kollegen,
+
+hiermit lade ich zur Betriebsratssitzung am {{Datum}} um {{kasten}} in unser Sitzungszimmer ein.
+
+Folgende Tagesordnung ist vorgesehen:
+
+1. Genehmigung des Protokolls der letzten Betriebsratssitzung vom {{Datum}}
+2. {{kasten}}
+3. Personelle Einzelmaßnahmen:
+    **Stellungnahme zu der vom Arbeitgeber zum** {{Datum}} **geplanten Versetzung von Herrn** {{Arbeitnehmer}} **in die Personalabteilung.**
+
+    **Als Anlage beigefügt ist die Unterrichtung durch den Arbeitgeber über die personelle Einzelmaßnahme auf dem hierfür vorgesehenen Formblatt.**
+
+4. Verschiedenes (ohne Beschlussfassung)
+
+Um vollzählige Teilnahme an der Sitzung wird gebeten. Sollten einzelne Mitglieder verhindert sein, bitte ich um unverzügliche Nachricht, damit ein Ersatzmitglied geladen werden kann.
+
+Anlage: Unterrichtungsbogen des Arbeitgebers
+
+> #### **Hinweis:**
+>
+> Der Beschluss, ob der Maßnahme zugestimmt oder ob sie abgelehnt werden soll, wird mit einfacher Stimmenmehrheit gefasst. Bei Stimmengleichheit gilt der Antrag gemäß § 33 Abs. 1 BetrVG als abgelehnt. Stimmenhaltungen wirken wie Nein-Stimmen, da es auf die Mehrheit der anwesenden Betriebsratsmitglieder ankommt.
+
+**Vorschlag für eine Dokumentation des Abstimmungsergebnisses in der Sitzungsniederschrift:**
+
+Auszug aus der Sitzungsniederschrift der Betriebsratssitzung vom {{Datum}}
+
+**zu TOP 3:**
+
+Der Betriebsrat hat einstimmig {{(ggf. andere Stimmverteilung vermerken)}} beschlossen, der vom Arbeitgeber beantragten Versetzung von Herrn {{Arbeitnehmer}} in die Personalabteilung zuzustimmen {{(bzw. die Zustimmung zu verweigern, weil die personelle Einzelmaßnahme gegen § 99 Abs. 2 Ziff. 3 verstößt)}}.
+
+Begründung (nur im Falle der Zustimmungsverweigerung): {{kasten}}.
+
+[RREF3] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.492)
+## Abkürzungsverzeichnis
+
+#### Abs. Absatz
+
+#### ArbZG Arbeitszeitgesetz
+
+#### BAG Bundesarbeitsgericht
+
+#### BetrVG Betriebsverfassungsgesetz
+
+#### BGB Bürgerliches Gesetzbuch
+
+#### ff. fortfolgende
+
+#### gem. gemäß
+
+#### ggf. gegebenenfalls
+
+#### Hrsg. Herausgeber
+
+#### i. S. d. im Sinne des
+
+#### i. V. m. in Verbindung mit
+
+#### JAV Jugend- und Auszubildendenvertretung
+
+#### KSchG Kündigungsschutzgesetz
+
+#### LAG Landesarbeitsgericht
+
+#### Nr. Nummer
+
+#### SBV Schwerbehindertenvertretung
+
+#### z. B. zum Beispiel
+
+## I. Einführung
+
+#### Entscheidungen des Betriebsrats können nur auf Betriebsratssitzungen
+
+#### durch ordnungsgemäße Beschlussfassung herbeigeführt werden. Deshalb
+
+#### ist es auch immer mit etwas zeitlichen Vorlauf verbunden, wenn der Be-
+
+#### triebsrat als Gremium eine Entscheidung treffen will.
+
+#### Auch wenn Arbeitgeber gern einmal eine schnelle, spontane Antwort
+
+#### vom Betriebsrat einfordern, ist dies gar nicht möglich, weil zunächst
+
+#### eine Mehrheitsentscheidung aller Betriebsratsmitglieder herbeigeführt
+
+#### werden muss. Wenn sich ein Betriebsratsmitglied zu einer schnellen Ent-
+
+#### scheidung hinreißen lässt, muss es immer dazu sagen, dass es sich hierbei
+
+#### nicht um eine Entscheidung des Betriebsrats handelt, sondern es nur die
+
+#### eigene Meinung wiedergibt.
+
+#### Mit der Kundgabe der eigenen Meinung sollte man aber gegenüber dem
+
+#### Arbeitgeber vorsichtig sein, damit dieser nicht die Möglichkeit hat, ein-
+
+#### zelne Betriebsratsmitglieder gegeneinander auszuspielen. Oft bedarf es
+
+#### auch tatsächlich einer kontroversen Diskussion im Betriebsrat, damit
+
+#### man wirklich alle Aspekte des Handelns beleuchtet hat und man sich eine
+
+#### fundierte Meinung bilden kann.
+
+#### Damit Entscheidungen auch vor Gericht standhalten, müssen viele Form-
+
+#### vorschriften eingehalten werden. Davon kann man – zu Recht – manch-
+
+#### mal genervt sein. Allerdings weiß man nie, wie viele Jahre später man die
+
+#### ordnungsgemäße Beschlussfassung des Betriebsrats nachweisen muss. Es
+
+#### gab schon Fälle, in denen Betriebsvereinbarungen über viele Jahre verein-
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.499)
+#### § 11 Beschlüsse und Beschlussfähigkeit
+
+> #### **Hinweis:**
+>
+> Der Vorsitzende ist als Sitzungsleiter dafür verantwortlich, dass die Beschlussfähigkeit aktuell gegeben ist. Ist sie zweifelhaft, was insbesondere in größeren Betriebsratsgremien der Fall sein kann, ist die Beschlussfähigkeit unmittelbar vor einer Beschlussfassung festzustellen (1.). Diese Feststellung sollte auch ein einzelnes Betriebsratsmitglied beantragen können (2.).
+>
+> Steht der Beteiligung eines Betriebsratsmitglieds oder eines sonstigen Sitzungsteilnehmers an einer Abstimmung eine persönliche oder rechtliche Verhinderung entgegen, ist in der GO das entsprechende Verfahren vorzusehen (3.). Grundsätzlich kann in diesem Zusammenhang auch festgelegt werden, dass die betroffene Person vor einer Beschlussfassung zur Sache gehört werden muss (4.).
+>
+> Geregelt werden sollte auch der Umgang mit der Anwesenheit des Arbeitgebers in Sitzungen, insbesondere der Ausschluss der Beschlussfassung während seiner Anwesenheit (5.).
+>
+> Für die Herbeiführung von Beschlüssen selbst gelten im Übrigen die allgemeinen gesetzlichen Vorgaben. Dennoch sollten Rahmenbedingungen wie die rechtzeitige Ladung unter Mitteilung der Tagesordnung in der GO ebenso aufgeführt werden (6.) wie der Hinweis, dass eine Beschlussfassung außerhalb einer Sitzung unzulässig ist (7.). Sinnvoll kann weiterhin eine Regelung zur Zulässigkeit der Ergänzung einer vorliegenden Tagesordnung in der Sitzung sein, die darauf abstellt, dass alle Betriebsratsmitglieder hiervon informiert und hiermit einverstanden sind (8.).
+>
+> Schließlich sollten Regelungen zur formalen Durchführung der Beschlussfassung aufgenommen werden. Hierzu gehört insbesondere auch die Regelung, unter welchen Umständen und von wem eine geheime Abstimmung beantragt werden kann (9.).
+>
+> Nehmen Betriebsratsmitglieder im Rahmen einer nach dem BetrVG zulässigen Video- und Telefonkonferenz an einer Betriebsratssitzung teil, gelten sie als anwesend. Geheime Abstimmungen sind bei der Einbindung per Video- und Telefonkonferenz technisch nicht möglich. Entsprechende Themen müssen in einer erneuten Betriebsratssitzung ohne die Möglichkeit einer Onlineteilnahme behandelt werden (10.).
+
+1. Der Vorsitzende stellt die Beschlussfähigkeit zu Beginn der Sitzung und ggf. erneut vor Beschlüssen fest. Feststellungen zur Beschlussfähigkeit werden in der Sitzungsniederschrift vermerkt.
+
+2. Bestehen Zweifel an der aktuellen Beschlussfähigkeit, kann ihre Feststellung von jedem abstimmungsberechtigten Sitzungsteilnehmer vor einem Beschluss verlangt werden. Die Feststellung ist im Protokoll zu vermerken.
+
+3. Stehen der Teilnahme eines Betriebsratsmitglieds oder eines anderen abstimmungsberechtigten Teilnehmers persönliche oder rechtliche Gründe entgegen, ist für diesen Sitzungspunkt ein Ersatzmitglied zu laden. Der betroffene Sitzungsteilnehmer muss während der inhaltlichen Diskussion und der Beschlussfassung den Sitzungssaal verlassen.
+
+4. In den Fällen der Ziff. 3. hat die betroffene Person einen Anspruch darauf, sich vor der Beschlussfassung in der Sitzung zur Sache zu äußern.
+
+5. Ist der Arbeitgeber auf eigene Bitte oder auf Einladung des Betriebsrats während der Sitzung anwesend, werden keine Beschlüsse oder sonstigen Abstimmungen vorgenommen. Sind Beschlüsse erforderlich, ist die gemeinsame Sitzung mit dem Arbeitgeber für diesen Zeitraum zu unterbrechen.
+
+6. Eine gesetzeskonforme Beschlussfassung in einer Sitzung des Betriebsrats setzt voraus, dass alle stimmberechtigten Mitglieder unter Mitteilung der Tagesordnung und Übergabe notwendiger weiterer Unterlagen rechtzeitig eingeladen worden sind und dass die zur Beschlussfassung gesetzlich vorgeschriebene Mindestzahl von Mitgliedern anwesend ist.
+
+7. Beschlüsse können nur innerhalb ordentlicher Betriebsratssitzungen gefasst werden. Eine Beschlussfassung außerhalb von Betriebsratssitzungen ist ebenso unzulässig wie eine Beschlussfassung im Umlaufverfahren.
+
+8. Ergänzungen einer vorliegenden Tagesordnung in einer Betriebsratssitzung mit dem Ziel der Beschlussfassung sind nur zulässig, wenn alle Betriebsratsmitglieder bzw. im persönlichen Verhinderungsfall die entsprechenden Ersatzmitglieder vollständig erschienen sind und die Ergänzung einstimmig gebilligt haben. Ist dies nicht der Fall, erfolgt eine Befassung mit dem neuen Tagesordnungspunkt in der nächsten Sitzung.
+
+9. Beschlüsse und andere Abstimmungen werden im Regelfall in einem offenen Verfahren (etwa durch Handheben) gefasst. Auf Antrag eines abstimmungsberechtigten Sitzungsteilnehmers erfolgt eine geheime Abstimmung, wenn dieser nicht rechtliche Gründe entgegenstehen.
+
+10. Betriebsratsmitglieder, die an Sitzungen per Video- und Telefonkonferenz teilnehmen, können sich an allen offenen Beschlussfassungen beteiligen. Die / der Vorsitzende stellt ihre Abstimmungsentscheidungen in geeignter Form fest. Wird zu einem Thema eine geheime Abstimmung beantragt, muss das Thema auf die nächste reguläre Betriebsratssitzung vertagt werden. Ist eine Entscheidung vor der nächsten regulären Sitzung erforderlich (etwa aus Fristgründen), muss eine kurzfristige Sondersitzung durchgeführt werden, Für die Betriebsratssitzung, in der das vertagte Thema behandelt wird, ist eine Teilnahme per Video- und Telefonkonferenz ausgeschlossen.
+
+[RREF5] SF_Klebe_BetrVG_BK.md (0.499)
+und die Tagesordnung der Gewerkschaft rechtzeitig mitzuteilen.1.Voraussetzungen zur TeilnahmeDurch diese Vorschrift wird der Grundsatz der Zusammenarbeit zwischen BR und Gew. in § 2 konkretisiert (vgl. auch § 46 Rn. 1). Sie hat keinen abschließenden Charakter in dem Sinne, dass hier umfassend die Teilnahmerechte der Gew. an BR-Sitzungen geregelt werden.BAG 28. 2. 90 – 7 ABR 22/89; ArbG Weiden 23. 2. 22 – 4 BVGa 3/22, n. rk., anhängig beim LAG Nürnberg unter 7 TaBVGa 1/22. Die Teilnahme von Gew.-Beauftragten kann bereits dann erfolgen, wenn dies lediglich von einem Viertel der BR-Mitgl. beantragt wird.Zum Musterantrag vgl. DKW-F-Wedde, § 31 Rn. 3. Eines Beschlusses des BR bedarf es nicht; ein entsprechender Antrag kann auch nicht durch Mehrheitsbeschluss des BR abgelehnt werden.OVG NRW, PersR 96, 202. Voraussetzung für die Antragstellung ist, dass ein BR-Mitgl., dass nicht auch Antragsteller sein muss, dieser Gew. angehört. Der Gew. sind der Zeitpunkt und die Tagesordnung rechtzeitig mitzuteilen.Zur Mustereinladung vgl. DKW-F-Wedde, § 31 Rn. 6. Dabei hat der AG dem Beauftragten – ergänzend zum regulären Zugangsrecht gem. § 2 – einen digitalen Zugang zum BR und zu den Beschäftigten zu gewährleisten, damit eine Teilnahme an einer als Video- und/oder Telefonkonferenz durchgeführten BR-Sitzung möglich ist. Der Gew.-Beauftragte entscheidet autonom, in welcher Form er an der Sitzung teilnimmt, wenn diese auch teilweise als Präsenzsitzung durchgeführt wird. Des Weiteren ist ein BR-Mitgl. berechtigt, sich auf eine bevorstehende BR-Sitzung angemessen vorzubereiten, wozu auch die Einholung von Rechtsrat der Gew. gehört. Umfang und Art der Vorbereitung des BR-Mitgl. auf eine Sitzung sind eine Frage des Einzelfalles und liegen im pflichtgemäßen Ermessen des jeweiligen BR-Mitgl.HessLAG 20. 3. 17 – 16 TaBV 12/17, AuR 17, 413.Welchen Vertr. die eingeladene Gew. entsendet, bestimmt diese allein. Der Gew.-Vertr. muss nicht Ang. der Gew. sein; er kann auch AN des Betriebs sein.Vgl. ArbG Aachen 25. 10. 95 – 5 BV 45/94. Die Entsendung mehrerer Vertr. ist möglich und jedenfalls dann zweckmäßig, wenn dies im Hinblick auf die Tagesordnung im Interesse einer sachgerechten Beratung des Betriebsrats liegt.ArbG Gießen 5. 10. 18 – 7 BV 15/17. Auch Gew.-Vertr., die als AN-Vertr. dem AR eines Konkurrenz-UN angehören, kann der AG die Teilnahme an BR-Sitzungen (Ausschüsse, Betriebsversamml.) nicht verwehren, da es keine Unvereinbarkeit zwischen diesen beiden Tätigkeiten gibt.LAG Hamburg, Mitb. 87, 782.2.Regelung der TeilnahmeDie Hinzuziehung von Beauftragten einer im Betrieb vertretenen Gew. kann auch der BR sowohl im Einzelfall als auch generell beschließen bzw. in seiner Geschäftsordnung regeln.BAG 28. 2. 90 – 7 ABR 22/89; vgl. auch BAG, DB 81, 1240 zur Teilnahme an WA-Sitzungen.3.Befugnisse des GewerkschaftsbeauftragtenEin Beauftragter einer im Betrieb vertretenen Gew. kann an der BR-Sitzung teilnehmen. Das gilt auch für die konstituierende Sitzung eines GBR.BAG 15. 10. 14 – 7 ABR 53/12, NZA 15, 1014. Im Gegensatz zum Vertr. der AG-Vereinigung (§ 29 Abs. 4 Satz 2) hat der Beauftragte der Gew. eine beratende Stimme, d. h. er darf auf die Willensbildung des BR Einfluss nehmen. Er hat kein Stimmrecht, kann jedoch bei der Beschlussfassung anwesend sein.BAG 15. 10. 14 – 7 ABR 53/12, NZA 15, 1014. Der AG kann dem Gew.-Beauftragten den Zutritt zum Betrieb nicht verwehren (vgl. § 2 Rn. 3 ff.).OLG Hamm 26. 6. 87 – 1 Ss 164/87; ArbG Elmshorn, AiB 04, 40. Ausnahmsweise soll nach Auffassung des LAG Hamm der AG einem bestimmten Gew.-Beauftragten den Zutritt zum Betrieb verweigern dürfen, wenn dieser in der Vergangenheit den Betriebsfrieden nachhaltig gestört oder den Arbeitgeber grob beleidigt hat und eine Wiederholung des Verhaltens zu befürchten steht.LAG Hamm 3. 6. 05 – 13 TaBV 58/05, AuR 05, 465 Ls; ArbG Gießen 5. 10. 18 – 7 BV 15/17, juris. Dabei ist zu berücksichtigen, dass sachliche, auch in scharfer Form ausgetragene Differenzen keinen Grund zur Verweigerung des Zutritts darstellen.HessLAG 3. 2. 11 – 9 TaBV 137/10, juris. Die Entfernung eines Gew.-Beauftragten einer im Betrieb vertretenen Gew. durch einen Polizeibeamten von einer BR-Sitzung ist rechtswidrig.Widerspruchsbescheid der Polizeidirektion SH West v. 12. 3. 91, Az.: – 11 – 12.45. Zur Verschwiegenheitspflicht siehe § 79 Abs. 2.4.Teilnahmerecht auch bei anderen Betriebsverfassungsorganen§ 31 ist entsprechend anzuwenden auf Ausschüsse des BR einschl. BA und WA sowie GBRBAG 15. 10. 14 – 7 ABR 53/12, NZA 15, 1014., KBR, JAV, GJAV und KJAV.BAG, DB 81, 1240; vgl. ergänzend DKW-Wedde, Rn. 2, 19.
+150|117268§ 32 Teilnahme der SchwerbehindertenvertretungbundimportedAsset##8b1bba5f-f52d-4747-a9ef-63965a39e69fTeilnahme der Schwerbehindertenvertretung§ 32walhalla150|2087902§ 32Teilnahme der SchwerbehindertenvertretungDie Schwerbehindertenvertretung (§ 177 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Betriebsrats beratend teilnehmen.§ 32 gilt nicht nur für alle BR-Sitzungen,HessLAG 4. 12. 01 – 15 Sa 384/01 unabhängig davon, ob Fragen schwerbehinderter AN anstehen und welche Themen auf der Tagesordnung stehen. sondern auch für Ausschusssitzungen des BR einschl. BA und WABAG 4. 6. 87 – 6 ABR 70/85. und den Arbeitsschutzausschuss (§ 178 Abs. 4 SGB IX). Weiterhin gilt die Vorschrift für die beratende Teilnahme an Sitzungen gemeinsamer Ausschüsse des BR und AG i. S. des § 28 Abs. 2BAG 21. 4. 93 – 7 ABR 44/92, AiB 94, 48. und für Besprechungen mit dem AG nach § 74 Abs. 1 (§ 178 Abs. 5 SGB IX). Die SBV ist zu jeder Sitzung mit Tagesordnung einzuladen.HessLAG 1. 11. 12 – 9 TaBV 156/12, brwo. Auch eine Teilnahme mittels Video- und/oder Telefonkonferenz (s. § 30 Rn. 3) ist sicherzustellen. Für die Teilnahme von Menschen mit Behinderungen ist die Nutzung von Video- und/oder Telefonkonferenzen barrierefrei, zum Beispiel im Sinne von § 4 BGG in Verbindung mit der Barrierefreien Informationstechnik Verordnung (BITV 2.0), durch den AG zugänglich und nutzbar zu gestalten. Eine Verpflichtung zur Teilnahme besteht jedoch nicht. Unterlässt der BR-Vors. die rechtzeitige Ladung,Zur Mustereinladung vgl. DKW-F-Wedde, § 32 Rn. 5 ff. handelt er pflichtwidrig. Ein Anspruch ergibt sich aber weder aus dieser Vorschrift noch aus dem SGB IX an allen Gesprächen beratend teilzunehmen, die zwischen BR, BR-Mitgl. und AG geführt werden.LAG SH 10. 9. 08 – 3 TaBV 26/08, AuR 09, 61 zu sog. zweiwöchigen Standardgesprächen.Ist die SBV auch gleichzeitig BR-Mitgl., kann eine zeitweilige Verhinderung nach § 25 eintreten, wenn sie sich in einer Interessenkollision befindet. Solche können jedoch schon nach der gesetzlichen Ausgangslage kaum entstehen. Falls sich ein Interessenkonflikt ausnahmsweise doch ergeben sollte, muss die SBV diesen gegenüber dem BR-Vors. anzeigen. Dies kann so geschehen, dass die Geheimhaltungspflicht gegenüber dem schwerbehinderten Menschen über persönliche Verhältnisse, die der vertraulichen Behandlung bedürfen, nicht verletzt wird. Für den Fall der Verhinderung ist durch den BR-Vors. ein Ersatzmitgl. für den Tagesordnungspunkt zu ladenHessLAG 1. 11. 12 – 9 TaBV 156/12, brwo. oder für die SBV nimmt der Vertreter den Tagesordnungspunkt wahr.Die SBV hat nicht das Recht, die Einberufung einer BR-Sitzung zu beantragen. Sie kann aber verlangen, Angelegenheiten, die einzelne schwerbehinderte Beschäftigte oder die schwerbehinderten Beschäftigten als Gruppe besonders betreffen, auf die Tagesordnung der nächsten BR-Sitzung zu setzen (§ 178 Abs. 4 SGB IX).
+150|117269§ 33 Beschlüsse des BetriebsratsbundimportedAsset##855b0292-fb66-4346-9dd4-175df22223f0Beschlüsse des Betriebsrats§ 33walhalla150|2295721§ 33Beschlüsse des Betriebsrats(1)Die Beschlüsse des Betriebsrats werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Betriebsratsmitglieder, die mittels Video- und Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt.(2)Der Betriebsrat ist nur beschlussfähig, wenn mindestens die Hälfte der Betriebsratsmitglieder an der Beschlussfassung teilnimmt; Stellvertretung durch Ersatzmitglieder ist zulässig.(3)Nimmt die Jugend- und Auszubildendenvertretung an der Beschlussfassung teil, so werden die Stimmen der Jugend- und Auszubildendenvertreter bei der Feststellung der Stimmenmehrheit mitgezählt.1.Ladung und BeschlussfassungNach der Konzeption des BetrVG handelt der BR als Kollegialorgan; er bildet seinen gemeinsamen Willen durch Beschluss. Voraussetzung für die Beschlussfassung ist die ordnungsgemäße Ladung aller BR-Mitgl. und aller Mitgl. der JAV, sofern diese im BR Stimmrecht hat (vgl. § 67), und die rechtzeitige Mitteilung der Tagesordnung (s. im Einzelnen § 29 Rn. 4 und 5).BAG, DB 04, 2220, vgl. Übersicht bei Wulff, AiB 08, 528. Unter einem Tagesordnungspunkt „Verschiedenes“ kann kein Beschluss gefasst werden.DKW-Wedde, § 29 Rn. 22. Für verhinderte BR-Mitgl. (z. B. bei einer Interessenkollision) sind Ersatzmitgl. zu laden (vgl. im Einzelnen § 25 Rn. 3 ff.; § 29 Rn. 5). Erfolgt die Ladung nicht, ist der BR an einer wirksamen Beschlussfassung gehindert.BAG, BB 93, 1433, LAG Hamm 11. 10. 07 – 13 TaBV 36/07, brwo; jetzt offengelassen von BAG 6. 11. 13 – 7 ABR 84/11 bei der Ladung von BR-Mitgl., da kein rechtlicher Verhinderungsgrund vorlag. Der Mangel der nicht rechtzeitigen Mitteilung oder die Notwendigkeit der Ergänzung der Tagesordnung kann nach neuester Auffassung des BAG dadurch behoben werden, dass alle BR-Mitgl. einschließlich erforderlicher Ersatz-Mitgl. rechtzeitig zur Sitzung geladen worden sind und die beschlussfähig (§ 33 Abs. 2 BetrVG) Erschienenen auf dieser Sitzung eine Ergänzung oder Erstellung der Tagesordnung einstimmig beschließen.BAG 15. 4. 14 – 1 ABR 2/13 (B). Zu den Einzelheiten s. § 29 Rn. 5. Die Vorschrift gilt ebenso für die Ausschüsse des BR, des GBR und KBR sowie für die JAV. Für den GBR und KBR gilt dagegen § 51 Abs. 3 bzw. § 59 Abs. 1 wegen der Stimmengewichtung im GBR bzw. KBR. Selbiges gilt gemäß § 73 Abs. 2 für die GJAV bzw. gemäß § 73b Abs. 2 für die KJAV.Eine ordnungsgemäße Beschlussfassung setzt weiterhin die Beschlussfähigkeit des BR voraus (vgl. Rn. 5).Zu den Zahlen zur Beschlussfähigkeit vgl. DKW-F-Wedde, § 33 Rn. 10. Diese muss bei jeder Abstimmung des BR bestehen und durch den Vors. jeweils erneut festgestellt werden. Sie sollte mit dem Abstimmungsergebnis für jede Abstimmung in der Sitzungsniederschrift vermerkt werden, sofern Veränderungen eingetreten sind.Vgl. DKW-Wedde, Rn. 7 f. Zu beachten ist aber, dass der Beschluss nicht durch die Protokollierung, sondern durch die Beschlussfassung wirksam wird. Das Protokoll dient lediglich Dokumentationszwecken.BAG 30. 9. 14 – 1 ABR 32/13, AiB 7–8/15, 59 mit Anm. Klimaschewski; LAG BB 7. 9. 12 – 10 TaBV 1297/12, brwo.Das BetrVG schreibt kein bestimmtes Abstimmungsprozedere vor. So reicht es aus, wenn der BR z. B. auf einen Beschluss der JAV Bezug nimmt und diesen „bestätigt“ und der BR ersichtlich damit eine eigene Entscheidung (Beschluss) treffen will.LAG Nds. 31. 1. 19 – 10 TaBVGa 6/19. Die Leitung der Sitzung erfolgt durch den Vors., der auch das Verfahren über die Beschlussfassung leitet und dessen Ergebnis festhält. Die Modalitäten des Verfahrens zur Durchführung von Beschlussfassungen können durch den Vors. als Sitzungsleiter oder durch den Betriebsrat als Organ (z. B. in der Geschäftsordnung) festgelegt werden. Deswegen steht einem einzelnen BR-Mitgl. auch nicht das Recht zu, vom BR ein konkret beschriebenes Verfahren zur Feststellung einer Mehrheit i. S. d. § 33 Abs. 1 Satz 1 zu verlangen.BAG 7. 6. 16 – 1 ABR 30/14.Zum in Zweifelziehen eines BR-Beschlusses durch den AG siehe §§ 26 Rn. 6; 29 Rn. 6.2.Unzulässigkeit von Umlaufverfahren, erforderliche MehrheitenEin Beschluss ist nach dem Gesetzeswortlaut nur bei Stimmenmehrheit der anwesenden Mitgl. wirksam getroffen worden, wenn also die BR-Mitgl. körperlich anwesend sind. In einigen Fällen bedarf jedoch ein Beschluss der Mehrheit der Stimmen der Mitgl. des BR (absolute Mehrheit), so nach §§ 13 Abs. 2 Nr. 3, 27 Abs. 1 und 2, 28 Abs. 1, 28a Abs. 1, 36, 50 Abs. 2, 107 Abs. 3.Eine BR-Sitzung einschl. einer Beschlussfassung per Video- und/oder Telefonkonferenz ist nunmehr nach dem BRMoGBGBl. 21 Teil 1, Nr. 32, S. 1762, in Kraft getreten am 18. 6. 21. unter den Voraussetzungen des neuen § 30 Abs. 2 zulässig (vgl. im Einzelnen § 30 Rn. 3). Nach Abs. 1 Satz 2 gelten BR-Mitgl., die mittels Video- und/oder Telefonkonferenz an der Beschlussfassung teilnehmen, als anwesend. Da auch weiterhin die Sitzungsniederschrift nach § 34 erstellt werden muss, empfiehlt es sich für den BR-Vors. vor einer Abstimmung den Beschlusswortlaut genau kund zu tun. Die Regelung bezieht sich nur auf Beschlüsse, deswegen können im Rahmen einer Video- und/oder Telefonkonferenz keine Wahlen (z. B. die Wahl des BR-Vors. bzw. seines Stellvertr., s. § 26 Rn. 1, 2) durchgeführt werden. Solche Entscheidungen des BR folgen eigenen Grundsätzen (s. §§ 26 Abs. 1, 27 Abs. 1 Satz 3 bis 5) und können nach wie vor nur im Rahmen einer Präsenzsitzung erfolgen.Wahlen sind in der Gesetzesbegründung nicht angesprochen; zu § 129 a. F. s. LAG BB 24. 8. 20 – 12 TaBVGa 1015/20; Däubler/Klebe, NZA 20, 545. Solange die technischen Voraussetzungen für eine geheime Abstimmung über Beschlüsse nicht im BR gegeben sind, sind Beschlüsse ausschließlich in Präsenzsitzungen zu fassen.Eine Beschlussfassung im UmlaufverfahrenBAG 16. 1. 03 – 2 AZR 707/01. sowie außerhalb von Sitzungen ist weiterhin unzulässig.LAG Köln 25. 11. 98 – 2 TaBV 38/98, AiB 99, 583; DKW-Wedde Rn. 10. Entsprechendes gilt für eine schriftliche, telegrafische, fernmündliche oder stillschweigende BeschlussfassungBAG 19. 1. 05 – 7 ABR 24/04; HessLAG 21. 2. 91 – 12 Sa 598/90 zum PersVG Hessen; Rudolph, CF 7–8/06, 58. sowie für eine Beschlussfassung per E-Mail. Stimmenthaltungen gelten als Ablehnung. Zur Beschlussfassung, dabei auch zu den Besonderheiten in Betrieben der Postunternehmen und der Deutschen Bahn AG.Vgl. DKW-Wedde, Rn. 19 ff. mit Beispielen aus der Praxis. In eigenen, persönlichen Angelegenheiten (z. B. Umgruppierung, Kündigung oder Ausschlussantrag) ist das unmittelbar betroffene BR-Mitgl. „rechtlich“ gehindert, an der Beratung und Beschlussfassung des BR teilzunehmen (vgl. § 25, Rn. 3).BAG 6. 11. 13 – 7 ABR 84/11; LAG Hamm 26. 1. 07 – 10 Sa 775/06. Für das verhinderte BR-Mitgl. ist ein Ersatzmitgl. zu laden. Die Nichtbeachtung dieser Pflicht führt zur Unwirksamkeit des Beschlusses (vgl. § 29 Rn. 5).Offengelassen von BAG 6. 11. 13 – 7 ABR 84/11. Das betroffene BR-Mitgl. hat jedoch Anspruch auf rechtliches Gehör.Der Inhalt eines Beschlusses muss hinreichend genau formuliert werden. Die Zustimmung des BR nach § 77 Abs. 4 Satz 2 muss sich auf den konkreten Einzelfall beziehen.BAG 27. 1. 04 – 1 AZR 148/03. Ein Beschluss nach § 99 Abs. 3 Satz 1 muss nicht die dem AG mitzuteilenden Zustimmungsverweigerungsgründe umfassen. Die Abfassung des
+
+
+
+---
+
+## Q-P1-AK-14  (subtask: procedural)
+
+### FRAGE
+Welche Möglichkeiten gibt es, im Betriebsrat Ausschüsse zu bilden oder Aufgaben zu delegieren?
+
+### REFERENZ
+Möglich ab 9 BR-Mitgliedern
+Delegation von Vorarbeit, nicht von Entscheidungen
+Spezialthemen effizient bearbeiten
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten ergeben sich folgende Möglichkeiten zur Bildung von Ausschüssen und zur Delegation von Aufgaben im Betriebsrat (BR), im Gesamtbetriebsrat (GBR) und im Konzernbetriebsrat (KBR):
+
+### 1. Betriebsausschuss (BA) gemäß § 27 BetrVG
+Der Betriebsausschuss ist ein spezielles Gremium, das insbesondere in größeren Betriebsräten vorgesehen ist.
+*   **Bildung:** In Betrieben mit mindestens neun BR-Mitgliedern ist die Bildung eines BA gesetzlich vorgeschrieben, um die laufenden Geschäfte zu führen [RREF1].
+*   **Aufgaben:**
+    *   **Laufende Geschäfte:** Der BA führt kraft Gesetzes die laufenden Geschäfte des BR (z. B. Vorbereitung von Sitzungen, Schriftverkehr, Entgegennahme von Anträgen) [RREF1].
+    *   **Selbstständige Erledigung:** Der BR kann dem BA durch schriftlichen Übertragungsbeschluss (qualifizierte Mehrheit) weitere Aufgaben zur selbstständigen Erledigung übertragen (z. B. personelle Einzelmaßnahmen nach §§ 99–105 BetrVG) [RREF1].
+*   **Besetzung:** Die Mitglieder werden nach den Grundsätzen der Verhältniswahl gewählt, sofern der BR so gewählt wurde, um den Minderheitenschutz zu gewährleisten [RREF1].
+
+### 2. Weitere Ausschüsse gemäß § 28 BetrVG
+Neben dem BA kann der BR Fachausschüsse für spezielle Sachaufgaben bilden.
+*   **Voraussetzung:** Möglich in Betrieben mit mehr als 100 Arbeitnehmern [RREF3].
+*   **Beispiele für Ausschüsse:**
+    *   Personalausschuss, Sozialausschuss [RREF4].
+    *   Ausschuss für Arbeitsschutz, Umweltfragen, Weiterbildung, Arbeitszeit, EDV/IT [RREF2], [RREF5].
+    *   Antidiskriminierungs-/Mobbingausschuss, Frauenförderungsausschuss [RREF2], [RREF5].
+*   **Aufgabenübertragung:** Der BR kann diesen Ausschüssen Aufgaben zur selbstständigen Erledigung übertragen. Dies bedarf eines schriftlichen Übertragungsbeschlusses [RREF2], [RREF3].
+*   **Besetzung:** Die Wahl der Mitglieder richtet sich nach § 27 Abs. 1 Satz 3 bis 5 BetrVG entsprechend [RREF3]. Die Größe wird durch BR-Beschluss festgelegt [RREF2].
+*   **Anwendung auf GBR und KBR:** Diese Regelungen gelten entsprechend für den Gesamtbetriebsrat (§ 51 BetrVG) und den Konzernbetriebsrat (§ 59 BetrVG) [RREF2], [RREF5].
+
+### 3. Gemeinsame Ausschüsse mit dem Arbeitgeber (§ 28 Abs. 2 BetrVG)
+Es können Ausschüsse gebildet werden, die paritätisch mit Mitgliedern des BR und Vertretern des Arbeitgebers besetzt sind.
+*   **Beispiele:** Wohnungsausschuss, Akkordausschuss, Ausschuss für Arbeitssicherheit oder Frauenförderung [RREF1].
+*   **Voraussetzung:** Die Übertragung von Aufgaben zur selbstständigen Entscheidung bedarf einer freiwilligen Übereinkunft zwischen BR und Arbeitgeber sowie der Schriftform [RREF1].
+*   **Beschlussfähigkeit:** Es muss sichergestellt sein, dass Beschlüsse nicht einseitig gegen die Stimmen der BR-Mitglieder gefasst werden können; mindestens zwei BR-Mitglieder müssen angehören [RREF1], [RREF4].
+*   **Empfehlung:** Oft wird empfohlen, dass solche Ausschüsse nur vorbereitende Tätigkeiten wahrnehmen und sich der BR die abschließende Entscheidung vorbehält [RREF1].
+
+### 4. Arbeitsgruppen gemäß § 28a BetrVG
+Eine neuere Möglichkeit ist die Bildung von Arbeitsgruppen.
+*   **Voraussetzung:** Betriebe mit mehr als 100 Arbeitnehmern [RREF3].
+*   **Rahmenvereinbarung:** Die Übertragung von Aufgaben erfolgt nach Maßgabe einer mit dem Arbeitgeber abzuschließenden Rahmenvereinbarung [RREF3].
+*   **Befugnisse:** Die Arbeitsgruppe kann im Rahmen übertragener Aufgaben Vereinbarungen mit dem Arbeitgeber schließen [RREF3].
+
+### 5. Besonderheiten bei kleinen Betriebsräten (< 9 Mitglieder)
+In kleineren Gremien sind die Möglichkeiten zur Delegation eingeschränkt.
+*   **Laufende Geschäfte:** Können auf den Vorsitzenden oder andere BR-Mitglieder übertragen werden (einfache Stimmenmehrheit) [RREF1].
+*   **Keine Geschäftsführenden Ausschüsse:** Die Bildung eines geschäftsführenden Ausschusses ist gesetzeswidrig, da dies nicht mit § 27 Abs. 3 im Einklang steht [RREF1].
+*   **Keine selbstständige Erledigung:** Weitere Aufgaben zur selbstständigen Erledigung (z. B. Teilnahme an Monatsgesprächen nach § 74 Abs. 1) dürfen nicht übertragen werden [RREF1].
+
+### 6. Grenzen der Aufgabenübertragung
+Nicht alle Aufgaben dürfen delegiert werden. Es gibt einen unantastbaren Kernbereich der Zuständigkeiten des Plenums.
+*   **Kernbereich:** Dazu zählen beispielsweise der Abschluss von Betriebsvereinbarungen (nur als Gesamtorgan möglich) und die Anrufung der Einigungsstelle [RREF1].
+*   **Bestimmtheitsgebot:** Der Umfang der übertragenen Aufgaben muss im Übertragungsbeschluss hinreichend bestimmt sein, damit der Zuständigkeitsbereich eindeutig feststeht [RREF1].
+*   **Widerruf:** Die Übertragung kann jederzeit eingeschränkt oder widerrufen werden [RREF1].
+
+### 7. Formelle Voraussetzungen und Beteiligung Dritter
+*   **Schriftform:** Übertragungsbeschlüsse zur selbstständigen Erledigung müssen schriftlich erfolgen und der Sitzungsniederschrift beigefügt werden [RREF2], [RREF3].
+*   **Hinzuziehung von Experten:** Sachkundige Arbeitnehmer (nicht BR-Mitglieder) und Gewerkschaftsbeauftragte können zur Mitarbeit hinzugezogen werden (beratende Stimme) [RREF2], [RREF5].
+*   **JAV und SBV:** Werden Themen behandelt, die Jugendliche, Auszubildende oder schwerbehinderte Menschen betreffen, sind die respective Vertretungen hinzuzuziehen [RREF2], [RREF5].
+*   **Geschäftsordnung:** In der Geschäftsordnung des BR können Festlegungen zur Gründung, Besetzung und zum Genehmigungsvorbehalt bei Ausschüssen getroffen werden [RREF4].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Klebe_BetrVG_BK.md (0.270)
+R 43/04; a. A. DKW-Wedde Rn. 24; Fitting Rn. 35. Wird eine Erhöhung der Zahl der Mitgl. des BA im Laufe der BR-Amtszeit notwendig, sind die weiteren Mitgl. des BA alle neu zu wählen, wenn die bisherigen Mitgl. nach den Grundsätzen der Verhältniswahl gewählt worden sind. Ansonsten würde der mit § 27 Abs. 1 Satz 3 bezweckte Minderheitenschutz beeinträchtigt.BAG 16. 3. 05 – 7 ABR 43/04. Eine isolierte Neuwahl nach den Grundsätzen der Mehrheitswahl kommt bei einer Erweiterung des BA nur dann in Frage, wenn die bisherigen weiteren Mitgl. des BA nach den Grundsätzen der Mehrheitswahl gewählt worden sind. Diese Grundsätze gelten entsprechend für die BR-Ausschüsse nach § 28 (§ 28 Rn. 2), die Freistellung von BR nach § 38 (§ 38 Rn. 8), den GBA (§ 51 Rn. 3) sowie den Konzernbetriebsausschuss (§ 59). Mangels Verweisung in §§ 51 Abs. 1 Satz 1, 59 Abs. 1 auf § 28 Abs. 1 Satz 2 gilt für die anderen Ausschüsse des GBR und KBR die Mehrheitswahl, nicht die Verhältniswahl.BAG 16. 3. 05 – 7 ABR 37/04. Der Minderheitenschutz reicht nicht weiter als die gesetzliche Regelung.Vgl. auch BAG 25. 5. 05 – 7 ABR 10/04.Gesetzesverstöße bei der Wahl der weiteren Mitglieder des BA müssen grundsätzlich in einem Wahlanfechtungsverfahren in entsprechender Anwendung des § 19 binnen einer Frist von zwei Wochen seit Bekanntgabe der Wahl gerichtlich geltend gemacht werden (vgl. § 26 Rn. 2).BAG, NZA 06, 445; BAG 17. 3. 05 – 2 AZR 275/04. Antragsbefugt ist an Stelle von drei Wahlberechtigten ein einzelnes BR-Mitgl.4.Geschäftsführung, laufende Geschäfte, Übertragung von AufgabenFür die Geschäftsführung des BA gelten entsprechend die §§ 29 ff. über die Geschäftsführung des BR. Der BA, der die laufenden Geschäfte des BR kraft Gesetzes führt, hat in diesem Rahmen einen eigenen originären Zuständigkeitsbereich (vgl. § 28 Rn. 1). Der BR ist aber nicht gehindert, jederzeit Einzelmaßnahmen der laufenden Geschäftsführung an sich ziehen und in die Geschäftsführung des BA einzugreifen.BAG 15. 8. 12 – 7 ABR 16/11, brwo. Er kann Beschlüsse des BA aufheben, sofern sie nicht bereits nach außen wirksam geworden sind.DKW-Wedde, Rn. 32; Fitting Rn. 66.Zu den laufenden Geschäften des BR, die Aufgabe des BA sind, gehören alle Angelegenheiten, die keines besonderen Beschlusses des BR bedürfen. Dazu zählen insbesondere regelmäßig interne, verwaltungsmäßige, organisatorische und ggf. wiederkehrende Aufgaben, die Vorbereitung von Sitzungen sowie von Betriebs-, Teil- und Abteilungsversammlungen, die Erledigung des Schriftverkehrs, Einholung und Erteilung von Auskünften, Entgegennahme von Anträgen von AN, Besprechungen mit dem AG oder Gew.BAG 15. 8. 12 – 7 ABR 16/11, brwo; vgl. DKW-Wedde, Rn. 35 ff. sowie Öffentlichkeitsarbeit.LAG BB 15. 2. 18 – 14 TaBV 675/17. Nicht dazu zählen die Einleitung eines arbeitsgerichtlichen Beschlussverfahrens, die Bestellung von Beisitzern einer Einigungsstelle.HessLAG 23. 9. 19 – 1 TaBV 62/19. sowie die Beauftragung eines Rechtsanwalts.LAG Düsseldorf 5. 8. 15 – 4 TaBVGa 6/15, AuR 15, 460 Ls.Zu den Aufgaben zur selbstständigen ErledigungBüchele/Stoffregen, AiB 9/20, 37. gehören regelmäßig Angelegenheiten aus dem Rechte- und Pflichtenkreis des BR im Verhältnis zur Belegschaft, insbesondere aber im Verhältnis zum AG, also die materiellen Mitwirkungs- und MBR im weitesten Sinne.BAG 15. 8. 12 – 7 ABR 16/11, brwo. Soweit es sich um privatisierte Postunternehmen handelt, können bestimmte Personalangelegenheiten nicht auf den BA übertragen werden, dieses bleibt der Beamtenvertretung im BR vorbehalten (§ 28 PostPersRG).Vgl. im Einzelnen Fitting, Rn. 75 sowie § 99 Rn. 316 ff. Die Ausübung der materiellen Mitwirkungs- und MBR des BR, z. B. nach §§ 87, 90, 98, 99 und 102, ist jedoch nur dann und insoweit Aufgabe des BA, wie sie diesem ausdrücklich durch den BR mit der qualifizierten Mehrheit der Stimmen seiner Mitgl. und gem. § 27 Abs. 2 Satz 3 durch schriftlichen Übertragungsbeschluss übertragen wurde (beachte § 33 Rn. 6).ArbG Köln 13. 1. 23 – 23 BV 67/22. So kann der BR seine Aufgaben bei personellen EinzelmaßnahmenLAG BB 21. 8. 14 – 10 TaBV 671/14. bzw. die Teilnahme an den Monatsgesprächen zwischen ihm und dem AG nach § 74 Abs. 1 dem BA übertragen.BAG 15. 8. 12 – 7 ABR 16/11, AiB 1/14, 64 mit Anm. Rudolph. Die Übertragung von Aufgaben zur selbstständigen Erledigung hat dort ihre Grenze, wo der BR nicht einmal mehr einen Kernbereich der gesetzlichen Befugnisse hat und durch eine umfassende Aufgabenübertragung zur Bedeutungslosigkeit verkümmert.BAG, NZA 05, 1064; AiB 94, 421; HessLAG 23. 9. 19 – 1 TaBV 62/19; vgl. DKW-Wedde, Rn. 37. Nach der Rspr. des BAGBAG 15. 8. 12 – 7 ABR 16/11, AiB 1/14, 64 mit Anm. Rudolph. ist bei der Beurteilung dieser Frage aber nicht auf einen einzelnen MB-Tatbestand, sondern auf den gesamten Aufgabenbereich des BR abzustellen. Eine BV kann der BR schon vom Gesetz her (§ 27 Abs. 2 Satz 2) nur als Gesamtorgan abschließen (vgl. aber § 28a Rn. 10) ebenso wie nur der BR die Einigungsstelle anrufen kann.LAG München 29. 10. 09 – 4 TaBV 62/09, brwo. In einer Geschäftsordnung des BR kann dem BA nicht die Bildung von Arbeitsgruppen nach § 28a und die Erledigungsbefugnis hinsichtlich der Angelegenheiten anderer Ausschüsse übertragen werden.HessLAG 24. 9. 09 – 9 TaBV 69/09, brwo. Zum Kernbereich zählt die Entscheidung nach § 37 Abs. 6, welches BR-Mitgl. an welcher Schulung teilnimmt.HessLAG 16. 11. 20 – 16 TaBV 107/20 zu einem Beschluss durch den Personalausschuss; a. A. ArbG Essen, EzA-Schnelldienst 9/2004, 13. Nach abzulehnender Auffassung des BAGBAG 17. 3. 05 – 2 AZR 275/04; ebenso HessLAG 17. 5. 18 – 9 Sa 294/17; LAG Nds., NZA-RR 09, 532 bejaht die rechtmäßige Errichtung eines Personalausschusses für BR-Mitgl. ist die Übertragung des Zustimmungsrechts des BR zur außerordentlichen Kündigung eines Wahlbewerbers nach § 103 auf den BA oder einen Ausschuss nach § 28 grundsätzlich zulässig. Im schriftlichen Übertragungsbeschluss sind die übertragenen Befugnisse so genau zu umschreiben, dass der Zuständigkeitsbereich des Ausschusses eindeutig feststeht.BAG 17. 3. 05 – 2 AZR 275/04; LAG RP 17. 6. 15 – 4 Sa 216/14; zu einem Musterbeschluss vgl. DKW-F-Wedde, § 27 Rn. 24. Dabei reicht es aus, wenn im Übertragungsbeschluss die betreffende Norm durch Mitteilung des Paragrafen zur Benennung des übertragenen Rechts angegeben ist (z. B.: „personelle Einzelmaßnahmen nach §§ 99–105 BetrVG“). Die Übertragung bedarf der Schriftform und kann jederzeit eingeschränkt oder widerrufen werden.ArbG Köln 13. 1. 23 – 23 BV 67/22; vgl. im Übrigen DKW-Wedde, Rn. 40 ff.5.Betriebsrat mit weniger als neun MitgliedernBei weniger als neun Mitgl. können die laufenden Geschäfte auf den Vors. oder andere BR-Mitgl. übertragen werden. Dazu bedarf es eines mit einfacher Stimmenmehrheit zu fassenden Beschlusses. Demgegenüber ist die Bildung eines geschäftsführenden Ausschusses in Betrieben mit weniger als neun BR-Mitgl. gesetzeswidrig, da dieser nicht im Einklang mit § 27 Abs. 3 steht (s. § 28 Rn. 1).BAG 14. 8. 13 – 7 ABR 66/11, brwo; DKW-Wedde, § 28 Rn. 11. Zu den laufenden Geschäften in kleineren Betrieben gehört auch das Einblicksrecht in die Bruttolohn- und Gehaltslisten.BAG 23. 2. 73, 18. 9. 73, AP Nrn. 2, 3 zu § 80 BetrVG 1972. Über die laufende Geschäftsführung hinaus kann der BR jedoch nicht weitere Aufgaben zur selbstständigen Erledigung auf den Vors. oder andere BR-Mitgl. übertragen. So ist eine Übertragung der Teilnahme an den Monatsgesprächen nach § 74 Abs. 1 nicht zulässig.ArbG Bielefeld 11. 6. 08 – 6 BV 37/08.
+150|117263§ 28 Übertragung von Aufgaben auf AusschüssebundimportedAsset##fc35cc9d-6c67-4684-b966-4a25ed67a35cÜbertragung von Aufgaben auf Ausschüsse§ 28walhalla150|1523770§ 28Übertragung von Aufgaben auf Ausschüsse(1)Der Betriebsrat kann in Betrieben mit mehr als 100 Arbeitnehmern Ausschüsse bilden und ihnen bestimmte Aufgaben übertragen. Für die Wahl und Abberufung der Ausschussmitglieder gilt § 27 Abs. 1 Satz 3 bis 5 entsprechend. Ist ein Betriebsausschuss gebildet, kann der Betriebsrat den Ausschüssen Aufgaben zur selbständigen Erledigung übertragen; § 27 Abs. 2 Satz 2 bis 4 gilt entsprechend.(2)Absatz 1 gilt entsprechend für die Übertragung von Aufgaben zur selbständigen Entscheidung auf Mitglieder des Betriebsrats in Ausschüssen, deren Mitglieder vom Betriebsrat und vom Arbeitgeber benannt werden.1.GrundsätzeDer DGB-Entwurf für ein modernes BetrVG fordert einen neuen Abs. 3, wonach in Betrieben, in denen nach Abs. 1 Ausschüsse gebildet werden können, insbesondere ein paritätisch besetzter Gleichstellungsausschuss und ein Umweltausschuss gegründet werden sollen.https://aur-blog.eu/reformvorschlag/.Unabhängig vom Bestehen eines BA nach § 27 kann der BR in Betrieben mit mehr als 100 AN (vgl. § 5 Rn. 1 ff.; § 7 Rn. 4 ff.) Ausschüsse bilden und ihnen Aufgaben übertragen.Zu Musterbeschlüssen vgl. DKW-F-Wedde, § 28 Rn. 6 ff. Dabei sind Leih-AN gem. § 14 Abs. 2 Satz 4 AÜG zu berücksichtigen (im Einzelnen § 38 Rn. 1). Nach Auffassung des Gesetzgebers sollen dadurch die BR die Möglichkeit erhalten, „die BR-Arbeit besser und effektiver zu strukturieren und zu erledigen, indem sie für bestimmte Angelegenheiten Fachausschüsse bilden können, die für fachspezifische Themen zuständig sind und diese für eine sachgerechte Beschlussfassung im BR vorbereiten.“BT-Drucks. 14/5741, S. 39/40. Es steht dem BR grundsätzlich frei zu entscheiden, ob und inwieweit er Aufgaben auf Ausschüsse überträgt (zu den Einzelheiten s. § 27 Rn. 7). Nach Auffassung des BAGBAG 14. 8. 13 – 7 ABR 66/11, brwo. ist nach § 28 Abs. 1 Satz 1 nur die Bildung von Fachausschüssen möglich, denen fachspezifische Aufgaben übertragen werden können. Das ermöglicht aber nicht die Bildung eines Ausschusses für Öffentlichkeitsarbeit, da diese zu den laufenden Geschäften gehört wie beispielsweise die Vorbereitung von Betriebsversammlungen.LAG BB 15. 2. 18 – 14 TaBV 675/17, juris. Die Öffentlichkeitsarbeit gehört in die Hand des BR bzw. BA. Die Bildung eines geschäftsführenden Ausschusses, der im Sinn von § 27 Abs. 2 Satz 1 BetrVG die laufenden Geschäfte des BR führt oder auch nur die Sitzungsvorbereitungen wahrnimmt, ist nach § 28 nicht möglich (vgl. auch § 27 Rn. 8).BAG 14. 8. 13 – 7 ABR 66/11, brwo; DKW-Wedde Rn. 11; Fitting Rn. 7. Das steht kraft Gesetzes dem BA zu. Nur wenn der BR aus wenigstens 9 Mitgl. besteht, ist die Bildung von Ausschüssen möglich, denen bestimmte Aufgaben zur selbstständigen Erledigung übertragen werden können, z. B. ein Personal- oder Sozialausschuss.Vgl. auch BAG, NZA 85, 96. Der Umfang der Aufgabenübertragung muss so hinreichend bestimmt sein, dass der Zuständigkeitsbereich des Ausschusses eindeutig feststeht. Zweifelsfrei muss feststellbar sein, in welchen Angelegenheiten der Ausschuss anstelle des BR rechtsverbindliche Beschlüsse fassen kann.BAG, NZA 05, 1064. Dabei können Grundlagenentscheidungen nicht übertragen werden (vgl. § 27 Rn. 7).Neben den gesetzlich vorgesehenen Ausschüssen des BR nach §§ 27 sowie 28 können durch BV auch andere, nicht im BetrVG vorgesehene Ausschüsse errichtet werden.BAG 15. 1. 92 – 7 ABR 24/91, AiB 93, 234; Fitting, Rn. 12. Aber auch ohne BV können z. B. Koordinationsausschüsse, die nur für bestimmte räumlich abgegrenzte Teile des Betriebes eine Zuständigkeit besitzen, auf Grund einer Geschäftsordnung des BR gebildet werden.LAG BaWü 10. 4. 13 – 2 TaBV 6/12, brwo, die Rechtsbeschwerde hat das BAG 27. 5. 15 – 7 ABR 24/13 mangels Feststellungsinteresse zurückgewiesen. Ebenso kann der BR Hilfspersonen als sog. Kommunikationsbeauftragte hinzuziehen, die ihn bei der Kommunikation mit der Belegschaft unterstützen sollen, wenn der Einsatz dieser Hilfspersonen auf die Hilfstätigkeit der Informationsvermittlung zwischen BR und Belegschaft beschränkt ist, und eine direkte Kommunikation zwischen BR und Belegschaft dadurch nicht verhindert wird.BAG 29. 4. 15 – 7 ABR 102/12, AiB 1/16, 60. Nach § 11 ASiG ist der AG zur Bildung eines Arbeitsschutzausschusses verpflichtet. Nach abzulehnender Auffassung des BAGBAG, 15. 4. 14 – 1 ABR 82/12, DB 14, 1747. wird dadurch jedoch kein Anspruch des BR gegen den AG auf Bildung eines solchen Ausschusses begründet. Vielmehr habe der BR nach § 89 Abs. 1 Satz 2 die zuständige Arbeitsschutzbehörde zu ersuchen, gegenüber dem AG die Verpflichtungen aus § 11 ASiG im Wege einer Anordnung nach § 12 Abs. 1 ASiG durchzusetzen.Für die Wahl, Abberufung und Anfechtung der Wahl von Ausschussmitgl. sowie zur Übertragung von Aufgaben zur selbstständigen Erledigung an einen Ausschuss gelten die gleichen Grundsätze wie für den BA (vgl. § 27 Rn. 1 ff., 7). Entsprechendes gilt auch für das Teilnahmerecht der JAV und der SBV (vgl. § 32 Rn. 1) sowie für die Hinzuziehung des Gew.-Beauftragten zu den Sitzungen der Ausschüsse, einschließlich der gemeinsamen Ausschüsse.BAG, AiB 94, 48. Für die Ausschüsse ist keine bestimmte Größe vorgeschrieben.Vgl. ergänzend DKW-Wedde, Rn. 12. Alle Mitgl. eines Ausschusses, die Mitgl. des BR sein müssen, sind zu wählen. Die Geschäftsordnung eines BR kann nicht bestimmen, dass der BR-Vors. und sein Stellvertr. geborene Mitgl. eines Ausschusses sind.BAG, DB 06, 731.2.Gemeinsamer Ausschuss mit dem ArbeitgeberDie Bildung von gemeinsamen Ausschüssen nach Abs. 2 ist nicht davon abhängig, ob weitere Ausschüsse i. S. dieser Vorschrift bestehen.BAG, NZA 94, 567; DKW-Wedde, Rn. 20. Wenn einem solchen Ausschuss Aufgaben zur selbständigen Entscheidung übertragen werden sollen, bedarf die Übertragung einer freiwilligen Übereinkunft zwischen BR und AG, d. h. der Mehrheit der Stimmen der BR-Mitgl. und der Schriftform, wobei der Umfang der übertragenen Aufgaben hinreichend bestimmt sein muss.LAG RP 27. 11. 12 – 3 Sa 294/12, juris, zu einer paritätisch besetzten Kommission „Personalstandssteuerung“. Die Bildung eines gemeinsamen Ausschusses mit Entscheidungsbefugnis kann nicht durch Spruch einer Einigungsstelle erfolgen.BAG 22. 3. 16 – 1 ABR 14/14, AiB 11/16, 60. Wird ein Ausschuss gemeinsam aus Mitgl. des BR und Vertr. des AG gebildet, z. B. ein Wohnungs- oder Akkordausschuss bzw. Ausschuss für Arbeitssicherheit oder UmweltschutzTeichert, AiB 94, 229. oder zur Frauenförderung, ist anzuraten, dass der gemeinsame Ausschuss nur vorbereitende Tätigkeiten wahrnimmt und der BR sich die abschließende Entscheidung vorbehält. Bei einer Übertragung von Aufgaben zur selbstständigen Erledigung auf die Mitglieder des BR im Ausschuss muss eine paritätische Besetzung des Ausschusses sichergestellt werden.Zu einem Musterbeschluss vgl. DKW-F-Wedde, § 28 Rn. 13. Nur so können Beteiligungs- und MBR des BR gesichert werden. Der BR sollte durch Beschluss die Modalitäten der Beratung und Beschlussfassung in gemeinsamen Ausschüssen festlegen. Voraussetzung für einen Beschluss im Ausschuss ist auf jeden Fall, dass die Mehrheit der vom BR entsandten Mitgl. im Ausschuss zugestimmt hat. Dem gemeinsamen Ausschuss müssen mindestens zwei BR-Mitgl. angehören.BAG, NZA 94, 567. Sind den BR-Mitgl. in einem paritätischen Ausschuss die Mitwirkungsrechte bei Kündigungen nach §
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.298)
+#### 6. Weitere Ausschüsse
+
+Um eine wirksame Arbeit zu gewährleisten, bildet der Gesamtbetriebsrat für besondere Sachaufgaben gemäß § 28 BetrVG Ausschüsse. Auf Beschluss des Gesamtbetriebsrats (Mehrheitsbeschluss) können den Ausschüssen Aufgaben zur selbstständigen Erledigung übertragen werden. Der jeweilige Übertragungsbeschluss hat schriftlich zu erfolgen und ist der jeweiligen Sitzungsniederschrift beizufügen.
+
+Der Gesamtbetriebsrat bildet zur Erledigung besonderer Aufgaben zurzeit folgende Ausschüsse:
+
+- Antidiskriminierungs-/Mobbingausschuss
+- Arbeitszeitausschuss
+- Ausschuss für Weiterbildung und Qualifizierung im Unternehmen
+- Frauenförderungsausschuss
+- Ausschuss für Umweltfragen und Arbeitsschutz
+- EDV-, Internet-/Intranetausschuss
+- (…)
+
+Die Größe der weiteren Ausschüsse wird durch Beschluss des Gesamtbetriebsrats festgelegt und orientiert sich an dem Umfang der zu erwartenden anfallenden Aufgaben. Die Wahl der Ausschussmitglieder richtet sich nach den gesetzlichen Bestimmungen (§ 28 Absatz 1 Satz 1 und 3 i. V. m. § 27 Abs. 1 Satz 3 bis 5 BetrVG).
+
+Jederzeit können zur Mitarbeit in den Ausschüssen sachkundige Arbeitnehmer, die nicht Mitglied des Betriebsrats sind, sowie Beauftragte der Gewerkschaft {{Bezeichnung}} hinzugezogen werden. Sie haben beratende Stimme.
+
+Werden in den Ausschüssen Themen behandelt, die insbesondere Auszubildende, jugendliche oder schwerbehinderte Arbeitnehmer-/innen betreffen, sind die Mitglieder der JAV bzw. der Schwerbehindertenvertretung hinzuzuziehen.
+
+Zur Erledigung zeitlich befristeter Aufgaben kann der Gesamtbetriebsrat weitere Ausschüsse nach §§ 51, 28 BetrVG bilden. Die Größe der jeweiligen Ausschüsse wird durch Beschluss des Gesamtbetriebsrats festgelegt und orientiert sich an dem Umfang der zu erwartenden anfallenden Aufgaben. Die Wahl der {{kasten}} Ausschussmitglieder richtet sich nach den gesetzlichen Bestimmungen (§ 51 und § 28 Absatz 1 Satz 1 und 3 i. V. m. § 27 Abs. 1 Satz 3 bis 5 BetrVG).
+
+An den Sitzungen der weiteren Ausschüsse kann ein Vertreter der Gewerkschaft {{Bezeichnung}} teilnehmen.
+
+[RREF3] BetrVG.pdf p.12,y:918 (0.314)
+## § 28 Übertragung von Aufgaben auf Ausschüsse
+- (1) Der Betriebsrat kann in Betrieben mit mehr als 100 Arbeitnehmern Ausschüsse bilden und ihnen bestimmte Aufgaben übertragen. Für die Wahl und Abberufung der Ausschussmitglieder gilt § 27 Abs. 1 Satz 3 bis 5 entsprechend. Ist ein Betriebsausschuss gebildet, kann der Betriebsrat den Ausschüssen Aufgaben zur selbständigen Erledigung übertragen; § 27 Abs. 2 Satz 2 bis 4 gilt entsprechend.
+- (2) Absatz 1 gilt entsprechend für die Übertragung von Aufgaben zur selbständigen Entscheidung auf Mitglieder des Betriebsrats in Ausschüssen, deren Mitglieder vom Betriebsrat und vom Arbeitgeber benannt werden.
+## § 28a Übertragung von Aufgaben auf Arbeitsgruppen
+
+[Y 755]: #
+- (1) In Betrieben mit mehr als 100 Arbeitnehmern kann der Betriebsrat mit der Mehrheit der Stimmen seiner Mitglieder bestimmte Aufgaben auf Arbeitsgruppen übertragen; dies erfolgt nach Maßgabe einer mit dem Arbeitgeber abzuschließenden Rahmenvereinbarung. Die Aufgaben müssen im Zusammenhang mit den von der Arbeitsgruppe zu erledigenden Tätigkeiten stehen. Die Übertragung bedarf der Schriftform. Für den Widerruf der Übertragung gelten Satz 1 erster Halbsatz und Satz 3 entsprechend.
+- (2) Die Arbeitsgruppe kann im Rahmen der ihr übertragenen Aufgaben mit dem Arbeitgeber Vereinbarungen schließen; eine Vereinbarung bedarf der Mehrheit der Stimmen der Gruppenmitglieder. § 77 gilt entsprechend. Können sich Arbeitgeber und Arbeitsgruppe in einer Angelegenheit nicht einigen, nimmt der Betriebsrat das Beteiligungsrecht wahr.
+
+[Y 604]: #
+## § 29 Einberufung der Sitzungen
+- (1) Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand die Mitglieder des Betriebsrats zu der nach § 26 Abs. 1 vorgeschriebenen Wahl einzuberufen. Der Vorsitzende des Wahlvorstands leitet die Sitzung, bis der Betriebsrat aus seiner Mitte einen Wahlleiter bestellt hat.
+- (2) Die weiteren Sitzungen beruft der Vorsitzende des Betriebsrats ein. Er setzt die Tagesordnung fest und leitet die Verhandlung. Der Vorsitzende hat die Mitglieder des Betriebsrats zu den Sitzungen rechtzeitig unter Mitteilung der Tagesordnung zu laden. Dies gilt auch für die Schwerbehindertenvertretung sowie für die Jugend- und Auszubildendenvertreter, soweit sie ein Recht auf Teilnahme an der Betriebsratssitzung haben. Kann ein Mitglied des Betriebsrats oder der Jugend- und Auszubildendenvertretung an der Sitzung nicht teilnehmen, so soll es dies unter Angabe der Gründe unverzüglich dem Vorsitzenden mitteilen. Der Vorsitzende hat für ein verhindertes Betriebsratsmitglied oder für einen verhinderten Jugend- und Auszubildendenvertreter das Ersatzmitglied zu laden.
+- (3) Der Vorsitzende hat eine Sitzung einzuberufen und den Gegenstand, dessen Beratung beantragt ist, auf die Tagesordnung zu setzen, wenn dies ein Viertel der Mitglieder des Betriebsrats oder der Arbeitgeber beantragt.
+- (4) Der Arbeitgeber nimmt an den Sitzungen, die auf sein Verlangen anberaumt sind, und an den Sitzungen, zu denen er ausdrücklich eingeladen ist, teil. Er kann einen Vertreter der Vereinigung der Arbeitgeber, der er angehört, hinzuziehen.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.323)
+#### § 5 Weitere Ausschüsse des Betriebsrats
+
+> #### **Hinweis:**
+>
+> In der GO können Festlegungen dazu erfolgen, welche weiteren Ausschüsse des Betriebsrats gemäß § 28 BetrVG im Regelfall gegründet werden sollen und wie diese personell besetzt sein sollen (1.). Zur inhaltlichen Ausgestaltung von Ausschüssen können Festlegungen erfolgen, die denen des Betriebsausschusses entsprechen. Deshalb ist ein Verweis auf § 4 sinnvoll (2.). In der GO können auch Regelungen zur möglichen Übertragung von Aufgaben zur selbstständigen Erledigung enthalten sein (3.). Diese können ggf. unter „Genehmigungsvorbehalt“ von Seiten des Betriebsrats gestellt werden (4.). Da der Betriebsratsvorsitzende - anders als beim Betriebsausschuss - nicht zwingend Mitglied bzw. Vorsitzender der Ausschüsse gemäß § 28 BetrVG sein muss, sollte die GO weiterhin Regelungen zur Bestimmung eines Ausschussvorsitzenden und seines Stellvertreters enthalten (5.).
+
+1. Der Betriebsrat richtet die folgenden Ausschüsse gemäß § 28 BetrVG ein:
+
+- Personalausschuss
+- {{kasten}}
+
+Die eingerichteten Ausschüsse sollen mit jeweils {{kasten}} Betriebsratsmitgliedern besetzt sein.
+
+{{Alternativ differenzierte Angaben:}}
+
+Der Ausschuss {{kasten}} wird mit {{kasten}} Betriebsratsmitgliedern und der Ausschuss {{kasten}} wird mit {{kasten}} Betriebsratsmitgliedern besetzt.
+
+2. Für die Wahrnehmung von Aufgaben durch die Ausschüsse gelten die übrigen Regelungen dieser GO direkt bzw. entsprechend.
+
+3. Eine selbstständige Erledigung von Aufgaben in den Ausschüssen darf nur erfolgen, wenn ein entsprechender Übertragungsbeschluss des Betriebsrats vorliegt.
+
+4. Soweit der Ausschuss zur selbstständigen Erledigung von Aufgaben berechtigt ist, muss er in den folgenden Bereichen vor einer endgültigen Beschlussfassung eine Zustimmung des Betriebsrats herbeiführen: {{kasten}}.
+
+5. Die Ausschüsse wählen in ihrer konstituierenden Sitzung aus dem Kreis ihrer Mitglieder einen Vorsitzenden und einen Stellvertreter.
+
+> #### **Hinweis:**
+>
+> Ggf. können in der GO auch entsprechende Festlegungen für einen gemeinsamen Ausschuss erfolgen. Hier bieten sich insbesondere Regelungen zur Begrenzung der Beschlusskompetenz der Betriebsratsmitglieder an, um diese vor „Überraschungen“ zu schützen (6.).
+
+6. Werden gemeinsame Ausschüsse mit dem Arbeitgeber gegründet, ist sicherzustellen, dass in diesen Beschlüssen von den Vertretern des Arbeitgebers nicht einseitig gegen die Stimmen der Betriebsratsmitglieder gefasst werden können.
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.323)
+#### 5. Weitere Ausschüsse
+
+Um eine wirksame Arbeit zu gewährleisten, bildet der Konzernbetriebsrat für besondere Sachaufgaben gemäß § 59 Abs. 1 i. V. m. § 28 BetrVG Ausschüsse. Auf Beschluss des Konzernbetriebsrats (Mehrheitsbeschluss) können den Ausschüssen Aufgaben zur selbstständigen Erledigung übertragen werden. Der jeweilige Übertragungsbeschluss hat schriftlich zu erfolgen und ist der jeweiligen Sitzungsniederschrift beizufügen.
+
+Der Konzernbetriebsrat bildet zur Erledigung besonderer Aufgaben zurzeit folgende Ausschüsse:
+
+- Ausschuss für wirtschaftliche Angelegenheiten
+- Ausschuss betriebliche Altersversorgung
+- Antidiskriminierungs-/Mobbing-Ausschuss
+- Ausschuss für Arbeitsschutz
+- Arbeitszeitausschuss
+- Ausschuss für Weiterbildung und Qualifizierung im Konzern
+- Ausschuss für Geschlechtergleichstellung im Konzern
+- Ausschuss für Umwelt und Nachhaltigkeit
+- Altersteilzeit-Ausschuss
+- IT-Ausschuss
+- (…)
+
+Die Größe der weiteren Ausschüsse wird durch Beschluss des Konzernbetriebsrats festgelegt und orientiert sich an dem Umfang der zu erwartenden anfallenden Aufgaben. Die Wahl der Ausschussmitglieder richtet sich nach den gesetzlichen Bestimmungen (§ 59 iVm. § 28 Abs. 1 Satz 1 und 3 i. V. m. § 27 Abs. 1 Satz 3 bis 5 BetrVG).
+
+Zur Mitarbeit in den Ausschüssen können jederzeit sachkundige Arbeitnehmer:innen, die nicht Mitglied des Betriebsrats sind, sowie Sachverständige der Gewerkschaft {{Bezeichnung}} hinzugezogen werden. Sie haben beratende Stimme.
+
+Werden in den Ausschüssen Themen behandelt, die insbesondere Auszubildende, Jugendliche oder Schwerbehinderte betreffen, so sind die Mitglieder der Konzern-Jugend- und Auszubildendenvertretung bzw. der Konzernschwerbehindertenvertretung hinzuzuziehen.
+
+Zur Erledigung zeitlich befristeter Aufgaben kann der Konzernbetriebsrat weitere Ausschüsse nach § 28 BetrVG bilden. Die Größe der jeweiligen Ausschüsse wird durch Beschluss des Konzernbetriebsrats festgelegt und orientiert sich an dem Umfang der zu erwartenden anfallenden Aufgaben. Die Wahl der Ausschussmitglieder richtet sich nach den gesetzlichen Bestimmungen (§§ 59 i. V. m. § 28 Absatz 1 Satz 1 und 3 i. V. m. § 27 Abs. 1 Satz 3 bis 5 BetrVG).
+
+An den Sitzungen der weiteren Ausschüsse kann eine Vertretung der Gewerkschaft {{Bezeichnung}} teilnehmen.
+
+
+
+---
+
+## Q-P1-AK-15  (subtask: paragraph_knowledge)
+
+### FRAGE
+Wie ist die Freistellung von Betriebsräten bei der Arbeit geregelt?
+
+### REFERENZ
+Anspruch auf erforderliche Arbeitsbefreiung
+Teilfreistellungen ab bestimmter Betriebsgröße
+Vollfreistellungen ab 200 Beschäftigten
+
+### MODELLANTWORT
+
+
+Die Freistellung von Betriebsratsmitgliedern von ihrer beruflichen Tätigkeit ist im Betriebsverfassungsgesetz (BetrVG) primär in den §§ 37 und 38 geregelt. Sie unterscheidet zwischen der erforderlichen Freistellung für einzelne Aufgaben und der gesetzlichen Mindestfreistellung abhängig von der Betriebsgröße.
+
+Hier ist eine Übersicht der Regelungen basierend auf den vorliegenden Dokumenten:
+
+### 1. Mindestfreistellung nach Betriebsgröße (§ 38 Abs. 1 BetrVG)
+Ab einer bestimmten Anzahl von Arbeitnehmern im Betrieb hat der Betriebsrat einen Anspruch auf eine Mindestanzahl von vollständig oder teilweise freigestellten Mitgliedern. Die gestaffelten Grenzen sind wie folgt geregelt [RREF1]:
+
+*   **200 bis 500 Arbeitnehmer:** 1 Betriebsratsmitglied
+*   **501 bis 900 Arbeitnehmer:** 2 Betriebsratsmitglieder
+*   **901 bis 1.500 Arbeitnehmer:** 3 Betriebsratsmitglieder
+*   **1.501 bis 2.000 Arbeitnehmer:** 4 Betriebsratsmitglieder
+*   **2.001 bis 3.000 Arbeitnehmer:** 5 Betriebsratsmitglieder
+*   **3.001 bis 4.000 Arbeitnehmer:** 6 Betriebsratsmitglieder
+*   **4.001 bis 5.000 Arbeitnehmer:** 7 Betriebsratsmitglieder
+*   **5.001 bis 6.000 Arbeitnehmer:** 8 Betriebsratsmitglieder
+*   **6.001 bis 7.000 Arbeitnehmer:** 9 Betriebsratsmitglieder
+*   **7.001 bis 8.000 Arbeitnehmer:** 10 Betriebsratsmitglieder
+*   **8.001 bis 9.000 Arbeitnehmer:** 11 Betriebsratsmitglieder
+*   **9.001 bis 10.000 Arbeitnehmer:** 12 Betriebsratsmitglieder
+*   **Über 10.000 Arbeitnehmer:** Für je angefangene weitere 2.000 Arbeitnehmer ein weiteres Mitglied [RREF1].
+
+Freistellungen können auch als **Teilfreistellungen** erfolgen, dürfen jedoch zusammengenommen den Umfang der gesetzlichen Mindestfreistellungen nicht überschreiten. Abweichende Regelungen sind durch Tarifvertrag oder Betriebsvereinbarung möglich [RREF1].
+
+### 2. Erforderliche Freistellung für Aufgaben (§ 37 Abs. 2 BetrVG)
+Unabhängig von der Betriebsgröße sind Betriebsratsmitglieder von ihrer beruflichen Tätigkeit ohne Minderung des Arbeitsentgelts zu befreien, **wenn und soweit es zur ordnungsgemäßen Durchführung ihrer Aufgaben erforderlich ist** [RREF5]. Dies betrifft beispielsweise die Aufbereitung personeller Einzelmaßnahmen (§ 99 BetrVG) oder die Erstellung von Konzepten zur Beschäftigungssicherung [RREF3].
+
+### 3. Verfahren zur Bestimmung der freizustellenden Mitglieder (§ 38 Abs. 2 BetrVG)
+*   **Auswahl:** Die freizustellenden Mitglieder werden vom Betriebsrat aus seiner Mitte in geheimer Wahl nach den Grundsätzen der Verhältniswahl gewählt (bei nur einem Wahlvorschlag nach Mehrheitswahl) [RREF1].
+*   **Beratung:** Der Betriebsrat hat die Namen dem Arbeitgeber bekanntzugeben. Eine Beratung mit dem Arbeitgeber ist vorgesehen [RREF1], [RREF2].
+*   **Widerspruch des Arbeitgebers:** Hält der Arbeitgeber eine Freistellung für **sachlich nicht vertretbar**, kann er innerhalb von **zwei Wochen** nach Bekanntgabe die Einigungsstelle anrufen. Der Spruch der Einigungsstelle ersetzt die Einigung. Ruft der Arbeitgeber die Einigungsstelle nicht an, gilt sein Einverständnis nach Ablauf der Frist als erteilt [RREF1].
+*   **Rechtsanspruch:** Der Anspruch auf die Mindestzahl der Freistellungen ist eine Rechtsfrage, die nicht der sachlichen Vertretbarkeit durch den Arbeitgeber unterliegt. Bei Verweigerung kann ein Beschlussverfahren beim Arbeitsgericht eingeleitet werden [RREF4].
+
+### 4. Schulung und Bildung (§ 37 Abs. 6 und 7 BetrVG)
+*   **Notwendige Kenntnisse:** Die Freistellung gilt entsprechend für Schulungs- und Bildungsveranstaltungen, die Kenntnisse vermitteln, welche für die Arbeit des Betriebsrats erforderlich sind [RREF5].
+*   **Gesetzlicher Anspruch:** Jedes Mitglied hat während der regelmäßigen Amtszeit Anspruch auf bezahlte Freistellung für insgesamt **drei Wochen** zur Teilnahme an anerkannten Schulungen. Für erstmalige Amtsinhaber (ohne vorherige Tätigkeit als Jugendvertreter) erhöht sich dieser Anspruch auf **vier Wochen** [RREF5].
+
+### 5. Vergütung und Beschäftigungsschutz
+*   **Arbeitsentgelt:** Das Arbeitsentgelt darf einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nicht geringer bemessen werden als das vergleichbarer Arbeitnehmer mit betriebsüblicher beruflicher Entwicklung (§ 37 Abs. 4 BetrVG) [RREF5]. Für langjährig freigestellte Mitglieder (drei volle aufeinanderfolgende Amtszeiten) erhöht sich dieser Schutzzeitraum auf **zwei Jahre** [RREF1].
+*   **Beschäftigung:** Soweit keine zwingenden betrieblichen Notwendigkeiten entgegenstehen, dürfen Mitglieder des Betriebsrats (und ein Jahr danach) nur mit Tätigkeiten beschäftigt werden, die den Tätigkeiten vergleichbarer Arbeitnehmer gleichwertig sind (§ 37 Abs. 5 BetrVG) [RREF5]. Auch hier gilt die Verlängerung auf zwei Jahre bei drei aufeinanderfolgenden Amtszeiten [RREF1].
+*   **Berufliche Entwicklung:** Innerhalb eines Jahres (bzw. zwei Jahre bei drei Amtszeiten) nach Beendigung der Freistellung ist dem Mitglied Gelegenheit zu geben, eine wegen der Freistellung unterbliebene betriebsübliche berufliche Entwicklung nachzuholen [RREF1].
+
+### 6. Praktische Umsetzung
+Zur Umsetzung der Freistellung nutzt der Betriebsrat interne Beschlüsse und korrespondiert mit dem Arbeitgeber. Vorlagen sehen beispielsweise vor:
+*   **Beschlussvorlagen:** Zur vollständigen oder prozentualen Teilfreistellung bestimmter Mitglieder [RREF2].
+*   **Einladung zur Beratung:** Schriftliche Einladung des Arbeitgebers zur Betriebsratssitzung zwecks Beratung über die Freistellung [RREF2], [RREF3].
+*   **Mitteilung bei Aufgabenfreistellung:** Information des Arbeitgebers über die Beauftragung von Mitgliedern für spezifische Aufgaben (z. B. § 99 BetrVG) unter Hinweis auf den erforderlichen Zeitumfang [RREF3].
+*   **Gerichtliche Durchsetzung:** Bei Streitigkeiten über die Mindestfreistellung (z. B. bei Teilzeitbeschäftigung des Vorsitzenden) kann ein Antrag beim Arbeitsgericht im Beschlussverfahren gestellt werden [RREF4].
+
+Zusammenfassend sichert das Gesetz sowohl eine betriebsgrößenabhängige Mindestfreistellung als auch eine aufgabenbezogene Freistellung, wobei der Arbeitgeber nur begrenzte Einspruchsmöglichkeiten regarding der Auswahl einzelner Personen hat, nicht jedoch regarding des gesetzlichen Mindestumfangs [RREF1], [RREF4], [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] BetrVG.pdf p.14,y:226 (0.306)
+## § 38 Freistellungen
+- (1) Von ihrer beruflichen Tätigkeit sind mindestens freizustellen in Betrieben mit in der Regel
+
+[Y 226]: #
+200 bis 500
+Arbeitnehmern ein Betriebsratsmitglied,
+501 bis 900
+Arbeitnehmern 2 Betriebsratsmitglieder,
+901 bis 1.500
+Arbeitnehmern 3 Betriebsratsmitglieder,
+1.501 bis 2.000
+Arbeitnehmern 4 Betriebsratsmitglieder,
+2.001 bis 3.000
+Arbeitnehmern 5 Betriebsratsmitglieder,
+3.001 bis 4.000
+Arbeitnehmern 6 Betriebsratsmitglieder,
+4.001 bis 5.000
+Arbeitnehmern 7 Betriebsratsmitglieder,
+5.001 bis 6.000
+Arbeitnehmern 8 Betriebsratsmitglieder,
+
+[Page 15]: #
+
+[Y 924]: #
+6.001 bis 7.000
+Arbeitnehmern 9 Betriebsratsmitglieder,
+7.001 bis 8.000
+Arbeitnehmern 10 Betriebsratsmitglieder,
+8.001 bis 9.000
+Arbeitnehmern 11 Betriebsratsmitglieder,
+9.001 bis 10.000
+Arbeitnehmern 12 Betriebsratsmitglieder.
+In Betrieben mit über 10.000 Arbeitnehmern ist für je angefangene weitere 2.000 Arbeitnehmer ein weiteres Betriebsratsmitglied freizustellen. Freistellungen können auch in Form von Teilfreistellungen erfolgen. Diese dürfen zusammengenommen nicht den Umfang der Freistellungen nach den Sätzen 1 und 2 überschreiten. Durch Tarifvertrag oder Betriebsvereinbarung können anderweitige Regelungen über die Freistellung vereinbart werden.
+
+[Y 759]: #
+- (2) Die freizustellenden Betriebsratsmitglieder werden nach Beratung mit dem Arbeitgeber vom Betriebsrat aus seiner Mitte in geheimer Wahl und nach den Grundsätzen der Verhältniswahl gewählt. Wird nur ein Wahlvorschlag gemacht, so erfolgt die Wahl nach den Grundsätzen der Mehrheitswahl; ist nur ein Betriebsratsmitglied freizustellen, so wird dieses mit einfacher Stimmenmehrheit gewählt. Der Betriebsrat hat die Namen der Freizustellenden dem Arbeitgeber bekannt zu geben. Hält der Arbeitgeber eine Freistellung für sachlich nicht vertretbar, so kann er innerhalb einer Frist von zwei Wochen nach der Bekanntgabe die Einigungsstelle anrufen. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat. Bestätigt die Einigungsstelle die Bedenken des Arbeitgebers, so hat sie bei der Bestimmung eines anderen freizustellenden Betriebsratsmitglieds auch den Minderheitenschutz im Sinne des Satzes 1 zu beachten. Ruft der Arbeitgeber die Einigungsstelle nicht an, so gilt sein Einverständnis mit den Freistellungen nach Ablauf der zweiwöchigen Frist als erteilt. Für die Abberufung gilt § 27 Abs. 1 Satz 5 entsprechend.
+- (3) Der Zeitraum für die Weiterzahlung des nach § 37 Abs. 4 zu bemessenden Arbeitsentgelts und für die Beschäftigung nach § 37 Abs. 5 erhöht sich für Mitglieder des Betriebsrats, die drei volle aufeinanderfolgende Amtszeiten freigestellt waren, auf zwei Jahre nach Ablauf der Amtszeit.
+- (4) Freigestellte Betriebsratsmitglieder dürfen von inner- und außerbetrieblichen Maßnahmen der Berufsbildung nicht ausgeschlossen werden. Innerhalb eines Jahres nach Beendigung der Freistellung eines Betriebsratsmitglieds ist diesem im Rahmen der Möglichkeiten des Betriebs Gelegenheit zu geben, eine wegen der Freistellung unterbliebene betriebsübliche berufliche Entwicklung nachzuholen. Für Mitglieder des Betriebsrats, die drei volle aufeinanderfolgende Amtszeiten freigestellt waren, erhöht sich der Zeitraum nach Satz 2 auf zwei Jahre.
+
+[Y 439]: #
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.326)
+### Betriebsrat: Beschluss zur Freistellung
+
+<!-- sem-asset-id: betriebsrat_beschluss_zur_freistellung -->
+
+_Authors: Peter Wedde_
+
+**Beschlussvorlage**
+
+Der Betriebsrat beschließt, die Betriebsräte {{Name}} und {{Name}} gem. § 38 BetrVG vollständig von ihrer beruflichen Tätigkeit freistellen zu lassen.
+
+Abstimmungsergebnis: {{PLACEHOLDER}}.
+
+
+
+Der Betriebsrat beschließt, die Betriebsräte {{Name}}, {{Name}}, {{Name}} und {{Name}} gem. § 38 BetrVG zu jeweils 50 Prozent von ihrer beruflichen Tätigkeit freistellen zu lassen.
+
+Abstimmungsergebnis: {{PLACEHOLDER}}.
+
+### Betriebsrat: Einladung an Arbeitgeber zur Beratung über Freistellung einzelner Betriebsratsmitglieder
+
+<!-- sem-asset-id: betriebsrat_einladung_an_arbeitgeber_zur_beratung_ueber_freistellung_einzelner_betriebsratsmitglieder -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Freistellung von Betriebsratsmitgliedern gem. § 38 BetrVG**
+
+Sehr geehrte Damen und Herren,
+
+{{1. Alternative:}} der Betriebsrat hat in seiner Sitzung vom {{Datum}} beschlossen, dass die Betriebsratsmitglieder {{Name}} und {{Name}} gem. § 38 BetrVG von ihrer beruflichen Tätigkeit freigestellt werden sollen. Wir möchten diese geplante Freistellung in unserer nächsten Betriebsratssitzung mit Ihnen beraten und laden Sie deshalb für den {{Datum}} um {{PLACEHOLDER}} Uhr zu dieser Sitzung ein.
+
+{{2. Alternative:}} der Betriebsrat beabsichtigt, gem. § 38 BetrVG zwei seiner Mitglieder von ihrer beruflichen Tätigkeit freistellen zu lassen. Wir möchten diese Freistellung gerne mit Ihnen beraten und laden Sie deshalb zu unserer nächsten Betriebsratssitzung am {{Datum}} um {{PLACEHOLDER}} Uhr in den Sitzungssaal des Betriebsrats ein.
+
+### Betriebsrat: Teilfreistellung
+
+<!-- sem-asset-id: betriebsrat_teilfreistellung -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Teilfreistellung von Betriebsratsmitgliedern gem. § 38 BetrVG**
+
+Sehr geehrte Damen und Herren,
+
+{{1. Alternative:}} der Betriebsrat hat in seiner Sitzung vom {{Datum}} beschlossen, die vier Betriebsratsmitglieder {{Name}}, {{Name}}, {{Name}} und {{Name}} zu je 50 Prozent von ihrer beruflichen Tätigkeit freistellen zu lassen. Wir möchten diese geplante Freistellung gem. § 38 Abs. 2 Satz 1 BetrVG mit Ihnen beraten und laden Sie deshalb in unsere nächste Betriebsratssitzung am {{Datum}} um {{PLACEHOLDER}} Uhr in den Sitzungssaal des Betriebsrats ein.
+
+{{2. Alternative:}} der Betriebsrat hat in seiner Sitzung vom {{Datum}} beschlossen, die gem. § 38 BetrVG möglichen Freistellungen als Freistellung von vier Betriebsratsmitgliedern zu je 50 Prozent anzustreben. Wir möchten diese Freistellung mit Ihnen beraten und laden Sie deshalb zu unserer nächsten Betriebsratssitzung am {{Datum}} um {{PLACEHOLDER}} Uhr im Sitzungssaal des Betriebsrats ein.
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.335)
+### Betriebsrat: an Arbeitgeber wegen Arbeitsbefreiung für allgemeine Aufgaben
+
+<!-- sem-asset-id: betriebsrat_an_arbeitgeber_wegen_arbeitsbefreiung_fuer_allgemeine_aufgaben -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Regelmäßige Freistellung des Betriebsratsmitglieds**
+ {{Name}}
+
+Sehr geehrte Damen und Herren,
+
+ich möchte Sie davon in Kenntnis setzen, dass der Betriebsrat in seiner Sitzung vom {{Datum}} beschlossen hat, das Betriebsratsmitglied {{Name}} auf der Grundlage von § 37 Abs. 2 BetrVG damit zu beauftragen, vorgelegte personelle Einzelmaßnahmen gem. § 99 BetrVG jeweils für den Betriebsrat aufzubereiten. Der Betriebsrat geht mit Blick auf die bisherige Bearbeitung entsprechender Vorlagen davon aus, dass diese Aufgabe mit einem Arbeitsaufwand von einem halben Tag pro Woche verbunden ist. Unter Beachtung des Sitzungszyklus des Betriebsrats ist davon auszugehen, dass Herr {{Name}} sich mit dieser Aufgabe im Regelfall am Nachmittag unmittelbar vor der Betriebsratssitzung befassen wird.
+
+Der Betriebsrat hält die Wahrnehmung dieser Aufgabe für die ordnungsgemäße Durchführung der Betriebsratsarbeit für erforderlich. Wie Ihnen bekannt ist, sind alle freigestellten Betriebsratsmitglieder mit so vielen anderweitigen Aufgaben belastet, dass ihnen eine Wahrnehmung dieses Aufgabenbereichs nicht möglich ist {{(weiter ausführen)}}.
+
+Betriebliche Belange, die der Arbeitsbefreiung entgegenstehen, sind nicht erkennbar. Wir gehen deshalb davon aus, dass die Aufgaben des Betriebsratsmitglieds {{Name}} durch eine entsprechende Änderung der Arbeitszeitvolumina der in der Abteilung tätigen Kollegen oder durch die Einstellung einer Aushilfskraft anderweitig erfüllt werden können. Insoweit hoffen wir, dass die Freistellung auf Ihr Einvernehmen trifft.
+
+### Betriebsrat: an Arbeitgeber wegen Arbeitsbefreiung für begrenzte Zeit
+
+<!-- sem-asset-id: betriebsrat_an_arbeitgeber_wegen_arbeitsbefreiung_fuer_begrenzte_zeit -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Freistellung des Betriebsratsmitglieds Name vom**
+ {{Datum}}
+ **bis**
+ {{Datum}}
+
+Sehr geehrte Damen und Herren,
+
+ich möchte Sie davon in Kenntnis setzen, dass der Betriebsrat in seiner Sitzung vom {{Datum}} beschlossen hat, das Betriebsratsmitglied {{Name}} auf der Basis des § 37 Abs. 2 BetrVG mit der Erstellung eines Konzeptes für Beschäftigungssicherung und Beschäftigungsförderung durch Innovation gem. § 92a BetrVG zu beauftragen. Der Kollege {{Name}} soll in diesem Rahmen dem Betriebsrat Vorschläge unterbreiten, wie einem im Bereich {{PLACEHOLDER}} absehbaren Stellenabbau durch innovative Maßnahmen entgegengewirkt werden kann.
+
+Der Betriebsrat geht davon aus, dass die Erstellung des Konzepts ca. einen Monat in Anspruch nehmen wird. Der Kollege {{Name}} soll mit seinen Arbeiten wegen der Dringlichkeit der Angelegenheit in der nächsten Woche beginnen. Wir möchten Ihnen deshalb hiermit unter Verweis auf § 37 Abs. 2 BetrVG mitteilen, dass Herr {{Name}} wegen der Wahrnehmung erforderlicher Betriebsratsaufgaben vom nächsten {{Wochentag}} an für ca. vier Wochen nicht für seine übliche betriebliche Tätigkeit zur Verfügung stehen wird.
+
+Wir gehen davon aus, dass seine Arbeitsaufgaben vorübergehend von Mitarbeitern der Abteilung {{PLACEHOLDER}} übernommen werden können, in der derzeit nur ein begrenztes Arbeitsaufkommen festzustellen ist. Sollte dies nicht möglich sein, regen wir an, dass die (nicht zeitkritischen) Aufgaben von Herrn {{Name}} durch die Einstellung einer Aushilfskraft übernommen werden können. Sollte auch dieses nicht möglich sein, sehen wir kein Problem darin, durch eine andere Priorisierung der Gesamtaufgaben in der Abteilung für eine Arbeitsabwicklung zu sorgen.
+
+Aus Sicht des Betriebsrats gibt es damit keine betrieblichen Belange, die einer entsprechenden Freistellung des Herrn {{Name}} entgegenstehen. Wir hoffen, dass diese Auffassung auf Einvernehmen mit Ihnen trifft.
+
+Wir bitten Sie, den Fachvorgesetzten des Betriebsratsmitglieds {{Name}} über die Situation zu informieren und eine entsprechende Vertretung sicherzustellen.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.345)
+### Freistellung eines weiteren Betriebsratsmitglieds
+
+<!-- sem-asset-id: freistellung_eines_weiteren_betriebsratsmitglieds -->
+
+_Authors: Peter Wedde_
+
+Rechtsanwalt {{Name}}, {{Adresse}}
+
+An das
+
+Arbeitsgericht {{Bezeichnung}}
+
+{{Adresse}}
+
+
+
+mit den Beteiligten
+
+
+
+(Antragsteller)
+
+2. {{Firmenbezeichnung}}, {{Adresse}}, vertreten durch die Geschäftsführung, Geschäftsführer {{Name}}
+
+(Antragsgegnerin)
+
+3. stellvertretender Betriebsratsvorsitzender {{Name}}, {{Adresse}}
+
+**wegen Freistellung eines weiteren Betriebsratsmitglieds**
+
+Namens und in Vollmacht des Antragstellers, dessen ordnungsgemäße Bevollmächtigung wir anwaltlich versichern, beantragen wir die Eröffnung eines Beschlussverfahrens.
+
+Im Verfahren werden wir beantragen:
+
+**Der Antragsgegnerin wird aufgegeben, den stellvertretenden Betriebsratsvorsitzenden Herrn**
+ {{Name}}
+ **für die Dauer seiner Amtszeit von seiner beruflichen Tätigkeit freizustellen.**
+
+
+
+**I.** Der Antragsteller ist Betriebsrat im Betrieb der Antragsgegnerin. Die Antragsgegnerin ist in der Branche {{PLACEHOLDER}}tätig. Sie beschäftigt {{PLACEHOLDER}}Arbeitnehmer. Der Antragsteller wurde am {{Datum}} gewählt und nahm im Anschluss seine Amtstätigkeiten auf. Er besteht aus {{PLACEHOLDER}}Betriebsratsmitgliedern. Am {{Datum}} wurde der Betriebsratsvorsitzende {{Name}} mit Zustimmung der Antragsgegnerin von der Arbeit freigestellt.
+
+Eine Vollzeit-Stelle im Betrieb der Antragsgegnerin beträgt 40 Wochenstunden.
+
+Der Betriebsratsvorsitzende ist bei der Antragsgegnerin mit einer halben Stelle beschäftigt. Vor der Freistellung arbeitete er jeweils 20 Wochenstunden. Der Beteiligte zu 3) ist stellvertretender Betriebsratsvorsitzender und bei der Antragsgegnerin ebenfalls mit einer Teilzeit-Stelle beschäftigt. Er arbeitete im Jahr {{PLACEHOLDER}}jeweils 20 Wochenstunden.
+
+Mit Schreiben vom {{Datum}} teilte der Antragsteller der Antragsgegnerin mit, dass er beabsichtige, den Beteiligten zu 3) freizustellen, um die gesetzliche Mindestzahl zu erreichen. Am {{Datum}} fasste der Antragsteller den Beschluss, den Beteiligten zu 3) zum {{Datum}} freizustellen. Der Beschluss wurde der Antragsgegnerin mit Schreiben vom {{Datum}} mitgeteilt. Die Antragsgegnerin vertrat die Auffassung, dass eine weitere Freistellung nicht erforderlich sei. Eine Freistellung des Beteiligten zu 3) durch die Antragsgegnerin erfolgte - auch nach ausdrücklicher Aufforderung durch die Bevollmächtigten des Antragstellers - nicht.
+
+**II.** Zur Entscheidung über das Begehren des Antragstellers ist das Arbeitsgericht berufen. Es geht hier nicht um die sachliche Vertretbarkeit des Freistellungsbeschlusses, die der Arbeitgeber vor eine Einigungsstelle zu bringen hätte. Die „sachliche Vertretbarkeit“ eines Freistellungsbeschlusses kann sich nur auf die Auswahl freizustellender Mitglieder beziehen, nicht aber auf den Umfang der Mindestfreistellung. Diese Frage ist eine im Beschlussverfahren zu klärende Rechtsfrage.
+
+Das Begehren des Antragstellers ist daher im Wege eines Leistungsantrags zu verfolgen. Denn die Freistellung hat durch die Antragsgegnerin als Gläubigerin des Anspruchs auf Arbeitsleistung zu erfolgen (Wedde in DKW, 12. Aufl., § 38 Rn. 44)
+
+Der Anspruch des Antragstellers ergibt sich aus § 38 Abs. 2 S. 1, Abs. 1 BetrVG. Hiernach ist der Betriebsrat berechtigt, eine Mindestzahl an Betriebsratsmitgliedern von ihrer beruflichen Tätigkeit freizustellen. Er hat einen Rechtsanspruch auf Teilfreistellungen, § 38 Abs. 1 S. 3 BetrVG. Das bestehende Freistellungskontingent kann der Betriebsrat nach eigenem Ermessen auf seine Mitglieder verteilen (Wedde in DKW, 12. Aufl., § 38 Rn. 7).
+
+Mit einer Zahl von {{PLACEHOLDER}}Beschäftigten im Betrieb der Antragsgegnerin ist nach § 38 Abs. 1 S. 1 BetrVG mindestens ein Betriebsratsmitglied von seiner beruflichen Tätigkeit freizustellen. Maßgeblich ist das Stundenvolumen eines Vollzeitbeschäftigten (Wedde in DKW, 12. Aufl., § 38 Rn. 16). Da der freigestellte Betriebsratsvorsitzende bei der Antragsgegnerin nur mit einer Teilzeitstelle von 20 Wochenstunden beschäftigt ist, ist der Betriebsrat berechtigt, ein weiteres Betriebsratsmitglied freizustellen. Die im Standardfall einer Vollzeitbeschäftigung zu erfolgende Teilfreistellung kann hier im Falle einer Teilzeitbeschäftigung dahingehend erfolgen, dass der Beteiligte zu 3) von seiner beruflichen Teilzeit-Tätigkeit bei der Antragsgegnerin vollständig freigestellt wird.
+
+Der hier vorliegende Beschluss des Antragstellers ist auch nicht mangels Beratung mit dem Arbeitgeber unwirksam. Für die nach § 38 Abs. 2 BetrVG erforderliche Beratung ist es ausreichend, wenn der Betriebsrat dem Arbeitgeber Gelegenheit zur Stellungnahme gibt. Das ist mit dem Schreiben vom {{Datum}} erfolgt.
+
+
+
+Rechtsanwalt
+
+[RREF5] BetrVG.pdf p.13,y:171 (0.353)
+## § 37 Ehrenamtliche Tätigkeit, Arbeitsversäumnis
+- (1) Die Mitglieder des Betriebsrats führen ihr Amt unentgeltlich als Ehrenamt.
+
+[Page 14]: #
+- (2) Mitglieder des Betriebsrats sind von ihrer beruflichen Tätigkeit ohne Minderung des Arbeitsentgelts zu befreien, wenn und soweit es nach Umfang und Art des Betriebs zur ordnungsgemäßen Durchführung ihrer Aufgaben erforderlich ist.
+- (3) Zum Ausgleich für Betriebsratstätigkeit, die aus betriebsbedingten Gründen außerhalb der Arbeitszeit durchzuführen ist, hat das Betriebsratsmitglied Anspruch auf entsprechende Arbeitsbefreiung unter Fortzahlung des Arbeitsentgelts. Betriebsbedingte Gründe liegen auch vor, wenn die Betriebsratstätigkeit wegen der unterschiedlichen Arbeitszeiten der Betriebsratsmitglieder nicht innerhalb der persönlichen Arbeitszeit erfolgen kann. Die Arbeitsbefreiung ist vor Ablauf eines Monats zu gewähren; ist dies aus betriebsbedingten Gründen nicht möglich, so ist die aufgewendete Zeit wie Mehrarbeit zu vergüten.
+- (4) Das Arbeitsentgelt von Mitgliedern des Betriebsrats darf einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nicht geringer bemessen werden als das Arbeitsentgelt vergleichbarer Arbeitnehmer mit betriebsüblicher beruflicher Entwicklung. Dies gilt auch für allgemeine Zuwendungen des Arbeitgebers. Zur Bestimmung der vergleichbaren Arbeitnehmer nach Satz 1 ist auf den Zeitpunkt der Übernahme des Betriebsratsamtes abzustellen, soweit nicht ein sachlicher Grund für eine spätere Neubestimmung vorliegt. Arbeitgeber und Betriebsrat können in einer Betriebsvereinbarung ein Verfahren zur Festlegung vergleichbarer Arbeitnehmer regeln. Die Konkretisierung der Vergleichbarkeit in einer solchen Betriebsvereinbarung kann nur auf grobe Fehlerhaftigkeit überprüft werden; Gleiches gilt für die Festlegung der Vergleichspersonen, soweit sie einvernehmlich zwischen Arbeitgeber und Betriebsrat erfolgt und in Textform dokumentiert ist.
+- (5) Soweit nicht zwingende betriebliche Notwendigkeiten entgegenstehen, dürfen Mitglieder des Betriebsrats einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nur mit Tätigkeiten beschäftigt werden, die den Tätigkeiten der in Absatz 4 genannten Arbeitnehmer gleichwertig sind.
+- (6) Die Absätze 2 und 3 gelten entsprechend für die Teilnahme an Schulungs- und Bildungsveranstaltungen, soweit diese Kenntnisse vermitteln, die für die Arbeit des Betriebsrats erforderlich sind. Betriebsbedingte Gründe im Sinne des Absatzes 3 liegen auch vor, wenn wegen Besonderheiten der betrieblichen Arbeitszeitgestaltung die Schulung des Betriebsratsmitglieds außerhalb seiner Arbeitszeit erfolgt; in diesem Fall ist der Umfang des Ausgleichsanspruchs unter Einbeziehung der Arbeitsbefreiung nach Absatz 2 pro Schulungstag begrenzt auf die Arbeitszeit eines vollzeitbeschäftigten Arbeitnehmers. Der Betriebsrat hat bei der Festlegung der zeitlichen Lage der Teilnahme an Schulungs- und Bildungsveranstaltungen die betrieblichen Notwendigkeiten zu berücksichtigen. Er hat dem Arbeitgeber die Teilnahme und die zeitliche Lage der Schulungs- und Bildungsveranstaltungen rechtzeitig bekannt zu geben. Hält der Arbeitgeber die betrieblichen Notwendigkeiten für nicht ausreichend berücksichtigt, so kann er die Einigungsstelle anrufen. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
+- (7) Unbeschadet der Vorschrift des Absatzes 6 hat jedes Mitglied des Betriebsrats während seiner regelmäßigen Amtszeit Anspruch auf bezahlte Freistellung für insgesamt drei Wochen zur Teilnahme an Schulungs- und Bildungsveranstaltungen, die von der zuständigen obersten Arbeitsbehörde des Landes nach Beratung mit den Spitzenorganisationen der Gewerkschaften und der Arbeitgeberverbände als geeignet anerkannt sind. Der Anspruch nach Satz 1 erhöht sich für Arbeitnehmer, die erstmals das Amt eines Betriebsratsmitglieds übernehmen und auch nicht zuvor Jugend- und Auszubildendenvertreter waren, auf vier Wochen. Absatz 6 Satz 2 bis 6 findet Anwendung.
+
+
+
+---
+
+## Q-P1-AM-02  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Wo liegt der Unterschied zwischen Mitbestimmung und Mitwirkung?
+
+### REFERENZ
+- Mitwirkung: Arbeitgeber muss anhören/beraten, kann aber entscheiden
+- Mitbestimmung: Ohne Zustimmung des BR keine wirksame Regelung
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lässt sich der Unterschied zwischen **Mitbestimmung** und **Mitwirkung** anhand der jeweiligen Anwendungsbereiche und gesetzlichen Kontexte wie folgt darstellen:
+
+### 1. Mitbestimmung (Unternehmensebene & Gesetzestitel)
+Der Begriff **Mitbestimmung** wird in den Dokumenten primär im Zusammenhang mit der unternehmensweiten Vertretung von Arbeitnehmern verwendet:
+
+*   **Mitbestimmungsgesetz (MitbestG):** Das „Gesetz über die Mitbestimmung der Arbeitnehmer" regelt die Zusammensetzung des **Aufsichtsrats** in großen Kapitalgesellschaften (mehr als 2.000 Arbeitnehmer). Hier geht es um die paritätische Besetzung des Aufsichtsrats mit Vertretern der Anteilseigner und Arbeitnehmer sowie um Voting-Rechte (z. B. zweite Stimme des Vorsitzenden) und die Bestellung des Arbeitsdirektors [RREF2].
+*   **Gesetzliche Überschrift:** Im Kontext des Betriebsverfassungsrechts wird der Begriff auch als Überschrift für spezifische Rechte verwendet. So trägt § 102 (implizit BetrVG) die Überschrift „**Mitbestimmung** bei Kündigungen" [RREF1].
+
+### 2. Mitwirkung (Verfahrensebene & konkrete Pflicht)
+Der Begriff **Mitwirkung** beschreibt in den vorliegenden Texten eher die konkrete verfahrensrechtliche Pflicht zur Beteiligung in spezifischen Fällen:
+
+*   **Mitwirkungspflichtige Kündigung:** Obwohl § 102 im Titel als „Mitbestimmung" bezeichnet wird, sprechen die Kommentierungen im Dokument von der „**mitwirkungspflichtigen** Kündigung". Dies bezeichnet die Pflicht des Arbeitgebers, den Betriebsrat vor Ausspruch einer Kündigung zu beteiligen (anhören) [RREF1].
+*   **Abgrenzung der Fälle:** Das Dokument listet detailliert auf, wann eine „mitwirkungspflichtige Kündigung" vorliegt (z. B. ordentliche/außerordentliche Kündigung) und wann **keine** Mitwirkungspflicht besteht (z. B. bei Auflösungsvertrag, Eigenkündigung oder Beendigung durch Zeitablauf) [RREF1].
+
+### Zusammenfassung der Unterscheidung laut Dokumenten
+Die Dokumente deuten folgende Nuance an:
+
+| Begriff | Kontext in den Dokumenten | Inhaltlicher Fokus |
+| :--- | :--- | :--- |
+| **Mitbestimmung** | **MitbestG** [RREF2] & **§ 102 Überschrift** [RREF1] | Bezieht sich oft auf die **Unternehmensebene** (Aufsichtsrat) oder dient als **Oberbegriff** für Beteiligungsrechte des Betriebsrats (z. B. im Gesetzestitel). |
+| **Mitwirkung** | **§ 102 Textausführung** [RREF1] | Bezieht sich auf die **konkrete Verfahrenspflicht** (z. B. Anhörung des Betriebsrats vor Kündigung), ohne dass zwingend ein Entscheidungsrecht (Veto) gemeint ist. |
+
+**Hinweis:** Während der Gesetzestitel (§ 102) von „Mitbestimmung" spricht, präzisiert die fachliche Erläuterung dies als „Mitwirkungspflicht" [RREF1]. Das Mitbestimmungsgesetz [RREF2] hingegen etabliert eine echte Mitbestimmung auf Ebene des Aufsichtsrats (Stimmrechte, Besetzung).).
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.489)
+## § 102 Mitbestimmung bei Kündigungen
+
+### Gesamtsystem des arbeitsrechtlichen Bestandsschutzes
+
+<!-- sem-asset-id: gesamtsystem_des_arbeitsrechtlichen_bestandsschutzes -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+*(siehe S. 748/749)*
+
+![Abbildung: 159|39886](#)
+
+### Voraussetzungen einer mitwirkungspflichtigen Kündigung
+
+<!-- sem-asset-id: voraussetzungen_einer_mitwirkungspflichtigen_kuendigung -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+Die Voraussetzungen einer **mitwirkungspflichtigen Kündigung** sind erfüllt, wenn:
+
+- der Arbeitgeber beabsichtigt, gegenüber dem Arbeitnehmer eine einseitige Willenserklärung zur ordentlichen oder außerordentlichen Beendigung des Arbeitsverhältnisses schriftlich auszusprechen;
+- der Arbeitgeber eine ordentliche oder außerordentliche Änderungskündigung aussprechen möchte,
+- der Arbeitgeber die Kündigung bereits vor Vertragsantritt erklärt;
+- die Kündigung vom Insolvenzverwalter gemäß § 117 InsO nach Eröffnung des Insolvenzverfahrens erfolgt;
+- eine Kündigung auf der Grundlage eines Interessenausgleichs mit Namensliste gemäß § 125 Abs. 1 InsO oder § 1 Abs. 5 KSchG ausgesprochen wird;
+- die Kündigung gegenüber einem Tendenzträger i. S. d. § 118 BetrVG erklärt wird;
+- die Kündigung während eines Streiks aus anderen als arbeitskampfbedingten Gründen ausgesprochen wird.
+
+### Wann liegt keine mitwirkungspflichtige Kündigung vor?
+
+<!-- sem-asset-id: wann_liegt_keine_mitwirkungspflichtige_kuendigung_vor -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+Die Voraussetzungen einer mitwirkungspflichtigen **Kündigung** sind **nicht erfüllt**, wenn:
+
+- das Arbeitsverhältnis in gegenseitigem Einvernehmen durch Auflösungsvertrag beendet wird;
+- der Arbeitnehmer das Arbeitsverhältnis selbst kündigt (sog. Eigenkündigung);
+- der Betriebsrat ein Entlassungsverfahren nach § 104 BetrVG einleitet und der Arbeitgeber das Arbeitsverhältnis auf dieses Verlangen hin kündigt;
+- der Arbeitsvertrag nichtig ist;
+- das Arbeitsverhältnis durch Anfechtung beendet wird;
+- das befristete Arbeitsverhältnis durch Zeitablauf oder durch Zweckerreichung endet;
+- das Arbeitsverhältnisses mit Erreichen des Regeleintrittsalters für die gesetzliche Altersrente auf Grundlage einer Altersgrenze im Arbeitsvertrag, in einer Betriebsvereinbarung oder in einem Tarifvertrag endet;
+- das Arbeitsverhältnisses endet, weil gemäß § 100 Abs. 3 BetrVG mit Ablauf der Zweiwochenfrist nach Rechtskraft der gerichtlichen Entscheidung eine vorläufige Maßnahme endet;
+- das Arbeitsverhältnis endet, weil eine vorhergehenden vorläufigen Einstellung durch gerichtliche Entscheidung gemäß § 101 BetrVG aufgehoben wird;
+- das zuvor in ein Altersteilzeitverhältnis umgewandelte Arbeitsverhältnis - in der Regel mit Ablauf der Freistellungsphase - endet;
+- das Arbeitsverhältnis in ein ruhendes umgewandelt (z. B. Elternzeit) wird;
+- Arbeitnehmer im Rahmen eines Arbeitskampfes ausgesperrt werden;
+- der Arbeitgeber dem Antrag eines Auszubildenden auf Übernahme in ein unbefristetes Arbeitsverhältnis nach § 78a BetrVG nicht entspricht;
+- das Berufsausbildungsverhältnis mit Bestehen der Abschlussprüfung bzw. mit Ablauf der Ausbildungszeit endet (§ 21 BBiG);
+- das Arbeitsverhältnis infolge eines Betriebs(teil)inhaberwechsels nach (§ 324 UmwG i. V. m.) § 613a BGB auf einen anderen Inhaber übergeht.
+
+[RREF2] SF_Arbeits_und_Sozialordnung_2025.md (0.497)
+dAsset##bf04c74b-9959-4937-968b-ac89e5e6ebd7ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 20Entscheidungen der Agentur für Arbeit(1)Die Entscheidungen der Agentur für Arbeit nach § 18 Abs. 1 und 2 trifft deren Geschäftsführung oder ein Ausschuß (Entscheidungsträger). Die Geschäftsführung darf nur dann entscheiden, wenn die Zahl der Entlassungen weniger als 50 beträgt.(2)Der Ausschuß setzt sich aus dem Geschäftsführer, der Geschäftsführerin oder dem oder der Vorsitzenden der Geschäftsführung der Agentur für Arbeit oder einem von ihm oder ihr beauftragten Angehörigen der Agentur für Arbeit als Vorsitzenden und je zwei Vertretern der Arbeitnehmer, der Arbeitgeber und der öffentlichen Körperschaften zusammen, die von dem Verwaltungsausschuss der Agentur für Arbeit benannt werden. Er trifft seine Entscheidungen mit Stimmenmehrheit.(3)Der Entscheidungsträger hat vor seiner Entscheidung den Arbeitgeber und den Betriebsrat anzuhören. Dem Entscheidungsträger sind, insbesondere vom Arbeitgeber und Betriebsrat, die von ihm für die Beurteilung des Falles erforderlich gehaltenen Auskünfte zu erteilen.(4)Der Entscheidungsträger hat sowohl das Interesse des Arbeitgebers als auch das der zu entlassenden Arbeitnehmer, das öffentliche Interesse und die Lage des gesamten Arbeitsmarktes unter besonderer Beachtung des Wirtschaftszweiges, dem der Betrieb angehört, zu berücksichtigen.150|127580|par21bundimportedAsset##b32be175-63ba-47f8-8dcb-35900ab98be1ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 21Entscheidungen der Zentrale der Bundesagentur für ArbeitFür Betriebe, die zum Geschäftsbereich des Bundesministers für Verkehr oder des Bundesministers für Post und Telekommunikation gehören, trifft, wenn mehr als 500 Arbeitnehmer entlassen werden sollen, ein gemäß § 20 Abs. 1 bei der Zentrale der Bundesagentur für Arbeit zu bildender Ausschuß die Entscheidungen nach § 18 Abs. 1 und 2. Der zuständige Bundesminister kann zwei Vertreter mit beratender Stimme in den Ausschuß entsenden. Die Anzeigen nach § 17 sind in diesem Falle an die Zentrale der Bundesagentur für Arbeit zu erstatten. Im übrigen gilt § 20 Abs. 1 bis 3 entsprechend.150|127580|par22bundimportedAsset##e814abf4-dec7-488e-aa77-9337e7cfa5e2ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 22Ausnahmebetriebe(1)Auf Saisonbetriebe und Kampagne-Betriebe finden die Vorschriften dieses Abschnitts bei Entlassungen, die durch diese Eigenart der Betriebe bedingt sind, keine Anwendung.(2)Keine Saisonbetriebe oder Kampagne-Betriebe sind Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung nach dem Dritten Buch Sozialgesetzbuch gefördert wird. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen, welche Betriebe als Saisonbetriebe oder Kampagne-Betriebe im Sinne des Absatzes 1 gelten.Vierter AbschnittSchlußbestimmungen150|127580|par23bundimportedAsset##7909206e-9ef3-451a-b1d4-16994c16415aASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 23Geltungsbereich(1)Die Vorschriften des Ersten und Zweiten Abschnitts gelten für Betriebe und Verwaltungen des privaten und des öffent­lichen Rechts, vorbehaltlich der Vorschriften des § 24 für die Seeschiffahrts-, Binnenschiffahrts- und Luftverkehrsbetriebe. Die Vorschriften des Ersten Abschnitts gelten mit Ausnahme der §§ 4 bis 7 und des § 13 Abs. 1 Satz 1 und 2 nicht für Betriebe und Verwaltungen, in denen in der Regel fünf oder weniger Arbeitnehmer ausschließlich der zu ihrer Berufsbildung Beschäftigten beschäftigt werden. In Betrieben und Verwaltungen, in denen in der Regel zehn oder weniger Arbeitnehmer ausschließlich der zu ihrer Berufsbildung Beschäftigten beschäftigt werden, gelten die Vorschriften des Ersten Abschnitts mit Ausnahme der §§ 4 bis 7 und des § 13 Abs. 1 Satz 1 und 2 nicht für Arbeitnehmer, deren Arbeitsverhältnis nach dem 31. Dezember 2003 begonnen hat; diese Arbeitnehmer sind bei der Feststellung der Zahl der beschäftigten Arbeitnehmer nach Satz 2 bis zur Beschäftigung von in der Regel zehn Arbeitnehmern nicht zu berücksichtigen. Bei der Feststellung der Zahl der beschäftigten Arbeitnehmer nach den Sätzen 2 und 3 sind teilzeitbeschäftigte Arbeitnehmer mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen.(2)Die Vorschriften des Dritten Abschnitts gelten für Betriebe und Verwaltungen des privaten Rechts sowie für Betriebe, die von einer öffentlichen Verwaltung geführt werden, soweit sie wirtschaftliche Zwecke verfolgen.150|127580|par24bundimportedAsset##963da8c2-c981-45df-8f66-8d6f1c7dad78ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 24Anwendung des Gesetzes auf Betriebe der Schiffahrt und des Luftverkehrs(1)Die Vorschriften des Ersten und Zweiten Abschnitts finden nach Maßgabe der Absätze 2 bis 4 auf Arbeitsverhältnisse der Besatzung von Seeschiffen, Binnenschiffen und Luftfahrzeugen Anwendung.(2)Als Betrieb im Sinne dieses Gesetzes gilt jeweils die Gesamtheit der Seeschiffe oder der Binnenschiffe eines Schifffahrtsbetriebs oder der Luftfahrzeuge eines Luftverkehrsbetriebs.(3)Dauert die erste Reise eines Besatzungsmitglieds eines Seeschiffes oder eines Binnenschiffes länger als sechs Monate, so verlängert sich die Sechsmonatsfrist des § 1 Absatz 1 bis drei Tage nach Beendigung dieser Reise.(4)Die Klage nach § 4 ist binnen drei Wochen zu erheben, nachdem die Kündigung dem Besatzungsmitglied an Land zugegangen ist. Geht dem Besatzungsmitglied eines Seeschiffes oder eines Binnenschiffes die Kündigung während der Fahrt des Schiffes zu, ist die Klage innerhalb von sechs Wochen nach dem Dienstende an Bord zu erheben. Geht dem Besatzungsmitglied eines Seeschiffes die Kündigung während einer Gefangenschaft aufgrund von seeräuberischen Handlungen oder bewaffneten Raubüberfällen auf Schiffe im Sinne von § 2 Nummer 11 oder 12 des Seearbeitsgesetzes zu oder gerät das Besatzungsmitglied während des Laufs der Frist nach Satz 1 oder 2 in eine solche Gefangenschaft, ist die Klage innerhalb von sechs Wochen nach der Freilassung des Besatzungsmitglieds zu erheben; nimmt das Besatzungsmitglied nach der Freilassung den Dienst an Bord wieder auf, beginnt die Frist mit dem Dienstende an Bord. An die Stelle der Dreiwochenfrist in § 5 Absatz 1 und § 6 treten die in den Sätzen 1 bis 3 genannten Fristen.(5)Die Vorschriften des Dritten Abschnitts finden nach Maßgabe der folgenden Sätze Anwendung auf die Besatzungen von Seeschiffen. Bei Schiffen nach § 114 Absatz 4 Satz 1 des Betriebsverfassungsgesetzes tritt, soweit sie nicht als Teil des Landbetriebs gelten, an die Stelle des Betriebsrats der Seebetriebsrat. Betrifft eine anzeigepflichtige Entlassung die Besatzung eines Seeschiffes, welcher unter der Flagge eines anderen Mitgliedstaates der Europäischen Union fährt, so ist die Anzeige an die Behörde des Staates zu richten, unter dessen Flagge das Schiff fährt.150|127580|par25bundimportedAsset##6781e7ca-e8b3-4531-8cf5-ea317ec64d65ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 25Kündigung in ArbeitskämpfenDie Vorschriften dieses Gesetzes finden keine Anwendung auf Kündigungen und Entlassungen, die lediglich als Maßnahmen in wirtschaftlichen Kämpfen zwischen Arbeitgebern und Arbeitnehmern vorgenommen werden.150|127580|par26bundimportedAsset##35c3c333-a42f-44bd-b526-133f424dd9e4ASOPrint-KSCHGKündigungsschutzgesetzKSchG§ 26InkrafttretenDieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
+
+
+
+26.
+Gesetz über die Mitbestimmung derArbeitnehmer (Mitbestimmungsgesetz –MitbestG)
+150|103213Einleitung (26. MitbestG)importedAsset#Arbeits-undSozialordnung(MichaelKittner)#c5d7ac12-ae01-4d05-a3eb-e08f210a5ebebundMitbestimmungsgesetzEinleitungI.Geschichtliche Entwicklung1.AllgemeinesDie Entstehung des MitbestG begann mit der Vorlage eines Gesetzentwurfes des DGB im Jahre 1968, mit dem eine Ausdehnung der Montanmitbestimmung auf alle Großunternehmen in der Bundesrepublik Deutschland gefordert wurde. Es folgte im gleichen Jahr ein SPD-Entwurf, der aber von den DGB-Vorstellungen bereits insofern abwich, als er statt eines gewerkschaftlichen Entsendungsrechts für die außerbetrieblichen Arbeitnehmervertreter die Wahl durch die Belegschaft vorsah. Von diesem Zeitpunkt an wurde die Diskussion um die Mitbestimmung immer intensiver geführt. Die Parteien und politisch wirkende gesellschaftliche Gruppen beteiligten sich an ihr und legten eigene Modelle vor. Die Bundesregierung der „Großen Koalition“ beauftragte im Jahre 1968 eine Sachverständigenkommission unter Leitung von Kurt Biedenkopf, die bisherigen Erfahrungen mit der Montanmitbestimmung zusammenzutragen. Der Bericht dieser Kommission wurde 1970 vorgelegt. Nachdem sich die „Große Koalition“ als unfähig erwies, die Frage der Unternehmensmitbestimmung voranzubringen, änderte sich auch nach dem Wahlerfolg der dann aus SPD und FDP gebildeten „sozialliberalen Koalition“ im Jahre 1969 in dieser Hinsicht zunächst nichts. Erst während der sozial-liberalen Koalition unter Bundeskanzler Helmut Schmidt gelang 1976 die Verabschiedung des Gesetzes, allerdings mit verschiedenen Kompromissen, um die FDP als kleineren Partner in der Koalition zu halten. Im Verlaufe des Gesetzgebungsverfahrens gab es insgesamt 4 Anhörungen von Sachverständigen durch den Bundestagsausschuss für Arbeit und Sozialordnung (vgl. dessen Protokolle Nr. 51, 52, 55 und 62 der 7. Wahlperiode). Das MitbestG wurde schließlich am 18. 3. 1976 in namentlicher Abstimmung bei nur 22 Neinstimmen (1 SPD, 21 CDU/CSU) und einer Enthaltung (CDU/CSU) vom Bundestag verabschiedet.Zur Entwicklung des Mitbestimmungsgedankens im Allgemeinen s. Einl. I zum BetrVG, Nr. 12, und zur Montanmitbestimmung im Besonderen s. Einl. I zum MontanMitbestG, Nr. 27.2.ÄnderungenÄnderungen des MitbestG hat es insbesondere durch folgende Gesetze gegeben:(1) Betriebsverfassungs-Reformgesetz vom 23. 7. 2001 (BGBl. I S. 1852)Dieses Gesetz hat für die Aufsichtsratsmitbestimmung ebenso wie für die Betriebsverfassung die seit langem überfällige Aufhebung des Gruppenprinzips gebracht. Seither wird weder im BetrVG noch in den Gesetzen über die Arbeitnehmerbeteiligung im Aufsichtsrat zwischen Arbeitern und Angestellten unterschieden (unbeschadet der bestehen gebliebenen Vertretung der leitenden Angestellten im Aufsichtsrat nach dem MitbestG). Dieser neuen Rechtslage tragen drei neue Wahlordnungen zum MitbestG Rechnung (s. u. II).(2) Gesetz zur Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat vom 23. 3. 2002 (BGBl. I S. 1130)Nach der Vereinfachung der Aufsichtsratswahl durch Aufhebung des Gruppenprinzips (s. o. 1) bringt das Gesetz weitere Vereinfachungen durch Reduzierung der Delegiertenzahlen und Straffung der Wahl des Vertreters der leitenden Angestellten (zum Gesetz vgl. Köstler, AiB 02, 403; Wolff, DB 02, 790).(3) Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst v. 24. 4. 2015 (BGBl. I 642). Das Gesetz regelt unter anderem Quoten bzw. Verpflichtungen zur Erstellung von Zielvorgaben hinsichtlich des Frauenanteils im Aufsichtsrat (Einl. III 3 zum AktG, Nr. 1). Das MitbestG wurde ergänzt um Regelungen zur Gewährleistung des Geschlechterproporzes in dem Fall, dass Anteilseigner- oder Arbeitnehmerseite nach § 96 Abs. 2 S. 3 AktG für eine getrennte Erfüllung der Quote auf beiden Seiten optiert hat.(4) Das AÜG-Änderungsgesetz v. 21. 2. 2017 (BGBl. I 258) hat zwar an sich keine Änderung des MitbestG mit sich gebracht, führte aber durch eine Änderung des § 14 Abs. 2 AÜG ab 1. 4. 2017 zu einer mittelbaren Änderung, insofern seither Leiharbeiter ab einer Einsatzdauer von 6 Monaten bei den Schwellenwerten der Mitbestimmungsgesetze zu berücksichtigen sind (vgl. Einl. I sowie II 4 zum AÜG, Nr. 4). Damit wird eine bereits in diese Richtung gehende Rechtsprechung des BAG (4. 11. 2015 – 7 ABR 42/13, NZA 16, 559) aufgegriffen.II.Wesentlicher GesetzesinhaltDas MitbestG gilt für die meisten Kapitalgesellschaften (AG, GmbH, KGaA, Genossenschaft) sowie für Kommanditgesellschaften, deren persönlich haftender Gesellschafter eine solche Kapitalgesellschaft ist, mit mehr als 2000 Arbeitnehmern (§§ 1, 4 MitbestG). In diesen Gesellschaften wird der Aufsichtsrat zur Hälfte mit Vertretern der Anteilseigner besetzt. Die andere Hälfte wird von den Arbeitnehmern gewählt, und zwar – in unterschiedlichen Staffeln je nach der Arbeitnehmerzahl des Unternehmens – Vertreter der Gewerkschaften, der Arbeitnehmer und der leitenden Angestellten im Sinne von § 5 Abs. 3 BetrVG (§ 7 MitbestG). In Konzernen wählen die Arbeitnehmer aller Konzernunternehmen die Arbeitnehmervertreter im Aufsichtsrat des herrschenden Unternehmens (§ 5 MitbestG). Auf Tendenzunternehmen findet das Gesetz keine Anwendung (§ 1 Abs. 4 MitbestG). Da in einer GmbH ein Aufsichtsrat konzeptionell nicht vorgesehen ist, kann dessen Errichtung mitbestimmungsrechtlich geboten sein. Insoweit ist in Anwendung von § 6 Abs. 2 MitbestG ein Statusverfahren nach §§ 97 ff. AktG durchzuführen. Die Aufsichtsratswahl ist nichtig, wenn das nicht beachtet wurde, und zwar auch dann, wenn alle Beteiligten keinen Zweifel an dem Mitbestimmungsregime hatten (BAG 9. 2. 2023 – 7 ABR 6/22, NZA 23, 911).In Unternehmen mit mehr als 8000 Arbeitnehmern ist die Regel Delegiertenwahl, in kleineren Unternehmen Urwahl, es sei denn, die Arbeitnehmer entscheiden in mehrheitlicher Abstimmung anders (§ 9 MitbestG). Einzelheiten des Wahlverfahrens regeln drei Wahlordnungen (s. Fn. 1 zu § 39 MitbestG).Im Aufsichtsrat wird mit Stimmenmehrheit entschieden; im Falle von Stimmengleichheit hat der Aufsichtsratsvorsitzende jedoch eine zweite Stimme (§ 29 MitbestG). Diesen Vorsitzenden aber können die Anteilseignervertreter stets durchsetzen (§ 27 Abs. 1 und 2 MitbestG).Dem gesetzlichen Vertretungsorgan der Gesellschaft (Vorstand, Geschäftsführung) muss ein Arbeitsdirektor angehören (§ 33 MitbestG). Er kann mit den gleichen Mehrheiten bestellt werden wie alle anderen Vorstandsmitglieder bzw. Geschäftsführer.III.Anwendungsprobleme und Rechtstatsachen1.GrundstrukturDas MitbestG vom 4. Mai 1976 hat nichts mit Mitbestimmung in dem Sinne zu tun, dass die Repräsentanten der Anteilseigner und Arbeitnehmer paritätisch im Aufsichtsrat einer Kapitalgesellschaft vertreten wären: In diesem MitbestG wird der Arbeitnehmerseite ein leitender Angestellter zugerechnet, der wegen des in § 15 Abs. 2 Nr. 2 MitbestG geregelten Kandidatenaufstellungsverfahrens letztlich von den leitenden Angestellten eines Unternehmens allein bestimmt wird. Darüber hinaus hat der Aufsichtsratsvorsitzende, den die Anteilseignervertreter allein bestimmen können (§ 27 Abs. 2 MitbestG), im Falle der Stimmengleichheit bei der erneuten Abstimmung über denselben Gegenstand zwei Stimmen (§ 29 Abs. 2 MitbestG). Dafür, dass der in § 33 MitbestG vorgesehene „Arbeitsdirektor“ vom Vertrauen der betrieblichen und außerbetrieblichen Arbeitnehmervertreter getragen wird, gibt es keine rechtlichen Absicherungen. Markantestes Beispiel war der Präs
+
+
+
+---
+
+## Q-P1-AM-05  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Wie funktioniert die Zusammenarbeit des BR mit Gewerkschaften?
+
+### REFERENZ
+- Gewerkschaften dürfen unterstützen und beraten
+- Teilnahme an Sitzungen möglich - Auf Einladung
+- BR bleibt eigenständiges Organ
+- Bei Wahl unterschiedliche Listen möglich - Gewerkschaftsliste
+- ggf. Referenz auf "Vertrauensvolle Zusammenarbeit"
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lässt sich die Zusammenarbeit zwischen Betriebsrat (BR) und Gewerkschaften wie folgt zusammenfassen:
+
+**1. Gesetzliche Grundsätze der Zusammenarbeit**
+Arbeitgeber und Betriebsrat arbeiten unter Beachtung der geltenden Tarifverträge vertrauensvoll und **im Zusammenwirken mit den im Betrieb vertretenen Gewerkschaften** zum Wohl der Arbeitnehmer und des Betriebs zusammen [RREF3]. Die Aufgaben der Gewerkschaften, insbesondere die Wahrnehmung der Interessen ihrer Mitglieder, werden durch das Betriebsverfassungsgesetz nicht berührt [RREF3].
+
+**2. Zutrittsrecht für Gewerkschaftsbeauftragte**
+Zur Wahrnehmung ihrer Aufgaben ist Beauftragten der im Betrieb vertretenen Gewerkschaften nach Unterrichtung des Arbeitgebers **Zugang zum Betrieb zu gewähren**. Dies gilt, soweit dem nicht unumgängliche Notwendigkeiten des Betriebsablaufs, zwingende Sicherheitsvorschriften oder der Schutz von Betriebsgeheimnissen entgegenstehen [RREF3].
+
+**3. Teilnahme an Besprechungen und Verhandlungen**
+*   **Monatsgespräche:** Zu den mindestens einmal im Monat stattfindenden Besprechungen zwischen Arbeitgeber und Betriebsrat (§ 74 Abs. 1 BetrVG) können **Gewerkschaftsbeauftragte hinzugezogen werden** [RREF1].
+*   **Verhandlungen und Arbeitsgruppen:** Im Zusammenhang mit Beauftragungen gemäß § 28a BetrVG können Vertreter der im Betrieb vertretenen Gewerkschaften an allen Verhandlungen und Arbeitsgruppensitzungen teilnehmen. Sie haben in diesem Kontext **beratende Stimme** [RREF2].
+*   **Beobachterstatus:** Zur Wahrung der Interessen des BR kann es sinnvoll sein, dass Mitglieder als „Beobachter" in Verhandlungen präsent sind. Sofern Betriebsratsmitglieder nicht zur Verhandlungskommission gehören, muss ein Teilnahmerecht in der Regelungsabrede (RV) gesondert verankert werden; Entsprechendes gilt für die beobachtende Teilnahme von gewerkschaftlichen Vertretern [RREF2].
+
+**4. Gewerkschaftliche Betätigung von BR-Mitgliedern**
+Arbeitnehmer, die im Rahmen des Betriebsverfassungsgesetzes Aufgaben übernehmen (z. B. BR-Mitglieder), werden hierdurch in der **Betätigung für ihre Gewerkschaft auch im Betrieb nicht beschränkt** [RREF1].
+
+**5. Grenzen im Arbeitskampf**
+*   **Verbot für das Gremium:** Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig. Der Betriebsrat als Organ hat sich jeder Tätigkeit im Arbeitskampf zu enthalten und darf insbesondere keinen Streik unterstützen oder die Belegschaft auffordern, sich an einem gewerkschaftlich organisierten Streik zu beteiligen [RREF1].
+*   **Individuelle Teilnahme:** Die einzelnen Mitglieder des Betriebsrats können sich jedoch wie jeder andere Arbeitnehmer des Betriebs an gewerkschaftlichen Kampfmaßnahmen beteiligen (z. B. Streikleitung, Urabstimmung organisieren). Sie dürfen Streikaufrufe jedoch **nicht unter ausdrücklicher Bezugnahme auf ihre BR-Mitgliedschaft unterzeichnen** [RREF1].
+*   **Neutralität im Amt:** Während eines Arbeitskampfs bleibt der BR mit allen Rechten und Pflichten im Amt und hat dieses neutral wahrzunehmen [RREF1].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Klebe_BetrVG_BK.md (0.408)
+. der GJAV nach dem normalen Entsendungsverfahren nach Abs. 2 mehr als 20 beträgt. Beruht die erhöhte Mitgl.-Zahl auf einem TV oder einer BV nach Abs. 4, ist eine (weitere) BV nach Abs. 5 nicht abzuschließen.6.Entscheidung der EinigungsstelleDiese Vorschrift entspricht wörtlich der Regelung, wie sie für den GBR nach § 47 Abs. 6 maßgebend ist (vgl. die Erl. dort). Zu beachten ist jedoch, dass die Einigungsstelle nur durch den AG oder den GBR, nicht dagegen durch die GJAV angerufen werden kann.7.StimmengewichtungDas Stimmengewicht der Mitgl. der GJAV ist in Anlehnung an das der Mitgl. des GBR geregelt worden (vgl. § 47 Abs. 7 und 8). Es kommt auf die Zahl der in die Wählerlisten eingetragenen in § 60 Abs. 1 genannten AN der Betriebe an, aus denen die Mitgl. der GJAV kommen.Wird die Größe der GJAV durch TV oder BV abweichend vom Gesetz geregelt und entsenden die JAV mehrerer Betriebe nur einen Vertr. in die GJAV, so hat dieser so viele Stimmen, wie in § 60 Abs. 1 genannte AN insgesamt in diesen Betrieben in den Wählerlisten eingetragen waren. Entsendet dagegen die JAV eines Betriebs mehrere Mitgl. in die GJAV (Abs. 4), so wird die gesamte Stimmenzahl gleichmäßig auf die einzelnen Mitgl. aufgeteilt.8.Stimmengewichtung bei Entsendung aus gemeinsamem BetriebDie Vorschrift, nach der das Stimmengewicht von Mitgl. der GJAV, die aus einem gemeinsamen Betrieb mehrerer UN entsandt worden sind, durch TV oder BV abweichend von der allgemeinen Bestimmung des Abs. 7 geregelt werden kann, entspricht der für den GBR geltenden Vorschrift des § 47 Abs. 9 (siehe deshalb die Erl. dort).
+150|117310§ 73 Geschäftsführung und Geltung sonstiger VorschriftenbundimportedAsset##425a83cf-7917-4767-9885-a9c3c48d98b8Geschäftsführung und Geltung sonstiger Vorschriften§ 73walhalla150|1523840§ 73Geschäftsführung und Geltung sonstiger Vorschriften(1)Die Gesamt-Jugend- und Auszubildendenvertretung kann nach Verständigung des Gesamtbetriebsrats Sitzungen abhalten. An den Sitzungen kann der Vorsitzende des Gesamtbetriebsrats oder ein beauftragtes Mitglied des Gesamtbetriebsrats teilnehmen.(2)Für die Gesamt-Jugend- und Auszubildendenvertretung gelten § 25 Abs. 1, die §§ 26, 28 Abs. 1 Satz 1, die §§ 30, 31, 34, 36, 37 Abs. 1 bis 3, die §§ 40, 41, 48, 49, 50, 51 Abs. 2 bis 5 sowie die §§ 66 bis 68 entsprechend.1.Sitzungen der Gesamt-Jugend- und AuszubildendenvertretungFür die Durchführung der Sitzungen der GJAV gelten die für den GBR maßgebenden Regelungen entsprechend (§ 51 Abs. 3). Daher kann auch an einer JAV-Sitzung u. U. mittels Video- oder Telefonkonferenz teilgenommen werden, jedoch nur unter den Voraussetzungen des mit dem BRMoG 2021 neu eingeführten § 30 Abs. 2 (s. hierzu im Einzelnen § 30 Rn. 3). Die geforderte vorherige Verständigung des GBR setzt lediglich dessen Unterrichtung voraus. Der GBR hat also Kenntnis von der beabsichtigten Sitzung des GJAV zu erhalten; er kann sie jedoch nicht untersagen.2.Organisation und GeschäftsführungDie Bestimmung legt fest, dass eine Reihe von Vorschriften für die Organisation, Geschäftsführung, Zuständigkeit und Rechtsstellung der GJAV entsprechend gilt (vgl. die Erl. zu den entsprechenden Bestimmungen). Die GJAV kann Ausschüsse bilden und ihnen bestimmte Aufgaben übertragen, wenn im UN mehr als 100 AN i. S. von § 60 Abs. 1 beschäftigt werden. Auch wenn nicht ausdrücklich auf die Abs. 4 bis 7 des § 37 verwiesen wird, haben Mitgl. der GJAV in ihrer Eigenschaft als JAV-Mitgl. einen Anspruch auf Freistellung für Schulungs- und Bildungsveranstaltungen nach Maßgabe dieser Bestimmungen, sofern die vermittelten Kenntnisse für die Tätigkeit der Mitgl. der JAV erforderlich i. S. des § 37 Abs. 6 sind. Dies gilt nicht nur für das unmittelbar in die GJAV entsandte Mitgl., sondern auch für das Ersatzmitgl. (vgl. auch § 65 Rn. 1). In betriebsübergreifenden Angelegenheiten ist die GJAV gemäß Abs. 2 i. V. m. § 50 Abs. 1 Satz 1 Halbsatz 2 auch zuständig für Betriebe, in denen keine JAV besteht.
+150|117311§ 73a Voraussetzung der Errichtung, Mitgliederzahl, StimmengewichtbundimportedAsset##e1e3fc51-2078-4562-be3c-bc6181859da1Voraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht§ 73awalhalla150|1523897§ 73aVoraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht(1)Bestehen in einem Konzern (§ 18 Abs. 1 des Aktiengesetzes) mehrere Gesamt-Jugend- und Auszubildendenvertretungen, kann durch Beschlüsse der einzelnen Gesamt-Jugend- und Auszubildendenvertretungen eine Konzern-Jugend- und Auszubildendenvertretung errichtet werden. Die Errichtung erfordert die Zustimmung der Gesamt-Jugend- und Auszubildendenvertretungen der Konzernunternehmen, in denen insgesamt mindestens 75 vom Hundert der in § 60 Abs. 1 genannten Arbeitnehmer beschäftigt sind. Besteht in einem Konzernunternehmen nur eine Jugend- und Auszubildendenvertretung, so nimmt diese die Aufgaben einer Gesamt-Jugend- und Auszubildendenvertretung nach den Vorschriften dieses Abschnitts wahr.(2)In die Konzern-Jugend- und Auszubildendenvertretung entsendet jede Gesamt-Jugend- und Auszubildendenvertretung eines ihrer Mitglieder. Sie hat für jedes Mitglied mindestens ein Ersatzmitglied zu bestellen und die Reihenfolge des Nachrückens festzulegen.(3)Jedes Mitglied der Konzern-Jugend- und Auszubildendenvertretung hat so viele Stimmen, wie die Mitglieder der entsendenden Gesamt-Jugend- und Auszubildendenvertretung insgesamt Stimmen haben.(4)§ 72 Abs. 4 bis 8 gilt entsprechend.Die Vorschrift über die Voraussetzungen für die Bildung einer KJAV ist der für die Errichtung eines KBR (§ 54 Abs. 1) nachgebildet (vgl. deshalb die Erl. dort). Wie beim KBR handelt es sich um eine freiwillige Institution; allerdings bedarf sie der Zustimmung der GJAV der Konzern-UN, in denen insgesamt mindestens 75 v. H. der in § 60 Abs. 1 genannten AN der Konzern-UN beschäftigt sind.Die Vorschriften über die Entsendung der Mitgl. der KJAV und die Bestellung von Ersatzmitgl. (Abs. 2) sowie über die Möglichkeit der Festlegung einer anderweitigen Mitgl.-Zahl und über das Stimmengewicht ihrer Mitgl. (Abs. 3 und 4) entsprechen inhaltlich den Regelungen, die für den GBR und KBR sowie die GJAV gelten (vgl. deshalb die Erl. dort).
+150|117312§ 73b Geschäftsführung und Geltung sonstiger VorschriftenbundimportedAsset##a2b5b693-168c-40e5-8bb1-80577a2d7b0eGeschäftsführung und Geltung sonstiger Vorschriften§ 73bwalhalla150|1523898§ 73bGeschäftsführung und Geltung sonstiger Vorschriften(1)Die Konzern-Jugend- und Auszubildendenvertretung kann nach Verständigung des Konzernbetriebsrats Sitzungen abhalten. An den Sitzungen kann der Vorsitzende oder ein beauftragtes Mitglied des Konzernbetriebsrats teilnehmen.(2)Für die Konzern-Jugend- und Auszubildendenvertretung gelten § 25 Abs. 1, die §§ 26, 28 Abs. 1 Satz 1, die §§ 30, 31, 34, 36, 37 Abs. 1 bis 3, die §§ 40, 41, 51 Abs. 3 bis 5, die §§ 56, 57, 58, 59 Abs. 2 und die §§ 66 bis 68 entsprechend.Die Vorschrift enthält Regelungen über die Sitzungen der KJAV, die inhaltlich denen über die Sitzungen der JAV bzw. der GJAV entsprechen. Auf Grundlage des mit dem BRMoG 2021 neu eingeführten § 30 Abs. 2 kann auch die Teilnahme an einer KJAV-Sitzung u. U. mittels Video- oder Telefonkonferenz erfolgen, jedoch nur unter den in § 30 Abs. 2 bestimmten Voraussetzungen (s. hierzu im Einzelnen § 30 Rn. 3).Die Bestimmung regelt im Wege der Verweisung auf entsprechende Vorschriften des BR, des GBR und KBR sowie der JAV Fragen der Geschäftsführung und der Zuständigkeit der KJAV sowie der Beendigung der Mitgliedschaft in diesen Gremien.
+150|117313§ 74 Grundsätze für die ZusammenarbeitbundimportedAsset##58ba0a00-7a53-4ac4-97c6-bc2dd3913fa2Grundsätze für die Zusammenarbeit§ 74walhalla150|1523842§ 74Grundsätze für die Zusammenarbeit(1)Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.(2)Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig; Arbeitskämpfe tariffähiger Parteien werden hierdurch nicht berührt. Arbeitgeber und Betriebsrat haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im Betrieb zu unterlassen; die Behandlung von Angelegenheiten tarifpolitischer, sozialpolitischer, umweltpolitischer und wirtschaftlicher Art, die den Betrieb oder seine Arbeitnehmer unmittelbar betreffen, wird hierdurch nicht berührt.(3)Arbeitnehmer, die im Rahmen dieses Gesetzes Aufgaben übernehmen, werden hierdurch in der Betätigung für ihre Gewerkschaft auch im Betrieb nicht beschränkt.1.Monatsgespräche, Einlassungs- und ErörterungspflichtDer DGB-Entwurf für ein modernes BetrVG enthält vielfältige Verbesserungen für den BR in den §§ 74 und 74a.https://aur-blog.eu/reformvorschlag/.Die mindestens einmal im Monat durchzuführenden Zusammenkünfte („Monatsgespräche“) sollen den BR wie den AG anhalten, über beide Seiten berührende Probleme zu sprechen.Zu einer Musterregelungsabrede vgl. DKW-F-Berg, § 74 Rn. 6. Teilnahmerecht haben alle BR-Mitgl., sofern der BR nicht den BA (§ 27) oder einen anderen Ausschuss (§ 28) mit der Durchführung der Besprechungen beauftragt.Fitting, Rn. 7. Die Beauftragung des BA mit der Durchführung der Monatsgespräche nach § 74 Abs. 1 ist zulässig (vgl. § 27 Rn. 7).BAG 15. 8. 12 – 7 ABR 16/11, brwo; offengelassen durch ArbG Bielefeld 11. 6. 08 – 6 BV 37/08. Zu diesen Gesprächen können Gew.-Beauftragte hinzugezogen werden. Der SBV steht ein Teilnahmerecht nach § 178 Abs. 5 SGB IX zu.Vgl. dazu auch BAG, AuR 93, 337. Die JAV (§ 68) ist zu beteiligen, wenn auch Angelegenheiten behandelt werden, die besonders den in § 60 genannten Personenkreis betreffen.Ausführlich zu den monatlichen Besprechungen Rädel, AiB 99, 671. Bei Sprachproblemen einzelner BR-Mitgl. können u. U. Dolmetscher oder Übersetzer beigezogen werden, da diese Zusammenkünfte der Vertrauensbildung zwischen AG und BR dienen.Oberrath/Herbert, NZA 12, 1260. Die Verpflichtung des AG, mit dem BR mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen, ist Ausdruck der in § 2 Abs. 1 geforderten grundsätzlichen Verhaltensweise. Da der AG nur in seltenen Fällen auf die Mitwirkung des BR angewiesen ist, während der BR, da ihm das Direktionsrecht nicht zusteht, in der Regel eines Entgegenkommens des AG bedarf, betrifft diese Bestimmung überwiegend den AG. Der AG hat die Vorstellungen des BR nicht nur anzuhören, sondern auch zu bedenken und zu überprüfen, wieweit er ihnen nachkommen kann. Er ist dabei auch zur Überprüfung der eigenen Position verpflichtet. Eine aus § 74 Abs. 1 herzuleitende rechtliche Verpflichtung zum Kompromiss besteht zwar nicht,BAG, DB 74, 731. doch kann die dauernde Verweigerung der Zusammenarbeit eine grobe Pflichtverletzung i. S. des § 23 Abs. 3 sein. Gegen den Willen des BR kann der AG zu den monatlichen Besprechungen keine betriebsfremde Person zur Protokollführung heranziehen.ArbG Hersfeld, BB 87, 2452. Als Vertreter des AG braucht der BR nur solche Personen zu akzeptieren, die fachlich kompetent und berechtigt sind, für den AG verbindlich zu sprechen.BAG, AiB 92, 534.Eine gegenseitige Einlassungs- und Erörterungspflicht besteht sowohl für den AG als auch den BR. Diese betrifft zum einen die Monatsgespräche (s. o.), aber auch alle anderen Angelegenheiten. Zur Verhandlungsobliegenheit vor Anrufung der Einigungsstelle vgl. § 76 Rn. 1. Dahinter steht die beiderseitige Verpflichtung, mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge zur Beilegung von Meinungsverschiedenheiten zu unterbreiten. Dieses beinhaltet aber keine Pflicht zum Kompromiss.Im Einzelnen s. DKW-Berg Rn. 12 ff.2.Verbot des ArbeitskampfesDas Verbot, Maßnahmen des ArbeitskampfesZum Begriff des Arbeitskampfes vgl. u. a. BVerfG, AuR 92, 29; 93, 150; BAG 22. 9. 09 – 1 AZR 972/08. durchzuführen, gilt nur für den AG und den BR als Organe. Der BR kann also nicht Arbeitskämpfe zur Erzwingung betriebsverfassungsrechtlicher Regelungen durchführen.BAG DB 77, 728; Klocke, AuR 11/20, 444. Er hat sich als Organ jeder Tätigkeit im Arbeitskampf zu enthalten und darf insbesondere keinen Streik unterstützen oder die Belegschaft auffordern, sich an einem gewerkschaftlich organisierten Streik zu beteiligen. Während eines Arbeitskampfs bleibt der BR mit allen Rechten und Pflichten im Amt und hat dieses neutral wahrzunehmen.BAG 10. 12. 02 – 1 ABR 7/02. Er ist aber nach Auffassung des BAG daran gehindert, einzelne MBR, die durch das Streikgeschehen bedingt sind, auszuüben, wenn hierdurch die Arbeitskampffreiheit des AG ernsthaft beeinträchtigt wird (im Einzelnen § 80 Rn. 3, § 87 Rn. 25 und § 99 Rn. 24).BAG 13. 12. 11 – 1 ABR 2/10; 21. 4. 71 – GS 1/68; ablehnend DKW-Berg Rn. 36 ff. Dem BR ist es nicht untersagt, die Belegschaft über tarifliche Auseinandersetzungen, die den von ihm repräsentierten Betrieb betreffen, zu unterrichten.Im Einzelnen Berg/Kocher/Schumann, Teil 3, Rn. 8, Teil 4 Rn. 465. Demgegenüber liegt ein Verstoß gegen die Friedenspflicht und das Neutralitätsgebot vor, wenn der BR als Organ eine Gew. bei der konkreten Vorbereitung zur Urabstimmung unterstützt sowie eine Danksagung an die Belegschaft wegen der Unterstützung eines Streiks richtet.LAG Düsseldorf 14. 12. 10 – 17 TaBV 12/10, brwo. Die einzelnen Mitgl. des BR können sich aber, wie jeder andere AN des Betriebs, an gewerkschaftlichen Kampfmaßnahmen beteiligen, insbesondere auch aktiv und an hervorragender und führender Stelle außerhalb und innerhalb des Betriebs den Streik vorbereiten, organisieren und leiten, z. B. die Urabstimmung mitorganisieren, zum Streik aufrufen und in der Streikleitung mitarbeiten.LAG Düsseldorf 5. 7. 94 – 8 TaBV 57/94, AuR 95, 107. Streikaufrufe dürfen sie jedoch nicht unter ausdrücklicher Bezugnahme auf ihre BR-Mitgliedschaft unterzeichnen.LAG München 6. 5. 10 – 3 TaBVGa 10/10, brwo, zu einem Aufruf zum Streik und zur Verhinderung von Streikbruch-Arbeit per E-Mail durch einen GBR-Vors. Ebenso ist es untersagt, über einen personenbezogenen E-Mail-Account, dessen private Nutzung ausdrücklich untersagt ist, Streikaufrufe der Gewerkschaft zu verbreiten.BAG 15. 10. 13 – 1 ABR 31/12. Wegen der Rechtsfolgen bei Verstoß s. Rn. 7. Das BR-Amt mit seinen Rechten und Pflichten besteht grundsätzlich auch während eines Arbeitskampfes weiter (bei personellen Maßnahmen siehe § 99 Rn. 24).BAG 10. 12. 02 – 2ABR 7/02 zu § 80 Abs. 2; DB 71, 1061; LAG RP 21. 3. 13 – 10 TaBV 41/12; ArbG Regensburg, AuR 87, 178; vgl. DKW-F-Berg, § 74 Rn. 2. Auch das BVerfG betontBVerfG, AuR 75, 350. die Bedeutung der weiteren Funktionsfähigkeit des BR. In Ausübung ihrer BR-Tätigkeit darf den streikenden oder ausgesperrten BR-Mitgl. auch der Zutritt zum Betrieb nicht verwehrt werden.LAG Köln, LAGE Nr. 9 zu § 2 BetrVG 1972; LAG Frankfurt, BB 90, 1626; ArbG Stuttgart 22. 5. 84 – 2 BVGa 1/84. Im Übrigen ver
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.475)
+#### § 9 Information des BR/Zustimmungsvorbehalt
+
+(1) Der BR wird vom Gruppensprecher über den aktuellen Verhandlungsstand einschließlich der vereinbarten Verhandlungstermine unverzüglich und vollständig informiert. Abweichende Informationszyklen können in den Einzelbeauftragungen festgelegt werden.
+
+(2) Auf Verlangen des BR nimmt der Gruppensprecher an der nächsten BR-Sitzung teil und informiert das Gremium unmittelbar.
+
+> #### **Hinweis:**
+>
+> Zur Wahrung der Interessen des BR kann es sinnvoll sein, dass Mitglieder als „Beobachter“ immer oder teilweise in Verhandlungen präsent sind. Sofern Betriebsratsmitglieder nicht zur Verhandlungskommission gehören, muss ein Teilnahmerecht in der RV gesondert verankert werden. Entsprechendes gilt für die beobachtende Teilnahme von gewerkschaftlichen Vertretern.
+
+(3) Vertreter des beauftragenden BR können an allen Verhandlungen und Arbeitsgruppensitzungen, die im Zusammenhang mit einer Beauftragung gem. § 28a BetrVG stehen, teilnehmen. Diese haben beratende Stimme.
+
+Entsprechendes gilt für Vertreter der im Betrieb vertretenen Gewerkschaften {{(Alternative: gilt unter Beachtung von § 31 BetrVG für Vertreter der im Betrieb vertretenen Gewerkschaften)}}.
+
+> #### **Hinweis:**
+>
+> Neben diesen formalen Voraussetzungen ist eine Einbindung des BR in die endgültigen Entscheidungsprozesse unumgänglich. Diese ist notwendig, um Kollisionen mit anderen Regelungen oder mit den zu schützenden Interessen anderer Beschäftigter im Betrieb auszuschließen. Da nur dieses Gremium die Gesamtwirkung von Verhandlungsergebnissen und auf dieser Basis abzuschließenden Gruppenvereinbarungen beurteilen kann, sollte es sich deshalb die Möglichkeit einer Einwirkung vor Abschluss der Gruppenvereinbarung vorbehalten. Dieses ist auf unterschiedlichen Wegen realisierbar.
+
+**1. Alternative:** Der BR kann sich beispielsweise grundsätzlich die Zustimmung zu entsprechenden Vereinbarungen vorbehalten.
+
+(4) Verhandlungsergebnisse (= Entwürfe von Gruppenvereinbarungen) dürfen der Arbeitsgruppe erst zur Abstimmung vorgelegt werden, wenn der BR ihnen in einer Sitzung zugestimmt hat. Ohne Zustimmung des BR erfolgte Beschlüsse einer Arbeitsgruppe sind unwirksam.
+
+**2. Alternative:** Der BR kann sich in der RV eine Zustimmungsverweigerung zu einer in der Arbeitsgruppe schon beschlossenen Regelung vorbehalten.
+
+(4) Hat eine Arbeitsgruppe einer Gruppenvereinbarung mit der erforderlichen Mehrheit zugestimmt, tritt sie erst in Kraft, wenn der AG sie dem BR vorgelegt hat und der BR nicht innerhalb von zwei Wochen {{(Alternative: längere/kürzere Fristen)}} nach Vorlage widersprochen hat. Der Widerspruch erfolgt gegenüber dem Arbeitgeber {{(Alternative: gegenüber dem AG oder dem Arbeitsgruppensprecher)}}.
+
+> #### **Hinweis:**
+>
+> Soll die endgültige Abstimmung über eine Gruppenvereinbarung erfolgen, sind die Mitglieder der Arbeitsgruppe hierauf gesondert hinzuweisen. Mit Blick auf die besondere individuelle Bedeutung sollte der Hinweis die Übergabe aussagekräftiger Informationen einschließen.
+
+[RREF3] BetrVG.pdf p.3,y:759 (0.482)
+## § 2 Stellung der Gewerkschaften und Vereinigungen der Arbeitgeber
+- (1) Arbeitgeber und Betriebsrat arbeiten unter Beachtung der geltenden Tarifverträge vertrauensvoll und im Zusammenwirken mit den im Betrieb vertretenen Gewerkschaften und Arbeitgebervereinigungen zum Wohl der Arbeitnehmer und des Betriebs zusammen.
+- (2) Zur Wahrnehmung der in diesem Gesetz genannten Aufgaben und Befugnisse der im Betrieb vertretenen Gewerkschaften ist deren Beauftragten nach Unterrichtung des Arbeitgebers oder seines Vertreters Zugang zum Betrieb zu gewähren, soweit dem nicht unumgängliche Notwendigkeiten des Betriebsablaufs, zwingende Sicherheitsvorschriften oder der Schutz von Betriebsgeheimnissen entgegenstehen.
+- (3) Die Aufgaben der Gewerkschaften und der Vereinigungen der Arbeitgeber, insbesondere die Wahrnehmung der Interessen ihrer Mitglieder, werden durch dieses Gesetz nicht berührt.
+## § 3 Abweichende Regelungen
+- (1) Durch Tarifvertrag können bestimmt werden:
+- 1. für Unternehmen mit mehreren Betrieben
+- a) die Bildung eines unternehmenseinheitlichen Betriebsrats oder
+- b) die Zusammenfassung von Betrieben,
+- wenn dies die Bildung von Betriebsräten erleichtert oder einer sachgerechten Wahrnehmung der Interessen der Arbeitnehmer dient;
+- 2. für Unternehmen und Konzerne, soweit sie nach produkt- oder projektbezogenen Geschäftsbereichen (Sparten) organisiert sind und die Leitung der Sparte auch Entscheidungen in beteiligungspflichtigen Angelegenheiten trifft, die Bildung von Betriebsräten in den Sparten (Spartenbetriebsräte), wenn dies der sachgerechten Wahrnehmung der Aufgaben des Betriebsrats dient;
+- 3. andere Arbeitnehmervertretungsstrukturen, soweit dies insbesondere aufgrund der Betriebs-, Unternehmens- oder Konzernorganisation oder aufgrund anderer Formen der Zusammenarbeit von Unternehmen einer wirksamen und zweckmäßigen Interessenvertretung der Arbeitnehmer dient;
+- 4. zusätzliche betriebsverfassungsrechtliche Gremien (Arbeitsgemeinschaften), die der unternehmensübergreifenden Zusammenarbeit von Arbeitnehmervertretungen dienen;
+- 5. zusätzliche betriebsverfassungsrechtliche Vertretungen der Arbeitnehmer, die die Zusammenarbeit zwischen Betriebsrat und Arbeitnehmern erleichtern.
+- (2) Besteht in den Fällen des Absatzes 1 Nr. 1, 2, 4 oder 5 keine tarifliche Regelung und gilt auch kein anderer Tarifvertrag, kann die Regelung durch Betriebsvereinbarung getroffen werden.
+- (3) Besteht im Fall des Absatzes 1 Nr. 1 Buchstabe a keine tarifliche Regelung und besteht in dem Unternehmen kein Betriebsrat, können die Arbeitnehmer mit Stimmenmehrheit die Wahl eines unternehmenseinheitlichen Betriebsrats beschließen. Die Abstimmung kann von mindestens drei wahlberechtigten Arbeitnehmern des Unternehmens oder einer im Unternehmen vertretenen Gewerkschaft veranlasst werden.
+- (4) Sofern der Tarifvertrag oder die Betriebsvereinbarung nichts anderes bestimmt, sind Regelungen nach Absatz 1 Nr. 1 bis 3 erstmals bei der nächsten regelmäßigen Betriebsratswahl anzuwenden, es sei denn, es besteht kein Betriebsrat oder es ist aus anderen Gründen eine Neuwahl des Betriebsrats erforderlich. Sieht der Tarifvertrag
+
+[Page 4]: #
+
+[Y 927]: #
+oder die Betriebsvereinbarung einen anderen Wahlzeitpunkt vor, endet die Amtszeit bestehender Betriebsräte, die durch die Regelungen nach Absatz 1 Nr. 1 bis 3 entfallen, mit Bekanntgabe des Wahlergebnisses.
+- (5) Die aufgrund eines Tarifvertrages oder einer Betriebsvereinbarung nach Absatz 1 Nr. 1 bis 3 gebildeten betriebsverfassungsrechtlichen Organisationseinheiten gelten als Betriebe im Sinne dieses Gesetzes. Auf die in ihnen gebildeten Arbeitnehmervertretungen finden die Vorschriften über die Rechte und Pflichten des Betriebsrats und die Rechtsstellung seiner Mitglieder Anwendung.
+
+
+
+---
+
+## Q-P1-AM-08  (subtask: strategic_practical)
+
+### FRAGE
+Eine Betriebsratwahl wird aufgeheiztes Thema in der Belegschaft und führt zu Konflikten. Welche Strategien git es, um das Thema zu versachlichen?
+
+### REFERENZ
+- Kommunikation mit besonders aufgeheizten Mitgliedern
+- Sachliches Herangehen an die sprengenden Themen
+- Deeskalation in großen Gruppen
+- Genaue Tipps zu Deeskalation und Dinge, die vermieden werden sollten
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden rechtlichen Dokumenten lassen sich keine allgemeinen psychologischen oder kommunikativen Strategien ableiten, da es sich primär um Gesetzestexte und Wahlformulare handelt. Allerdings提供 das Betriebsverfassungsgesetz (BetrVG) und die Wahlordnung (WO) einen verbindlichen **rechtlichen Rahmen**, der durch strikte Einhaltung zur Versachlichung von Konflikten während einer Betriebsratwahl beiträgt.
+
+Hier sind die aus den Dokumenten ableitbaren Maßnahmen zur Konfliktminimierung und Versachlichung:
+
+### 1. Einhaltung der Grundsätze der Zusammenarbeit (§ 74 BetrVG)
+Der wichtigste Hebel zur Versachlichung liegt in der Einhaltung der gesetzlichen Kooperationspflichten zwischen Arbeitgeber und Betriebsrat (bzw. Wahlvorstand).
+*   **Verhandlungspflicht:** Arbeitgeber und Betriebsrat müssen über strittige Fragen mit dem „ernsten Willen zur Einigung" verhandeln und Vorschläge zur Beilegung von Meinungsverschiedenheiten machen [RREF3] § 74 Abs. 1.
+*   **Verbot von Störungen:** Beide Seiten haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden [RREF3] § 74 Abs. 2.
+*   **Keine Parteipolitik:** Jede parteipolitische Betätigung im Betrieb ist zu unterlassen. Dies dient direkt der Entpolitisierung und Versachlichung der Wahl [RREF3] § 74 Abs. 2.
+
+### 2. Sicherstellung fairer Behandlung (§ 75 BetrVG)
+Um Konflikten vorzubeugen, die aus dem Gefühl der Benachteiligung entstehen, sind die Grundsätze der Behandlung der Betriebsangehörigen zu beachten.
+*   **Recht und Billigkeit:** Arbeitgeber und Betriebsrat haben darüber zu wachen, dass alle Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden [RREF3] § 75 Abs. 1.
+*   **Diskriminierungsverbot:** Jede Benachteiligung aus Gründen der Race, Herkunft, Religion, politischen Einstellung etc. muss unterbleiben [RREF3] § 75 Abs. 1.
+*   **Persönlichkeitsschutz:** Die freie Entfaltung der Persönlichkeit der Arbeitnehmer ist zu schützen und zu fördern [RREF3] § 75 Abs. 2.
+
+### 3. Neutrale Durchführung der Wahl (§ 14, § 16 BetrVG)
+Die Struktur der Wahl selbst ist darauf ausgelegt, Druck von den einzelnen Arbeitnehmern zu nehmen.
+*   **Geheime Wahl:** Der Betriebsrat wird in geheimer Wahl gewählt. Dies schützt Arbeitnehmer vor Repressalien und versachlicht die Entscheidung im Kabinett [RREF2] § 14 Abs. 1.
+*   **Neutraler Wahlvorstand:** Der Wahlvorstand wird vom Betriebsrat bestellt und soll aus Frauen und Männern bestehen. Gewerkschaften können Beauftragte entsenden. Diese Neutralität sorgt für Vertrauen in den Prozess [RREF2] § 16 Abs. 1.
+*   **Einspruchsmöglichkeiten:** Gegen die Wählerliste können Einsprüche eingelegt werden, über die der Wahlvorstand unverzüglich entscheiden muss. Dies bietet ein formalisiertes Ventil für Unzufriedenheit [RREF4] Übersicht einstufiges Wahlverfahren.
+
+### 4. Nutzung formaler Streitbeilegungsmechanismen
+Bei festgefahrenen Situationen sehen die Dokumente spezifische Instanzen vor, um Konflikte extern oder formalisiert zu lösen.
+*   **Einigungsstelle:** Zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber und Betriebsrat ist bei Bedarf eine Einigungsstelle zu bilden. Deren Spruch kann die Einigung ersetzen [RREF3] § 76 Abs. 1, 5.
+*   **Vermittler bei leitenden Angestellten:** Speziell bei Konflikten über die Zuordnung leitender Angestellte (die nicht wahlberechtigt sind) ist ggf. eine Vermittler:in zu bestellen, wenn keine Einigung erzielt wird [RREF1] Wahlunterlage 12 unter Verweis auf § 18a Abs. 3 BetrVG.
+
+### 5. Transparenz durch Dokumentation und Fristen
+Unklarheiten über den Ablauf sind eine häufige Konfliktquelle. Die strikte Einhaltung der Wahlordnung schafft Klarheit.
+*   **Einhaltung der Fristen:** Der Wahlvorstand muss spezifische Fristen einhalten (z. B. Wahlausschreiben unverzüglich nach Wählerliste, Einspruchsfristen von drei Tagen) [RREF4] Übersicht einstufiges Wahlverfahren.
+*   **Dokumentation:** Es ist eine Wahlniederschrift anzufertigen und das Ergebnis bekannt zu geben [RREF4] Übersicht einstufiges Wahlverfahren.
+*   **Aufbewahrungspflicht:** Die Wahlunterlagen müssen vom neuen Betriebsrat mindestens bis zur Beendigung seiner Amtszeit aufbewahrt werden, was Nachvollziehbarkeit sichert [RREF4] Wahlunterlage 40 unter Verweis auf § 19 WO.
+
+**Zusammenfassende Empfehlung:**
+Um das Thema zu versachlichen, sollten alle Beteiligten (Wahlvorstand, Arbeitgeber, kandidierende Listen) explizit auf die Einhaltung der **§§ 74 und 75 BetrVG** [RREF3] pochen. Der Verweis auf die gesetzliche Pflicht zur „parteipolitischen Enthaltsamkeit im Betrieb" und zur „vertrauensvollen Zusammenarbeit" ist das stärkste Argument gegen persönliche Angriffe oder Aufheizung der Stimmung. Zudem sorgt die strikte Anwendung der **Wahlordnung** [RREF4] und die Einschaltung neutraler Gremien wie der **Einigungsstelle** [RREF3] § 76 dafür, dass Konflikte auf einer proceduralen Ebene gelöst werden..
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.373)
+### Wahlunterlage 12
+
+<!-- sem-asset-id: wahlunterlage_12 -->
+
+#### Normales Wahlverfahren
+
+#### Einsetzung eines Vermittlers – Zuordnung der leitenden Angestellten
+
+Der Wahlvorstand
+
+Betriebsratswahl der
+
+Fa. {{UnternehmenName}}
+
+Betrieb {{BetriebName}}
+
+Anschrift des Wahlvorstandes
+
+{{WVStrasse}}
+
+{{WVPLZ WVOrt}}
+
+(Bei zeitgleicher Wahl desSprecherausschusses)(Bei nicht zeitgleicher Wahl desSprecherausschusses)*An denWahlvorstand desSprecherausschusses derFa. ...............................................................Anschrift ...........................................................................................................................*An denSprecherausschuss derFa. ................................................................Anschrift .............................................................................................................................
+
+Sehr geehrte Damen und Herren,
+
+nachdem die gemeinsame Sitzung gemäß § 18a Abs. 1 Satz 2 BetrVG keine Einigung über die der Gruppe der leitenden Angestellten zuzuordnenden Personen gebracht hat, ist eine Vermittler:in nach § 18a Abs. 3 BetrVG zu bestellen, über den sich beide beteiligten Seiten zu verständigen haben.
+
+Der Wahlvorstand zur Betriebsratswahl schlägt als Vermittler:in
+
+........................................................................................................................................................................................
+
+vor.
+
+Nach § 18a Abs. 3 Satz 1 BetrVG ist eine gemeinsame Verständigung über die Person der Vermittler:in notwendig.
+
+Sollte es diese Verständigung nicht geben, ist von jeder Seite eine Person als Vermittler vorzuschlagen. Die Entscheidung wird durch Los herbeigeführt (§ 18a Abs. 3 Satz 3 BetrVG).
+
+Für diesen Fall schlagen wir vor**
+
+...................................................................................................
+
+Wir bitten um Ihre Stellungnahme.
+
+Mit freundlichen Grüßen
+
+...............................................................
+
+Vorsitzende(r) des Wahlvorstandes
+
+** Nichtzutreffendes streichen
+
+** Hinweis: nur eine Person vorschlagen
+
+[RREF2] SF_Arbeits_und_Sozialordnung_2025.md (0.416)
+es.(5)Die aufgrund eines Tarifvertrages oder einer Betriebsvereinbarung nach Absatz 1 Nr. 1 bis 3 gebildeten betriebsverfassungsrechtlichen Organisationseinheiten gelten als Betriebe im Sinne dieses Gesetzes. Auf die in ihnen gebildeten Arbeitnehmervertretungen finden die Vorschriften über die Rechte und Pflichten des Betriebsrats und die Rechtsstellung seiner Mitglieder Anwendung.150|127628|par4bundimportedAsset##4c3104ec-254f-4cbe-a641-205f4ce9e3eeASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 4Betriebsteile, Kleinstbetriebe(1)Betriebsteile gelten als selbständige Betriebe, wenn sie die Voraussetzungen des § 1 Abs. 1 Satz 1 erfüllen undräumlich weit vom Hauptbetrieb entfernt oderdurch Aufgabenbereich und Organisation eigenständig sind.Die Arbeitnehmer eines Betriebsteils, in dem kein eigener Betriebsrat besteht, können mit Stimmenmehrheit formlos beschließen, an der Wahl des Betriebsrats im Hauptbetrieb teilzunehmen; § 3 Abs. 3 Satz 2 gilt entsprechend. Die Abstimmung kann auch vom Betriebsrat des Hauptbetriebs veranlasst werden. Der Beschluss ist dem Betriebsrat des Hauptbetriebs spätestens zehn Wochen vor Ablauf seiner Amtszeit mitzuteilen. Für den Widerruf des Beschlusses gelten die Sätze 2 bis 4 entsprechend.(2)Betriebe, die die Voraussetzungen des § 1 Abs. 1 Satz 1 nicht erfüllen, sind dem Hauptbetrieb zuzuordnen.150|127628|par5bundimportedAsset##f99e0ef5-5939-4bcb-91b5-ba816bd8cd3cASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 5Arbeitnehmer(1)Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) im Sinne dieses Gesetzes sind Arbeiter und Angestellte einschließlich der zu ihrer Berufsausbildung Beschäftigten, unabhängig davon, ob sie im Betrieb, im Außendienst oder mit Telearbeit beschäftigt werden. Als Arbeitnehmer gelten auch die in Heimarbeit Beschäftigten, die in der Hauptsache für den Betrieb arbeiten. Als Arbeitnehmer gelten ferner Beamte (Beamtinnen und Beamte), Soldaten (Soldatinnen und Soldaten) sowie Arbeitnehmer des öffentlichen Dienstes einschließlich der zu ihrer Berufsausbildung Beschäftigten, die in Betrieben privatrechtlich organisierter Unternehmen tätig sind.(2)Als Arbeitnehmer im Sinne dieses Gesetzes gelten nichtin Betrieben einer juristischen Person die Mitglieder des Organs, das zur gesetzlichen Vertretung der juristischen Person berufen ist;die Gesellschafter einer offenen Handelsgesellschaft oder die Mitglieder einer anderen Personengesamtheit, soweit sie durch Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung der Personengesamtheit oder zur Geschäftsführung berufen sind, in deren Betrieben;Personen, deren Beschäftigung nicht in erster Linie ihrem Erwerb dient, sondern vorwiegend durch Beweggründe karitativer oder religiöser Art bestimmt ist;Personen, deren Beschäftigung nicht in erster Linie ihrem Erwerb dient und die vorwiegend zu ihrer Heilung, Wiedereingewöhnung, sittlichen Besserung oder Erziehung beschäftigt werden;der Ehegatte, der Lebenspartner, Verwandte und Verschwägerte ersten Grades, die in häuslicher Gemeinschaft mit dem Arbeitgeber leben.(3)Dieses Gesetz findet, soweit in ihm nicht ausdrücklich etwas anderes bestimmt ist, keine Anwendung auf leitende Angestellte. Leitender Angestellter ist, wer nach Arbeitsvertrag und Stellung im Unternehmen oder im Betriebzur selbständigen Einstellung und Entlassung von im Betrieb oder in der Betriebsabteilung beschäftigten Arbeitnehmern berechtigt ist oderGeneralvollmacht oder Prokura hat und die Prokura auch im Verhältnis zum Arbeitgeber nicht unbedeutend ist oderregelmäßig sonstige Aufgaben wahrnimmt, die für den Bestand und die Entwicklung des Unternehmens oder eines Betriebs von Bedeutung sind und deren Erfüllung besondere Erfahrungen und Kenntnisse voraussetzt, wenn er dabei entweder die Entscheidungen im Wesentlichen frei von Weisungen trifft oder sie maßgeblich beeinflusst; dies kann auch bei Vorgaben insbesondere aufgrund von Rechtsvorschriften, Plänen oder Richtlinien sowie bei Zusammenarbeit mit anderen leitenden Angestellten gegeben sein.Für die in Absatz 1 Satz 3 genannten Beamten und Soldaten gelten die Sätze 1 und 2 entsprechend.(4)Leitender Angestellter nach Absatz 3 Nr. 3 ist im Zweifel, weraus Anlass der letzten Wahl des Betriebsrats, des Sprecherausschusses oder von Aufsichtsratsmitgliedern der Arbeitnehmer oder durch rechtskräftige gerichtliche Entscheidung den leitenden Angestellten zugeordnet worden ist odereiner Leitungsebene angehört, auf der in dem Unternehmen überwiegend leitende Angestellte vertreten sind, oderein regelmäßiges Jahresarbeitsentgelt erhält, das für leitende Angestellte in dem Unternehmen üblich ist, oder,falls auch bei der Anwendung der Nummer 3 noch Zweifel bleiben, ein regelmäßiges Jahresarbeitsentgelt erhält, das das Dreifache der Bezugsgröße nach § 18 des Vierten Buches des Sozialgesetzbuches überschreitet.150|127628|par6bundimportedAsset##49a637dc-2acd-4fd2-a707-e60244b7b956ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 6(weggefallen)Zweiter TeilBetriebsrat, Betriebsversammlung, Gesamt- und KonzernbetriebsratErster AbschnittZusammensetzung und Wahl des Betriebsrats150|127628|par7bundimportedAsset##0b2f56e8-2adc-4e87-b80c-ee29ebf5058bASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 7WahlberechtigungWahlberechtigt sind alle Arbeitnehmer des Betriebs, die das 16. Lebensjahr vollendet haben. Werden Arbeitnehmer eines anderen Arbeitgebers zur Arbeitsleistung überlassen, so sind diese wahlberechtigt, wenn sie länger als drei Monate im Betrieb eingesetzt werden.150|127628|par8bundimportedAsset##0bc04960-6ce4-4c02-b767-fe815808fd4aASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 8Wählbarkeit(1)Wählbar sind alle Wahlberechtigten, die das 18. Lebensjahr vollendet haben und sechs Monate dem Betrieb angehören oder als in Heimarbeit Beschäftigte in der Hauptsache für den Betrieb gearbeitet haben. Auf diese sechsmonatige Betriebszugehörigkeit werden Zeiten angerechnet, in denen der Arbeitnehmer unmittelbar vorher einem anderen Betrieb desselben Unternehmens oder Konzerns (§ 18 Abs. 1 des Aktiengesetzes) angehört hat. Nicht wählbar ist, wer infolge strafgerichtlicher Verurteilung die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, nicht besitzt.(2)Besteht der Betrieb weniger als sechs Monate, so sind abweichend von der Vorschrift in Absatz 1 über die sechsmonatige Betriebszugehörigkeit diejenigen Arbeitnehmer wählbar, die bei der Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die übrigen Voraussetzungen für die Wählbarkeit erfüllen.150|127628|par9bundimportedAsset##2d2ccc90-ab70-4b98-8da5-bc0c2a0ca3cdASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 9Zahl der Betriebsratsmitglieder(1)Der Betriebsrat besteht in Betrieben mit in der Regel
+
+5bis20wahlberechtigten Arbeitnehmern aus einer Person,21bis50wahlberechtigten Arbeitnehmern aus 3 Mitgliedern,51wahlberechtigten Arbeitnehmernbis100Arbeitnehmern aus5Mitgliedern,101bis200Arbeitnehmern aus7Mitgliedern,201bis400Arbeitnehmern aus9Mitgliedern,401bis700Arbeitnehmern aus11Mitgliedern,701bis1000Arbeitnehmern aus13Mitgliedern,1001bis1500Arbeitnehmern aus15Mitgliedern,1501bis2000Arbeitnehmern aus17Mitgliedern,2001bis2500Arbeitnehmern aus19Mitgliedern,2501bis3000Arbeitnehmern aus21Mitgliedern,3001bis3500Arbeitnehmern aus23Mitgliedern,3501bis4000Arbeitnehmern aus25Mitgliedern,4001bis4500Arbeitnehmern aus27Mitgliedern,4501bis5000Arbeitnehmern aus29Mitgliedern,5001bis6000Arbeitnehmern aus31Mitgliedern,6001bis7000Arbeitnehmern aus33Mitgliedern,7001bis9000Arbeitnehmern aus35Mitgliedern.
+
+In Betrieben mit mehr als 9000 Arbeitnehmern erhöht sich die Zahl der Mitglieder des Betriebsrats für je angefangene weitere 3000 Arbeitnehmer um 2 Mitglieder.150|127628|par10bundimportedAsset##43cd7c86-9e0d-4574-9d78-d429b1ff5a5fASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 10(weggefallen)150|127628|par11bundimportedAsset##32384c17-4bc3-4e5a-9a43-402501638666ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 11Ermäßigte Zahl der BetriebsratsmitgliederHat ein Betrieb nicht die ausreichende Zahl von wählbaren Arbeitnehmern, so ist die Zahl der Betriebsratsmitglieder der nächstniedrigeren Betriebsgröße zugrunde zu legen.150|127628|par12bundimportedAsset##01e70813-2160-450a-8b3d-b59addac68feASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 12(weggefallen)150|127628|par13bundimportedAsset##bc974cf0-b9ab-44cc-b6f3-77187fb459d4ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 13Zeitpunkt der Betriebsratswahlen(1)Die regelmäßigen Betriebsratswahlen finden alle vier Jahre in der Zeit vom 1. März bis 31. Mai statt. Sie sind zeitgleich mit den regelmäßigen Wahlen nach § 5 Abs. 1 des Sprecherausschussgesetzes einzuleiten.(2)Außerhalb dieser Zeit ist der Betriebsrat zu wählen, wennmit Ablauf von 24 Monaten, vom Tage der Wahl an gerechnet, die Zahl der regelmäßig beschäftigten Arbeitnehmer um die Hälfte, mindestens aber um fünfzig, gestiegen oder gesunken ist,die Gesamtzahl der Betriebsratsmitglieder nach Eintreten sämtlicher Ersatzmitglieder unter die vorgeschriebene Zahl der Betriebsratsmitglieder gesunken ist,der Betriebsrat mit der Mehrheit seiner Mitglieder seinen Rücktritt beschlossen hat,die Betriebsratswahl mit Erfolg angefochten worden ist,der Betriebsrat durch eine gerichtliche Entscheidung aufgelöst ist oderim Betrieb ein Betriebsrat nicht besteht.(3)Hat außerhalb des für die regelmäßigen Betriebsratswahlen festgelegten Zeitraums eine Betriebsratswahl stattgefunden, so ist der Betriebsrat in dem auf die Wahl folgenden nächsten Zeitraum der regelmäßigen Betriebsratswahlen neu zu wählen. Hat die Amtszeit des Betriebsrats zu Beginn des für die regelmäßigen Betriebsratswahlen festgelegten Zeitraums noch nicht ein Jahr betragen, so ist der Betriebsrat in dem übernächsten Zeitraum der regelmäßigen Betriebsratswahlen neu zu wählen.150|127628|par14bundimportedAsset##7d144310-b470-41bc-b321-a28c83e9bd97ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 14Wahlvorschriften(1)Der Betriebsrat wird in geheimer und unmittelbarer Wahl gewählt.(2)Die Wahl erfolgt nach den Grundsätzen der Verhältniswahl. Sie erfolgt nach den Grundsätzen der Mehrheitswahl, wenn nur ein Wahlvorschlag eingereicht wird oder wenn der Betriebsrat im vereinfachten Wahlverfahren nach § 14 a zu wählen ist.(3)Zur Wahl des Betriebsrats können die wahlberechtigten Arbeitnehmer und die im Betrieb vertretenen Gewerkschaften Wahlvorschläge machen.(4)In Betrieben mit in der Regel bis zu 20 wahlberechtigten Arbeitnehmern bedarf es keiner Unterzeichnung von Wahlvorschlägen. Wahlvorschläge sind in Betrieben mit in der Regel 21 bis 100 wahlberechtigten Arbeitnehmern von mindestens zwei wahlberechtigten Arbeitnehmern und in Betrieben mit in der Regel mehr als 100 wahlberechtigten Arbeitnehmern von mindestens einem Zwanzigstel der wahlberechtigten Arbeitnehmer zu unterzeichnen. In jedem Fall genügt die Unterzeichnung durch 50 wahlberechtigte Arbeitnehmer.(5)Jeder Wahlvorschlag einer Gewerkschaft muss von zwei Beauftragten unterzeichnet sein.150|127628|par14abundimportedAsset##30a7ce96-c25d-4109-8168-c54da5ec448cASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 14 aVereinfachtes Wahlverfahren für Kleinbetriebe(1)In Betrieben mit in der Regel fünf bis 100 wahlberechtigten Arbeitnehmern wird der Betriebsrat in einem zweistufigen Verfahren gewählt. Auf einer ersten Wahlversammlung wird der Wahlvorstand nach § 17 a Nr. 3 gewählt. Auf einer zweiten Wahlversammlung wird der Betriebsrat in geheimer und unmittelbarer Wahl gewählt. Diese Wahlversammlung findet eine Woche nach der Wahlversammlung zur Wahl des Wahlvorstands statt.(2)Wahlvorschläge können bis zum Ende der Wahlversammlung zur Wahl des Wahlvorstands nach § 17 a Nr. 3 gemacht werden; für Wahlvorschläge der Arbeitnehmer gilt § 14 Abs. 4 mit der Maßgabe, dass für Wahlvorschläge, die erst auf dieser Wahlversammlung gemacht werden, keine Schriftform erforderlich ist.(3)Ist der Wahlvorstand in Betrieben mit in der Regel fünf bis 100 wahlberechtigten Arbeitnehmern nach § 17 a Nr. 1 in Verbindung mit § 16 vom Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat oder nach § 17 a Nr. 4 vom Arbeitsgericht bestellt, wird der Betriebsrat abweichend von Absatz 1 Satz 1 und 2 auf nur einer Wahlversammlung in geheimer und unmittelbarer Wahl gewählt. Wahlvorschläge können bis eine Woche vor der Wahlversammlung zur Wahl des Betriebsrats gemacht werden; § 14 Abs. 4 gilt unverändert.(4)Wahlberechtigten Arbeitnehmern, die an der Wahlversammlung zur Wahl des Betriebsrats nicht teilnehmen können, ist Gelegenheit zur schriftlichen Stimmabgabe zu geben.(5)In Betrieben mit in der Regel 101 bis 200 wahlberechtigten Arbeitnehmern können der Wahlvorstand und der Arbeitgeber die Anwendung des vereinfachten Wahlverfahrens vereinbaren.150|127628|par15bundimportedAsset##57e19361-333a-47c6-b504-c3da61055cc5ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 15Zusammensetzung nach Beschäftigungsarten und Geschlechter (1)Der Betriebsrat soll sich möglichst aus Arbeitnehmern der einzelnen Organisationsbereiche und der verschiedenen Beschäftigungsarten der im Betrieb tätigen Arbeitnehmer zusammensetzen.(2)Das Geschlecht, das in der Belegschaft in der Minderheit ist, muss mindestens entsprechend seinem zahlenmäßigen Verhältnis im Betriebsrat vertreten sein, wenn dieser aus mindestens drei Mitgliedern besteht.150|127628|par16bundimportedAsset##95caddcc-1be3-431a-a467-3127e69bcf18ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 16Bestellung des Wahlvorstands(1)Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der Betriebsrat einen aus drei Wahlberechtigten bestehenden Wahlvorstand und einen von ihnen als Vorsitzenden. Der Betriebsrat kann die Zahl der Wahlvorstandsmitglieder erhöhen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist. Der Wahlvorstand muss in jedem Fall aus einer ungeraden Zahl von Mitgliedern bestehen. Für jedes Mitglied des Wahlvorstands kann für den Fall seiner Verhinderung ein Ersatzmitglied bestellt werden. In Betrieben mit weiblichen und männlichen Arbeitnehmern sollen dem Wahlvorstand Frauen und Männer angehören. Jede im Betrieb vertretene Gewerkschaft kann zusätzlich einen dem Betrieb angehörenden Beauftragten als nicht stimmberechtigtes Mitglied in den Wahlvorstand entsenden, sofern ihr nicht ein stimmberechtigtes Wahlvorstandsmitglied angehört.(2)Besteht acht Wochen vor Ablauf der Amtszeit des Betriebsrats kein Wahlvorstand, so bestellt ihn das Arbeitsgericht auf Antrag von mindestens drei Wahlberechtigten oder einer im Betrieb vertretenen Gewerkschaft; Absatz 1 gilt entsprechend. In dem Antrag können Vorschläge für die Zusammensetzung des Wahlvorstands gemacht werden. Das Arbeitsgericht kann für Betriebe mit in der Regel mehr als zwanzig wahlberechtigten Arbeitnehmern auch Mitglieder einer im Betrieb vertretenen Gewerkschaft, die nicht Arbeitnehmer des Betriebs sind, zu Mitgliedern des Wahlvorstands bestellen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist.(3)Besteht acht Wochen vor Ablauf der Amtszeit des Betriebsrats kein Wahlvorstand, ka
+
+[RREF3] BetrVG.pdf p.24,y:545 (0.421)
+## Vierter Teil Mitwirkung und Mitbestimmung der Arbeitnehmer
+## Erster Abschnitt Allgemeines
+## § 74 Grundsätze für die Zusammenarbeit
+
+[Y 545]: #
+- (1) Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.
+- (2) Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig; Arbeitskämpfe tariffähiger Parteien werden hierdurch nicht berührt. Arbeitgeber und Betriebsrat haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im Betrieb zu unterlassen; die Behandlung von Angelegenheiten tarifpolitischer, sozialpolitischer, umweltpolitischer und wirtschaftlicher Art, die den Betrieb oder seine Arbeitnehmer unmittelbar betreffen, wird hierdurch nicht berührt.
+- (3) Arbeitnehmer, die im Rahmen dieses Gesetzes Aufgaben übernehmen, werden hierdurch in der Betätigung für ihre Gewerkschaft auch im Betrieb nicht beschränkt.
+## § 75 Grundsätze für die Behandlung der Betriebsangehörigen
+- (1) Arbeitgeber und Betriebsrat haben darüber zu wachen, dass alle im Betrieb tätigen Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden, insbesondere, dass jede Benachteiligung von Personen aus Gründen ihrer Rasse oder wegen ihrer ethnischen Herkunft, ihrer Abstammung oder sonstigen Herkunft, ihrer Nationalität, ihrer Religion oder Weltanschauung, ihrer Behinderung, ihres Alters, ihrer politischen oder gewerkschaftlichen Betätigung oder Einstellung oder wegen ihres Geschlechts oder ihrer sexuellen Identität unterbleibt.
+- (2) Arbeitgeber und Betriebsrat haben die freie Entfaltung der Persönlichkeit der im Betrieb beschäftigten Arbeitnehmer zu schützen und zu fördern. Sie haben die Selbständigkeit und Eigeninitiative der Arbeitnehmer und Arbeitsgruppen zu fördern.
+## § 76 Einigungsstelle
+- (1) Zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber und Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat ist bei Bedarf eine Einigungsstelle zu bilden. Durch Betriebsvereinbarung kann eine ständige Einigungsstelle errichtet werden.
+- (2) Die Einigungsstelle besteht aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen müssen.
+
+[Page 25]: #
+
+[Y 927]: #
+Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn das Arbeitsgericht. Dieses entscheidet auch, wenn kein Einverständnis über die Zahl der Beisitzer erzielt wird.
+- (3) Die Einigungsstelle hat unverzüglich tätig zu werden. Sie fasst ihre Beschlüsse nach mündlicher Beratung mit Stimmenmehrheit. Bei der Beschlussfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Die Beschlüsse der Einigungsstelle sind schriftlich niederzulegen und vom Vorsitzenden zu unterschreiben oder in elektronischer Form niederzulegen und vom Vorsitzenden mit seiner qualifizierten elektronischen Signatur zu versehen sowie Arbeitgeber und Betriebsrat zuzuleiten.
+- (4) Durch Betriebsvereinbarung können weitere Einzelheiten des Verfahrens vor der Einigungsstelle geregelt werden.
+- (5) In den Fällen, in denen der Spruch der Einigungsstelle die Einigung zwischen Arbeitgeber und Betriebsrat ersetzt, wird die Einigungsstelle auf Antrag einer Seite tätig. Benennt eine Seite keine Mitglieder oder bleiben die von einer Seite genannten Mitglieder trotz rechtzeitiger Einladung der Sitzung fern, so entscheiden der Vorsitzende und die erschienenen Mitglieder nach Maßgabe des Absatzes 3 allein. Die Einigungsstelle fasst ihre Beschlüsse unter angemessener Berücksichtigung der Belange des Betriebs und der betroffenen Arbeitnehmer nach billigem Ermessen. Die Überschreitung der Grenzen des Ermessens kann durch den Arbeitgeber oder den Betriebsrat nur binnen einer Frist von zwei Wochen, vom Tage der Zuleitung des Beschlusses an gerechnet, beim Arbeitsgericht geltend gemacht werden.
+- (6) Im übrigen wird die Einigungsstelle nur tätig, wenn beide Seiten es beantragen oder mit ihrem Tätigwerden einverstanden sind. In diesen Fällen ersetzt ihr Spruch die Einigung zwischen Arbeitgeber und Betriebsrat nur, wenn beide Seiten sich dem Spruch im voraus unterworfen oder ihn nachträglich angenommen haben.
+- (7) Soweit nach anderen Vorschriften der Rechtsweg gegeben ist, wird er durch den Spruch der Einigungsstelle nicht ausgeschlossen.
+- (8) Durch Tarifvertrag kann bestimmt werden, dass an die Stelle der in Absatz 1 bezeichneten Einigungsstelle eine tarifliche Schlichtungsstelle tritt.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.425)
+### Wahlunterlage 40
+
+<!-- sem-asset-id: wahlunterlage_40 -->
+
+#### Normales Wahlverfahren
+
+#### Überlassung Wahlunterlagen an Betriebsrat
+
+Der Wahlvorstand
+
+Betriebsratswahl der
+
+Fa. {{UnternehmenName}}
+
+Betrieb {{BetriebName}}
+
+Anschrift des Wahlvorstandes
+
+{{WVStrasse}}
+
+{{WVPLZ WVOrt}}
+
+An den
+
+neugewählten Betriebsrat
+
+Betriebsratsvorsitzende(n)
+
+Frau/Herrn ......................................................
+
+Sehr geehrte Frau ............................................,
+
+sehr geehrter Herr ............................................,
+
+anbei erhalten Sie die Unterlagen der durchgeführten Betriebsratswahl. Gemäß § 19 WO hat der Betriebsrat diese Unterlagen mindestens bis zur Beendigung seiner Amtszeit aufzubewahren.
+
+Mit freundlichen Grüßen
+
+.....................................................................
+
+Vorsitzende(r) des Wahlvorstandes
+
+
+## §§ 7 – 20 Zusammensetzung und Wahl des Betriebsrats – Wahlformulare Vereinfachtes Wahlverfahren
+
+### Übersicht einstufiges Wahlverfahren
+
+<!-- sem-asset-id: uebersicht_einstufiges_wahlverfahren -->
+
+**Kurzübersicht zum Wahlablauf**
+
+Vereinfachtes Wahlverfahren – einstufig
+
+Nach dem Betriebsverfassungsgesetz (BetrVG) und der Wahlordnung (WO) sind für den Ablauf der Betriebsratswahlen grundsätzlich folgende Fristen zu beachten:
+
+- **Spätestens** vier Wochen vor Ablauf der Amtszeit des alten Betriebsrats ist ein Wahlvorstand einzusetzen (§§ 16 Abs. 1, 17 a BetrVG). Der Wahlvorstand hat die Wahl einzuleiten, durchzuführen und das Wahlergebnis festzustellen (§ 18 Abs. 1 BetrVG).
+- Der Wahlvorstand hat eine Liste der Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern, aufzustellen (§ 2 Abs. 1 WO). Sofern der Betriebsrat aus mehr als einer Person besteht, hat er festzustellen, welches Geschlecht in der Minderheit ist und wie viele Betriebsratssitze dem Minderheitengeschlecht mindestens zustehen (§ 5 WO).
+- **Unverzüglich** nach der Aufstellung der Wählerliste hat der Wahlvorstand das Wahlausschreiben zu erlassen (§ 36 Abs. 2 WO). Damit ist die Wahl eingeleitet.
+- Nur innerhalb von drei Tagen nach Erlass des Wahlausschreibens können Einsprüche gegen die Wählerliste eingelegt werden (§§ 30 Abs. 2; 36 WO).
+- Bis spätestens ein Woche vor der Wahlversammlung zur Wahl des Betriebsrats können Wahlvorschläge gemacht werden (§ 14 a Abs. 3 Satz 2 BetrVG). Die Wahlvorschläge muss der Wahlvorstand unverzüglich prüfen und Ungültigkeit oder Beanstandungen der Wahlvorschläge unverzüglich schriftlich unter Angabe der Gründe dem Listenvertreter mitteilen (§ 7 Abs. 2 WO). **Dies muss spätestens eine Woche vor der Wahlversammlung zur Wahl des Betriebsrats erledigt sein (§ 36 Abs. 5 WO).**
+- **Nach Ablauf der gesetzlichen Mindestfrist für die Einreichung der Wahlvorschläge (eine Woche vor der Wahlversammlung)** hat die Bekanntmachung der gültigen Wahlvorschläge in gleicher Weise wie das Wahlausschreiben zu erfolgen (§§ 31 Abs. 2; 36 Abs. 5 WO).
+- Über Einsprüche gegen die Wählerliste muss der Wahlvorstand unverzüglich entscheiden. **Spätestens** muss seine Entscheidung dem Arbeitnehmer/der Arbeitnehmerin, der/die den Einspruch eingelegt hat, am Tage vor der Wahl schriftlich zugehen (§ 4 Abs. 2 WO).
+
+**Wahltag**
+
+- Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen vor und gibt das (vorläufige) Wahlergebnis bekannt (§§ 36 Abs. 4, 34, 13 WO). Es ist eine Wahlniederschrift anzufertigen (§§ 16, 36 Abs. 4, 34, 23 Abs. 1 WO).
+- Im Fall der nachträglichen schriftlichen Stimmabgabe (§§ 35, 36 Abs. 4 WO) versiegelt der Wahlvorstand die Wahlurne. Nach Ablauf der Frist für den Eingang der Briefwahlstimmen erfolgt die öffentliche Auszählung der Stimmen.
+- Der Wahlvorstand muss die gewählten Arbeitnehmer/Arbeitnehmerinnen unverzüglich verständigen (§§ 17, 34, 23 Abs. 1, 36 Abs. 4 WO).
+- Der Wahlvorstand hat die Namen der gewählten Arbeitnehmer/Arbeitnehmerinnen bekannt zu machen, sobald sie endgültig feststehen (§§ 18, 36 Abs. 4, 34, 23 Abs. 1 WO).
+- Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand den neu gewählten Betriebsrat zur konstituierenden Sitzung einzuberufen (§ 29 Abs. 1 BetrVG). Die Wahlunterlagen sind dem neu gewählten Betriebsrat zu übergeben, der sie mindestens bis zur Beendigung seiner Amtszeit aufzubewahren hat (§ 19 WO).
+
+
+
+---
+
+## Q-P1-AM-16  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Aufgaben hat der Betriebsrat gegenüber der Belegschaft und gegenüber dem Arbeitgeber?
+
+### REFERENZ
+- Interessenvertretung der Beschäftigten
+- Überwachung der Einhaltung von Gesetzen/Tarifverträgen
+- Förderung von Gleichstellung, Gesundheitsschutz, Integration
+- Vermittlung bei Konflikten mit dem AG
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lassen sich die Aufgaben des Betriebsrats (BR) gegenüber der Belegschaft und dem Arbeitgeber wie folgt zusammenfassen. Die gesetzliche Grundlage bildet hierbei primär § 80 des Betriebsverfassungsgesetzes (BetrVG) [RREF1].
+
+### 1. Aufgaben gegenüber der Belegschaft (Arbeitnehmern)
+
+Der Betriebsrat hat eine umfassende Schutz- und Unterstützungsfunktion für die Arbeitnehmer im Betrieb:
+
+*   **Überwachungsaufgabe:** Der BR hat darüber zu wachen, dass die zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen durchgeführt werden [RREF1]. Dies umfasst beispielsweise die Einhaltung von Arbeitszeitregelungen, Mindestlohnvorschriften sowie datenschutzrechtlichen Bestimmungen (DSGVO, BDSG) [RREF4].
+*   **Ansprechpartner für Anregungen und Beschwerden:** Der BR nimmt Anregungen von Arbeitnehmern entgegen und wirkt auf deren Erledigung durch Verhandlungen mit dem Arbeitgeber hin. Er ist verpflichtet, die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten [RREF1].
+*   **Förderung spezifischer Gruppen:** Der BR hat die Aufgabe, die tatsächliche Gleichstellung von Frauen und Männern, die Vereinbarkeit von Familie und Erwerbstätigkeit sowie die Eingliederung schwerbehinderter Menschen zu fördern [RREF1]. Zudem obliegt ihm die Förderung der Beschäftigung älterer Arbeitnehmer und die Integration ausländischer Arbeitnehmer sowie die Beantragung von Maßnahmen zur Bekämpfung von Rassismus [RREF1].
+*   **Datenschutz:** Der Betriebsrat trägt eine spezifische Schutzpflicht für personenbezogene Daten der Arbeitnehmer. Er muss ein eigenes Datenschutzkonzept entwickeln und hinreichende Schutzvorkehrungen treffen, insbesondere bei sensiblen Gesundheitsdaten [RREF4].
+*   **Unterstützung im Einzelfall:** Der BR kann Arbeitnehmer in individuellen Angelegenheiten unterstützen. Beispielsweise hat ein Arbeitnehmer das Recht, bei der Erörterung veränderter Aufgabenstellungen ein Mitglied des Betriebsrats hinzuzuziehen (§ 81 Abs. 4 Satz 3 BetrVG) [RREF2].
+
+### 2. Aufgaben gegenüber dem Arbeitgeber
+
+Das Verhältnis zum Arbeitgeber ist durch Zusammenarbeit, aber auch durch Kontrolle und Interessenvertretung geprägt:
+
+*   **Beantragung von Maßnahmen:** Der BR hat Maßnahmen, die dem Betrieb und der Belegschaft dienen, beim Arbeitgeber zu beantragen [RREF1]. Dies kann beispielsweise die Einführung von Schulungsmaßnahmen oder Anpassungen der Arbeitszeit betreffen [RREF2].
+*   **Verhandlungen und Zusammenarbeit:** Der BR führt Verhandlungen mit dem Arbeitgeber zur Erledigung von Arbeitnehmeranregungen [RREF1]. Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten und über strittige Fragen mit dem ernsten Willen zur Einigung verhandeln (§ 74 Abs. 1 BetrVG) [RREF5].
+*   **Wahrung von Recht und Billigkeit:** Gemeinsam mit dem Arbeitgeber hat der BR darüber zu wachen, dass alle im Betrieb tätigen Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden, insbesondere dass keine Benachteiligung aus diskriminierenden Gründen erfolgt (§ 75 Abs. 1 BetrVG) [RREF5].
+*   **Informationsanspruch und -pflicht:** Zur Durchführung seiner Aufgaben ist der BR rechtzeitig und umfassend vom Arbeitgeber zu unterrichten (§ 80 Abs. 2 BetrVG) [RREF1]. Umgekehrt unterliegen der BR und hinzugezogene Sachverständige einer Geheimhaltungspflicht gegenüber dem Arbeitgeber und Dritten, soweit Betriebs- und Geschäftsgeheimnisse betroffen sind (§ 80 Abs. 4 i.V.m. § 79 BetrVG) [RREF1].
+*   **Friedenspflicht:** Der Betriebsrat hat Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig (§ 74 Abs. 2 BetrVG) [RREF5].
+
+### 3. Interne Organisation und Vertretung
+
+*   **Vertretung nach außen:** Der Betriebsratsvorsitzende vertritt den Betriebsrat nach außen, also auch gegenüber dem Arbeitgeber, im Rahmen der gefassten Beschlüsse [RREF3].
+*   **Zuständigkeiten:** Innerhalb des Gremiums können Aufgaben verteilt werden (z. B. Vorbereitung von Sitzungen, Verhandlungen), wobei der Vorsitzende die Geschäfte führt [RREF3]. Zur Abgabe von Erklärungen für den Betriebsrat ist im Regelfall nur der Vorsitzende berechtigt, sofern nicht abweichende Regelungen für bestimmte Ausschüsse (z. B. Personalausschuss) getroffen wurden [RREF3].
+
+Zusammenfassend ist der Betriebsrat einerseits das Kontrollorgan zugunsten der Belegschaft und andererseits der kooperative Partner des Arbeitgebers zur Sicherung des Betriebsfriedens und der Einhaltung rechtlicher Standards [RREF1], [RREF4], [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] BetrVG.pdf p.27,y:490 (0.338)
+## § 80 Allgemeine Aufgaben
+- (1) Der Betriebsrat hat folgende allgemeine Aufgaben:
+- 1. darüber zu wachen, dass die zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen durchgeführt werden;
+- 2. Maßnahmen, die dem Betrieb und der Belegschaft dienen, beim Arbeitgeber zu beantragen;
+- 2a. die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg, zu fördern;
+- 2b. die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;
+- 3. Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;
+- 4. die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;
+- 5. die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;
+- 6. die Beschäftigung älterer Arbeitnehmer im Betrieb zu fördern;
+- 7. die Integration ausländischer Arbeitnehmer im Betrieb und das Verständnis zwischen ihnen und den deutschen Arbeitnehmern zu fördern, sowie Maßnahmen zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb zu beantragen;
+- 8. die Beschäftigung im Betrieb zu fördern und zu sichern;
+- 9. Maßnahmen des Arbeitsschutzes und des betrieblichen Umweltschutzes zu fördern.
+
+[Page 28]: #
+- (2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.
+- (3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Muss der Betriebsrat zur Durchführung seiner Aufgaben die Einführung oder Anwendung von Künstlicher Intelligenz beurteilen, gilt insoweit die Hinzuziehung eines Sachverständigen als erforderlich. Gleiches gilt, wenn sich Arbeitgeber und Betriebsrat auf einen ständigen Sachverständigen in Angelegenheiten nach Satz 2 einigen.
+- (4) Für die Geheimhaltungspflicht der Auskunftspersonen und der Sachverständigen gilt § 79 entsprechend.
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.410)
+### Betriebsrat: Veränderte Aufgabenstellungen eines Arbeitnehmers
+
+<!-- sem-asset-id: betriebsrat_veraenderte_aufgabenstellungen_eines_arbeitnehmers -->
+
+_Authors: Rudolf Buschmann_
+
+Betriebsrat
+
+{{Adresse}}
+
+An die Geschäftsleitung der
+
+{{Arbeitgeberin}} Durchschrift
+
+**Betr.: Erörterung der veränderten Aufgabenstellungen für die/den Beschäftigten,** 
+**** {{Name}}
+
+Sehr geehrte {{Geschäftsleitung}},
+
+{{Beschäftigte:r Name}} hat uns darüber informiert, dass ihr/sein Abteilungsleiter {{Name}}, mit ihm am {{Datum}} besprechen möchte, welche konkreten Änderungen die neuen Verfahren in der Abteilung {{kasten}} für ihn nach sich ziehen und ob und wie er in der Lage sein wird, künftig seinen veränderten Aufgabenstellungen nachzukommen. {{Name}} ist dazu gerne bereit. Wir dürfen Sie darüber informieren, dass {{Name}} von seiner gesetzlichen (§ 81 Abs. 4 Satz 3 BetrVG) Möglichkeit Gebrauch gemacht hat, zu dieser Erörterung ein Mitglied des Betriebsrats hinzuzuziehen. Dementsprechend wird {{Name}} vom Betriebsrat {{Name}} bei diesem Gespräch begleiten.
+
+Angesichts der in der Tat veränderten Aufgabenstellungen hält auch der Betriebsrat diese Erörterung für sinnvoll und nützlich. Wir haben schon Überlegungen angestellt, welche Schulungs- und Weiterbildungsmaßnahmen für {{Name}} in Frage kommen könnten. Hier kommen z. B. folgende Lehrgänge in Frage: {{kasten}}. Des Weiteren schlagen wir in Absprache mit {{Name}} vor, seine bisherige Arbeitszeit künftig auf Vollzeit aufzustocken, um auf diese Weise die unabweisbaren Mehrbelastungen ausgleichen zu können.
+
+Weitere Vorschläge: {{kasten}}.
+
+> #### **Hinweis:**
+>
+> Vgl. DKW-*Buschmann*, § 81, Rn. 20, 23. Es ist sinnvoll, dass nicht die/der Beschäftigte, sondern der Betriebsrat die Arbeitgeber über seine - bereits beschlossene und deshalb nicht mehr zu diskutierende - Teilnahme informiert. Da der Arbeitnehmer hier dem Gespräch nicht ohne Besorgnisse entgegensieht, greift der Betriebsrat die Initiative aktiv auf und macht seinerseits Vorschläge, die die Erörterung in eine positive Richtung führen sollen.
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.416)
+#### § 3 Aufgaben und Zuständigkeit des Vorsitzenden und des Stellvertreters
+
+> #### **Hinweis:**
+>
+> Gemäß § 26 BetrVG vertritt der Vorsitzende den Betriebsrat nach außen. Dieses kann in der GO nochmals erwähnt werden. Gleiches gilt für die interne Geschäftsführung des Betriebsrats (1.). Es ist jedoch nicht ausgeschlossen, dass in der GO eine veränderte interne Aufgabenverteilung festgelegt wird (2.). Schließlich können in der GO Regelungen zur Berichtspflicht gegenüber dem Gremium getroffen werden (3).
+
+1. Der Vorsitzende führt die Geschäfte des Betriebsrats und vertritt das Gremium im Rahmen der gefassten Beschlüsse. Er bereitet die Betriebsratssitzungen inhaltlich vor und stellt deren regelmäßige Durchführung organisatorisch sicher.
+
+2. Im Rahmen einer internen Arbeitsteilung ist der Betriebsratsvorsitzende für die folgenden Aufgaben zuständig:
+
+- Inhaltliche Vorbereitung und Durchführung der Sitzungen einschließlich der einzelfallbezogenen Entscheidung über die Möglichkeit einer Sitzungsteilnahme per Video- oder Audiokonferenz
+- Inhaltliche Vorbereitung und Durchführung von Verhandlungen mit dem Arbeitgeber
+- {{kasten}}
+
+Der stellvertretende Vorsitzende ist für die folgenden Aufgaben zuständig:
+
+- Inhaltliche Vorbereitung der Beratung personeller Einzelmaßnahmen in den Betriebsratssitzungen
+- Koordination der Arbeit der Ausschüsse des Betriebsrats
+- {{kasten}}
+
+3. Der Vorsitzende informiert den Betriebsrat zeitnah über alle Angelegenheiten und macht dem Gremium die entsprechenden Unterlagen und Informationen zugänglich. Entsprechendes gilt im Rahmen seiner Zuständigkeiten auch für den stellvertretenden Vorsitzenden.
+
+> #### **Hinweis:**
+>
+> In größeren Betriebsratsgremien, in denen ein Betriebsausschuss und ggf. mehrere andere Ausschüsse bestehen, kann es sinnvoll sein, dass Regelungen zum Schriftverkehr getroffen werden und dass insoweit festgelegt wird, wer Briefe des Betriebsrats an den Arbeitgeber oder andere externe Stellen mit unterzeichnet. Sinnvollerweise sollten dies neben dem Betriebsratsvorsitzenden die jeweils verantwortlichen Personen sein.
+
+4. Werden Aufgaben des Betriebsrats in Ausschüssen oder sonstigen Gremien von anderen Betriebsratsmitgliedern wahrgenommen, sind Schriftstücke an Personen außerhalb des Betriebsrats vom Vorsitzenden und den verantwortlichen Betriebsratsmitgliedern gemeinsam zu unterzeichnen. Eingehende Post ist in diesen Fällen dem Betriebsratsvorsitzenden und den jeweiligen Betriebsratsmitgliedern unverzüglich zur Kenntnis zu geben.
+
+> #### **Hinweis:**
+>
+> Zur Vermeidung von Unklarheiten kann es sinnvoll sein, in der GO explizit festzulegen, dass im Regelfall nur der Vorsitzende zur Abgabe und zur Entgegennahme von Erklärungen zuständig ist (5.). Darüber hinaus können abweichende Festlegungen getroffen werden, wenn der Betriebsrat seine Aufgaben entsprechend anders geregelt hat (6.).
+
+5. Zur Abgabe von Erklärungen für den Betriebsrat und Entgegennahme von Erklärungen und Informationen an den Betriebsrat von Seiten des Arbeitgebers oder von anderen Personen oder Stellen ist nur der Betriebsratsvorsitzende berechtigt. Werden entsprechende Erklärungen oder Informationen gegenüber anderen Betriebsratsmitgliedern gemacht, liegt keine gesetzeskonforme Information des Betriebsrats vor. Alle Betriebsratsmitglieder sind verpflichtet, den Arbeitgeber oder Dritte ggf. auf diesen Sachverhalt hinzuweisen. Sie sollten auch den Vorsitzenden hierüber zu informieren.
+
+6. Abweichend von Abs. 5 sind folgende Betriebsratsmitglieder zur Abgabe bzw. zur Entgegennahme von Erklärungen oder Informationen berechtigt:
+
+Der Vorsitzende des Personalausschusses zur Entgegennahme von Erklärungen zu personellen Einzelmaßnahmen sowie zur Mitteilung von Widersprüchen des Betriebsrats an den Arbeitgeber.
+
+Die berechtigten Betriebsratsmitglieder sind verpflichtet, den Vorsitzenden über alle relevanten Vorgänge aktuell zu informieren.
+
+[RREF4] SF_Klebe_BetrVG_BK.md (0.416)
+igkeitsbereichs eigenverantwortlich die Umsetzung technischer und organisatorischer Maßnahmen zur Gewährleistung der Datensicherheit gem. Art. 24 und 32 DSGVO sicherzustellen.Grundlegend dazu Ruchhöft, CuA 2/23, 28. So hat das BAG den Auskunftsanspruch des BR nach § 80 Abs. 2 Satz 1 mit dem Vorhalten von Schutzmaßnahmen verknüpft, wenn sensible Gesundheitsdaten der Arbeitnehmer betroffen sind. In diesem Fall muss der Betriebsrat gesondert darlegen, wie er diese Daten schützen wird. (s. § 80 Rn. 14). Den Betriebsrat trifft in diesem Fall eine spezifische Schutzpflicht; er hat hinreichende Schutzvorkehrungen nach § 26 Abs. 3 Satz 3 i. V. m. § 22 Abs. 2 BDSG zu treffen.BAG 9. 5. 23 – 1 ABR 14/22 zum Anspruch auf Auskunft über die Namen der schwerbehinderten und ihnen gleichgestellten AN; 9. 4. 19 – 1 ABR 51/17 im Falle von Arbeitnehmerinnen, die ihre Schwangerschaft mitteilen; Wedde, CuA 9/22, 14. Der BR hat ein eigenes DatenschutzkonzeptS. dazu Haverkamp, Datenschutz, 3. Aufl., 2022. zu entwickeln, das alle Fragen des Datenschutzes einheitlich regelt (s. auch § 75 Rn. 9, § 87 Rn. 42 sowie § 94 Rn. 9 und 10).BAG 9. 5. 23 – 1 ABR 14/22 mit den einzelnen Anforderungen; DKW-Klebe/Wankel, § 94 Rn. 53; Ruchhöft, CuA 2/23, 28; Däubler, Rn. 641b. Das sollte in einer GO als Regelungsgrundlage für die interne BR-Organisation geschehen. Bei einer Regelung in einer freiwilligen BV ist zu beachten, dass damit auch der AG ein Kontrollrecht über die BV hat. Seitens des AG sind dem BR die erforderlichen Sachmittel gem. § 40 Abs. 2 zur Verfügung zu stellen, wie etwa geeignete Sicherungseinrichtungen für Unterlagen mit personenbezogenen Daten.Bei einer unternehmensübergreifenden Verarbeitung in einem Konzern müssen die einschlägigen datenschutzrechtlichen Regelungen ebenso beachtet und eingehalten werden wie bei der Vergabe von Auftragsverarbeitungen an externe Unternehmen, da in der DSGVO ein datenschutzrechtliches Konzernverarbeitungsprivileg fehlt.Döther, CuA 10/23, 8; Weichert, CuA 10/23, 12 zu Matrixstrukturen; Wedde, CuA 6/21, 8. Das ist für die Datenübermittlung zwischen KBR und GBR bzw. BR zu beachten.Durch die Regelung in Satz 2 hat der Gesetzgeber die seit dem Inkrafttreten der DSGVO und des BDSG umstrittene datenschutzrechtliche Verantwortlichkeit für die Verarbeitung personenbezogener Daten durch den BR festgelegt. Er weist sie dem Arbeitgeber zu. Damit ist – wie nach der bisherigen Rechtsprechung zum BDSG a. F. – der BR nur als Teil des i. S. von Art. 4 Nr. 7 DSGVO verantwortlichen Unternehmens anzusehen (s. § 94 Rn. 9).So auch Klebe/Schmidt/Klengel, FS 100 Jahre Betriebsverfassungsrecht, S. 303; Däubler, Rn. 640 g; ebenso zum neuen Datenschutzrecht HessLAG 10. 12. 18 – 16 TaBV 130/18, AiB 6/19, 42 m. Anm. Bleck-Vogdt; LAG Sachsen-Anhalt 18. 12. 18 – 4 TaBV 19/17. Das führt u. a. dazu, dass den BR zwar keine Verpflichtung trifft, ein eigenes Verzeichnis von Verarbeitungstätigkeiten (Art. 30 DSGVO) zu führen, das Verarbeitungsverzeichnis des AG muss aber die Verarbeitungstätigkeiten des BR enthalten. Bei datenschutzrechtlichen Auskunftsrechten (Art. 15 DSGVO) ist der AG auf die Unterstützung durch den BR angewiesen, wenn der Auskunftsanspruch sich auf die durch den BR verarbeiteten Daten bezieht. Daraus ergibt sich eine gegenseitige Unterstützungspflicht bei der Einhaltung der datenschutzrechtlichen Vorschriften nach Satz 3 im Innenverhältnis zwischen AG und BR, ohne dass damit die innerorganisatorische Selbstständigkeit und Weisungsfreiheit des BR durch den Gesetzgeber in Frage gestellt wird.BAG 9. 5. 23 – 1 ABR 14/2; Kiesche, AiB extra 8/22, 24. Durch die datenschutzrechtliche Verantwortlichkeit des AG wird nicht die institutionelle Unabhängigkeit des BR beschnitten.BT-Drucks. 19/29819, S. 17. Zusammenarbeit heißt nicht Kontrolle. Vielmehr geht es um seinen eigenen verantwortlichen Umgang mit dem Datenschutz, was für den BR eine Selbstverständlichkeit darstellen müsste. Den BR trifft die sich aus § 26 Abs. 3 Satz 3 i. V. m. § 22 Abs. 2 BDSG ergebende spezifische Schutzpflicht unabhängig davon, ob er Teil der verantwortlichen Stelle oder selbst Verantwortlicher ist.Da der BR für einen datenschutzkonformen Umgang nach der DSGVO und dem BDSG selbst verantwortlich ist, sollte er einen Datenschutzverantwortlichen aus den Reihen der BR-Mitgl. bestellen, der sich um Fragen des Datenschutzes schwerpunktmäßig kümmert (s. § 94 Rn. 10).DKW-Klebe/Wankel, § 94 Rn. 53; Däubler, Rn. 641c. Die Aufgabe kann z. B. auch einem IT-Ausschuss übertragen werden.Aus der innerorganisatorischen Selbstständigkeit und Weisungsfreiheit des BR folgt auch, dass der betriebliche Datenschutzbeauftragte keine Kontrollrechte gegenüber dem BR hat (s. § 94 Rn. 10).So LAG BaWü 20. 5. 22 – 12 TaBV 4/21, in der Rechtsbeschwerde ist das BAG 9. 5. 23 – 1 ABR 14/22 nicht auf die Frage eingegangen. Bereits zum alten Datenschutzrecht hat das BAG festgestellt, dass keine Kontrollbefugnis des betrieblichen Datenschutzbeauftragten nach den §§ 36 und 37 BDSG a. F. besteht.BAG 11. 11. 97 – 1 ABR 21/97, AiB 99, 695 m. Anm. Wedde Ein Kontrollrecht des Datenschutzbeauftragten wäre mit der vom BetrVG vorgeschriebenen Unabhängigkeit des BR von dem AG unvereinbar. Ein so massiver und wertungswidersprüchlicher Eingriff in ein Strukturprinzip des BetrVG konnte das BAG – zu Recht – dem BDSG a. F. nicht entnehmen. Der Datenschutzbeauftragte wird zudem vom Arbeitgeber ausgewählt und bestellt und untersteht seiner Dienstaufsicht. An dieser Situation hat sich durch die DSGVO und das BDSG nichts geändert.LAG BaWü 20. 5. 22, 12 TaBV 4/21, in der Rechtsbeschwerde ist das BAG 9. 5. 23 –1 ABR 14/22 nicht auf die Frage eingegangen; Klebe/Schmidt/Klengel, FS 100 Jahre Betriebsverfassungsrecht, S. 303; Mittländer, CuA 1/21, 34.Davon unabhängig steht es im Ermessen des BR, eine Beratung durch den betrieblichen Datenschutzbeauftragten in Anspruch nehmen. Durch die im Gesetzgebungsverfahren zum BRMoG eingefügten Sätze 4 und 5 in § 79a wird deutlich, dass die Verschwiegenheitspflichten des Datenschutzbeauftragten auch solche Informationen umfassen, deren Bekanntgabe an den AG die interessenvertretungsrechtliche Unabhängigkeit des BR berühren. Dadurch soll sichergestellt werden, dass den betrieblichen Datenschutzbeauftragten eine besondere Verschwiegenheitsverpflichtung gegenüber dem AG trifft. Die Verschwiegenheitsverpflichtung betrifft zum einen – mit Blick auf den Grundsatz der Nicht-Öffentlichkeit nach § 30 – alle Informationen, die Rückschlüsse auf den Meinungsbildungsprozess des BR zulassen und deren Kenntnis den Meinungsbildungsprozess des BR gefährden würde. Es handelt sich dabei um Informationen jeglicher Art – auch verfahrensbezogener Art.BT-Drucks. 19/29819, S. 17. Zum anderen wird in Satz 5 klargestellt, dass die Verschwiegenheitsverpflichtung des betrieblichen Datenschutzbeauftragten nach den §§ 6 Abs. 5 Satz 2, 38 Abs. 2 BDSG hinsichtlich der vom BR verarbeiteten personenbezogenen Daten auch gegenüber dem AG gilt. Danach ist der Datenschutzbeauftragte ohne Einwilligung der betroffenen Personen zur Verschwiegenheit über die Identität der betroffenen Person sowie über Umstände, die Rückschlüsse auf die betroffene Person zulassen, verpflichtet. Die Verschwiegenheitspflicht gilt nicht nur gegenüber Dritten, die außerhalb des datenschutzrechtlich verantwortlichen AG stehen, sondern auch gegenüber dem AG selbst. Das diese Verpflichtungen auch für den Datenschutzverantwortlichen aus den Reihen der BR-Mitgl. gelten, ist selbstredend.
+150|117321§ 80 Allgemeine AufgabenbundimportedAsset##04398a33-2093-455c-9174-e25541be2249Allgemeine Aufgaben§ 80walhalla150|2295799§ 80Allgemeine Aufgaben(1)Der Betriebsrat hat folgende allgemeine Aufgaben:darüber zu wachen, dass die zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen durchgeführt werden;Maßnahmen, die dem Betrieb und der Belegschaft dienen, beim Arbeitgeber zu beantragen;die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg, zu fördern;die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;die Beschäftigung älterer Arbeitnehmer im Betrieb zu fördern;die Integration ausländischer Arbeitnehmer im Betrieb und das Verständnis zwischen ihnen und den deutschen Arbeitnehmern zu fördern sowie Maßnahmen zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb zu beantragen;die Beschäftigung im Betrieb zu fördern und zu sichern;Maßnahmen des Arbeitsschutzes und des betrieblichen Umweltschutzes zu fördern.(2)Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.(3)Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Muss der Betriebsrat zur Durchführung seiner Aufgaben die Einführung oder Anwendung von Künstlicher Intelligenz beurteilen, gilt insoweit die Hinzuziehung eines Sachverständigen als erforderlich. Gleiches gilt, wenn sich Arbeitgeber und Betriebsrat auf einen ständigen Sachverständigen in Angelegenheiten nach Satz 2 einigen.(4)Für die Geheimhaltungspflicht der Auskunftspersonen und der Sachverständigen gilt § 79 entsprechend.1.Aufgaben des Betriebsratsa)ÜberwachungsaufgabenDer BR hat im Rahmen seiner Überwachungsaufgabe darauf zu achten, dass alle Rechtsvorschriften, die zugunsten der Arbeitnehmer im Betrieb gelten, eingehalten werden. Die Wahrnehmung der Überwachungsaufgaben nach Abs. 1 obliegt dem BR und nicht dem GBR bzw. KBR.BAG 16. 8. 11 – 1 ABR 22/10, NZA 2012, 342. Soweit allerdings der GBR oder KBR im Rahmen ihrer Zuständigkeit bzw. nach Übertragung von Aufgaben GBVen bzw. KBVen abgeschlossen haben, die Kontrollrechte vorsehen, können auch GBR bzw. KBR solche Überwachungsaufgaben wahrnehmen. Die Überwachungsaufgabe ist vom Vorliegen besonderer Mitwirkungs- bzw. Beteiligungsrechte unabhängig.BAG 6. 5. 03 – 1 ABR 13/02, NZA 03, 1348. Zu den Rechtsvorschriften zählen z. B. das ArbZG, ArbSchG, MiLoG, NachwG, das BUrlG, das BEEG, das AGG, das TzBfG, die ArbStättV, die GefStoffV sowie alle Vorschriften des europäischen Gemeinschaftsrechts, die Vorschriften zugunsten der Arbeitnehmer in Betrieb enthalten. Hierunter fallen z. B. auch die im Betrieb verwandten Formulararbeitsverträge. Diese sind z. B. auf die Vereinbarkeit mit dem NachWG und dem Recht der allgemeinen Geschäftsbedingungen zu prüfen.BAG 16. 11. 05 – 7 ABR 12/05 Dabei geht es um eine Rechtskontrolle des Inhalts der Arbeitsverträge. Stellt der BR Verstöße gegen geltendes Recht fest, muss er beim Arbeitgeber auf Abhilfe drängen (vgl. zum Recht zur Prüfung einen Sachverständigen hinzuzuziehen Rn. 28).BAG 16. 11. 05 – 7 ABR 12/05. Auch das BDSG sowie die DSGVO ist ein zugunsten der AN geltendes Gesetz.Zum BDSG a. F. BAG 17. 3. 87 – 1 ABR 59/85, AiB 87, 287 m. Anm. J. Heilmann. Die Rechte des Datenschutzbeauftragten schränken das Recht des BR nicht ein. Es erstreckt sich auch auf die Frage, ob der Datenschutzbeauftragte die erforderliche Fachkunde und Zuverlässigkeit hat.BAG 22. 3. 94 – 1 ABR 51/93, AiB 94, 637 m. Anm. Wedde.Zur Überwachungsaufgabe des BR gehört auch die Überprüfung, ob die Arbeitszeitregelungen, wie sie sich aus Gesetz und Tarifvertrag ergeben, eingehalten werden.BAG 6. 5. 03 – 1 ABR 13/02. Ebenso, ob die Arbeitszeitquoten nach dem MTV Metall NRW eingehalten werden.ArbG Münster, AiB 98, 468; Musterschreiben BR wegen Überwachung ArbZG DKW-F-Buschmann, § 80 Rn. 2. Auch die Einhaltung des allgemeinen gesetzlichen Mindestlohns bzw. der Mindestlöhne nach dem AEntG bzw. für die Leiharbeit nach dem AÜG gehört zu den Überwachungsaufgaben des BR. Er kann die Mindestlöhne kontrollieren, in dem er Einsicht in die Bruttolohn- und Gehaltslisten (s. Rn. 25) nimmt und die Arbeitszeitaufzeichnungen kontrolliert.Die allgemeine Überwachungsaufgabe gibt dem BR nach Auffassung des BAG keinen Anspruch, die Durchführung entsprechender Vorschriften durch den AG in einem arbeitsgerichtl. Beschlussverfahren durchzusetzen.BAG 17. 5. 11 – 1 ABR 121/09; 18. 5. 10 – 1 ABR 6/09, NZA 10, 1433; 16. 11. 05, NZA 05, 553; zur Kritik vgl. DKW-Buschmann, Rn. 7. Das schließt nicht aus, dass der BR im Rahmen seines Schutzauftrages nach Nr. 1 in Einzelfällen überprüft, ob individuelle Arbeitsverträge arbeitsrechtlichen Vorschriften, etwa Schutzgesetzen, TV oder BV, entsprechen oder dagegen verstoßen;SR, Rn. 26. ggf. ist der BR über einzelne Vereinbarungen in den individuellen Arbeitsverträgen der AN zu unterrichten.Vgl. BAG 18. 10. 88 – 1 ABR 33/87. Überdies hat der BR das Recht, die AN über die zu ihren Gunsten bestehenden arbeitsrechtlichen Bestimmungen, z. B. über Tarifregelungen, zu informieren und dabei eine andere Rechtsauffassung als der AG zu vertreten.Vgl. ArbG Detmold 18. 6. 86 – 1 BV 4/86. SR, Rn. 30. Ein TV kann die Überwachungsaufgabe des BR nicht einschränken.BAG 21. 10. 03 – 1 ABR 39/02.Der DGB-Reformentwurf zum BetrVG sieht eine Ausweitung der Aufgaben und MBRe der BR
+
+[RREF5] SF_Arbeits_und_Sozialordnung_2025.md (0.420)
+par72bundimportedAsset##1f516458-11b9-4fa4-9f2e-0e97461b9572ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 72Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht(1)Bestehen in einem Unternehmen mehrere Jugend- und Auszubildendenvertretungen, so ist eine Gesamt-Jugend- und Auszubildendenvertretung zu errichten.(2)In die Gesamt-Jugend- und Auszubildendenvertretung entsendet jede Jugend- und Auszubildendenvertretung ein Mitglied.(3)Die Jugend- und Auszubildendenvertretung hat für das Mitglied der Gesamt-Jugend- und Auszubildendenvertretung mindestens ein Ersatzmitglied zu bestellen und die Reihenfolge des Nachrückens festzulegen.(4)Durch Tarifvertrag oder Betriebsvereinbarung kann die Mitgliederzahl der Gesamt-Jugend- und Auszubildendenvertretung abweichend von Absatz 2 geregelt werden.(5)Gehören nach Absatz 2 der Gesamt-Jugend- und Auszubildendenvertretung mehr als zwanzig Mitglieder an und besteht keine tarifliche Regelung nach Absatz 4, so ist zwischen Gesamtbetriebsrat und Arbeitgeber eine Betriebsvereinbarung über die Mitgliederzahl der Gesamt-Jugend- und Auszubildendenvertretung abzuschließen, in der bestimmt wird, dass Jugend- und Auszubildendenvertretungen mehrerer Betriebe eines Unternehmens, die regional oder durch gleichartige Interessen miteinander verbunden sind, gemeinsam Mitglieder in die Gesamt-Jugend- und Auszubildendenvertretung entsenden.(6)Kommt im Fall des Absatzes 5 eine Einigung nicht zustande, so entscheidet eine für das Gesamtunternehmen zu bildende Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Gesamtbetriebsrat.(7)Jedes Mitglied der Gesamt-Jugend- und Auszubildendenvertretung hat so viele Stimmen, wie in dem Betrieb, in dem es gewählt wurde, in § 60 Abs. 1 genannte Arbeitnehmer in der Wählerliste eingetragen sind. Ist ein Mitglied der Gesamt-Jugend- und Auszubildendenvertretung für mehrere Betriebe entsandt worden, so hat es so viele Stimmen, wie in den Betrieben, für die es entsandt ist, in § 60 Abs. 1 genannte Arbeitnehmer in den Wählerlisten eingetragen sind. Sind mehrere Mitglieder der Jugend- und Auszubildendenvertretung entsandt worden, so stehen diesen die Stimmen nach Satz 1 anteilig zu.(8)Für Mitglieder der Gesamt-Jugend- und Auszubildendenvertretung, die aus einem gemeinsamen Betrieb mehrerer Unternehmen entsandt worden sind, können durch Tarifvertrag oder Betriebsvereinbarung von Absatz 7 abweichende Regelungen getroffen werden.150|127628|par73bundimportedAsset##9bd2b73a-e981-41c3-9cc7-da450fd30196ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 73Geschäftsführung und Geltung sonstiger Vorschriften(1)Die Gesamt-Jugend- und Auszubildendenvertretung kann nach Verständigung des Gesamtbetriebsrats Sitzungen abhalten. An den Sitzungen kann der Vorsitzende des Gesamtbetriebsrats oder ein beauftragtes Mitglied des Gesamtbetriebsrats teilnehmen.(2)Für die Gesamt-Jugend- und Auszubildendenvertretung gelten § 25 Abs. 1, die §§ 26, 28 Abs. 1 Satz 1, die §§ 30, 31, 34, 36, 37 Abs. 1 bis 3, die §§ 40, 41, 48, 49, 50, 51 Abs. 2 bis 5 sowie die §§ 66 bis 68 entsprechend.Dritter AbschnittKonzern-Jugend- und Auszubildendenvertretung150|127628|par73abundimportedAsset##97025a96-f6eb-4f56-af66-9b260dc930a7ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 73 aVoraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht(1)Bestehen in einem Konzern (§ 18 Abs. 1 des Aktiengesetzes) mehrere Gesamt-Jugend- und Auszubildendenvertretungen, kann durch Beschlüsse der einzelnen Gesamt-Jugend- und Auszubildendenvertretungen eine Konzern-Jugend- und Auszubildendenvertretung errichtet werden. Die Errichtung erfordert die Zustimmung der Gesamt-Jugend- und Auszubildendenvertretungen der Konzernunternehmen, in denen insgesamt mindestens 75 vom Hundert der in § 60 Abs. 1 genannten Arbeitnehmer beschäftigt sind. Besteht in einem Konzernunternehmen nur eine Jugend- und Auszubildendenvertretung, so nimmt diese die Aufgaben einer Gesamt-Jugend- und Auszubildendenvertretung nach den Vorschriften dieses Abschnitts wahr.(2)In die Konzern-Jugend- und Auszubildendenvertretung entsendet jede Gesamt-Jugend- und Auszubildendenvertretung eines ihrer Mitglieder. Sie hat für jedes Mitglied mindestens ein Ersatzmitglied zu bestellen und die Reihenfolge des Nachrückens festzulegen.(3)Jedes Mitglied der Konzern-Jugend- und Auszubildendenvertretung hat so viele Stimmen, wie die Mitglieder der entsendenden Gesamt-Jugend- und Auszubildendenvertretung insgesamt Stimmen haben.(4)§ 72 Abs. 4 bis 8 gilt entsprechend.150|127628|par73bbundimportedAsset##c3b0ae9c-72fb-49b3-82fb-6ba81dfe0978ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 73 bGeschäftsführung und Geltung sonstiger Vorschriften(1)Die Konzern-Jugend- und Auszubildendenvertretung kann nach Verständigung des Konzernbetriebsrats Sitzungen abhalten. An den Sitzungen kann der Vorsitzende oder ein beauftragtes Mitglied des Konzernbetriebsrats teilnehmen.(2)Für die Konzern-Jugend- und Auszubildendenvertretung gelten § 25 Abs. 1, die §§ 26, 28 Abs. 1 Satz 1, die §§ 30, 31, 34, 36, 37 Abs. 1 bis 3, die §§ 40, 41, 51 Abs. 3 bis 5, die §§ 56, 57, 58, 59 Abs. 2 und die §§ 66 bis 68 entsprechend.Vierter TeilMitwirkung und Mitbestimmung der ArbeitnehmerErster AbschnittAllgemeines150|127628|par74bundimportedAsset##13d3d2b1-5511-4f64-9f41-b5fcf51b9c87ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 74Grundsätze für die Zusammenarbeit(1)Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.(2)Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig; Arbeitskämpfe tariffähiger Parteien werden hierdurch nicht berührt. Arbeitgeber und Betriebsrat haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im Betrieb zu unterlassen; die Behandlung von Angelegenheiten tarifpolitischer, sozialpolitischer, umweltpolitischer und wirtschaftlicher Art, die den Betrieb oder seine Arbeitnehmer unmittelbar betreffen, wird hierdurch nicht berührt.(3)Arbeitnehmer, die im Rahmen dieses Gesetzes Aufgaben übernehmen, werden hierdurch in der Betätigung für ihre Gewerkschaft auch im Betrieb nicht beschränkt.150|127628|par75bundimportedAsset##7ea14dcc-c240-484f-8b59-a3e0768bf2a1ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 75Grundsätze für die Behandlung der Betriebsangehörigen(1)Arbeitgeber und Betriebsrat haben darüber zu wachen, dass alle im Betrieb tätigen Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden, insbesondere, dass jede Benachteiligung von Personen aus Gründen ihrer Rasse oder wegen ihrer ethnischen Herkunft, ihrer Abstammung oder sonstigen Herkunft, ihrer Nationalität, ihrer Religion oder Weltanschauung, ihrer Behinderung, ihres Alters, ihrer politischen oder gewerkschaftlichen Betätigung oder Einstellung oder wegen ihres Geschlechts oder ihrer sexuellen Identität unterbleibt.(2)Arbeitgeber und Betriebsrat haben die freie Entfaltung der Persönlichkeit der im Betrieb beschäftigten Arbeitnehmer zu schützen und zu fördern. Sie haben die Selbständigkeit und Eigeninitiative der Arbeitnehmer und Arbeitsgruppen zu fördern.150|127628|par76bundimportedAsset##74c6a979-c36d-4cf5-93f8-3a377bd019eaASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 76Einigungsstelle(1)Zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber und Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat ist bei Bedarf eine Einigungsstelle zu bilden. Durch Betriebsvereinbarung kann eine ständige Einigungsstelle errichtet werden.(2)Die Einigungsstelle besteht aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen müssen. Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn das Arbeitsgericht. Dieses entscheidet auch, wenn kein Einverständnis über die Zahl der Beisitzer erzielt wird.(3)Die Einigungsstelle hat unverzüglich tätig zu werden. Sie fasst ihre Beschlüsse nach mündlicher Beratung mit Stimmenmehrheit. Bei der Beschlussfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Die Beschlüsse der Einigungsstelle sind schriftlich niederzulegen und vom Vorsitzenden zu unterschreiben oder in elektronischer Form niederzulegen und vom Vorsitzenden mit seiner qualifizierten elektronischen Signatur zu versehen sowie Arbeitgeber und Betriebsrat zuzuleiten.(4)Durch Betriebsvereinbarung können weitere Einzelheiten des Verfahrens vor der Einigungsstelle geregelt werden.(5)In den Fällen, in denen der Spruch der Einigungsstelle die Einigung zwischen Arbeitgeber und Betriebsrat ersetzt, wird die Einigungsstelle auf Antrag einer Seite tätig. Benennt eine Seite keine Mitglieder oder bleiben die von einer Seite genannten Mitglieder trotz rechtzeitiger Einladung der Sitzung fern, so entscheiden der Vorsitzende und die erschienenen Mitglieder nach Maßgabe des Absatzes 3 allein. Die Einigungsstelle fasst ihre Beschlüsse unter angemessener Berücksichtigung der Belange des Betriebs und der betroffenen Arbeitnehmer nach billigem Ermessen. Die Überschreitung der Grenzen des Ermessens kann durch den Arbeitgeber oder den Betriebsrat nur binnen einer Frist von zwei Wochen, vom Tage der Zuleitung des Beschlusses an gerechnet, beim Arbeitsgericht geltend gemacht werden.(6)Im Übrigen wird die Einigungsstelle nur tätig, wenn beide Seiten es beantragen oder mit ihrem Tätigwerden einverstanden sind. In diesen Fällen ersetzt ihr Spruch die Einigung zwischen Arbeitgeber und Betriebsrat nur, wenn beide Seiten sich dem Spruch im Voraus unterworfen oder ihn nachträglich angenommen haben.(7)Soweit nach anderen Vorschriften der Rechtsweg gegeben ist, wird er durch den Spruch der Einigungsstelle nicht ausgeschlossen.(8)Durch Tarifvertrag kann bestimmt werden, dass an die Stelle der in Absatz 1 bezeichneten Einigungsstelle eine tarifliche Schlichtungsstelle tritt.150|127628|par76abundimportedAsset##7ad9caa1-0414-47d4-b3f7-0cc6200e433cASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 76 aKosten der Einigungsstelle(1)Die Kosten der Einigungsstelle trägt der Arbeitgeber.(2)Die Beisitzer der Einigungsstelle, die dem Betrieb angehören, erhalten für ihre Tätigkeit keine Vergütung; § 37 Abs. 2 und 3 gilt entsprechend. Ist die Einigungsstelle zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber und Gesamtbetriebsrat oder Konzernbetriebsrat zu bilden, so gilt Satz 1 für die einem Betrieb des Unternehmens oder eines Konzernunternehmens angehörenden Beisitzer entsprechend.(3)Der Vorsitzende und die Beisitzer der Einigungsstelle, die nicht zu den in Absatz 2 genannten Personen zählen, haben gegenüber dem Arbeitgeber Anspruch auf Vergütung ihrer Tätigkeit. Die Höhe der Vergütung richtet sich nach den Grundsätzen des Absatzes 4 Satz 3 bis 5.(4)Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung die Vergütung nach Absatz 3 regeln. In der Vergütungsordnung sind Höchstsätze festzusetzen. Dabei sind insbesondere der erforderliche Zeitaufwand, die Schwierigkeit der Streitigkeit sowie ein Verdienstausfall zu berücksichtigen. Die Vergütung der Beisitzer ist niedriger zu bemessen als die des Vorsitzenden. Bei der Festsetzung der Höchstsätze ist den berechtigten Interessen der Mitglieder der Einigungsstelle und des Arbeitgebers Rechnung zu tragen.(5)Von Absatz 3 und einer Vergütungsordnung nach Absatz 4 kann durch Tarifvertrag oder in einer Betriebsvereinbarung, wenn ein Tarifvertrag dies zulässt oder eine tarifliche Regelung nicht besteht, abgewichen werden.150|127628|par77bundimportedAsset##a2ec2e11-6111-49ab-a492-ec7d703d1b58ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 77Durchführung gemeinsamer Beschlüsse, Betriebsvereinbarungen(1)Vereinbarungen zwischen Betriebsrat und Arbeitgeber, auch soweit sie auf einem Spruch der Einigungsstelle beruhen, führt der Arbeitgeber durch, es sei denn, dass im Einzelfall etwas anderes vereinbart ist. Der Betriebsrat darf nicht durch einseitige Handlungen in die Leitung des Betriebs eingreifen.(2)Betriebsvereinbarungen sind von Betriebsrat und Arbeitgeber gemeinsam zu beschließen und schriftlich niederzulegen. Sie sind von beiden Seiten zu unterzeichnen; dies gilt nicht, soweit Betriebsvereinbarungen auf einem Spruch der Einigungsstelle beruhen. Werden Betriebsvereinbarungen in elektronischer Form geschlossen, haben Arbeitgeber und Betriebsrat abweichend von § 126 a Absatz 2 des Bürgerlichen Gesetzbuchs dasselbe Dokument elektronisch zu signieren. Der Arbeitgeber hat die Betriebsvereinbarungen an geeigneter Stelle im Betrieb auszulegen.(3)Arbeitsentgelte und sonstige Arbeitsbedingungen, die durch Tarifvertrag geregelt sind oder üblicherweise geregelt werden, können nicht Gegenstand einer Betriebsvereinbarung sein. Dies gilt nicht, wenn ein Tarifvertrag den Abschluss ergänzender Betriebsvereinbarungen ausdrücklich zulässt.(4)Betriebsvereinbarungen gelten unmittelbar und zwingend. Werden Arbeitnehmern durch die Betriebsvereinbarung Rechte eingeräumt, so ist ein Verzicht auf sie nur mit Zustimmung des Betriebsrats zulässig. Die Verwirkung dieser Rechte ist ausgeschlossen. Ausschlussfristen für ihre Geltendmachung sind nur insoweit zulässig, als sie in einem Tarifvertrag oder einer Betriebsvereinbarung vereinbart werden; dasselbe gilt für die Abkürzung der Verjährungsfristen.(5)Betriebsvereinbarungen können, soweit nichts anderes vereinbart ist, mit einer Frist von drei Monaten gekündigt werden.(6)Nach Ablauf einer Betriebsvereinbarung gelten ihre Regelungen in Angelegenheiten, in denen ein Spruch der Einigungsstelle die Einigung zwischen Arbeitgeber und Betriebsrat ersetzen kann, weiter, bis sie durch eine andere Abmachung ersetzt werden.150|127628|par78bundimportedAsset##f97c1d36-f399-4c7b-951e-e24a21c9b6a2ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 78SchutzbestimmungenDie Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenver­tretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Kon­zern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4) dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies gilt auch für ihre berufliche Entwicklung. Eine Begünstigung oder Benachteiligung liegt im Hinblick auf das
+
+
+
+---
+
+## Q-P1-AM-17  (subtask: procedural)
+
+### FRAGE
+In welchem Format soll protokolliert werden? Gibt es zu beachtenden Datenschutz, kann ich die Firmenprogramme benutzen?
+
+### REFERENZ
+- Vorsicht bei Personenbezogenen Daten: Einhaltung der DSGVO
+- Vorsicht bei Betriebsgeheimnissen
+- Verweis auf Technisch Organisatorische Maßnahmen nach Art. 32 DSGVO
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lassen sich Ihre Fragen wie folgt beantworten:
+
+### 1. Format der Protokollierung
+
+Es gibt keine gesetzliche Vorgabe für ein spezifisches technisches Format, jedoch sind inhaltliche und formale Mindestanforderungen zu beachten:
+
+*   **Begrifflichkeit:** Die Begriffe „Protokoll" und „Niederschrift" sind austauschbar [RREF2].
+*   **Mindestinhalt:** Das Protokoll muss mindestens den **Wortlaut der Beschlüsse** und das **Abstimmungsergebnis** (Stimmenmehrheit) wiedergeben [RREF1][RREF2]. Zudem sollten Arbeitsaufträge mit Verantwortlichem und Erledigungstermin vermerkt werden [RREF1].
+*   **Erstellung:** Das Protokoll muss nicht zwingend unmittelbar während der Sitzung erstellt werden; es ist zulässig, es anhand von Notizen anzufertigen. Es wird jedoch empfohlen, es direkt am Ende der Sitzung fertigzustellen (z. B. mittels Laptop unter Verwendung der Tagesordnung als Basis) [RREF3].
+*   **Tonbandaufzeichnungen:** Diese sind nur zulässig, wenn **alle** Betriebsratsmitglieder der Aufzeichnung ausdrücklich zustimmen. Davon wird jedoch abgeraten, da sie die Meinungsäußerung hemmen könnten [RREF3].
+*   **Unterschriften:** Das Protokoll muss vom **Vorsitzenden** und einem **weiteren Mitglied** (üblicherweise der Schriftführer) unterschrieben werden. Ist der Vorsitzende verhindert, unterschreibt der stellvertretende Vorsitzende [RREF1][RREF3].
+*   **Anwesenheitsliste:** Diese ist Bestandteil des Protokolls und muss von allen Teilnehmenden eigenhändig unterschrieben werden (bei Video-Teilnahme schriftliche Bestätigung) [RREF1][RREF3].
+
+### 2. Zu beachtender Datenschutz
+
+Ja, es sind strenge Datenschutz- und Vertraulichkeitsregeln einzuhalten:
+
+*   **Vertraulichkeit:** Alle Mitglieder sind verpflichtet, den Inhalt von Sitzungen sowie bekannt gewordene Informationen vertraulich zu behandeln. Protokolle und Unterlagen sind sicher zu verwahren. Eine Weitergabe an betriebsratsfremde Personen ist nur mit ausdrücklicher Ermächtigung zulässig [RREF1].
+*   **Eigenverantwortung:** Der Betriebsrat ist innerhalb seines Aufgabenbereichs eigenständig für die Sicherstellung des gesetzlichen Datenschutzes verantwortlich (insb. Art. 32 DSGVO) [RREF5].
+*   **Verschlüsselung:** Personenbezogene Daten auf den Endgeräten müssen verschlüsselt werden. Die Verpflichtung zur Vertraulichkeit gilt auch bei Tätigkeit im Homeoffice oder mobiler Arbeit [RREF1][RREF5].
+*   **Einladungen:** Bereits auf der Tagesordnung können sensible Daten enthalten sein (z. B. beabsichtigte Kündigungen). Beim Versand (z. B. per E-Mail) muss sichergestellt werden, dass nur eingeladene Mitglieder Zugriff haben (Passwortschutz, sichere Adressen) [RREF4].
+
+### 3. Nutzung von Firmenprogrammen
+
+Die Nutzung von Firmenprogrammen ist unter bestimmten Voraussetzungen möglich, jedoch oft nicht ausreichend für die datenschutzrechtlichen Anforderungen des Betriebsrats:
+
+*   **Verschlüsselung:** Oft ist im Betrieb keine für den Betriebsrat geeignete technische Lösung vorhanden. Ein passwortgeschützter Zugriff auf Dateien stellt keine gleichwertige Alternative zur Verschlüsselung dar. Der Betriebsrat sollte auf wirksame Verschlüsselungssoftware zurückgreifen, um den Zugriff unbefugter Personen (auch seitens des Arbeitgebers auf die Infrastruktur) zu verhindern [RREF5].
+*   **E-Mail-Nutzung:** Bei der Benutzung von firmenpersonifizierten E-Mail-Adressen muss unbedingt darauf geachtet werden, dass der Datenschutz gewährleistet ist. Der Rechner des Betriebsratsmitglieds muss passwortgeschützt sein und die Sperre muss bei kurzfristigem Verlassen des Arbeitsplatzes aktiviert werden [RREF4].
+*   **Empfehlung:** Da der Betriebsrat eigenständig für die Sicherheit der Verarbeitung verantwortlich ist, wird in den Unterlagen empfohlen, ggf. die Anschaffung und Installation spezieller Verschlüsselungssoftware beim Arbeitgeber zu beantragen, wenn die vorhandenen Firmenprogramme die Vorgaben der DSGVO nicht erfüllen [RREF5].
+
+**Zusammenfassend:** Sie können Firmenprogramme nutzen, müssen aber sicherstellen, dass diese eine **durchgängige Verschlüsselung** bieten und den **vertraulichen Zugriff** nur für Betriebsratsmitglieder gewährleisten. Reicht die Firmensoftware hierfür nicht aus, hat der Betriebsrat das Recht, geeignete Software (z. B. zur Verschlüsselung) vom Arbeitgeber zu fordern [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.435)
+#### 10. Niederschrift/Protokoll
+
+Von jeder Sitzung des Konzernbetriebsrats fertigt die vom Konzernbetriebsrat gewählte Schriftführung ein Protokoll an. Die Schriftführung führt die Anwesenheitsliste bei der Konzernbetriebsratssitzung. Jede teilnehmende Person hat sich in die Anwesenheitsliste einzutragen. Wer mittels Video- oder Telefonkonferenztechnik teilnimmt, bestätigt de Vorsitz seine Teilnahme schriftlich. Die Anwesenheitsliste und die schriftlichen Bestätigungen sind der Niederschrift beizufügen. Die Sitzungsniederschrift muss mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst wurden, enthalten. Wird bei Video- oder Telefonkonferenzen die Sitzungsteilnahme unterbrochen oder für einzelne Teilnehmende vorzeitig beendet, ist dies ebenfalls im Protokoll zu vermerken.
+
+Ebenso sind Arbeitsaufträge, bei denen der Verantwortliche und der Erledigungstermin zu benennen sind, zu vermerken.
+
+Jedes Konzernbetriebsratsmitglied, die Konzernschwerbehindertenvertretung, der Vorsitz der Konzern-Jugend- und Auszubildendenvertretung und die Vertretung der Gewerkschaft {{Bezeichnung}} erhalten eine vollständige Kopie der Niederschrift. Hat ein Ersatzmitglied an der Sitzung teilgenommen, so erhält es ebenfalls eine Abschrift des Protokolls.
+
+Hat der Arbeitgeber bzw. dessen Vertretung an der Konzernbetriebsratssitzung teilgenommen, so ist ihm der entsprechende Teil der Niederschrift in Abschrift auszuhändigen.
+
+Der Konzernbetriebsratsvorsitz und die Schriftführung unterschreiben die Sitzungsniederschrift des Konzernbetriebsrats.
+
+Niederschriften sollen innerhalb von vier Wochen zugestellt werden.
+
+Einwände gegen die Niederschrift sind auf der nächsten Konzernbetriebsratssitzung vorzutragen und dem Protokoll beizufügen.
+
+#### 11. Datenschutz und Vertraulichkeit
+
+Alle Mitglieder sind verpflichtet, den Inhalt von Sitzungen des Konzernbetriebsrats sowie die ihnen aufgrund ihrer Betriebsratstätigkeit bekannt gewordenen Informationen vertraulich zu behandeln. Etwas anderes gilt nur, wenn die Informationen allgemein bekannt oder vom Betriebsrat zur Weitergabe freigegeben sind.
+
+Protokolle und alle anderen Sitzungsunterlagen sind ebenfalls vertraulich zu behandeln und von den einzelnen Betriebsratsmitgliedern entsprechend sicher zu verwahren. Die Weitergabe an betriebsratsfremde Personen ist nur mit ausdrücklicher Ermächtigung durch den Konzernbetriebsrat zulässig.
+
+Alle Mitglieder des Betriebsrats sind verpflichtet, bei der Wahrnehmung ihrer kollektivrechtlich begründeten Aufgaben die datenschutzrechtlichen Vorschriften, Grundsätze und Vorgaben einzuhalten, die für die Verarbeitung personenbezogener Daten einschlägig sind. Dieselbe Verpflichtung trifft bezogen auf Daten des Konzernbetriebsrats auch die Mitglieder der Jugend- und Auszubildendenvertretung sowie der Schwerbehindertenvertretung.
+
+Die Verpflichtung zur Vertraulichkeit bedarf auch der Umsetzung bei Tätigkeit im Homeoffice oder anderen Formen mobiler Arbeit.
+
+[RREF2] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.439)
+#### sein, wer an der Sitzung teilgenommen hat. Über Verhandlungen des Be-
+
+#### triebsrats mit dem Arbeitgeber muss kein Protokoll geführt werden, es ist
+
+#### aber zweckmäßig Stichpunkte zu notieren, um zumindest den Verhand-
+
+#### lungsstand festzuhalten.
+
+#### Auch über Sitzungen des Betriebsausschusses oder anderer Ausschüsse
+
+#### ist ein Protokoll zu fertigen, wenn in diesen Sitzungen Beschlüsse gefasst
+
+#### werden. Es ist aber grundsätzlich empfehlenswert, dass für alle Sitzungen
+
+#### ein Protokoll gefertigt wird. Dadurch wird der Informationsfluss zwi-
+
+#### schen dem Betriebsrat und den Ausschüssen gewährleistet. Wie dies zu
+
+#### geschehen hat, ist in § 34 BetrVG geregelt.
+
+**Merke: Die Begriffe Protokoll und Niederschrift sind austauschbar.**
+
+### 1. Schriftführer/Protokollführer
+
+#### Wer das Protokoll führt, ist im Gesetz nicht geregelt. Üblicherweise wird
+
+#### aus den Reihen der Betriebsratsmitglieder ein Schriftführer bestimmt.
+
+#### Damit die Arbeit nicht immer an einer Person hängen bleibt, kann auch
+
+#### in jeder Betriebsratssitzung ein anderes Mitglied die Protokollführung
+
+#### übernehmen. Zweckmäßig ist es aber, dies im Voraus zu klären, damit
+
+#### nicht bei jeder Sitzung viel Zeit verloren geht, um jemanden zu finden,
+
+#### der diese Aufgabe übernimmt.
+
+#### In größeren Betriebsräten kann auch die Hinzuziehung einer Schreib-
+
+#### kraft zur Unterstützung des Betriebsrats in Betracht kommen. Bei der
+
+#### Bestimmung der Schreibkraft steht dem Betriebsrat – ebenso wie bei der
+
+#### Zurverfügungstellung von Büropersonal – ein Mitspracherecht zu.
+
+```
+Inhalt des
+Protokolls
+```
+
+**!**
+
+```
+Schriftführer
+und
+Schreibkraft
+```
+
+```
+Protokoll
+```
+
+```
+Hinweis:
+Auch Schreibkräfte sind zur Geheimhaltung verpflichtet, soweit sie auf-
+grund ihrer Arbeit Kenntnisse von Betriebs- oder Geschäftsgeheimnissen
+erhalten.
+```
+
+### 2. Mindestanforderung an das Protokoll
+
+#### Das Protokoll muss mindestens den Wortlaut der Beschlüsse und das Ab-
+
+#### stimmungsergebnis wiedergeben. Im Gesetz ist nicht geregelt, dass das
+
+[RREF3] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.454)
+#### Protokoll unmittelbar in der Sitzung erstellt werden muss. Daher ist es
+
+#### auch zulässig, das Protokoll anhand von Notizen zu fertigen. Tonbandauf-
+
+#### zeichnungen sind nur dann zulässig, wenn alle Betriebsratsmitglieder der
+
+#### Aufzeichnung ausdrücklich zustimmen. Es ist aber nicht empfehlenswert,
+
+#### da Betriebsratsmitglieder durch Tonbandaufzeichnungen in ihrer Mei-
+
+#### nungsäußerung gehemmt sein könnten. Grundsätzlich sollte das Proto-
+
+#### koll direkt am Ende der Sitzung fertiggestellt werden. Dabei ist z. B. ein
+
+#### Laptop hilfreich. Der Protokollführer kann die Beschlüsse des Betriebs-
+
+#### rats direkt eintippen. Hierbei empfiehlt es sich, die Tagesordnung als Ba-
+
+#### sis zu verwenden. Der Tagesordnungspunkt ist dann schon aufgeführt
+
+#### und muss nur noch durch den Beschluss und eventuell einige Besonder-
+
+#### heiten ergänzt werden. Für das Abstimmungsergebnis kann man sogar
+
+#### Textbausteine vorbereitet haben, z. B. »einstimmig beschlossen«.
+
+### 3. Formalien
+
+#### Das Protokoll muss von dem Vorsitzenden und einem weiteren Mitglied
+
+#### des Betriebsrats unterschrieben werden. Dies übernimmt meistens der
+
+#### Schriftführer. Ist der Vorsitzende verhindert, muss der stellvertretende
+
+#### Vorsitzende unterschreiben.
+
+### 4. Anwesenheitsliste...................................
+
+#### Die Anwesenheitsliste ist Bestandteil des Protokolls. Mit ihr wird durch
+
+#### eigenhändige Unterschrift bewiesen, dass die Betriebsratsmitglieder an
+
+#### der Sitzung teilgenommen haben. Haben die Betriebsratsmitglieder nur
+
+```
+Mindest-
+anforderung
+```
+
+## '
+
+```
+Muster eines
+Protokolls
+auf Seite 77
+```
+
+## '
+
+**Muster einer
+Anwesenheitsliste
+auf Seite 78**
+
+```
+Protokoll
+```
+
+#### teilweise teilgenommen, sollte dies im Protokoll und der Anwesenheits-
+
+#### liste vermerkt werden. Nehmen Gäste, der Arbeitgeber oder die SBV und
+
+#### die JAV an der Sitzung teil, müssen diese sich ebenfalls auf der Anwesen-
+
+#### heitsliste eintragen.
+
+#### Nehmen Betriebsratsmitglieder mittels Video- und Telefonkonferenz an
+
+[RREF4] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.459)
+#### Bei den regelmäßigen Sitzungen sollte die Tagesordnung so rechtzeitig bei
+
+#### den Betriebsratsmitgliedern sein, damit diese genügend Zeit haben, sich
+
+#### auf die Sitzung vorzubereiten. Der Zeitpunkt der Sitzung steht bei den re-
+
+#### gelmäßigen Sitzungen schon fest. Die Form der Einladung kann sehr un-
+
+#### terschiedlich sein und sollte im Gremium geklärt werden. Die Einladung
+
+#### kann durch Hauspost, E-Mail oder auf dem normalen Postweg erfolgen.
+
+#### Bei der Einladung zu einer Video- oder Telefonkonferenz sollten bereits
+
+#### mit der Einladung die Zugangsdaten verschickt werden.
+
+**Wie eingeladen wird, muss mit jedem einzelnen Betriebsratsmitglied ge-
+klärt werden, da eventuell nicht jeder Zugriff auf E-Mails hat.
+Bei der Benutzung von E-Mails  – sowohl bei privaten E-Mail-Adressen als
+auch bei der Benutzung von personifizierten Firmen E-Mail-Adressen – muss
+unbedingt darauf geachtet werden, dass der Datenschutz gewährleistet ist.
+Auch auf einer Tagesordnung können schon sensible personenbezogene
+Daten enthalten sein, z. B. die beabsichtigte Kündigung eines Kollegen.
+Deshalb muss beim Versenden der Einladung sichergestellt werden, dass
+nur die eingeladenen Betriebsratsmitglieder Zugriff auf die Tagesordnung
+haben. Bei privaten E-Mail-Adressen z. B., dass kein weiteres Familienmit-
+glied Zugriff auf die E-Mails hat. Bei Firmen E-Mails ebenfalls und darüber
+hinaus, dass der Rechner des Betriebsratsmitglieds Passwortgeschützt ist
+und der Passwortschutz auch bei kurzfristigem Verlassen des Arbeitsplatzes
+aktiviert wird.**
+
+#### Bei weiteren kurzfristig notwendigen Betriebsratssitzungen muss es na-
+
+#### türlich oft schnell gehen. Hier gilt der Grundsatz: so schnell wie möglich.
+
+#### Die Einladung kann in solchen Fällen auch mündlich erfolgen.
+
+```
+Einladung
+```
+
+**!**
+
+```
+Betriebsratssitzung
+```
+
+#### Wurde ein Betriebsratsmitglied eingeladen, das nicht an der Sitzung
+
+#### teilnehmen kann, soll dieses Mitglied den Betriebsratsvorsitzenden so
+
+#### schnell wie möglich informieren. Die Information muss auch den Ve r-
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.474)
+### Betriebsrat: Anschaffung und Installation von Verschlüsselungssoftware
+
+<!-- sem-asset-id: betriebsrat_anschaffung_und_installation_von_verschluesselungssoftware -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Anschaffung** und Installation von Verschlüsselungssoftware
+
+Sehr geehrte Damen und Herren,
+
+der Betriebsrat hat auf seiner Sitzung am {{Datum}} beschlossen, dass zur Sicherstellung des gesetzlichen Datenschutzes und der in der Datenschutzgrundverordnung (DSGVO) sowie dem Bundesdatenschutzgesetz (BDSG) enthaltenen Vorgaben zum technischen und organisatorischen Datenschutzschutz die Anschaffung einer Verschlüsselungssoftware erforderlich ist. Diese Software stellt sicher, dass personenbezogene Daten, die dem Betriebsrat für die Erledigung seiner gesetzlich festgelegten Aufgaben zur Verfügung stehen, ohne die Möglichkeit des Zugriffs unbefugter Personen verarbeitet werden kann.
+
+Zur Begründung weisen wir auf Folgendes hin:
+
+Der Betriebsrat ist innerhalb seines Aufgabenbereichs eigenständig für sie Sicherstellung des gesetzlichen Datenschutzes verantwortlich. Deshalb muss das Gremium insbesondere auch die Vorgaben zur Sicherheit der Verarbeitung in Art. 32 DSGVO durch hierfür geeignete technische und organisatsorische Maßnahmen sicherstellen. Zu diesen Maßnahmen gehört ausdrücklich auch die Verschlüsselung personenbezogener Daten auf den Endgeräten.
+
+Im Betrieb ist eine für diesen Zweck geeignete technische Lösung nicht vorhanden. Der technisch mögliche Rückgriff auf Passwörter zur Sicherung einzelner Dateien stellt keine gleichwertige Alternative dar, da hierdurch in der Regel nur der Zugriff auf Informationen eingeschränkt wird, ohne dass zugleich eine Verschlüsselung der Daten stattfindet. Deshalb möchte der Betriebsrat auf eine wirksame Verschlüsselungssoftware zurückgreifen. Die Software der Firma {{kasten}} verschlüsselt automatisch alle auf den von Betriebsratsmitgliedern verwendeten PCs und Notebooks verarbeiteten Dateien. Nach Darstellung des Herstellers funktioniert die Software nach der Installation vollautomatisch und stellt eine durchgängige sichere Verschlüsselung sicher.
+
+Wir bitten Sie deshalb, uns bis zum {{Datum}} Ihr Einverständnis zu dieser Anschaffung mitzuteilen und eine Bestellung der notwendigen Softwarelizenzen über die Einkaufsabteilung zu veranlassen. Hinsichtlich der aus unserer Sicht notwendigen Ausstattung des Geräts fügen wir diesem Schreiben mehrere bereits eingeholte Angebote bei.
+
+
+
+---
+
+## Q-P1-AM-18  (subtask: strategic_practical)
+
+### FRAGE
+Wie finde ich einen Anwalt, den man potenziell schnell kontaktieren könnte?
+
+### REFERENZ
+- Hilfe durch Gewerkschaften
+- Erfahrungsberichte
+- recherchieren von arbeitnehmernahen Anwält*innen
+
+### MODELLANTWORT
+
+
+Basierend auf den in der Datenbank verfügbaren Dokumenten zur Betriebsrats- und Gewerkschaftspraxis finden sich folgende Hinweise zur Suche nach rechtlicher oder fachkundiger Unterstützung, die auch für die Kontaktaufnahme mit Anwälten relevant sein können:
+
+**1. Empfehlung über Netzwerke und Organisationen**
+Im Kontext der Betriebsratsarbeit wird empfohlen, geeignete Personen (dazu zählen oft auf Arbeitsrecht spezialisierte Anwälte oder Berater) über folgende Wege zu finden:
+*   **Gewerkschaft:** Eine geeignete Person kann von der zuständigen Gewerkschaft benannt werden [RREF1].
+*   **Andere Betriebsräte:** Erfahrungen und Empfehlungen von anderen Betriebsräten sind eine gute Grundlage [RREF1].
+*   **Rechtsanwälte:** Auch bestehende Rechtsanwälte können geeignete Personen benennen [RREF1].
+
+**2. Onlinesuche**
+*   Namen von Experten können auch im Internet recherchiert werden (im Dokument wird beispielhaft `www.soliserv.de` genannt) [RREF1].
+*   **Einschränkung:** Es wird jedoch darauf hingewiesen, dass persönliche Erfahrungen anderer stets die bessere Grundlage für die Auswahl sind als reine Onlinerecherchen [RREF1].
+
+**3. Prozessvertretung**
+*   Für arbeitsgerichtliche Verfahren sind Rechtsanwälte als Bevollmächtigte zugelassen [RREF2].
+*   Vor dem Arbeitsgericht können Parteien den Rechtsstreit zwar grundsätzlich selbst führen, bei bestimmten Forderungen oder in höheren Instanzen (Landesarbeitsgericht, Bundesarbeitsgericht) besteht jedoch Anwaltszwang bzw. die Vertretung durch spezifische Organisationen (wie Gewerkschaften) ist geregelt [RREF2].
+
+**Zusammenfassend:**
+Der schnellste Weg zur Kontaktaufnahme besteht laut den vorliegenden Arbeitshilfen darin, sich direkt an die **zuständige Gewerkschaft** oder den **Betriebsrat eines anderen Unternehmens** zu wenden, um eine konkrete Empfehlung für einen Anwalt oder Berater zu erhalten, anstatt allein auf Onlinesuchen zu vertrauen [RREF1].
+
+*Hinweis: Die vorliegenden Dokumente fokussieren sich auf das Arbeits- und Betriebsverfassungsrecht. Für allgemeine zivilrechtliche Anliegen außerhalb dieses Kontextes liegen in diesem Auszug keine spezifischen Suchhilfen vor.*.*
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.648)
+### Mitteilung der Einschaltung eines Beraters an den Arbeitgeber
+
+<!-- sem-asset-id: mitteilung_der_einschaltung_eines_beraters_an_den_arbeitgeber -->
+
+_Authors: Wolfgang Däubler_
+
+Betriebsrat der
+
+{{Firmenbezeichnung}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+{{Firmenbezeichnung}}
+
+z. Hd. Herrn {{Name}}
+
+im Hause
+
+
+
+aufgrund der uns mitgeteilten Pläne zur Umstrukturierung des Unternehmens und zur Reduzierung des Personals hat der Betriebsrat eingehend über die Situation beraten. Wir sehen uns nicht in der Lage, das uns in Folienform präsentierte Konzept ausreichend zu beurteilen. Wir haben uns deshalb an den Wirtschaftsprüfer {{Name}} gewandt, damit dieser das Konzept auf seine betriebswirtschaftliche Sinnhaftigkeit untersucht und ggf. schonendere Alternativen erarbeitet. Wir stützen uns dabei auf die Vorschrift des § 111 Satz 2 BetrVG.
+
+Herr {{Name}} wird sich in Kürze mit Ihnen in Verbindung setzen, um einen Besprechungstermin zu vereinbaren.
+
+> #### Hinweis:
+>
+> Die einseitige Einschaltung eines Sachverständigen erweckt häufig auf der Arbeitgeberseite wenig Freude. Dies hängt nicht nur mit den Kosten zusammen; oft ist das Konzept auch lange diskutiert und die Neigung deshalb gering, insoweit noch einmal von vorne anzufangen. Dennoch sollte der Betriebsrat von den Möglichkeiten des § 111 Satz 2 BetrVG Gebrauch machen, was allerdings voraussetzt, dass das Unternehmen mehr als 300 Beschäftigte hat. Der Sachverständige ist ggf. gezwungen, seine Ansprüche im Klagewege durchzusetzen. Spätestens nach dem ersten Gespräch mit der Arbeitgeberseite wird deutlich, ob auch mit einer solchen Entwicklung ernsthaft gerechnet werden muss. Mit Rücksicht auf die Rechtsprechung des BGH (25. 10. 2012 - III ZR 266/11, NZA 2012, 1382), der ein Betriebsratsmitglied für persönlich haftbar erklärte, ist mündlich und in dem oben wiedergegebenen Schreiben eine persönliche Haftung von Betriebsratsmitgliedern ausgeschlossen worden. Dies ist in aller Regel nur eine Vorsichtsmaßnahme, weil ein auf die Beratung von Betriebsräten spezialisierter Experte seinen Ruf zerstören würde, wollte er ein Betriebsratsmitglied persönlich in Anspruch nehmen.
+>
+> Die Arbeitgeberseite müsste an sich von der Beauftragung eines Beraters gar nicht informiert werden. So vorzugehen, erscheint aber schon deshalb wenig sachgerecht, weil der Wirtschaftsprüfer ja über die typischen Folien hinaus noch nähere Informationen benötigt.
+>
+> Eine geeignete Person kann man von der Gewerkschaft oder von anderen Betriebsräten oder von einem Rechtsanwalt benannt bekommen. Auch im Netz kann man Namen finden (etwa unter www.soliserv.de), doch sind persönliche Erfahrungen anderer immer die bessere Grundlage.
+>
+> Bei Unternehmen mit nicht mehr als 300 Beschäftigten gilt allein § 80 Abs. 3 BetrVG. Insoweit benötigt man vor der Heranziehung eines Sachverständigen die Einwilligung des Arbeitgebers bzw. eine entsprechende arbeitsgerichtliche Entscheidung. Dazu nähere Erläuterungen bei § 80.
+
+[RREF2] SF_Arbeits_und_Sozialordnung_2025.md (0.660)
+in denen der Rechtsstreit durch einen Rechtsnachfolger oder durch eine Person geführt wird, die kraft Gesetzes an Stelle des sachlich Berechtigten oder Verpflichteten hierzu befugt ist.150|127623|par4bundimportedAsset##cf5657ed-a26d-4baa-921b-648df83bee41ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 4Ausschluß der ArbeitsgerichtsbarkeitIn den Fällen des § 2 Abs. 1 und Abs. 2 kann die Arbeitsgerichtsbarkeit nach Maßgabe der §§ 101 bis 110 ausgeschlossen werden.150|127623|par5bundimportedAsset##5a9159e9-c0a0-4a7a-9786-f0ecd9e6d8ecASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 5Begriff des Arbeitnehmers(1)Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte sowie die zu ihrer Berufsausbildung Beschäftigten. Als Arbeitnehmer gelten auch die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten (§ 1 des Heimarbeitsgesetzes vom 14. März 1951 – Bundesgesetzbl. I S. 191 –) sowie sonstige Personen, die wegen ihrer wirtschaftlichen Unselbständigkeit als arbeitnehmerähnliche Personen anzusehen sind. Als Arbeitnehmer gelten nicht in Betrieben einer juristischen Person oder einer Personengesamtheit Personen, die kraft Gesetzes, Satzung oder Gesellschaftsvertrag allein oder als Mitglieder des Vertretungsorgans zur Vertretung der juristischen Person oder der Personengesamtheit berufen sind.(2)Beamte sind als solche keine Arbeitnehmer.(3)Handelsvertreter gelten nur dann als Arbeitnehmer im Sinne dieses Gesetzes, wenn sie zu dem Personenkreis gehören, für den nach § 92 a des Handelsgesetzbuchs die untere Grenze der vertraglichen Leistungen des Unternehmers festgesetzt werden kann, und wenn sie während der letzten sechs Monate des Vertragsverhältnisses, bei kürzerer Vertragsdauer während dieser, im Durchschnitt monatlich nicht mehr als 1000 Euro auf Grund des Vertragsverhältnisses an Vergütung einschließlich Provision und Ersatz für im regelmäßigen Geschäftsbetrieb entstandene Aufwendungen bezogen haben. Das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Justiz und für Verbraucherschutz können im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie die in Satz 1 bestimmte Vergütungsgrenze durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den jeweiligen Lohn- und Preisverhältnissen anpassen.150|127623|par6bundimportedAsset##f74489a5-2c85-4df1-b171-71fcf1eca938ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 6Besetzung der Gerichte für Arbeitssachen(1)Die Gerichte für Arbeitssachen sind mit Berufsrichtern und mit ehrenamtlichen Richtern aus den Kreisen der Arbeitnehmer und Arbeitgeber besetzt.(2)(weggefallen)150|127623|par6abundimportedAsset##c579ee61-3621-4084-8ba7-6e2745e54cc5ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 6 aAllgemeine Vorschriften über das Präsidium und die GeschäftsverteilungFür die Gerichte für Arbeitssachen gelten die Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes nach Maßgabe der folgenden Vorschriften entsprechend:Bei einem Arbeitsgericht mit weniger als drei Richterplanstellen werden die Aufgaben des Präsidiums durch den Vorsitzenden oder, wenn zwei Vorsitzende bestellt sind, im Einvernehmen der Vorsitzenden wahrgenommen. Einigen sich die Vorsitzenden nicht, so entscheidet das Präsidium des Landesarbeitsgerichts oder, soweit ein solches nicht besteht, der Präsident dieses Gerichts.Bei einem Landesarbeitsgericht mit weniger als drei Richterplanstellen werden die Aufgaben des Präsidiums durch den Präsidenten, soweit ein zweiter Vorsitzender vorhanden ist, im Benehmen mit diesem wahrgenommen.Der aufsichtführende Richter bestimmt, welche richterlichen Aufgaben er wahrnimmt.Jeder ehrenamtliche Richter kann mehreren Spruchkörpern angehören.Den Vorsitz in den Kammern der Arbeitsgerichte führen die Berufsrichter.150|127623|par7bundimportedAsset##231de17b-ae28-4196-b19d-87bf7f0bb28cASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 7Geschäftsstelle, Aufbringung der Mittel(1)Bei jedem Gericht für Arbeitssachen wird eine Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten besetzt wird. Die Einrichtung der Geschäftsstelle bestimmt bei dem Bundesarbeitsgericht das Bundesministerium für Arbeit und Soziales im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Die Einrichtung der Geschäftsstelle bestimmt bei den Arbeitsgerichten und Landesarbeitsgerichten die zuständige oberste Landesbehörde.(2)Die Kosten der Arbeitsgerichte und der Landesarbeitsgerichte trägt das Land, das sie errichtet. Die Kosten des Bundesarbeitsgerichts trägt der Bund.150|127623|par8bundimportedAsset##828323ec-3990-49dd-9876-fb9238c3c554ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 8Gang des Verfahrens(1)Im ersten Rechtszug sind die Arbeitsgerichte zuständig, soweit durch Gesetz nichts anderes bestimmt ist.(2)Gegen die Urteile der Arbeitsgerichte findet die Berufung an die Landesarbeitsgerichte nach Maßgabe des § 64 Abs. 1 statt.(3)Gegen die Urteile der Landesarbeitsgerichte findet die Revision an das Bundesarbeitsgericht nach Maßgabe des § 72 Abs. 1 statt.(4)Gegen die Beschlüsse der Arbeitsgerichte und ihrer Vorsitzenden im Beschlußverfahren findet die Beschwerde an das Landesarbeitsgericht nach Maßgabe des § 87 statt.(5)Gegen die Beschlüsse der Landesarbeitsgerichte im Beschlußverfahren findet die Rechtsbeschwerde an das Bundesarbeitsgericht nach Maßgabe des § 92 statt.150|127623|par9bundimportedAsset##723b63f2-3759-4755-af50-da9beae79604ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 9Allgemeine Verfahrensvorschriften und Rechtsschutz bei überlangen Gerichtsverfahren(1)Das Verfahren ist in allen Rechtszügen zu beschleunigen.(2)Die Vorschriften des Gerichtsverfassungsgesetzes über Zustellungs- und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in der Sitzung, über die Gerichtssprache, über die Wahrnehmung richterlicher Geschäfte durch Referendare und über Beratung und Abstimmung gelten in allen Rechtszügen entsprechend. Abweichend von Satz 1 findet§ 185 Absatz 1a des Gerichtsverfassungsgesetzes mit der Maßgabe Anwendung, dass das Gericht dem Dolmetscher die Teilnahme an der Verhandlung, Anhörung oder Vernehmung per Bild- und Tonübertragung gestatten kann;§ 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher Verhandlung.Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landesarbeitsgericht, an die Stelle des Bundesgerichtshofs das Bundesarbeitsgericht und an die Stelle der Zivilprozessordnung das Arbeitsgerichtsgesetz tritt.(3)Die Vorschriften über die Wahrnehmung der Geschäfte bei den ordentlichen Gerichten durch Rechtspfleger gelten in allen Rechtszügen entsprechend. Als Rechtspfleger können nur Beamte bestellt werden, die die Rechtspflegerprüfung oder die Prüfung für den gehobenen Dienst bei der Arbeitsgerichtsbarkeit bestanden haben.(4)Zeugen und Sachverständige erhalten eine Entschädigung oder Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz.(5)Alle mit einem befristeten Rechtsmittel anfechtbaren Entscheidungen enthalten die Belehrung über das Rechtsmittel. Soweit ein Rechtsmittel nicht gegeben ist, ist eine entsprechende Belehrung zu erteilen. Die Frist für ein Rechtsmittel beginnt nur, wenn die Partei oder der Beteiligte über das Rechtsmittel und das Gericht, bei dem das Rechtsmittel einzulegen ist, die Anschrift des Gerichts und die einzuhaltende Frist und Form schriftlich belehrt worden ist. Ist die Belehrung unterblieben oder unrichtig erteilt, so ist die Einlegung des Rechtsmittels nur innerhalb eines Jahres seit Zustellung der Entscheidung zulässig, außer wenn die Einlegung vor Ablauf der Jahresfrist infolge höherer Gewalt unmöglich war oder eine Belehrung dahin erfolgt ist, daß ein Rechtsmittel nicht gegeben sei; § 234 Abs. 1, 2 und § 236 Abs. 2 der Zivilprozeßordnung gelten für den Fall höherer Gewalt entsprechend.150|127623|par10bundimportedAsset##dce50120-a806-4f23-bc95-50721c65b8deASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 10ParteifähigkeitParteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände; in den Fällen des § 2 a Abs. 1 Nr. 1 bis 3 f sind auch die nach dem Betriebsverfassungsgesetz, dem Sprecherausschussgesetz, dem Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, dem § 222 des Neunten Buches Sozialgesetzbuch, dem § 51 des Berufsbildungsgesetzes und den zu diesen Gesetzen ergangenen Rechtsverordnungen sowie die nach dem Gesetz über Europäische Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz, dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung und dem Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung beteiligten Personen und Stellen Beteiligte. Parteifähig im arbeitsgerichtlichen Verfahren sind in den Fällen des § 2 a Abs. 1 Nr. 4 auch die beteiligten Vereinigungen von Arbeitnehmern und Arbeitgebern sowie die oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf deren Bereich sich die Tätigkeit der Vereinigung erstreckt. Parteifähig im arbeitsgerichtlichen Verfahren sind in den Fällen des § 2 a Absatz 1 Nummer 5 auch die oberste Arbeitsbehörde des Bundes oder die oberste Arbeitsbehörde eines Landes, soweit ihr nach § 5 Absatz 6 des Tarifvertragsgesetzes Rechte übertragen sind.150|127623|par11bundimportedAsset##f67180db-d992-4a71-b4c4-b9d9398837acASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 11Prozessvertretung(1)Die Parteien können vor dem Arbeitsgericht den Rechtsstreit selbst führen. Parteien, die eine fremde oder ihnen zum Zweck der Einziehung auf fremde Rechnung abgetretene Geldforderung geltend machen, müssen sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen, soweit sie nicht nach Maßgabe des Absatzes 2 zur Vertretung des Gläubigers befugt wären oder eine Forderung einziehen, deren ursprünglicher Gläubiger sie sind.(2)Die Parteien können sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Darüber hinaus sind als Bevollmächtigte vor dem Arbeitsgericht vertretungsbefugt nurBeschäftigte der Partei oder eines mit ihr verbundenen Unternehmens (§ 15 des Aktiengesetzes); Behörden und juristische Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse können sich auch durch Beschäftigte anderer Behörden oder juristischer Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse vertreten lassen,volljährige Familienangehörige (§ 15 der Abgabenordnung, § 11 des Lebenspartnerschaftsgesetzes), Personen mit Befähigung zum Richteramt und Streitgenossen, wenn die Vertretung nicht im Zusammenhang mit einer entgeltlichen Tätigkeit steht,selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung für ihre Mitglieder,Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände für ihre Mitglieder oder für andere Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder,juristische Personen, deren Anteile sämtlich im wirtschaftlichen Eigentum einer der in Nummer 4 bezeichneten Organisationen stehen, wenn die juristische Person ausschließlich die Rechtsberatung und Prozessvertretung dieser Organisation und ihrer Mitglieder oder anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder entsprechend deren Satzung durchführt, und wenn die Organisation für die Tätigkeit der Bevollmächtigten haftet.Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organe und mit der Prozessvertretung beauftragten Vertreter.(3)Das Gericht weist Bevollmächtigte, die nicht nach Maßgabe des Absatzes 2 vertretungsbefugt sind, durch unanfechtbaren Beschluss zurück. Prozesshandlungen eines nicht vertretungsbefugten Bevollmächtigten und Zustellungen oder Mitteilungen an diesen Bevollmächtigten sind bis zu seiner Zurückweisung wirksam. Das Gericht kann den in Absatz 2 Satz 2 Nr. 1 bis 3 bezeichneten Bevollmächtigten durch unanfechtbaren Beschluss die weitere Vertretung untersagen, wenn sie nicht in der Lage sind, das Sach- und Streitverhältnis sachgerecht darzustellen.(4)Vor dem Bundesarbeitsgericht und dem Landesarbeitsgericht müssen sich die Parteien, außer im Verfahren vor einem beauftragten oder ersuchten Richter und bei Prozesshandlungen, die vor dem Urkundsbeamten der Geschäftsstelle vorgenommen werden können, durch Prozessbevollmächtigte vertreten lassen. Als Bevollmächtigte sind außer Rechtsanwälten nur die in Absatz 2 Satz 2 Nr. 4 und 5 bezeichneten Organisationen zugelassen. Diese müssen in Verfahren vor dem Bundesarbeitsgericht durch Personen mit Befähigung zum Richteramt handeln. Eine Partei, die nach Maßgabe des Satzes 2 zur Vertretung berechtigt ist, kann sich selbst vertreten; Satz 3 bleibt unberührt.(5)Richter dürfen nicht als Bevollmächtigte vor dem Gericht auftreten, dem sie angehören. Ehrenamtliche Richter dürfen, außer in den Fällen des Absatzes 2 Satz 2 Nr. 1, nicht vor einem Spruchkörper auftreten, dem sie angehören. Absatz 3 Satz 1 und 2 gilt entsprechend.(6)In der Verhandlung können die Parteien mit Beiständen erscheinen. Beistand kann sein, wer in Verfahren, in denen die Parteien den Rechtsstreit selbst führen können, als Bevollmächtigter zur Vertretung in der Verhandlung befugt ist. Das Gericht kann andere Personen als Beistand zulassen, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht. Absatz 3 Satz 1 und 3 und Absatz 5 gelten entsprechend. Das von dem Beistand Vorgetragene gilt als von der Partei vorgebracht, soweit es nicht von dieser sofort widerrufen oder berichtigt wird.150|127623|par11abundimportedAsset##ba8d4476-ae76-4b07-8431-3f58ba9926a8ASOPrint-ARBGGArbeitsgerichtsgesetzArbGG§ 11 aBeiordnung eines Rechtsanwalts, ProzeßkostenhilfeFür die außergerichtliche Beratung bei geringem Einkommen gilt das Gesetz über Rechtsberatung und Vertretung für Bürger mit geringem Einkommen (Beratungshilfegesetz – BerHG) vom 18. 6. 1980 (BGBl. I 689), zuletzt geändert durch Gesetz vom 15. 7. 2024 (BGBl. 2024 I Nr. 237). Aufgrund des Gesetzes vom 14. 9. 1994 (BGBl. I 2323) erstreckt sich diese Beratung auch auf Angelegenheiten der Arbeitsgerichtsbarkeit (§ 2 Abs. 2 Satz 1 BerHG). Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in dessen Bezirk der Hilfesuchende seinen allgemeinen Gerichtsstand hat (§ 4 Abs. 1 BerHG).(1)Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe und über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG mit Ausnahme
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.662)
+### Schreiben wegen Bestellung eines Beraters nach § 111 Satz 2 BetrVG
+
+<!-- sem-asset-id: schreiben_wegen_bestellung_eines_beraters_nach_par_111_satz_2_betrvg -->
+
+_Authors: Wolfgang Däubler_
+
+Betriebsrat der
+
+{{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+{{Name}}
+
+{{Adresse}}
+
+
+
+wie bereits in unserem gestrigen Telefongespräch skizziert, beabsichtigt die {{Firmenbezeichnung}}, von {{800}} Arbeitsplätzen ca. {{150}} nach Tschechien zu verlagern. Die hier Beschäftigten sollen aus den Diensten des Unternehmens freiwillig ausscheiden, notfalls gekündigt werden.
+
+Der Betriebsrat ist von diesen Plänen erst seit einer Woche informiert. Das Konzept der Unternehmensleitung ist in einem Satz von 70 Folien niedergelegt, die allerdings für uns nicht aus sich selbst heraus verständlich sind. Eine Kopie senden wir Ihnen mit getrennter Post zu.
+
+In unserem gestrigen Gespräch haben Sie sich freundlicherweise bereit erklärt, uns als Berater nach § 111 Satz 2 BetrVG zur Verfügung zu stehen. Wir wollen in erster Linie wissen, ob das Konzept der Unternehmensleitung überhaupt betriebswirtschaftlich sinnvoll ist oder ob eine Optimierung der Arbeit an den deutschen Standorten vorzuziehen wäre. Weiter wäre zu fragen, ob es eine schonendere Alternative für die Beschäftigten, beispielsweise einen Verzicht auf Kündigungen, geben kann.
+
+Als Vergütung hatten wir 350,- € pro Stunde zuzüglich Mehrwertsteuer vereinbart. Reisezeiten werden mit dem halben Stundensatz vergütet, nachgewiesene Aufwendungen für Reisen und Übernachtung ersetzt. Diese Kosten gehen zu Lasten des Arbeitgebers. Wir haben die Unternehmensleitung von Ihrer Beauftragung informiert. Eine persönliche Haftung von Betriebsratsmitgliedern ist - wie wir bereits im Gespräch klargestellt haben - ausgeschlossen. Wir regen an, dass Sie sich mit Herrn {{Name}}, dem für Personal zuständigen Mitglied der Geschäftsführung, in Verbindung setzen, um mit ihm einen Besprechungstermin zu vereinbaren. Außerdem wäre der Betriebsrat dankbar, nach diesem Gespräch in seiner folgenden Sitzung eine vorläufige Einschätzung von Ihnen zu erhalten.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.664)
+### Arbeitnehmer: Antrag auf Weiterbeschäftigung nach allgemeinem Weiterbeschäftigungsanspruch
+
+<!-- sem-asset-id: arbeitnehmer_antrag_auf_weiterbeschaeftigung_nach_allgemeinem_weiterbeschaeftigungsanspruch -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+#### **Vorbemerkung**
+
+Unabhängig von der gesetzlichen Regelung eines Weiterbeschäftigungsanspruchs beim Vorliegen eines Widerspruchs des Betriebsrats gemäß § 102 Abs. 5 BetrVG besteht ein allgemeiner Weiterbeschäftigungsanspruch. Dessen Voraussetzungen hat der Große Senat des BAG folgendermaßen festgelegt:
+
+- Die Kündigung ist offensichtlich unwirksam oder
+- es liegt ein die Instanz abschließendes Urteil vor, das die Unwirksamkeit der Kündigung feststellt.
+
+
+
+Arbeitsgericht {{Bezeichnung}}
+
+{{Adresse}}
+
+/
+
+(volles Rubrum)
+
+vertreten wir den Antragsteller.
+
+Namens und im Auftrag des Antragstellers beantragen wir:
+
+1. Der Antragsgegnerin wird im Wege der einstweiligen Verfügung - der Dringlichkeit wegen ohne mündliche Verhandlung und durch den Vorsitzenden allein - aufgegeben, den Antragsteller bis zum rechtskräftigen Abschluss des Kündigungsschutzverfahrens, Az: {{kasten}}, zu unveränderten Bedingungen im Betrieb in {{kasten}} als {{kasten}} weiterzubeschäftigen,
+2. hilfsweise, die beantragte einstweilige Verfügung aufgrund mündlicher Verhandlung unter größtmöglicher Abkürzung der Ladungs- und Einlassungsfristen zu erlassen.
+
+
+
+Der Antragsteller ist seit dem {{Datum}} bei der Antragsgegnerin als {{kasten}} in der Exportabteilung im Betrieb in {{Ort}} beschäftigt. Das Arbeitsverhältnis ist daher mit einer Frist von zwei Wochen zum Monatsende kündbar. Am {{Datum}} kündigte die Antragsgegnerin das Arbeitsverhältnis zur völligen Überraschung des Antragstellers zum {{Datum}}. Zur Begründung wurde dem Antragsteller mitgeteilt, er habe sich gegenüber seinem Vorgesetzten beleidigend geäußert, das könne man nicht dulden.
+
+Die Kündigung vom {{Datum}} war offensichtlich unwirksam. Der bei der Antragsgegnerin gebildete Betriebsrat wurde vor Ausspruch der Kündigung nicht angehört.
+
+Glaubhaftmachung: Eidesstattliche Versicherung des Betriebsratsvorsitzenden (Anlage 1)
+
+
+
+Der Antragsteller hat ein berechtigtes Interesse daran, während der Dauer des Kündigungsschutzverfahrens weiterbeschäftigt zu werden. Der Antragsteller hat bereits das 56. Lebensjahr vollendet. Es ist davon auszugehen, dass der Antragsteller bei der schwierigen Situation auf dem Arbeitsmarkt, insbesondere in der {{Bezeichnung}}-Branche, angesichts seines fortgeschrittenen Lebensalters keine neue Beschäftigung mehr finden wird.
+
+Außerdem führt die Antragsgegnerin zurzeit in der Exportabteilung eine neue Software ein. Der Antragsteller ist ohne Anbindung an seinen Arbeitsplatz nicht in der Lage, die erforderlichen Kenntnisse zu erlangen. Selbst bei Obsiegen im Kündigungsrechtsstreit müsste der Antragsteller so einen dauerhaften Nachteil hinnehmen.
+
+Der Antragsteller hat gegen die unwirksame Kündigung vom {{Datum}} am {{Datum}} Kündigungsschutzklage erhoben. Die Klage wird beim Arbeitsgericht unter dem Az.: {{kasten}} geführt. Die Güteverhandlung ist erst auf den {{Datum}}, also fast einen Monat nach Ablauf der Kündigungsfrist terminiert. Mit der Verhandlung vor der Kammer ist frühestens im Monat {{Datum}} zu rechnen.
+
+Ohne den beantragten Erlass einer einstweiligen Verfügung wäre der Antragsteller also mehr als {{kasten}} Monate ohne Arbeit, bis das Arbeitsgericht die Unwirksamkeit der Kündigung erstinstanzlich feststellen könnte. Es kann dem Antragsteller nicht zugemutet werden, so lange ohne Beschäftigung zu bleiben. Es besteht die Gefahr, dass die Antragsgegnerin in der Zwischenzeit Fakten, die eine Rückkehr des Antragstellers in den Betrieb zusätzlich erschweren, schafft.
+
+Zur Glaubhaftmachung für alles Vorstehende: eidesstattliche Versicherung 
+ des Antragstellers, Anlage 2
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.666)
+### Gewerkschaft: Abmahnung des Arbeitgebers wegen Verletzung von Gewerkschaftsrechten
+
+<!-- sem-asset-id: gewerkschaft_abmahnung_des_arbeitgebers_wegen_verletzung_von_gewerkschaftsrechten -->
+
+_Authors: Peter Berg_
+
+Gewerkschaft {{Bezeichnung, Adresse}} {{Ort, Datum}}
+
+
+
+Geschäftsführung
+
+{{Firmenbezeichnung, Adresse}}
+
+**Verweigerung der Teilnahme von Herrn**
+ {{Name}}
+ **an der Betriebsratssitzung am**
+ {{Datum}}
+
+Sehr geehrte Damen und Herren,
+
+obwohl wir Sie mit Schreiben vom {{Datum}} auf die Rechtslage hingewiesen hatten, wurde Herrn {{Name}} am {{Datum}} der Zugang zum Betrieb verwehrt.
+
+Nach Rücksprache mit dem Betriebsrat hat dieser Herrn {{Name}} erneut zur nächsten Betriebsratssitzung am {{Datum}} eingeladen.
+
+Wir bitten Sie, uns gegenüber bis zum {{Datum}}, hier eingehend, schriftlich zu erklären, dass Herr {{Name}} an der Betriebsratssitzung am {{Datum}} teilnehmen kann.
+
+Sollte eine entsprechende Erklärung innerhalb der angegebenen Frist nicht vorliegen, sehen wir uns gezwungen, zur Sicherung der Teilnahme von Herrn {{Name}} an der Betriebsratssitzung am {{Datum}} gerichtliche Hilfe in Anspruch zu nehmen.
+
+### Gewerkschaft: Antrag beim ArbG wegen Zugang eines Gewerkschaftsbeauftragen zum Betrieb
+
+<!-- sem-asset-id: gewerkschaft_antrag_beim_arbg_wegen_zugang_eines_gewerkschaftsbeauftragen_zum_betrieb -->
+
+_Authors: Peter Berg_
+
+An das Arbeitsgericht {{Ort}}, {{Datum}}
+
+{{Bezeichnung}}
+
+{{Adresse}}
+
+
+
+1. Gewerkschaft {{Bezeichnung, Adresse}}
+    <p align="right">– Antragstellerin –</p>
+
+    Verfahrensbevollmächtigter: Rechtsanwalt {{Name, Adresse}}/Rechtssekretär {{Name, Adresse,}}
+
+    gegen
+
+2. Firma {{Firmenbezeichnung}}, vertreten durch den Geschäftsführer {{Name, Adresse,}}
+    <p align="right">– Antragsgegnerin –</p>
+
+    weiterer Beteiligter:
+
+3. Betriebsrat der Firma {{Firmenbezeichnung}}, vertreten durch den Betriebsratsvorsitzenden {{Name}}, {{Adresse}}
+
+**wegen Zugang eines Gewerkschaftsbeauftragten zum Betrieb.**
+
+Namens und in Vollmacht der Antragstellerin und Beteiligten zu 1. leite ich ein Beschlussverfahren ein und beantrage den Erlass einer einstweiligen Verfügung
+
+- wegen der Dringlichkeit der Angelegenheit ohne mündliche Verhandlung,
+- hilfsweise unter größtmöglicher Abkürzung der Ladungs- und Einlassungsfristen auf Grund einer möglichst unverzüglich anzuberaumenden mündlichen Verhandlung:
+    1. Die Beteiligte zu 2. wird im Wege der Einstweiligen Verfügung verpflichtet, den Zugang der Gewerkschaftssekretärin {{Name}} als Beauftragte der Beteiligten zu 1. zum Betrieb {{Firmenbezeichnung, Adresse}} am {{Datum}} ab {{PLACEHOLDER}} Uhr zur Teilnahme an der an diesem Tag stattfindenden Betriebsratssitzung des Beteiligten zu 3. zu dulden,
+    2. der Beteiligten zu 2. wird für den Fall der Zuwiderhandlung gegen die Verpflichtung nach dem Antrag zu 1. ein in das Ermessen des Gerichts zu stellendes Ordnungsgeld angedroht.
+
+
+Für den Fall, dass die Kammer auf Grund einer mündlichen Verhandlung entscheiden will, erklären wir uns mit der größtmöglichen Abkürzung der Ladungsfristen einverstanden und können nach entsprechender telefonischer Unterrichtung zu einer mündlichen Verhandlung binnen {{PLACEHOLDER}} Minuten {{(bzw. Stunden)}} anreisen.
+
+
+
+---
+
+## Q-P1-CZ-01  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Mitbestimmungsrechte hat der Betriebsrat nach dem Betriebsverfassungsgesetz (BetrVG)?
+
+### REFERENZ
+- Mitbestimmung in sozialen Angelegenheiten (§87 BetrVG)
+- Informations- und Beratungsrechte in wirtschaftlichen Angelegenheiten
+- Zustimmungsverweigerungsrechte bei personellen Einzelmaßnahmen (§99 BetrVG)
+- Initiativrechte bei vielen Regelungen (z. B. Arbeitszeit, Homeoffice)
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lassen sich die Mitbestimmungsrechte des Betriebsrats nach dem Betriebsverfassungsgesetz (BetrVG) wie folgt zusammenfassen. Das Gesetz unterscheidet dabei nach der Intensität der Beteiligung (von Information bis zur erzwingbaren Mitbestimmung) und nach den Sachgebieten (soziale, personelle und wirtschaftliche Angelegenheiten).
+
+### 1. Gesetzliche Grundlage und Struktur
+Das aktuelle Betriebsverfassungsgesetz stammt in seiner Fassung vom 25. September 2001 und wurde zuletzt durch Artikel 1 des Gesetzes vom 19. Juli 2024 geändert [RREF2]. Die Mitwirkungs- und Mitbestimmungsrechte sind hauptsächlich im **Vierten Teil (§§ 74 bis 113 BetrVG)** geregelt [RREF2].
+
+Die Einwirkungsmöglichkeiten des Betriebsrats sind unterschiedlich stark ausgeprägt. Sie reichen von:
+*   bloßen **Informationspflichten** des Arbeitgebers (§ 105 BetrVG),
+*   über **Beratungspflichten** (§ 92 BetrVG),
+*   zur Möglichkeit der **Zustimmungsverweigerung** (Widerspruch) bei personellen Einzelmaßnahmen (§ 99 BetrVG),
+*   bis hin zur echten **Mitbestimmung** (§ 87 BetrVG), bei der im Falle der Nichteinigung die Einigungsstelle entscheidet [RREF1].
+
+### 2. Soziale Angelegenheiten (§ 87 BetrVG)
+In sozialen Angelegenheiten besitzt der Betriebsrat das stärkste Recht, die **echte Mitbestimmung**. Kann keine Einigung mit dem Arbeitgeber erzielt werden, entscheidet die Einigungsstelle (§ 76 BetrVG) [RREF1].
+
+Zu den konkreten Mitbestimmungstatbeständen gehören unter anderem:
+*   **Ordnung des Betriebs und Verhalten:** Regelungen zum Ordnungsverhalten der Arbeitnehmer (§ 87 Abs. 1 Nr. 1 BetrVG) [RREF3].
+*   **Arbeitszeit:** Beginn, Ende und Verteilung der täglichen Arbeitszeit sowie Pausen [RREF1], [RREF4].
+*   **Technische Überwachung:** Einführung und Anwendung von technischen Einrichtungen, die zur Verhaltens- oder Leistungskontrolle bestimmt sind (§ 87 Abs. 1 Nr. 6 BetrVG) [RREF3].
+*   **Grundsätze der Gruppenarbeit:** Eingeführt durch die Reform 2001 (§ 87 Abs. 1 Nr. 13 BetrVG) [RREF1].
+*   **Mobile Arbeit:** Durch das Betriebsrätemodernisierungsgesetz 2021 wurde ein Mitbestimmungsrecht bei der Ausgestaltung mobiler Arbeit hinzugefügt (§ 87 Abs. 1 Nr. 14 BetrVG) [RREF1].
+
+### 3. Personelle Angelegenheiten (§§ 92 bis 105 BetrVG)
+Im personellen Bereich unterscheidet das Gesetz zwischen allgemeinen Angelegenheiten, Berufsbildung und Einzelmaßnahmen:
+
+*   **Personelle Einzelmaßnahmen (§ 99 BetrVG):** Bei Einstellungen, Eingruppierungen, Umgruppierungen, Versetzungen und Kündigungen hat der Betriebsrat ein **Zustimmungsverweigerungsrecht**. Verweigert er die Zustimmung aus bestimmten Gründen, muss der Arbeitgeber beim Arbeitsgericht die Zustimmung ersetzen lassen [RREF1].
+*   **Berufsbildung (§§ 96 bis 98 BetrVG):** Der Betriebsrat hat hier Mitbestimmungsrechte, beispielsweise ein Initiativrecht zur betrieblichen Berufsbildung (§ 97 BetrVG), welches 2001 erweitert wurde [RREF1].
+*   **Allgemeine personelle Angelegenheiten (§§ 92 bis 95 BetrVG):** Hier bestehen überwiegend Beratungs- und Informationsrechte (z. B. Personalplanung) [RREF1].
+
+### 4. Wirtschaftliche Angelegenheiten (§§ 106 bis 113 BetrVG)
+In wirtschaftlichen Angelegenheiten gibt es **keine echte Mitbestimmung** über die Unternehmensentscheidung selbst [RREF1]. Die Rechte beschränken sich auf:
+*   **Unterrichtung und Beratung:** Durch den Wirtschaftsausschuss (§ 106 BetrVG) [RREF1].
+*   **Betriebsänderungen (§ 111 BetrVG):** Bei wesentlichen Änderungen (z. B. Stilllegung, Verlegung) muss ein **Interessenausgleich** verhandelt werden. Für die nachteiligen Folgen für die Arbeitnehmer ist ein **Sozialplan** erzwingbar (§ 112 BetrVG) [RREF1].
+
+### 5. Freiwillige Betriebsvereinbarungen (§ 88 BetrVG)
+Über die gesetzlichen Mindeststandards hinaus können Arbeitgeber und Betriebsrat **freiwillige Betriebsvereinbarungen** schließen (§ 88 BetrVG) [RREF3].
+*   Diese unterliegen nicht dem erzwingbaren Einigungsstellenverfahren wie § 87 BetrVG [RREF3].
+*   In der Praxis werden hier oft Rechte erweitert, beispielsweise durch Listen zu Einstellungen, Arbeitszeitregelungen oder Sozialleistungen, wie sie in Mustervereinbarungen katalogisiert sein können [RREF4].
+*   Solche Vereinbarungen können im Ablauf vereinbart werden, unterliegen aber nicht automatisch der gesetzlichen Nachwirkung (§ 77 Abs. 6 BetrVG), es sei denn, dies wird vertraglich geregelt [RREF3].
+
+### 6. Aktuelle Entwicklungen und Änderungen
+Das Mitbestimmungsrecht unterliegt laufenden Reformen:
+*   **Betriebsrätemodernisierungsgesetz (2021):** Stärkung der Rechte u. a. durch Mitbestimmung bei mobiler Arbeit, Klarstellung bei Künstlicher Intelligenz (KI) und Erleichterung der Betriebsratswahl [RREF1].
+*   **Änderung 2024:** Das Zweite Gesetz zur Änderung des Betriebsverfassungsgesetz vom 19. Juli 2024 reagiert unter anderem auf Rechtsprechung zur Vergütung von Betriebsratsmitgliedern [RREF1], [RREF2].
+*   **Europäische Richtlinien:** Die Richtlinie 2002/14/EG sieht Mindeststandards für Information und Konsultation vor, wobei in Deutschland hierzu bislang keine spezifische Anpassungsinitiative ergriffen wurde [RREF1].
+
+Zusammenfassend sichert das BetrVG dem Betriebsrat je nach Thema unterschiedlich starke Rechte, wobei die stärkste Position die erzwingbare Mitbestimmung in sozialen Angelegenheiten (§ 87 BetrVG) und das Zustimmungsverweigerungsrecht bei personellen Einzelmaßnahmen (§ 99 BetrVG) darstellen [RREF1].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeits_und_Sozialordnung_2025.md (0.318)
+konnte. Damit erlangten die Betriebsräte z. B. durch die Mitbestimmung über die Verteilung von Arbeitsentgelt und -zeit erstmals einen echten Einfluss auf die Betriebsführung – der wesentliche Grund für ihre zunehmende Bedeutung im Wirtschaftsleben der Bundesrepublik Deutschland. Entgegen gewerkschaftlicher Vorstellungen wurden die Beschäftigten des öffentlichen Dienstes nicht erfasst. Für sie wurden Personalvertretungsgesetze des Bundes und der Länder geschaffen.Nach dem Wahlerfolg der SPD und FDP im Jahre 1969 kündigte die aus diesen beiden Parteien gebildete Koalition in ihrer Regierungserklärung vom 28. 10. 1969 eine Ausweitung der betrieblichen Mitbestimmung durch die Novellierung des Betriebsverfassungs- und Bundespersonalvertretungsgesetzes an. Nach heftigen politischen Auseinandersetzungen kam es Ende 1971 zur Verabschiedung des BetrVG 1972 (vgl. DKW-Deinert, Einl. Rn. 27 ff.). Dieses Gesetz kann durchaus als Produkt des „68er Geistes“ bezeichnet werden. Es war mehr als eine Reform des Gesetzes von 1952, nämlich ein wirklich neues Gesetz mit vielen Verbesserungen bei Organisations- und Mitbestimmungsrechten (eingehend Däubler/Kittner, Geschichte der Betriebsverfassung, S. 413 ff.).3.Weitere EntwicklungDas BetrVG ist seit 1972 häufig geändert worden. Die beiden umfangreichsten Änderungen, die zugleich die politische Grundausrichtung der jeweiligen Parlamentsmehrheit deutlich machten, erfolgten 1988 (a) und 2001 (b).a) Gesetz zur Änderung des Betriebsverfassungsgesetzes, über Sprecherausschüsse der leitenden Angestellten und zur Sicherung der Montanmitbestimmung vom 20. 12. 1988 (BGBl. I 2312)Nach mehrmaligen Anläufen und vielen Protesten der Gewerkschaften realisierte die Regierungskoalition aus CDU/CSU und FDP unter Kanzler Helmut Kohl ihre Pläne zur Änderung der Betriebsverfassung Ende 1988. Das BetrVG wurde insbesondere in folgender Hinsicht geändert:Verstärkter Minderheitenschutz bei der Betriebsratswahl und in der Betriebsratsarbeit (Freistellungen und Ausschussbesetzung nach Verhältniswahl);Verlängerung der Amtsperiode der Betriebsräte von 3 auf 4 Jahre;Begrenzung der Kosten für Einigungsstellenverfahren;Präzisierung der Informationspflichten des Arbeitgebers bei der Einführung neuer Technologien;Neuformulierung der Definition des „leitenden Angestellten“ (zur gleichzeitigen gesetzlichen Einführung von Sprecherausschüssen der leitenden Angestellten siehe Einl. zum SprAuG, Nr. 12 b).Diese Änderungen sind von den Gewerkschaften heftig bekämpft worden, weil unter dem Deckmantel des „Minderheitenschutzes“ erklärtermaßen die Möglichkeit einer geschlossenen Interessenvertretung innerhalb der Betriebsverfassung geschwächt werden sollte (vgl. insgesamt Apitzsch/Klebe/Schumann, Hrsg., BetrVG '90 – Der Konflikt um eine andere Betriebsverfassung, 1988; Schwerpunktheft „Die Novelle zum BetrVG“, Mitbestimmung 6/88). Die Arbeitgeber haben gleichfalls den Sinn der Reform bezweifelt (vgl. Weinrich, Der Arbeitgeber 89, 454; zur gerichtlichen Praxis aufgrund der Novellierung s. Kamphausen, NZA 91, 880).b) Betriebsverfassungs-Reformgesetz vom 23. 7. 2001 (BGBl. I 1852)Die zweite große Änderung hat das BetrVG durch die rot-grüne Regierungsmehrheit (Kanzler: Gerhard Schröder) im Jahre 2001 erfahren (zum Folgenden vgl. DKW-Däubler, Einl. Rn. 37 ff.).Ausgangspunkt war die Forderung der Gewerkschaften nach einem Ausbau der betrieblichen Mitbestimmung, die vom DGB am 3. 2. 1998 in „Novellierungsvorschlägen zum Betriebsverfassungsgesetz 1972“ konkretisiert und Anfang 1999 in einer „Bonner Erklärung für eine moderne Betriebsverfassung“ zusammengefasst worden war (Text der „Bonner Erklärung“ AiB 2000, 62; hierzu Benz-Overhage/Klebe, AiB 2000, 24; Schwerpunktheft „Reform der Betriebsverfassung“ GewMH 4/2001). Die Arbeitgeber lehnten demgegenüber jeden Ausbau der Mitbestimmung ab (Hundt, Arbeitgeber 11/00, 12). Nach knapp zweijähriger Vorbereitung legte das Bundesarbeitsministerium im Dezember 2000 einen Referentenentwurf vor (abgedruckt AiB 01, 87 mit Anm. Riester, AiB 01, 83; vgl. Däubler, AuR 01, 1; Leminsky, Mitbest. 1 – 2/01, 59; Blanke/Rose, Mitbest. 1 – 2/01, 63). Er wurde von Gewerkschaften (die mehr Mitbestimmung verlangten) und Arbeitgebern erwartungsgemäß kontrovers beurteilt (vgl. DGB, NZA 01, 135; für die Arbeitgeber Schiefer/Korte, NZA 01, 71). Unter Abschwächung einiger Vorschläge zum Ausbau der Mitbestimmung fand dieser Entwurf Eingang in den Regierungsentwurf des BetrVerfReformG (BT-Drs. 14/5741; hierzu Engels u. a., DB 01, 352; Buchner, NZA 01, 633; Hanau, RdA 01, 65; Konzen, RdA 01, 76; Richardi/Annuß, DB 01, 41; Schwerpunktheft NZA 7/2001), der schließlich im Wesentlichen unverändert verabschiedet wurde (synoptische Darstellung im Verhältnis zum alten Recht bei Reichold, NZA 16/01, Sonderbeilage „Das Betriebsverfassungs-Reformgesetz“; zum Gesetz vgl. Däubler, AuR 01, 285; Hanau, NJW 01, 2513; Löwisch, BB 01, 1734 und 1790; Nielebock, AiB 01, 441; Schaub, ZTR 01, 437).Die wesentlichen Änderungen des BetrVG durch das BetrVerfReformG betrafen organisatorische Fragen und dabei folgende Punkte:verkürztes („vereinfachtes“) Wahlverfahren für Kleinbetriebe;Abschaffung der Unterscheidung zwischen Arbeitern und Angestellten (= Aufhebung des Gruppenprinzips);Zwang zur repräsentativen Vertretung der Geschlechter im Betriebsrat (§ 15 Abs. 2 BetrVG);erweiterte Freistellung von Betriebsratsmitgliedern;Möglichkeit der Delegation von Betriebsratsaufgaben auf Arbeitsgruppen (§ 28 a BetrVG);Erstreckung der Zuständigkeit von Gesamt- und Konzernbetriebsrat auf Einheiten ohne Betriebsrat;ausdrückliche Verankerung eines Übergangs- und Restmandats (§§ 21 a und b BetrVG);ausdrückliche Anerkennung des Gemeinschaftsbetriebs (§ 1 Abs. 2 BetrVG);tarifliche Festlegung der betrieblichen Einheit (§ 3 BetrVG).Mitbestimmungsrechte wurden dagegen nur unwesentlich erweitert:Abstellen der Mindestarbeitnehmerzahl bei §§ 99 und 111 BetrVG auf das Unternehmen statt wie früher auf den Betrieb;Grundsätze der Durchführung von Gruppenarbeit (§ 87 Abs. 1 Nr. 13 BetrVG);Initiativrecht zur betrieblichen Berufsbildung (§ 97 BetrVG).c) Die europäische Richtlinie 2002/14/EG zur Unterrichtung und Anhörung der Arbeitnehmer (EU-ASO Nr. 71) sieht Mindeststandards für Information und Konsultation der Arbeitnehmer hinsichtlich bestimmter betrieblicher Zusammenhänge vor. In Deutschland wurde dadurch eine Erweiterung der Informationsrechte des Betriebsrats in wirtschaftlichen Angelegenheiten als Anpassungsmaßnahme nötig (Reichold, NZA 03, 289). Jedoch wurde dazu bislang keine Initiative ergriffen (zu einer Bilanz nach mehr als 20 Jahren Klocke, AuR 24, 95).d) Nach einer Reihe weiterer kleinerer Änderungen (vgl. 48. Aufl.) gab es in der letzten Großen Koalition unter Kanzlerin Angela Merkel (2018–2021) ein erneutes Reformvorhaben: Das Betriebsrätemodernisierungsgesetz (v. 14. 6. 2021, BGBl. I 1762; dazu Möllenkamp, DB 21, 1198; Schiefer/Worzalla, NZA 21, 817; Reinartz, NZA-RR 21, 457; Wandscher, AuR 21, 446; Entwurf: BT-Drs. 19/28899; Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales: BT-Drs. 19/29819) zielte auf eine Verbesserung der Möglichkeiten, Betriebsräte zu wählen und auf eine Stärkung der Rechte von Betriebsräten und von Initiatoren für Betriebsratswahlen. Mit ihm ist eine ganze Reihe von Änderungen verbunden:Anhebung der Schwellenwerte für das obligatorische und das fakultative vereinfachte Wahlverfahren auf 100 bzw. 200 Arbeitnehmer,Verzicht auf Stützunterschriften für Wahlvorschläge in Betrieben mit bis zu 20 wahlberechtigten Arbeitnehmern und Reduzierung der Zahl der Stützunterschriften in Betrieben bis 100 Arbeitnehmer auf zwei,Einschränkung des Anfechtungsrechts zur Stärkung der Rechtssicherheit,Herabsetzung des Wahlalters auf 16 Jahre,Streichung der Altersgrenze bei der Jugend- und Auszubildendenvertretung,Initiativrecht des Betriebsrats in Fragen der Berufsbildung mit der Möglichkeit einer Vermittlung durch die Einigungsstelle ohne Einigungszwang (§ 96 Abs. 1 a BetrVG),Bereitstellung von Sachverständigen für Fragen Künstlicher Intelligenz (§ 80 Abs. 3 S. 2 BetrVG),Klarstellung, dass das Unterrichtungs- und Beratungsrecht bei der Planung von Arbeitsverfahren und -abläufen auch den Einsatz Künstlicher Intelligenz betrifft,Klarstellung, dass die Rechte des Betriebsrats bei der Personalauswahl nicht durch den Einsatz Künstlicher Intelligenz infrage gestellt werden (vgl. insg. Frank/Heine, NZA 21, 1448),Mitbestimmungsrecht bei der Ausgestaltung mobiler Arbeit (§ 87 Abs. 1 Nr. 14 BetrVG; dazu Bayreuther, NZA 21, 839; Eylert, AuR 22, 292),Ermöglichung der Teilnahme an Betriebsratssitzungen per Video- oder Telefonkonferenz (§ 30 Abs. 2 S. 3 BetrVG),Zulassung der elektronischen Form für Einigungsstellensprüche, Betriebsvereinbarungen, Interessenausgleiche und Sozialpläne,Klarstellung, dass der Betriebsrat Teil der datenschutzrechtlich verantwortlichen Stelle Arbeitsgeber ist (§ 79 a BetrVG; dazu Brink/Joos, NZA 21, 1440),Ausweitung des Sonderkündigungsschutzes für Wahlinitiatoren nach § 15 Abs. 3 a KSchG auf 6 Personen, allerdings ohne Erfordernis der Zustimmung des Betriebsrats zur außerordentlichen Kündigung nach § 103 BetrVG undSonderkündigungsschutz für sog. Vorfeldinitiatoren, die Vorbereitungshandlungen zur Initiation einer Betriebsratswahl ergreifen (§ 15 Abs. 3 b KSchG), allerdings mit Möglichkeit der außerordentlichen Kündigung ohne Zustimmung des Betriebsrats oder des Arbeitsgerichts.Im Nachgang dazu wurde die Wahlordnung (Nr. 12a) angepasst (VO v. 8. 10. 2021, BGBl. I 4640; dazu Boemke/Haase, NZA 21, 1513; Carlson/Kummert, AuR 22, 100).e) Es folgten im Anschluss noch ein paar kleinere Änderungen des Gesetzes (vgl. 48. Aufl.).f) Im Nachgang zu einer Entscheidung des BGH, wonach Unternehmensverantwortliche sich wegen Untreue strafbar machen können, wenn sie zu hohe Vergütungen für Betriebsratsmitglieder ermöglichen (10. 1. 2023 – 6 StR 132/22, NZA 23, 301; vgl. 49. Aufl., Einl. III 1 zu Nr. 12), wurde nach Vorarbeiten einer Kommission „Rechtssicherheit in der Betriebsratsvergütung“ dazu am 12. 7. 2023 (Schlegel/Schmidt/Thüsing, NZA 23, 103) das Zweite Gesetz zur Änderung des Betriebsverfassungsgesetzes erlassen (v. 19. 7. 2024, BGBl. I Nr. 24; dazu u. III 1; ferner Buschmann, AuR 24, 373; Bayreuther, NZA 24, 946; Dzida/Castrup, BB 24, 1844; Giesen, NJW 24, 2281; Arnold, BB 24, 1973; Grimm/Krülls, BB 24, 1780; Jungbauer, ZFA 24, 534; Kleinebrink, DB 24, 1883).g) Zum Vorhaben einer Fortsetzung der durch das Betriebsrätemodernisierungsgesetz begonnenen Reformen und insb. zum DGB-Entwurf für ein modernes Betriebsverfassungsgesetz s. u. IV.II.Wesentlicher Gesetzesinhalt1.Errichtung von Betriebsräten und andere Gremien in der BetriebsverfassungDas BetrVG ermöglicht die Errichtung von Betriebsräten zur Interessenvertretung der Arbeitnehmer in Betrieben mit mindestens fünf ständigen wahlberechtigten Arbeitnehmern (§ 1 Abs. 1 BetrVG; Übersicht 30). Wer Arbeitnehmer i. S. des § 5 BetrVG ist, richtet sich nach dem allgemeinen arbeitsrechtlichen Arbeitnehmerbegriff gemäß § 611 a Abs. 1 BGB (Checkliste 5); hinzukommen muss die Zugehörigkeit zum jeweiligen Betrieb. Diese sog. Zwei-Komponenten-Lehre (Vertrag zum Betriebsinhaber und Eingliederung in den Betrieb) greift aber nicht bei drittbezogenem Personaleinsatz, wie etwa bei der Leiharbeit. Hier kommt es vielmehr auf den Zweck der jeweiligen Norm an, ob ein Arbeitnehmer ohne Vertrag zum Betriebsinhaber betriebsverfassungsrechtlich gleichwohl als Arbeitnehmer des Betriebes angesehen werden kann (BAG 5. 12. 2012 – 7 ABR 48/11, NZA 13, 793, Rn. 259). Für Leiharbeitnehmer ist dies heute in § 14 Abs. 2 S. 3 AÜG (vgl. Einl. II 4 zum AÜG) geregelt. Nicht erfasst werden „leitende Angestellte“ (§ 5 Abs. 3 BetrVG). Für sie gibt es mit dem Sprecherausschuss eine eigene Interessenvertretung (vgl. SprAuG, Nr. 12 b).Neben dem Betriebsrat haben Jugendliche und Auszubildende sowie schwerbehinderte Menschen eigene Interessenvertretungen (§§ 60 ff. BetrVG und §§ 94 ff. SGB IX), die mit dem Betriebsrat zusammenarbeiten. Mit dem 2001 eingeführten § 15 Abs. 2 BetrVG wird eine repräsentative Vertretung der Geschlechter im Betriebsrat angeordnet. Hinsichtlich anderer Beschäftigtengruppen macht das BetrVG keine bindenden Vorgaben (§ 15 Abs. 1 BetrVG).In Unternehmen und Konzernen mit mehreren Betrieben kann die betriebsverfassungsrechtliche Struktur durch Tarifvertrag festgelegt werden (§ 3 BetrVG). Betriebsräte werden alle vier Jahre gewählt (vgl. § 13 BetrVG; zur Wahlordnung s. Nr. 12 a). Für Kleinbetriebe gibt es gemäß § 14 a BetrVG ein vereinfachtes Wahlverfahren (vgl. Berg, AiB 02, 17; Franke, DB 02, 211). In Unternehmen mit mehreren Betrieben sind zwingend Gesamtbetriebsräte zu bilden (§ 47 BetrVG). Ein Konzernbetriebsrat wird dagegen nur errichtet, wenn Gesamtbetriebsräte, die mehr als die Hälfte aller Arbeitnehmer im Konzern repräsentieren, dies beschließen (§ 54 BetrVG; zum Konzernbegriff s. § 18 AktG). Die unmittelbare Einbeziehung der Arbeitnehmer erfolgt durch die Betriebsversammlung (§ 42 BetrVG) bzw. Jugend- und Auszubildendenversammlung (§ 71 BetrVG). Schließlich wird der Wirtschaftsausschuss als Informations- und Beratungsgremium auf Unternehmensebene gebildet (§ 106 BetrVG).Für Religionsgemeinschaften gilt das BetrVG insgesamt nicht (§ 118 Abs. 2 BetrVG). Für deren Bereich werden aufgrund innerkirchlichen Rechts sog. Mitarbeitervertretungen gebildet.2.Mitwirkung des BetriebsratsDie Einwirkungsmöglichkeiten des Betriebsrates auf die Entscheidungen des Arbeitgebers sind unterschiedlich stark: Sie reichen von der bloßen Informationspflicht des Arbeitgebers (§ 105 BetrVG) über Beratungspflichten (§ 92 BetrVG) zur Möglichkeit, unter bestimmten Voraussetzungen die Zustimmung zu verweigern, der Sache nach also Widerspruch einzulegen (§ 99 BetrVG), bis hin zu Fällen der Mitbestimmung (§ 87 BetrVG), bei denen im Falle der Nichteinigung die Einigungsstelle (§ 76 BetrVG) entscheidet (Übersicht 31). Der Betriebsrat hat zwar ein allgemeines Überwachungsrecht gemäß § 80 Abs. 1 BetrVG, jedoch verneint das BAG einen daraus folgenden Rechtsanspruch gegen den Arbeitgeber auf Durchführung von Gesetzen und Tarifverträgen (BAG 17. 10. 1989 – 1 ABR 75/88, NZA 90, 441; hierzu Nebendahl, DB 91, 2018) bzw. auf Unterlassung einer Verletzung entsprechender Bestimmungen (BAG 22. 8. 2017 – 1 ABR 24/16, NZA 18, 115). Keine Mitbestimmung gibt es in wirtschaftlichen Angelegenheiten (§ 111 BetrVG). Dort ist lediglich über einen Interessenausgleich zu verhandeln und für nachteilige Folgen einer Unternehmensentscheidung ein Sozialplan erzwingbar (§ 112 BetrVG). Bei personellen Einzelmaßnahmen kann der Betriebsrat beim Vorliegen bestimmter Voraussetzungen die Zustimmung mit der Folge verweigern, dass der Arbeitgeber sich an das Arbeitsgericht wenden muss, um die Zustimmung des Betriebsrates ersetzen zu lassen (§ 99 BetrVG). Hat der Arbeitgeber eine notwendige Beteiligung nach § 99 BetrVG unterlassen, kann er eine ordnungsgemäße Betei
+
+[RREF2] BetrVG.pdf p.1,y:921 (0.338)
+[Page 1]: #
+
+[Y 921]: #
+## Betriebsverfassungsgesetz
+BetrVG
+Ausfertigungsdatum: 15.01.1972
+Vollzitat:
+"Betriebsverfassungsgesetz in der Fassung der Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518), das zuletzt durch Artikel 1 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 248) geändert worden ist"
+
+[Y 757]: #
+Stand:
+Neugefasst durch Bek. v. 25.9.2001 I 2518
+Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 248
+§ 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder Betriebsteilen (ABl. EG Nr. L 82 S. 16). § 75 idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient teilweise der Umsetzung der Richtlinie 2000/78/ EG des Rates vom 27. November 2000 zur Festlegung eines allgemeinen Rahmens für die Verwirklichung der Gleichbehandlung in Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
+## Fußnote
+
+[Y 577]: #
+(+++ Textnachweis Geltung ab: 1.1.1975 +++) (+++ Maßgaben aufgrund EinigVtr vgl. BetrVG Anhang EV; nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. hh G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+(+++ Amtliche Hinweise des Normgebers auf EG-Recht:
+Umsetzung der
+EGRL 23/2001  (CELEX Nr: 301L0023)
+EGRL 78/2000  (CELEX Nr: 300L0078) vgl. G v. 23.7.2001 I 1852 +++)
+## Inhaltsübersicht
+
+[Y 410]: #
+Erster Teil
+Allgemeine Vorschriften
+§§ 1 bis 6
+Zweiter Teil
+Betriebsrat,
+Betriebsversammlung,
+Gesamt- und
+Konzernbetriebsrat
+§§ 7 bis 59a
+Erster Abschnitt
+Zusammensetzung und Wahl des Betriebsrats
+§§ 7 bis 20
+Zweiter Abschnitt
+Amtszeit des Betriebsrats
+§§ 21 bis 25
+
+[Y 251]: #
+Dritter Abschnitt
+Geschäftsführung des Betriebsrats
+§§ 26 bis 41
+Vierter Abschnitt
+Betriebsversammlung
+§§ 42 bis 46
+Fünfter Abschnitt
+Gesamtbetriebsrat
+§§ 47 bis 53
+Sechster Abschnitt
+Konzernbetriebsrat
+§§ 54 bis 59a
+Dritter Teil
+Jugend- und Auszubildendenvertretung
+§§ 60 bis 73b
+
+[Y 99]: #
+Erster Abschnitt
+Betriebliche Jugend- und Auszubildendenvertretung
+§§ 60 bis 71
+
+[Page 2]: #
+
+[Y 921]: #
+|                                     | Zweiter Abschnitt      | Gesamt-Jugend- und Auszubildendenvertretung                    | §§ 72 bis 73         |
+|-------------------------------------|------------------------|----------------------------------------------------------------|----------------------|
+| Vierter Teil                        |                        | Mitwirkung und Mitbestimmung der Arbeitnehmer                  | §§ 74 bis 113        |
+|                                     | Erster Abschnitt       | Allgemeines                                                    | §§ 74 bis 80         |
+|                                     | Zweiter Abschnitt      | Mitwirkungs- und Beschwerderecht des Arbeitnehmers             | §§ 81 bis 86a        |
+|                                     | Dritter Abschnitt      | Soziale Angelegenheiten                                        | §§ 87 bis 89         |
+|                                     | Vierter Abschnitt      | Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung | §§ 90 bis 91         |
+|                                     | Fünfter Abschnitt      | Personelle Angelegenheiten                                     | §§ 92 bis 105        |
+|                                     | Erster Unterabschnitt  | Allgemeine personelle Angelegenheiten                          | §§ 92 bis 95         |
+|                                     | Zweiter Unterabschnitt | Berufsbildung                                                  | §§ 96 bis 98         |
+|                                     | Dritter Unterabschnitt | Personelle Einzelmaßnahmen                                     | §§ 99 bis 105        |
+|                                     | Sechster Abschnitt     | Wirtschaftliche Angelegenheiten                                | §§ 106 bis 113       |
+|                                     | Erster Unterabschnitt  | Unterrichtung in                                               | §§ 106 bis 110       |
+|                                     | Zweiter Unterabschnitt | wirtschaftlichen Angelegenheiten Betriebsänderungen            | §§ 111 bis 113       |
+| Fünfter Teil                        |                        | Besondere Vorschriften für einzelne Betriebsarten              | §§ 114 bis 118       |
+|                                     | Erster Abschnitt       |                                                                |                      |
+|                                     | Zweiter Abschnitt      | Seeschifffahrt Luftfahrt                                       | §§ 114 bis 116 § 117 |
+| Sechster Teil                       |                        |                                                                |                      |
+|                                     |                        | Straf- und Bußgeldvorschriften                                 | §§ 119 bis 121       |
+| Siebenter Teil                      |                        | Änderung von Gesetzen                                          | §§ 122 bis 124       |
+| Achter Teil                         |                        | Übergangs- und Schlussvorschriften                             | §§ 125 bis 132       |
+| Erster Teil Allgemeine Vorschriften |                        |                                                                |                      |
+
+[Y 99]: #
+§ 1 Errichtung von Betriebsräten
+
+[Page 3]: #
+
+[Y 915]: #
+- (1) In Betrieben mit in der Regel mindestens fünf ständigen wahlberechtigten Arbeitnehmern, von denen drei wählbar sind, werden Betriebsräte gewählt. Dies gilt auch für gemeinsame Betriebe mehrerer Unternehmen.
+- (2) Ein gemeinsamer Betrieb mehrerer Unternehmen wird vermutet, wenn
+- 1. zur Verfolgung arbeitstechnischer Zwecke die Betriebsmittel sowie die Arbeitnehmer von den Unternehmen gemeinsam eingesetzt werden oder
+- 2. die Spaltung eines Unternehmens zur Folge hat, dass von einem Betrieb ein oder mehrere Betriebsteile einem an der Spaltung beteiligten anderen Unternehmen zugeordnet werden, ohne dass sich dabei die Organisation des betroffenen Betriebs wesentlich ändert.
+
+[Y 759]: #
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.349)
+#### B. Rechtliche Würdigung
+
+#### I. Verfügungsanspruch
+
+Die Antragsgegnerin hat mit der Einführung des elektronischen Zugangskontrollsystems {{PLACEHOLDER}} das Mitbestimmungsrecht des Antragstellers gem. § 87 Abs. 1 Nrn. 1 und 6 BetrVG verletzt.
+
+Mit dem System wird das Ordnungsverhalten der Arbeitsnehmer im Betrieb geregelt. Weiterhin ermöglicht es eine Verhaltens- und Leistungskontrolle, da die Zugangsdaten elektronisch gespeichert werden und ausgewertet werden können.
+
+#### II. Verfügungsgrund
+
+Die Rechte des Antragsstellers aus § 87 Abs. 1 Nr. 1, 6 BetrVG erfordern die Beseitigung des von der Antragsgegnerin verursachten mitbestimmungswidrigen Zustands. Dieser Beseitigungsanspruch allein sichert die Mitbestimmungsrechte des Antragstellers (vgl. BAG v. 16. 6. 1998, NZA 1999, 49 f.).
+
+{{Unterschrift}}
+
+
+## § 88 Freiwillige Betriebsvereinbarungen
+
+### Regelungsinhalt, Zustandekommen, Rechtswirkungen und Ablauf freiwilliger Betriebsvereinbarungen
+
+<!-- sem-asset-id: regelungsinhalt_zustandekommen_rechtswirkungen_und_ablauf_freiwilliger_betriebsvereinbarungen -->
+
+_Authors: Peter Berg_
+
+- § 88 BetrVG enthält keinen abschließenden Katalog zulässiger Regelungsinhalte für freiwillige Betriebsvereinbarungen (im Unterschied zu den Fällen der erzwingbaren Mitbestimmung gem. § 87 BetrVG). § 88 BetrVG begründet daher eine umfassende funktionelle Zuständigkeit der Betriebsparteien zur Regelung sozialer Angelegenheiten durch Betriebsvereinbarung.
+- Die umfassende funktionelle Regelungszuständigkeit der Betriebsparteien gem. § 88 BetrVG ist durch den Tarifvorrang gem. § 77 Abs. 3 BetrVG beschränkt und an höherrangiges Recht gebunden.
+- Für freiwillige Betriebsvereinbarungen gelten die allgemeinen Vorschriften über den Abschluss, die Rechtswirkungen und die Kündigung von Betriebsvereinbarungen (vgl. § 77 Abs. 2, 4 und 5 BetrVG).
+- Freiwillige Betriebsvereinbarungen unterliegen im Fall ihres Ablaufs nicht automatisch der Nachwirkung (§ 77 Abs. 6 BetrVG; zur Nachwirkung von Betriebsvereinbarungen mit freiwilligen und erzwingbaren Regelungsgegenständen vgl. DKW-*Berg*, § 77 Rn. 120). Die Nachwirkung kann für freiwillige Betriebsvereinbarungen aber in der Betriebsvereinbarung selbst in Abweichung vom gesetzlichen Regelfall des § 77 Abs. 6 BetrVG vereinbart werden (siehe Mustervereinbarung Rn. 2).
+- Freiwillige Betriebsvereinbarungen können nicht durch einseitigen Antrag von Betriebsrat oder Arbeitgeber im erzwingbaren Einigungsstellenverfahren durchgesetzt werden (zum freiwilligen Einigungsstellenverfahren gem. § 76 Abs. 6 BetrVG vgl. DKW-*Berg*, § 76 Rn. 10 ff.).
+
+> #### **Hinweis:**
+>
+> Zu den weiteren Einzelheiten vgl. DKW-*Berg*, § 88 Rn. 1 ff.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.349)
+#### § 1: Gleichberechtigte Mitbestimmung des Betriebsrats
+
+Der Betriebsrat hat in folgenden Angelegenheiten, bezogen auf die Gesamtheit und einzelne Gruppen der Mitarbeiterschaft sowie auf einzelne Mitarbeiter, gleichberechtigt mitzubestimmen:
+
+1. Einstellungen einschließlich Auswahl der Bewerber;
+2. Eingruppierungen;
+3. Übertragung höherwertiger Tätigkeiten;
+4. Umgruppierungen;
+5. Versetzungen;
+6. Kündigungen;
+7. Dauer, Beginn und Ende der täglichen Arbeitszeit, einschließlich der Pausen, soweit Arbeitszeit-Sonderregelungen tarifvertraglich zulässig sind;
+8. Festsetzung von Kurz- und Mehrarbeit;
+9. Festsetzung der Urlauberquoten;
+10. Aufstellung von Entlohnungsgrundsätzen, Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung;
+11. Planung und Durchführung der Ausbildung, Fortbildung und Umschulung;
+12. Grundsätzliche Maßnahmen der Organisation, soweit dadurch die Arbeit oder die Leistung der Mitarbeiter beeinflusst wird; hierzu gehören auch geplante Betriebsänderungen;
+13. Maßnahmen zur Ordnung des Betriebs und des Verhaltens der Mitarbeiter im Betrieb, auch wenn diese arbeitstechnologisch bedingt sind;
+14. Form, Ausgestaltung und Verwaltung bestehender oder vom Vorstand zu errichtender Sozialeinrichtungen;
+15. Zuweisung und Kündigung von Wohnungen, die von der {{Firmenbezeichnung}} nur mit Rücksicht auf das Bestehen eines Arbeitsverhältnisses vermietet werden und Festsetzung der Nutzungsbedingungen;
+16. Schadensersatzansprüche und Rückgewähransprüche der {{Firmenbezeichnung}} gegen Mitarbeiter.
+
+> #### **Hinweis:**
+>
+> Die Erweiterung der Mitbestimmung in personellen Angelegenheiten (Nr. 1 - 6) ist ebenso wie die Erweiterung der Mitbestimmung in sozialen Angelegenheiten (Nr. 7 - 11) unproblematisch zulässig. Nr. 12 unterwirft auch geplante Betriebsänderungen der Mitbestimmung, was auf eine Erzwingbarkeit des Interessenausgleichs hinausläuft. Nr. 13 - 16 betrifft wiederum Fragen, die zu den sozialen Angelegenheiten gehören.
+
+#### § 2: Information des Betriebsrats
+
+Der Betriebsrat hat Anspruch auf die zur Erfüllung seiner Aufgaben erforderliche, d. h. rechtzeitige und ausreichende Information durch den Vorstand bzw. die von diesem Beauftragten. Hierzu gehört auch die Information in allen gravierenden und für die Zukunft der {{Firmenbezeichnung}} bedeutsamen wirtschaftlichen Angelegenheiten.
+
+> #### **Hinweis:**
+>
+> Die Vorschrift hat im Grunde nur deklaratorische Bedeutung, da sich Entsprechendes an sich schon aus § 80 Abs. 2 Satz 1 BetrVG ergibt. Bei den wirtschaftlichen Angelegenheiten wäre allerdings der Wirtschaftsausschuss, nicht der Betriebsrat zuständig.
+
+
+
+---
+
+## Q-P1-CZ-03  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Gesetzestexte sind für einen Betriebsrat / Personalrat wichtig?
+
+### REFERENZ
+- BetrVG/BPersVG/NPersVG
+- Tarifverträge
+- idealerweise Rückfrage bei Personalrat, welches Bundesland
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lassen sich die für einen Betriebsrat (und in Teilen vergleichbare Gremien) wichtigen Gesetzestexte wie folgt kategorisieren. Bitte beachten Sie, dass die bereitgestellten Referenzen sich schwerpunktmäßig auf das **Betriebsverfassungsgesetz (BetrVG)** und den privaten Sektor (Betriebsrat) konzentrieren. Spezifische Gesetze für den Personalrat (öffentlicher Dienst) sind in den vorliegenden Auszügen nicht explizit enthalten.
+
+### 1. Das zentrale Gesetz: Betriebsverfassungsgesetz (BetrVG)
+Das BetrVG ist die grundlegende Rechtsquelle für die Arbeit des Betriebsrats. Es regelt Zusammensetzung, Wahl, Aufgaben und Mitbestimmungsrechte.
+*   **Relevanz:** Es definiert die allgemeinen Aufgaben (§ 80), Geheimhaltungspflichten (§ 79), Datenschutz (§ 79a) sowie Mitwirkungs- und Mitbestimmungsrechte (§§ 81 ff.) [RREF1], [RREF4], [RREF5].
+*   **Aktualität:** Das Gesetz wird regelmäßig novelliert (z. B. zuletzt durch Artikel 1 des Gesetzes vom 19. Juli 2024) [RREF4].
+
+### 2. Zu überwachende Rechtsnormen (§ 80 Abs. 1 Nr. 1 BetrVG)
+Gemäß § 80 Abs. 1 Nr. 1 BetrVG hat der Betriebsrat darüber zu wachen, dass folgende zugunsten der Arbeitnehmer geltenden Texte durchgeführt werden [RREF1], [RREF5]:
+*   **Gesetze** (allgemeine arbeitsrechtliche Vorschriften)
+*   **Verordnungen**
+*   **Unfallverhütungsvorschriften**
+*   **Tarifverträge**
+*   **Betriebsvereinbarungen**
+
+### 3. Spezifische Gesetze in der praktischen Anwendung
+In den vorliegenden Arbeitshilfen und Gesetzestexten werden folgende spezifische Gesetze als relevant für die tägliche Arbeit genannt:
+
+*   **Sozialgesetzbuch Neuntes Buch (SGB IX):**
+    *   Relevant für die Förderung der Eingliederung schwerbehinderter Menschen und den Abschluss von Inklusionsvereinbarungen (§ 166 SGB IX) [RREF1], [RREF5].
+*   **Nachweisgesetz:**
+    *   Wichtig für die Überprüfung, ob jedem Beschäftigten (inkl. geringfügig Beschäftigter) die wesentlichen Arbeitsbedingungen schriftlich niedergelegt wurden [RREF3].
+*   **Bürgerliches Gesetzbuch (BGB):**
+    *   Insbesondere §§ 305 ff. BGB sind relevant, um zu prüfen, ob vorformulierte Arbeitsverträge den Anforderungen an Allgemeine Geschäftsbedingungen genügen und keine unangemessene Benachteiligung enthalten [RREF3].
+*   **Arbeitsschutzgesetz (ArbSchG):**
+    *   Relevant für die Belehrung über Unfall- und Gesundheitsgefahren (§ 10 Abs. 2 ArbSchG) [RREF5].
+*   **Bundesdatenschutzgesetz (BDSG):**
+    *   Relevant für die Verarbeitung personenbezogener Daten durch den Betriebsrat und die Verschwiegenheitspflicht des Datenschutzbeauftragten (§ 6 Abs. 5 Satz 2, § 38 Abs. 2 BDSG) [RREF5].
+
+### 4. Hilfsmittel zur Interpretation (Fachliteratur)
+Da Gesetzestexte oft der Auslegung bedürfen, wird in den vorliegenden Dokumenten die Anschaffung folgender Kommentare und Zeitschriften als unumgänglich für eine qualifizierte Arbeit angesehen [RREF2]:
+*   **Kommentare zum BetrVG:**
+    *   Klebe u. a., Betriebsverfassungsgesetz, Basiskommentar
+    *   Däubler/Kittner/Klebe/Wedde
+    *   „Fitting"
+*   **Arbeitsrechtliche Textsammlungen:**
+    *   Kittner, Arbeits- und Sozialrecht
+*   **Fachzeitschriften:**
+    *   „Arbeitsrecht im Betrieb"
+    *   „Neue Zeitschrift für Arbeitsrecht"
+
+### Zusammenfassung
+Für die Arbeit des Betriebsrats ist das **BetrVG** die primäre Grundlage. Darauf aufbauend müssen Kenntnisse in allgemeinen arbeitsrechtlichen Gesetzen (**BGB**, **Nachweisgesetz**), dem Sozialrecht (**SGB IX**) sowie dem Datenschutz (**BDSG**) und Arbeitsschutz (**ArbSchG**) vorhanden sein, um die Überwachungsaufgaben gemäß § 80 BetrVG wahrnehmen zu können [RREF1], [RREF3], [RREF5]. Zur sicheren Anwendung werden aktuelle Kommentare und Zeitschriften empfohlen [RREF2].].
+-----------------------------------------
+References:
+
+[RREF1] BetrVG.pdf p.27,y:490 (0.435)
+## § 80 Allgemeine Aufgaben
+- (1) Der Betriebsrat hat folgende allgemeine Aufgaben:
+- 1. darüber zu wachen, dass die zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen durchgeführt werden;
+- 2. Maßnahmen, die dem Betrieb und der Belegschaft dienen, beim Arbeitgeber zu beantragen;
+- 2a. die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg, zu fördern;
+- 2b. die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;
+- 3. Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;
+- 4. die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;
+- 5. die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;
+- 6. die Beschäftigung älterer Arbeitnehmer im Betrieb zu fördern;
+- 7. die Integration ausländischer Arbeitnehmer im Betrieb und das Verständnis zwischen ihnen und den deutschen Arbeitnehmern zu fördern, sowie Maßnahmen zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb zu beantragen;
+- 8. die Beschäftigung im Betrieb zu fördern und zu sichern;
+- 9. Maßnahmen des Arbeitsschutzes und des betrieblichen Umweltschutzes zu fördern.
+
+[Page 28]: #
+- (2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.
+- (3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Muss der Betriebsrat zur Durchführung seiner Aufgaben die Einführung oder Anwendung von Künstlicher Intelligenz beurteilen, gilt insoweit die Hinzuziehung eines Sachverständigen als erforderlich. Gleiches gilt, wenn sich Arbeitgeber und Betriebsrat auf einen ständigen Sachverständigen in Angelegenheiten nach Satz 2 einigen.
+- (4) Für die Geheimhaltungspflicht der Auskunftspersonen und der Sachverständigen gilt § 79 entsprechend.
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.446)
+### Betriebsrat: Anschaffung von Fachliteratur
+
+<!-- sem-asset-id: betriebsrat_anschaffung_von_fachliteratur -->
+
+_Authors: Peter Wedde_
+
+Der Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+im Hause
+
+**Anschaffung von Fachliteratur**
+
+Sehr geehrte Damen und Herren,
+
+der Betriebsrat hat auf seiner Sitzung am {{Datum}} beschlossen, dass die Anschaffung von Fachliteratur für seine Arbeit unumgänglich ist. Eine entsprechende Liste, die Gegenstand des Beschlusses war, füge ich als Anlage bei.
+
+Der Grund für diesen Anschaffungsbeschluss ist die derzeit bestehende Ausstattungssituation: Dem Betriebsrat stehen nur zwei ältere Kommentare zum BetrVG sowie eine ebenfalls schon mehr als zwei Jahre alte Gesetzessammlung zur Verfügung. Daneben nutzen einzelne Mitglieder privat angeschaffte Texte. Die darüber hinaus mögliche Mitbenutzung von Literatur, die in der Rechtsabteilung zur Verfügung steht, hat sich als nicht praktikabel erwiesen, da es sich dort um eine Präsenzbibliothek handelt. Zudem werden gerade die einschlägigen Standardkommentare dort intensiv benötigt.
+
+In der praktischen Arbeit hat sich gezeigt, dass die Ausstattung der einzelnen Betriebsratsmitglieder mit je einer arbeitsrechtlichen Textsammlung (Kittner, Arbeits- und Sozialrecht) sowie mit einem betriebsverfassungsrechtlichen Basiskommentar (Klebe u. a., Betriebsverfassungsgesetz, Basiskommentar) unumgänglich ist. Hier ist ein jeweils aktueller Stand aus unserer Sicht erforderlich, um anfallende Fragen in der täglichen Arbeit qualifiziert beantworten zu können.
+
+Darüber hinaus benötigt das Gremium aktuelle Standardkommentare zu den wichtigsten Arbeitsbereichen wie insbesondere dem BetrVG. Um eine differenzierte Bewertung von Rechtsfragen zu ermöglichen, halten wir insbesondere die Anschaffung von zwei Standardkommentaren (Däubler/Kittner/Klebe/Wedde und „Fitting“) für erforderlich. Schließlich ist aus unserer Sicht zur aktuellen Information über die Rechtsprechung der regelmäßige Bezug der Fachzeitschriften „Arbeitsrecht im Betrieb“ sowie „Neue Zeitschrift für Arbeitsrecht“ unumgänglich.
+
+Wir möchten Sie bitten, eine entsprechende Bestellung so bald wie möglich zu veranlassen.
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.449)
+### Betriebsrat: Gesuch auf Vorlage von Arbeitsverträgen
+
+<!-- sem-asset-id: betriebsrat_gesuch_auf_vorlage_von_arbeitsvertraegen -->
+
+_Authors: Rudolf Buschmann_
+
+Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzende:r {{Name}}
+
+
+
+im Hause
+
+**Einhaltung des Nachweisgesetzes und des BGB**
+
+**Hier: Vorlage der Einzelverträge**
+
+Sehr geehrte Damen und Herren,
+
+nach § 80 Abs. 1 BetrVG hat der Betriebsrat die Durchführung der zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen zu überwachen. Dazu gehört u. a. das Nachweisgesetz, welches für jeden einzelnen Beschäftigten den schriftlichen Nachweis der wesentlichen Arbeitsbedingungen im Arbeitsvertrag oder einer gesonderten schriftlichen Urkunde vorschreibt. Dies gilt auch für die sog. Geringfügig Beschäftigten. Wir bitten Sie deshalb entsprechend der Rechtsprechung des BAG (v. 19. 10. 1999 - 1 ABR 75/98, AuR 2000, 268; 16. 11. 2005 - 7 ABR 12/2005, AuR 2006, 172) um Überlassung einer Ablichtung der Arbeitsverträge für
+
+- alle Beschäftigten
+- {{Alternative:}} die nachfolgend im Einzelnen bezeichneten Beschäftigten: {{Namen}}.
+
+Sofern für die Arbeitsverträge einheitliche Formulare verwendet werden, ist der Betriebsrat aus Gründen der Vereinfachung mit der Überlassung der verwendeten Formulare unter Bezeichnung der betroffenen Beschäftigten einverstanden.
+
+> #### **Hinweis:**
+>
+> Vgl. DKW-*Buschmann*, § 80 Rn. 19, 89. Das Nachweisgesetz ist in der Betriebspraxis weitgehend unbekannt und wird vielfach missachtet, in extremer Form bei sog. Geringfügig Beschäftigten, vgl. TZA, § 2 NachweisG, Rn. 3. Die Überprüfung seiner Einhaltung gibt dem Betriebsrat die Möglichkeit der Überprüfung der Arbeitsverträge. Er hat zwar kein generelles Mitbestimmungsrecht bei deren Formulierung, kann aber z. B. feststellen, dass einzelvertragliche Bestimmungen gegen Gesetz, Tarifvertrag oder Betriebsvereinbarung verstoßen, und dies dann entsprechend rügen. Nach §§ 305 ff. BGB müssen zudem vorformulierte Arbeitsverträge den gesetzlichen Anforderungen an Allgemeine Geschäftsbedingungen genügen. Insbesondere ist sicherzustellen, dass Arbeitnehmer nicht entgegen den Geboten von Treu und Glauben unangemessen benachteiligt werden (§ 307 Abs. 1 BGB). Vor allem sog. Flexi-Klauseln in Einzelverträgen verstoßen vielfach gegen zwingende vorrangige Bestimmungen. Insofern kann sich der Betriebsrat auch auf die Überprüfung der Einhaltung von Einzelvorschriften stützen. Der Bezug auf das Nachweisgesetz reicht aber aus und liefert sodann Informationen auch zur Einhaltung oder zu Verstößen gegen weitere Rechtsnormen wie das BGB..
+
+[RREF4] BetrVG.pdf p.1,y:921 (0.449)
+[Page 1]: #
+
+[Y 921]: #
+## Betriebsverfassungsgesetz
+BetrVG
+Ausfertigungsdatum: 15.01.1972
+Vollzitat:
+"Betriebsverfassungsgesetz in der Fassung der Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518), das zuletzt durch Artikel 1 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 248) geändert worden ist"
+
+[Y 757]: #
+Stand:
+Neugefasst durch Bek. v. 25.9.2001 I 2518
+Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 248
+§ 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder Betriebsteilen (ABl. EG Nr. L 82 S. 16). § 75 idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient teilweise der Umsetzung der Richtlinie 2000/78/ EG des Rates vom 27. November 2000 zur Festlegung eines allgemeinen Rahmens für die Verwirklichung der Gleichbehandlung in Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
+## Fußnote
+
+[Y 577]: #
+(+++ Textnachweis Geltung ab: 1.1.1975 +++) (+++ Maßgaben aufgrund EinigVtr vgl. BetrVG Anhang EV; nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. hh G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+(+++ Amtliche Hinweise des Normgebers auf EG-Recht:
+Umsetzung der
+EGRL 23/2001  (CELEX Nr: 301L0023)
+EGRL 78/2000  (CELEX Nr: 300L0078) vgl. G v. 23.7.2001 I 1852 +++)
+## Inhaltsübersicht
+
+[Y 410]: #
+Erster Teil
+Allgemeine Vorschriften
+§§ 1 bis 6
+Zweiter Teil
+Betriebsrat,
+Betriebsversammlung,
+Gesamt- und
+Konzernbetriebsrat
+§§ 7 bis 59a
+Erster Abschnitt
+Zusammensetzung und Wahl des Betriebsrats
+§§ 7 bis 20
+Zweiter Abschnitt
+Amtszeit des Betriebsrats
+§§ 21 bis 25
+
+[Y 251]: #
+Dritter Abschnitt
+Geschäftsführung des Betriebsrats
+§§ 26 bis 41
+Vierter Abschnitt
+Betriebsversammlung
+§§ 42 bis 46
+Fünfter Abschnitt
+Gesamtbetriebsrat
+§§ 47 bis 53
+Sechster Abschnitt
+Konzernbetriebsrat
+§§ 54 bis 59a
+Dritter Teil
+Jugend- und Auszubildendenvertretung
+§§ 60 bis 73b
+
+[Y 99]: #
+Erster Abschnitt
+Betriebliche Jugend- und Auszubildendenvertretung
+§§ 60 bis 71
+
+[Page 2]: #
+
+[Y 921]: #
+|                                     | Zweiter Abschnitt      | Gesamt-Jugend- und Auszubildendenvertretung                    | §§ 72 bis 73         |
+|-------------------------------------|------------------------|----------------------------------------------------------------|----------------------|
+| Vierter Teil                        |                        | Mitwirkung und Mitbestimmung der Arbeitnehmer                  | §§ 74 bis 113        |
+|                                     | Erster Abschnitt       | Allgemeines                                                    | §§ 74 bis 80         |
+|                                     | Zweiter Abschnitt      | Mitwirkungs- und Beschwerderecht des Arbeitnehmers             | §§ 81 bis 86a        |
+|                                     | Dritter Abschnitt      | Soziale Angelegenheiten                                        | §§ 87 bis 89         |
+|                                     | Vierter Abschnitt      | Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung | §§ 90 bis 91         |
+|                                     | Fünfter Abschnitt      | Personelle Angelegenheiten                                     | §§ 92 bis 105        |
+|                                     | Erster Unterabschnitt  | Allgemeine personelle Angelegenheiten                          | §§ 92 bis 95         |
+|                                     | Zweiter Unterabschnitt | Berufsbildung                                                  | §§ 96 bis 98         |
+|                                     | Dritter Unterabschnitt | Personelle Einzelmaßnahmen                                     | §§ 99 bis 105        |
+|                                     | Sechster Abschnitt     | Wirtschaftliche Angelegenheiten                                | §§ 106 bis 113       |
+|                                     | Erster Unterabschnitt  | Unterrichtung in                                               | §§ 106 bis 110       |
+|                                     | Zweiter Unterabschnitt | wirtschaftlichen Angelegenheiten Betriebsänderungen            | §§ 111 bis 113       |
+| Fünfter Teil                        |                        | Besondere Vorschriften für einzelne Betriebsarten              | §§ 114 bis 118       |
+|                                     | Erster Abschnitt       |                                                                |                      |
+|                                     | Zweiter Abschnitt      | Seeschifffahrt Luftfahrt                                       | §§ 114 bis 116 § 117 |
+| Sechster Teil                       |                        |                                                                |                      |
+|                                     |                        | Straf- und Bußgeldvorschriften                                 | §§ 119 bis 121       |
+| Siebenter Teil                      |                        | Änderung von Gesetzen                                          | §§ 122 bis 124       |
+| Achter Teil                         |                        | Übergangs- und Schlussvorschriften                             | §§ 125 bis 132       |
+| Erster Teil Allgemeine Vorschriften |                        |                                                                |                      |
+
+[Y 99]: #
+§ 1 Errichtung von Betriebsräten
+
+[Page 3]: #
+
+[Y 915]: #
+- (1) In Betrieben mit in der Regel mindestens fünf ständigen wahlberechtigten Arbeitnehmern, von denen drei wählbar sind, werden Betriebsräte gewählt. Dies gilt auch für gemeinsame Betriebe mehrerer Unternehmen.
+- (2) Ein gemeinsamer Betrieb mehrerer Unternehmen wird vermutet, wenn
+- 1. zur Verfolgung arbeitstechnischer Zwecke die Betriebsmittel sowie die Arbeitnehmer von den Unternehmen gemeinsam eingesetzt werden oder
+- 2. die Spaltung eines Unternehmens zur Folge hat, dass von einem Betrieb ein oder mehrere Betriebsteile einem an der Spaltung beteiligten anderen Unternehmen zugeordnet werden, ohne dass sich dabei die Organisation des betroffenen Betriebs wesentlich ändert.
+
+[Y 759]: #
+
+[RREF5] SF_Arbeits_und_Sozialordnung_2025.md (0.451)
+Beendigung der Amtszeit der Jugend- und Auszubildendenvertretung, des Betriebsrats, der Bordvertretung oder des Seebetriebsrats endet.(4)Der Arbeitgeber kann spätestens bis zum Ablauf von zwei Wochen nach Beendigung des Berufsausbildungsverhältnisses beim Arbeitsgericht beantragen,festzustellen, dass ein Arbeitsverhältnis nach Absatz 2 oder 3 nicht begründet wird, oderdas bereits nach Absatz 2 oder 3 begründete Arbeitsverhältnis aufzulösen,wenn Tatsachen vorliegen, aufgrund derer dem Arbeitgeber unter Berücksichtigung aller Umstände die Weiterbeschäftigung nicht zugemutet werden kann. In dem Verfahren vor dem Arbeitsgericht sind der Betriebsrat, die Bordvertretung, der Seebetriebsrat, bei Mitgliedern der Jugend- und Auszubildendenvertretung auch diese Beteiligte.(5)Die Absätze 2 bis 4 finden unabhängig davon Anwendung, ob der Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.150|127628|par79bundimportedAsset##cd2c35a7-d7e8-4ade-aa1f-d5752c7bc41cASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 79Geheimhaltungspflicht(1)Die Mitglieder und Ersatzmitglieder des Betriebsrats sind verpflichtet, Betriebs- oder Geschäftsgeheimnisse, die ihnen wegen ihrer Zugehörigkeit zum Betriebsrat bekannt geworden und vom Arbeitgeber ausdrücklich als geheimhaltungsbedürftig bezeichnet worden sind, nicht zu offenbaren und nicht zu verwerten. Dies gilt auch nach dem Ausscheiden aus dem Betriebsrat. Die Verpflichtung gilt nicht gegenüber Mitgliedern des Betriebsrats. Sie gilt ferner nicht gegenüber dem Gesamtbetriebsrat, dem Konzernbetriebsrat, der Bordvertretung, dem Seebetriebsrat und den Arbeitnehmervertretern im Aufsichtsrat sowie im Verfahren vor der Einigungsstelle, der tariflichen Schlichtungsstelle (§ 76 Abs. 8) oder einer betrieblichen Beschwerdestelle (§ 86).(2)Absatz 1 gilt sinngemäß für die Mitglieder und Ersatzmitglieder des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der gemäß § 3 Abs. 1 gebildeten Vertretungen der Arbeitnehmer, der Einigungsstelle, der tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie für die Vertreter von Gewerkschaften oder von Arbeitgebervereinigungen.150|127628|par79abundimportedAsset##02300f8b-b2fd-436f-9a14-f640d17743a3ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 79aDatenschutzBei der Verarbeitung personenbezogener Daten hat der Betriebsrat die Vorschriften über den Datenschutz einzuhalten. Soweit der Betriebsrat zur Erfüllung der in seiner Zuständigkeit liegenden Aufgaben personenbezogene Daten verarbeitet, ist der Arbeitgeber der für die Verarbeitung Verantwortliche im Sinne der datenschutzrechtlichen Vorschriften. Arbeitgeber und Betriebsrat unterstützen sich gegenseitig bei der Einhaltung der datenschutzrechtlichen Vorschriften. Die oder der Datenschutzbeauftragte ist gegenüber dem Arbeitgeber zur Verschwiegenheit verpflichtet über Informationen, die Rückschlüsse auf den Meinungsbildungsprozess des Betriebsrats zulassen. § 6 Absatz 5 Satz 2, § 38 Absatz 2 des Bundesdatenschutzgesetzes gelten auch im Hinblick auf das Verhältnis der oder des Datenschutzbeauftragten zum Arbeitgeber.150|127628|par80bundimportedAsset##02300f8b-b2fd-436f-9a14-f640d17743a3ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 80Allgemeine Aufgaben(1)Der Betriebsrat hat folgende allgemeine Aufgaben:darüber zu wachen, dass die zugunsten der Arbeitnehmer geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge und Betriebsvereinbarungen durchgeführt werden;Maßnahmen, die dem Betrieb und der Belegschaft dienen, beim Arbeitgeber zu beantragen;die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg, zu fördern;die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;die Beschäftigung älterer Arbeitnehmer im Betrieb zu fördern;die Integration ausländischer Arbeitnehmer im Betrieb und das Verständnis zwischen ihnen und den deutschen Arbeitnehmern zu fördern sowie Maßnahmen zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb zu beantragen;die Beschäftigung im Betrieb zu fördern und zu sichern;Maßnahmen des Arbeitsschutzes und des betrieblichen Umweltschutzes zu fördern.(2)Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.(3)Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Muss der Betriebsrat zur Durchführung seiner Aufgaben die Einführung oder Anwendung von Künstlicher Intelligenz beurteilen, gilt insoweit die Hinzuziehung eines Sachverständigen als erforderlich. Gleiches gilt, wenn sich Arbeitgeber und Betriebsrat auf einen ständigen Sachverständigen in Angelegenheiten nach Satz 2 einigen.(4)Für die Geheimhaltungspflicht der Auskunftspersonen und der Sachverständigen gilt § 79 entsprechend.Zweiter AbschnittMitwirkungs- und Beschwerderecht des Arbeitnehmers150|127628|par81bundimportedAsset##7364192c-6654-4e13-9fcd-053d98f8dd27ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 81Unterrichtungs- und Erörterungspflicht des Arbeitgebers(1)Der Arbeitgeber hat den Arbeitnehmer über dessen Aufgabe und Verantwortung sowie über die Art seiner Tätigkeit und ihre Einordnung in den Arbeitsablauf des Betriebs zu unterrichten. Er hat den Arbeitnehmer vor Beginn der Beschäftigung über die Unfall- und Gesundheitsgefahren, denen dieser bei der Beschäftigung ausgesetzt ist, sowie über die Maßnahmen und Einrichtungen zur Abwendung dieser Gefahren und die nach § 10 Abs. 2 des Arbeitsschutzgesetzes getroffenen Maßnahmen zu belehren.(2)Über Veränderungen in seinem Arbeitsbereich ist der Arbeitnehmer rechtzeitig zu unterrichten. Absatz 1 gilt entsprechend.(3)In Betrieben, in denen kein Betriebsrat besteht, hat der Arbeitgeber die Arbeitnehmer zu allen Maßnahmen zu hören, die Auswirkungen auf Sicherheit und Gesundheit der Arbeitnehmer haben können.(4)Der Arbeitgeber hat den Arbeitnehmer über die aufgrund einer Planung von technischen Anlagen, von Arbeitsverfahren und Arbeitsabläufen oder der Arbeitsplätze vorgesehenen Maßnahmen und ihre Auswirkungen auf seinen Arbeitsplatz, die Arbeitsumgebung sowie auf Inhalt und Art seiner Tätigkeit zu unterrichten. Sobald feststeht, dass sich die Tätigkeit des Arbeitnehmers ändern wird und seine beruflichen Kenntnisse und Fähigkeiten zur Erfüllung seiner Aufgaben nicht ausreichen, hat der Arbeitgeber mit dem Arbeitnehmer zu erörtern, wie dessen berufliche Kenntnisse und Fähigkeiten im Rahmen der betrieblichen Möglichkeiten den künftigen Anforderungen angepasst werden können. Der Arbeitnehmer kann bei der Erörterung ein Mitglied des Betriebsrats hinzuziehen.150|127628|par82bundimportedAsset##3fa70195-08dc-42cd-a7f5-4a7667f12666ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 82Anhörungs- und Erörterungsrecht des Arbeitnehmers(1)Der Arbeitnehmer hat das Recht, in betrieblichen Angelegenheiten, die seine Person betreffen, von den nach Maßgabe des organisatorischen Aufbaus des Betriebs hierfür zuständigen Personen gehört zu werden. Er ist berechtigt, zu Maßnahmen des Arbeitgebers, die ihn betreffen, Stellung zu nehmen sowie Vorschläge für die Gestaltung des Arbeitsplatzes und des Arbeitsablaufs zu machen.(2)Der Arbeitnehmer kann verlangen, dass ihm die Berechnung und Zusammensetzung seines Arbeitsentgelts erläutert und dass mit ihm die Beurteilung seiner Leistungen sowie die Möglichkeiten seiner beruflichen Entwicklung im Betrieb erörtert werden. Er kann ein Mitglied des Betriebsrats hinzuziehen. Das Mitglied des Betriebsrats hat über den Inhalt dieser Verhandlungen Stillschweigen zu bewahren, soweit es vom Arbeitnehmer im Einzelfall nicht von dieser Verpflichtung entbunden wird.150|127628|par83bundimportedAsset##c46e6785-88ca-4ac3-81b8-ddda950f4ea4ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 83Einsicht in die Personalakten(1)Der Arbeitnehmer hat das Recht, in die über ihn geführten Personalakten Einsicht zu nehmen. Er kann hierzu ein Mitglied des Betriebsrats hinzuziehen. Das Mitglied des Betriebsrats hat über den Inhalt der Personalakte Stillschweigen zu bewahren, soweit es vom Arbeitnehmer im Einzelfall nicht von dieser Verpflichtung entbunden wird.(2)Erklärungen des Arbeitnehmers zum Inhalt der Personalakte sind dieser auf sein Verlangen beizufügen.150|127628|par84bundimportedAsset##501c8421-ad0d-4ce6-919a-0b551475f8fcASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 84Beschwerderecht(1)Jeder Arbeitnehmer hat das Recht, sich bei den zuständigen Stellen des Betriebs zu beschweren, wenn er sich vom Arbeitgeber oder von Arbeitnehmern des Betriebs benachteiligt oder ungerecht behandelt oder in sonstiger Weise beeinträchtigt fühlt. Er kann ein Mitglied des Betriebsrats zur Unterstützung oder Vermittlung hinzuziehen.(2)Der Arbeitgeber hat den Arbeitnehmer über die Behandlung der Beschwerde zu bescheiden und, soweit er die Beschwerde für berechtigt erachtet, ihr abzuhelfen.(3)Wegen der Erhebung einer Beschwerde dürfen dem Arbeitnehmer keine Nachteile entstehen.150|127628|par85bundimportedAsset##19f4680f-114f-423a-8534-931810e8625aASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 85Behandlung von Beschwerden durch den Betriebsrat(1)Der Betriebsrat hat Beschwerden von Arbeitnehmern entgegenzunehmen und, falls er sie für berechtigt erachtet, beim Arbeitgeber auf Abhilfe hinzuwirken.(2)Bestehen zwischen Betriebsrat und Arbeitgeber Meinungsverschiedenheiten über die Berechtigung der Beschwerde, so kann der Betriebsrat die Einigungsstelle anrufen. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat. Dies gilt nicht, soweit Gegenstand der Beschwerde ein Rechtsanspruch ist.(3)Der Arbeitgeber hat den Betriebsrat über die Behandlung der Beschwerde zu unterrichten. § 84 Abs. 2 bleibt unberührt.150|127628|par86bundimportedAsset##87395a16-d536-40de-bb61-97ed0b1ebcf6ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 86Ergänzende VereinbarungenDurch Tarifvertrag oder Betriebsvereinbarung können die Einzelheiten des Beschwerdeverfahrens geregelt werden. Hierbei kann bestimmt werden, dass in den Fällen des § 85 Abs. 2 an die Stelle der Einigungsstelle eine betriebliche Beschwerdestelle tritt.150|127628|par86abundimportedAsset##f5deca22-5918-4add-9ebe-f9444c4ba3d1ASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 86 aVorschlagsrecht der ArbeitnehmerJeder Arbeitnehmer hat das Recht, dem Betriebsrat Themen zur Beratung vorzuschlagen. Wird ein Vorschlag von mindestens 5 vom Hundert der Arbeitnehmer des Betriebs unterstützt, hat der Betriebsrat diesen innerhalb von zwei Monaten auf die Tagesordnung einer Betriebsratssitzung zu setzen.Dritter AbschnittSoziale Angelegenheiten150|127628|par87bundimportedAsset##e20feda2-924f-4799-8d64-91168342667cASOPrint-BETRVGBetriebsverfassungsgesetzBetrVG§ 87Mitbestimmungsrechte(1)Der Betriebsrat hat, soweit eine gesetzliche oder tarifliche Regelung nicht besteht, in folgenden Angelegenheiten mitzubestimmen:Fragen der Ordnung des Betriebs und des Verhaltens der Arbeitnehmer im Betrieb;Beginn und Ende der täglichen Arbeitszeit einschließlich der Pausen sowie Verteilung der Arbeitszeit auf die einzelnen Wochentage;vorübergehende Verkürzung oder Verlängerung der betriebsüblichen Arbeitszeit;Zeit, Ort und Art der Auszahlung der Arbeitsentgelte;Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplans sowie die Festsetzung der zeitlichen Lage des Urlaubs für einzelne Arbeitnehmer, wenn zwischen dem Arbeitgeber und den beteiligten Arbeitnehmern kein Einverständnis erzielt wird;Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen;Regelungen über die Verhütung von Arbeitsunfällen und Berufskrankheiten sowie über den Gesundheitsschutz im Rahmen der gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften;Form, Ausgestaltung und Verwaltung von Sozialeinrichtungen, deren Wirkungsbereich auf den Betrieb, das Unternehmen oder den Konzern beschränkt ist;Zuweisung und Kündigung von Wohnräumen, die den Arbeitnehmern mit Rücksicht auf das Bestehen eines Arbeitsverhältnisses vermietet werden, sowie die allgemeine Festlegung der Nutzungsbedingungen;Fragen der betrieblichen Lohngestaltung, insbesondere die Aufstellung von Entlohnungsgrundsätzen und die Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung;Festsetzung der Akkord- und Prämiensätze und vergleichbarer leistungsbezogener Entgelte, einschließlich der Geldfaktoren;Grundsätze über das betriebliche Vorschlagswesen;Grundsätze über die Durchführung von Gruppenarbeit; Gruppenarbeit im Sinne dieser Vorschrift liegt vor, wenn im Rahmen des betrieblichen Arbeitsablaufs eine Gruppe von Arbeitnehmern eine ihr übertragene Gesamtaufgabe im Wesentlichen eigenverantwortlich erledigt;Ausgestaltun
+
+
+
+---
+
+## Q-P1-CZ-04  (subtask: strategic_practical)
+
+### FRAGE
+Wie geht man mit Interessenkonflikten zwischen Belegschaft und Unternehmensleitung um?
+
+### REFERENZ
+- Transparenz im Gremium
+- Orientierung am Gesetz und an Beschlüssen
+- Keine Einzelinteressen vertreten
+
+### MODELLANTWORT
+
+
+Der Umgang mit Interessenkonflikten zwischen der Belegschaft (vertreten durch den Betriebsrat) und der Unternehmensleitung (Arbeitgeber) ist im Betriebsverfassungsgesetz (BetrVG) institutionalisiert. Das Gesetz sieht sowohl kooperative Lösungsmechanismen als auch rechtliche Durchsetzungsinstrumente vor. Basierend auf den vorliegenden Dokumenten lassen sich folgende Schritte und Grundsätze ableiten:
+
+### 1. Gesetzliche Grundsätze der Zusammenarbeit
+Die Basis für den Umgang mit Konflikten bildet das Gebot zur vertrauensvollen Zusammenarbeit.
+
+*   **Regelmäßige Besprechungen:** Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem „ernsten Willen zur Einigung" zu verhandeln [RREF1] § 74 Abs. 1.
+*   **Friedenspflicht im Betrieb:** Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig. Beide Seiten haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden [RREF1] § 74 Abs. 2. Dies dient der Abgrenzung zwischen Mitbestimmung und Tarifarbeitskampf [RREF2].
+*   **Behandlung der Betriebsangehörigen:** Beide Seiten haben darüber zu wachen, dass alle Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden, insbesondere ohne Benachteiligung aus politischen oder gewerkschaftlichen Gründen [RREF1] § 75 Abs. 1.
+
+### 2. Instrumente zur Konfliktlösung
+Wenn Verhandlungen scheitern, sieht das Gesetz spezifische Verfahren vor:
+
+*   **Einigungsstelle (§ 76 BetrVG):**
+    *   Zur Beilegung von Meinungsverschiedenheiten ist bei Bedarf eine Einigungsstelle zu bilden [RREF1] § 76 Abs. 1.
+    *   Sie besteht aus einer gleichen Anzahl von Beisitzern beider Seiten und einem unparteiischen Vorsitzenden [RREF1] § 76 Abs. 2.
+    *   In Fällen, in denen der Spruch der Einigungsstelle die Einigung ersetzt (z. B. bei bestimmten Mitbestimmungsmaterien), wird sie auf Antrag einer Seite tätig. Der Spruch ersetzt dann die Einigung zwischen Arbeitgeber und Betriebsrat [RREF1] § 76 Abs. 5.
+    *   Auch bei Streitigkeiten über wirtschaftliche Angelegenheiten (Informationen durch den Wirtschaftsausschuss) entscheidet die Einigungsstelle, wenn keine Einigung zustande kommt (§ 109 BetrVG) [RREF5].
+*   **Arbeitsgerichtliche Durchsetzung:**
+    *   Bei groben Verstößen des Arbeitgebers gegen das BetrVG kann der Betriebsrat auf Unterlassung klagen (§ 23 Abs. 3 BetrVG) [RREF2].
+    *   Bei betriebsverfassungswidrigen personellen Maßnahmen (z. B. Einstellung ohne Anhörung) kann der Betriebsrat die Aufhebung der Maßnahme beantragen (§ 101 BetrVG) [RREF4].
+
+### 3. Spezifische Konfliktfelder und Verfahren
+
+*   **Informationsrechte (Wirtschaftsausschuss):**
+    *   Der Unternehmer muss den Wirtschaftsausschuss umfassend unterrichten (§ 106 BetrVG). Werden Auskünfte nicht oder ungenügend erteilt, entscheidet die Einigungsstelle (§ 109 BetrVG) [RREF5].
+    *   Der Betriebsrat kann hierbei nicht parallel direkt im Beschlussverfahren vorgehen, da die Einigungsstelle primär zuständig ist [RREF5].
+*   **Personelle Einzelmaßnahmen:**
+    *   Bei fehlerhafter Durchführung (z. B. Versetzung eines leitenden Angestellten in eine nicht-leitende Funktion ohne Beteiligung) kann der Betriebsrat die Aufhebung der Maßnahme und die Festsetzung eines Zwangsgeldes beantragen [RREF4].
+*   **Betriebsänderungen (Interessenausgleich und Sozialplan):**
+    *   Bei geplanten Betriebsänderungen (z. B. Schließungen) sind Verhandlungen über einen Interessenausgleich und Sozialplan erforderlich.
+    *   Der Betriebsrat kann den Gesamtbetriebsrat (GBR) beauftragen, diese Verhandlungen durchzuführen. Dabei behält sich der lokale Betriebsrat jedoch die Entscheidungsfreiheit vor (z. B. ob die Einigungsstelle angerufen wird) [RREF3].
+
+### 4. Grenzen und Risiken
+*   **Vertraulichkeit:** Der Betriebsrat darf Betriebs- und Geschäftsgeheimnisse nicht unbefugt offenbaren. Der Arbeitgeber kann die Unterrichtung verweigern, wenn Betriebsgeheimnisse gefährdet werden (§ 106 Abs. 2 BetrVG) [RREF5].
+*   **Parteipolitische Betätigung:** Jede parteipolitische Betätigung im Betrieb ist zu unterlassen, wobei die Behandlung von Angelegenheiten sozialpolitischer Art, die den Betrieb betreffen, hiervon nicht berührt wird [RREF1] § 74 Abs. 2.
+*   **Kosten und Haftung:** Bei der Beauftragung externer Berater (z. B. Rechtsanwälte) muss der Betriebsrat auf die Erforderlichkeit und Üblichkeit der Kosten achten. Bei Überschreitung können Betriebsratsmitglieder persönlich haften, sofern dies dem Vertragspartner erkennbar war [RREF2].
+
+### 5. Praktische Umsetzung (Beschlussfassung)
+Zur Durchsetzung von Rechten sind formelle Beschlüsse des Betriebsrats erforderlich. Vorlagen sehen beispielsweise vor:
+*   **Beauftragung des GBR:** Der Betriebsrat fasst einen Beschluss zur Beauftragung des Gesamtbetriebsrats zur Durchsetzung von Mitbestimmungsrechten, inklusive der Einleitung von Arbeitsgerichtsverfahren. Die endgültige Entscheidung behält sich der Betriebsrat vor [RREF3].
+*   **Anrufung der Einigungsstelle:** Der Betriebsrat stellt fest, dass Gespräche gescheitert sind, und ruft die Einigungsstelle an. Gleichzeitig wird die Besetzung der Einigungsstelle (Beisitzer, Vorsitzender) beschlossen [RREF3].
+
+**Zusammenfassend** erfolgt der Umgang mit Interessenkonflikten primär durch Verhandlungen auf Basis des § 74 BetrVG. Scheitern diese, sind die Einigungsstelle (§ 76, § 109 BetrVG) und im Falle von Rechtsverstößen das Arbeitsgericht (§ 23 Abs. 3, § 101 BetrVG) die vorgesehenen Instanzen, wobei das Arbeitskampfverbot zwischen den Betriebsparteien strikt zu beachten ist..
+-----------------------------------------
+References:
+
+[RREF1] BetrVG.pdf p.24,y:545 (0.487)
+## Vierter Teil Mitwirkung und Mitbestimmung der Arbeitnehmer
+## Erster Abschnitt Allgemeines
+## § 74 Grundsätze für die Zusammenarbeit
+
+[Y 545]: #
+- (1) Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.
+- (2) Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat sind unzulässig; Arbeitskämpfe tariffähiger Parteien werden hierdurch nicht berührt. Arbeitgeber und Betriebsrat haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im Betrieb zu unterlassen; die Behandlung von Angelegenheiten tarifpolitischer, sozialpolitischer, umweltpolitischer und wirtschaftlicher Art, die den Betrieb oder seine Arbeitnehmer unmittelbar betreffen, wird hierdurch nicht berührt.
+- (3) Arbeitnehmer, die im Rahmen dieses Gesetzes Aufgaben übernehmen, werden hierdurch in der Betätigung für ihre Gewerkschaft auch im Betrieb nicht beschränkt.
+## § 75 Grundsätze für die Behandlung der Betriebsangehörigen
+- (1) Arbeitgeber und Betriebsrat haben darüber zu wachen, dass alle im Betrieb tätigen Personen nach den Grundsätzen von Recht und Billigkeit behandelt werden, insbesondere, dass jede Benachteiligung von Personen aus Gründen ihrer Rasse oder wegen ihrer ethnischen Herkunft, ihrer Abstammung oder sonstigen Herkunft, ihrer Nationalität, ihrer Religion oder Weltanschauung, ihrer Behinderung, ihres Alters, ihrer politischen oder gewerkschaftlichen Betätigung oder Einstellung oder wegen ihres Geschlechts oder ihrer sexuellen Identität unterbleibt.
+- (2) Arbeitgeber und Betriebsrat haben die freie Entfaltung der Persönlichkeit der im Betrieb beschäftigten Arbeitnehmer zu schützen und zu fördern. Sie haben die Selbständigkeit und Eigeninitiative der Arbeitnehmer und Arbeitsgruppen zu fördern.
+## § 76 Einigungsstelle
+- (1) Zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber und Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat ist bei Bedarf eine Einigungsstelle zu bilden. Durch Betriebsvereinbarung kann eine ständige Einigungsstelle errichtet werden.
+- (2) Die Einigungsstelle besteht aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen müssen.
+
+[Page 25]: #
+
+[Y 927]: #
+Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn das Arbeitsgericht. Dieses entscheidet auch, wenn kein Einverständnis über die Zahl der Beisitzer erzielt wird.
+- (3) Die Einigungsstelle hat unverzüglich tätig zu werden. Sie fasst ihre Beschlüsse nach mündlicher Beratung mit Stimmenmehrheit. Bei der Beschlussfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Die Beschlüsse der Einigungsstelle sind schriftlich niederzulegen und vom Vorsitzenden zu unterschreiben oder in elektronischer Form niederzulegen und vom Vorsitzenden mit seiner qualifizierten elektronischen Signatur zu versehen sowie Arbeitgeber und Betriebsrat zuzuleiten.
+- (4) Durch Betriebsvereinbarung können weitere Einzelheiten des Verfahrens vor der Einigungsstelle geregelt werden.
+- (5) In den Fällen, in denen der Spruch der Einigungsstelle die Einigung zwischen Arbeitgeber und Betriebsrat ersetzt, wird die Einigungsstelle auf Antrag einer Seite tätig. Benennt eine Seite keine Mitglieder oder bleiben die von einer Seite genannten Mitglieder trotz rechtzeitiger Einladung der Sitzung fern, so entscheiden der Vorsitzende und die erschienenen Mitglieder nach Maßgabe des Absatzes 3 allein. Die Einigungsstelle fasst ihre Beschlüsse unter angemessener Berücksichtigung der Belange des Betriebs und der betroffenen Arbeitnehmer nach billigem Ermessen. Die Überschreitung der Grenzen des Ermessens kann durch den Arbeitgeber oder den Betriebsrat nur binnen einer Frist von zwei Wochen, vom Tage der Zuleitung des Beschlusses an gerechnet, beim Arbeitsgericht geltend gemacht werden.
+- (6) Im übrigen wird die Einigungsstelle nur tätig, wenn beide Seiten es beantragen oder mit ihrem Tätigwerden einverstanden sind. In diesen Fällen ersetzt ihr Spruch die Einigung zwischen Arbeitgeber und Betriebsrat nur, wenn beide Seiten sich dem Spruch im voraus unterworfen oder ihn nachträglich angenommen haben.
+- (7) Soweit nach anderen Vorschriften der Rechtsweg gegeben ist, wird er durch den Spruch der Einigungsstelle nicht ausgeschlossen.
+- (8) Durch Tarifvertrag kann bestimmt werden, dass an die Stelle der in Absatz 1 bezeichneten Einigungsstelle eine tarifliche Schlichtungsstelle tritt.
+
+[RREF2] SF_Arbeits_und_Sozialordnung_2025.md (0.508)
+e, 3. Aufl., 2024, Nr. 29). Nach der sog. Theorie der Wirksamkeitsvoraussetzung kann ein Arbeitnehmer sich darauf berufen, dass eine individualrechtliche Maßnahme des Arbeitgebers unwirksam ist, wenn dieser Mitbestimmungsrechte verletzt hat. Anders ist es, wenn der Arbeitgeber zuvor mitbestimmungswidrig den Arbeitnehmern bestimmte Leistungen erbracht hat und diese Praxis später – erneut mitbestimmungswidrig – ändern will: Hier kann der Arbeitgeber nicht nach der Theorie der Wirksamkeitsvoraussetzung verpflichtet werden, an der bisherigen Praxis festzuhalten (BAG 18. 3. 2014 – 1 ABR 75/12, NZA 14, 984).Mitbestimmungsrechte können während eines Arbeitskampfes eingeschränkt sein. Das ist der Fall, wenn bei Aufrechterhaltung des Rechtes die ernsthafte Gefahr besteht, dass eine Arbeitskampfmaßnahme des Arbeitgebers verhindert wird oder sonst zu seinem Nachteil in das Kampfgeschehen eingegriffen wird. Das nimmt das BAG etwa an, wenn der Arbeitgeber arbeitswillige Arbeitnehmer in einen bestreikten Betrieb versetzen will (BAG 13. 12. 2011 – 1 ABR 2/10, NZA 12, 571).Die Beteiligungsrechte des Betriebsrats sind nicht durch das Recht des Arbeitgebers auf unternehmerische Betätigung beschränkt. Vielmehr gilt umgekehrt: Die unternehmerische Entscheidungsfreiheit wird durch die gesetzlichen Mitbestimmungsrechte begrenzt (BAG 22. 8. 2017 – 1 ABR 4/16, BB 18, 1021, Rn. 30). Für Tendenzbetriebe (z. B. Presse oder politische Organisationen) gelten allerdings nur eingeschränkte Beteiligungsrechte (§ 118 Abs. 1 BetrVG).3.BetriebsvereinbarungDas Ergebnis der Betriebsratsverhandlungen ist meist eine Betriebsvereinbarung gemäß § 77 BetrVG (Checkliste 32), die unmittelbar und zwingend, also wie ein Gesetz, wirkt (normative Wirkung). Es sind aber auch sog. Regelungsabsprachen anstelle einer Betriebsvereinbarung möglich, denen keine normative Wirkung zukommt (näher DKW-Berg, § 77 Rn. 161 ff.). Letztere kommen aber nicht schon durch bloße Hinnahme eines mitbestimmungswidrigen Arbeitgeberverhaltens durch den Betriebsrat zustande (BAG 23. 10. 2018 – 1 ABR 26/17, NZA 19, 483). Das Verhältnis der Rechte aus einer Betriebsvereinbarung zu denen aus einem Arbeitsvertrag folgt dem Günstigkeitsprinzip: Die für den Arbeitnehmer günstigere Regelung setzt sich durch. Der Große Senat des BAG (28. 9. 1978 – 2 AZR 2/77, AP Nr. 17 zu § 77 BetrVG 1972) hatte eine Ausnahme lediglich für Sozialleistungen anerkannt, sofern die Betriebsvereinbarung kollektiv (bezogen auf die Gesamtbelegschaft) günstiger ist, als die bisherigen vertraglichen Regelungen. In neuerer Rechtsprechung geht der 1. Senat des BAG (5. 3. 2013 – 1 AZR 417/12, DB 13, 1852) aber davon aus, dass vertragliche Regelungen, die auf allgemeinen Geschäftsbedingungen beruhen, erkennbar kollektiv geregelt werden sollen, sodass der Arbeitnehmer implizit sein Einverständnis gegeben haben soll, auch Verschlechterungen durch eine Betriebsvereinbarung vornehmen zu können. Das geht an der Realität vorbei, denn kein Arbeitnehmer macht sich solche Gedanken beim Abschluss des Arbeitsvertrages, und höhlt auch die genannte Entscheidung des Großen Senats aus (ausf. Kritik bei Deinert, AuR 22, 351). Der 4. Senat des BAG hat deshalb auch erhebliche Bedenken gegen ein solches Verständnis erhoben. Am Ende hat er die Frage aber offengelassen und entschieden, dass jedenfalls bei gleichzeitiger dynamischer Verweisung des Arbeitsvertrages auf einen Tarifvertrag dessen Regelungen einer ungünstigeren Betriebsvereinbarung vorgehen (11. 4. 2018 – 4 AZR 119/17, NZA 18, 1273). Andere Senate des BAG haben sich aber wiederum an die Seite des 1. Senats gestellt (vgl. 11. 12. 2018 – 3 AZR 380/17, NZA 19, 1082 [dazu Einl. II 3 zum BetrAVG, Nr. 11]; 30. 1. 2019 – 5 AZR 450/17, NZA 19, 1065; 24. 1. 2024 – 10 AZR 33/23, NZA 24, 562).Alle Beteiligungsrechte des Betriebsrates stehen unter dem (in seiner Reichweite und Detailausgestaltung aber sehr umstrittenen) Vorbehalt einer Regelung der gleichen Materie durch die Tarifvertragsparteien (§§ 77 Abs. 3, 87 Abs. 1 Eingangssatz BetrVG; hierzu näher III 3). Dazu hat das BAG klargestellt, dass in einem tarifpluralen Betrieb (vgl. § 4a TVG, dazu Einl. II 1 c zum TVG, Nr. 31) jeder Tarifvertrag die Regelungssperre für die Betriebsparteien auslöst und jede zwingende tarifliche Regelung auch das Mitbestimmungsrecht des Betriebsrats nach § 87 Abs. 1 BetrVG hindert (25. 1. 2023 – 4 ABR 4/22, NZA 23, 979). Das Gesetz verpflichtet die Betriebsräte zur Zusammenarbeit mit den Gewerkschaften (§ 2 Abs. 1 BetrVG) und räumt diesen eine Vielzahl von Rechten ein (Übersicht bei Fitting, § 2 Rn. 65).4.RechtsstellungDer Sicherung und organisatorischen Erleichterung der Betriebsratsarbeit dient eine Reihe von Bestimmungen (z. B. Freistellung zur Betriebsratstätigkeit und zu Schulungsmaßnahmen, § 37 BetrVG; Kosten der Betriebsratstätigkeit, § 40 BetrVG (einschließlich Gerichtsverfahren, zu den Grenzen: BAG 22. 11. 2017 – 7 ABR 34/17, NZA 18, 461); Kündigungsschutz, § 15 KSchG; Freistellung bei Betriebsratstätigkeit außerhalb der Arbeitszeit gemäß § 37 Abs. 3 BetrVG, zum Arbeitszeitkonto: BAG 28. 9. 2016 – 7 AZR 248/14, NZA 17, 335; zur Betriebsratssitzung außerhalb der Arbeitszeit: BAG 18. 1. 2017 – 7 AZR 224/15, NZA 17, 791). Der Betriebsrat kann an sich nicht Träger von Rechten und Pflichten außerhalb der Betriebsverfassung sein und kann daher auch kein Vermögen haben. Problematisch ist daher die Beauftragung Betriebsexterner, etwa Sachverständige oder Rechtsanwälte. Sofern der Beauftragte sich nicht einen Kostenerstattungsanspruch des Betriebsrats gegen den Arbeitgeber abtreten lässt, besteht noch die Möglichkeit, dass der Arbeitgeber formal den Vertrag mit dem Berater des Betriebsrats schließt. Nach der Rechtsprechung des BGH (25. 10. 2012 – III ZR 266/11, DB 12, 2752; dazu krit. Preis/Ulber, JZ 14, 579; Lunk/Rodenbusch, NJW 14, 1989) ist der Betriebsrat außerdem insoweit teilrechtsfähig, als er auch selbst den Vertrag schließen kann, sodass er in der Wahl des Vertragspartners völlige Entscheidungsfreiheit hat. Das soll freilich nur so weit gehen, wie die Kosten erforderlich sind. Ist die Beauftragung eines externen Beraters nicht erforderlich oder geht die vereinbarte Vergütung über das Übliche hinaus, dann haften allerdings die Betriebsratsmitglieder, die tätig geworden sind, als sog. vollmachtlose Vertreter. Das gilt aber dann nicht, wenn dem Vertragspartner erkennbar war, dass der Vertrag über diese Grenzen hinaus gegangen ist, was bei einem beauftragten Rechtsanwalt regelmäßig der Fall sein wird. Der BGH (a. a. O.) hat außerdem darauf hingewiesen, dass man eine solche Haftung vertraglich im Vorhinein mit dem externen Berater ausschließen kann. Das BAG hat überdies klargestellt, dass der Arbeitgeber, wenn er vermeintliche Forderungen Dritter wegen Betriebsratskosten erfüllt, keinen Regress bei den Mitgliedern des Betriebsrats mit der Begründung, die Kosten seien nicht erforderlich, nehmen kann (25. 10. 2023 – 7 AZR 338/22, BB 24, 637).Im Allgemeinen hat der Betriebsrat Anspruch auf einen Internetzugang auch für einzelne Mitglieder (BAG 23. 9. 2010 – 6 AZR 330/09, DB 10, 2731). Ohne konkreten Anlass zur Annahme einer Verletzung der Vertraulichkeit kann der Betriebsrat aber nicht einen von der Anlage des Arbeitgebers unabhängigen Internet- und Telefonanschluss verlangen (BAG 20. 4. 2016 – 7 ABR 50/14, NZA 16, 1033).Der Betriebsrat kann bestimmte Aufgaben auf Ausschüsse oder Arbeitsgruppen delegieren (§§ 28, 28 a BetrVG).Bei groben Verstößen des Arbeitgebers gegen das BetrVG kann der Betriebsrat gemäß § 23 Abs. 3 BetrVG auf Unterlassung mit der Möglichkeit eines Ordnungsgeldes klagen. Daneben hat er einen allgemeinen Unterlassungsanspruch bei mitbestimmungswidrigem Verhalten des Arbeitgebers (BAG 3. 5. 1994 – 1 ABR 24/93, DB 94, 2450; vgl. Derleder, AuR 95, 13; zum Einwand des Rechtsmissbrauchs in Ausnahmefällen BAG 12. 3. 2019 – 1 ABR 42/17, NZA 19, 843; krit. dazu Heuschmid/Kummert, NZA 19, 1258). Allerdings soll der Betriebsrat keinen Anspruch darauf haben, dass der Arbeitgeber die Folgen seines mitbestimmungswidrigen Verhaltens wieder beseitigt (BAG 23. 3. 2021 – 1 ABR 31/19, NZA 21, 959; krit. dazu Kittner/Klebe, AuR 22, 364).Umgekehrt kann das Arbeitsgericht bei groben Verstößen gegen gesetzliche Pflichten nach § 23 Abs. 1 BetrVG einzelne Mitglieder des Betriebsrats ausschließen oder den Betriebsrat auflösen. Vertragsrechtliche Sanktionen wie Kündigung oder Abmahnung kommen hingegen nicht in Betracht, solange nicht (auch) arbeitsvertragliche Pflichten verletzt wurden (BAG 9. 9. 2015 – 7 ABR 69/13, NZA 16, 57).5.IndividualrechteSchließlich sind in das BetrVG Rechte des einzelnen Arbeitnehmers aufgenommen worden (§§ 81–86 BetrVG).III.Anwendungsprobleme und Rechtstatsachen1.Grundkonflikte der BetriebsverfassungEs gibt kaum ein Gesetz, das mehr als das BetrVG darauf angewiesen wäre, von den Betroffenen mit Leben erfüllt zu werden, wenn es nicht Papier bleiben soll. Seine Konzeption ist auf den ersten Blick merkwürdig: Es gibt keinen ausdrücklichen Auftrag zur Interessenvertretung, sondern nur in § 2 BetrVG die Pflicht zur „vertrauensvollen“ Zusammenarbeit von Arbeitgeber und Betriebsrat „zum Wohle der Arbeitnehmer und des Betriebs“. Außerdem sind Maßnahmen des Arbeitskampfes zwischen Arbeitgeber und Betriebsrat verboten (§ 74 Abs. 2 BetrVG). Daraus kann jedoch nicht der Schluss gezogen werden, dass Betriebsräte nur eingeschränkt die Interessen der Arbeitnehmer vertreten könnten. Während die vertrauensvolle Zusammenarbeit vor allem vom Arbeitgeber verlangt, gegenüber Organisations- und Mitbestimmungsrechten des Betriebsrats nicht zu „mauern“, soll das betriebliche Arbeitskampfverbot die Sphären von Mitbestimmung und Tarifarbeitskampf gegeneinander abgrenzen (s. u. 3).Ein wirksames Instrument in den Händen der Interessenvertretung der Arbeitnehmer kann das BetrVG dabei nur sein, wenn es in täglicher Auseinandersetzung mit den Arbeitgebern durchgesetzt wird. Deren Positionen folgen dabei häufig einem gewissen Grundmuster: Widerstand gegen die erstmalige Wahl von Betriebsräten (dazu ausführliche Untersuchung bei Behrens/Dribbusch, WSI-Mitt. 20, 286; jede fünfte Neugründung eines Betriebsrats wird behindert, vgl. Böckler impuls 15/24, 1), Kampf um jedes freizustellende Betriebsratsmitglied und Streitigkeiten wegen der technischen Arbeitsmöglichkeiten der Betriebsräte etc. gibt es vor allem in Klein- und Mittelbetrieben. Dort finden sich auch heute noch häufig Unternehmensführungen, für deren Verständnis der Betriebsrat – auch wenn es sich um eine gesetzliche Einrichtung handelt – ein nicht akzeptierter „Fremdkörper“ geblieben ist. In den meisten Großunternehmen sieht es dagegen doch anders aus: Dort hat ein „aufgeklärtes“ Management durchaus erkannt, dass eine Vielzahl von im Betrieb auftretenden Konflikten sogar reibungsloser zu bewältigen ist, wenn an ihrer Lösung die gewählten Vertreter der Arbeitnehmer beteiligt sind. In dieser Hinsicht haben sich auch durchaus unterschiedliche Typen von Betriebsratsarbeit herausgebildet (Kotthoff, WSI-Mitt. 95, 549; zusammenfassend zu den Vorteilen auch aus Unternehmersicht Böckler impuls 2/18, 4). In Zeiten der Hochkonjunktur kann das so weit gehen, dass Kündigungen de facto nur nach Zustimmung des Betriebsrates ausgesprochen werden. In der großen Wirtschaftskrise 2008 waren wiederum in der Breite der deutschen Industrie das Bemühen der Krisenbewältigung gemeinsam mit den Betriebsräten und die Nutzung von Kurzarbeit zur Vermeidung von Entlassungen zu beobachten. Ähnliches ist während Pandemie und Ukraine-Krise zu beobachten.Es ist nicht möglich, eine detaillierte Bilanz über die seitherige Praxis mit dem BetrVG aufzustellen. Sicher ist jedenfalls, dass es für unzählige Fälle Tag für Tag die Grundlage einer wirksamen Interessenvertretung für die Arbeitnehmer darstellt. Als Anhaltspunkte dafür, ob und in welchem Umfang die Betriebsverfassung „funktioniert“, das heißt, wie intensiv das Gesetz genutzt wird, könnte man drei Fragen wählen:Existieren hinsichtlich aller Angelegenheiten, die in § 87 Abs. 1 BetrVG genannt werden, Betriebsvereinbarungen, sofern sie im Hinblick auf bestehende Tarifverträge zugelassen sind?Macht der Betriebsrat von seinem Initiativrecht überall dort Gebrauch, wo verbesserungsbedürftige und -fähige Zustände existieren?Wurde die Einigungsstelle angerufen, wenn in Verhandlungen ein zufriedenstellendes Ergebnis nicht zu erzielen war?Praktische Erfahrungen zeigen, dass wohl nur in wenigen Betrieben alle drei Fragen mit „ja“ beantwortet werden könnten.Typisch für die Haltung der Arbeitgeber ist darüber hinaus der Versuch, ganz allgemein „politisierende“ Momente im Betrieb zu vermeiden; insoweit sind landauf landab – leider zum Teil erfolgreiche – Versuche zu beobachten, den Betriebsräten eine oder gar mehrere Betriebsversammlungen durch Konzessionen auf anderen Gebieten „abzukaufen“. Das belegt umgekehrt die wichtige Funktion von Betriebsversammlungen für die Meinungsbildung und Interessenartikulation der Belegschaften.Gleichsam eine Abbildung der Problematik der Mitbestimmung bedeutet der Kampf um Betriebsratsvergütungen. Tragen Betriebsratsmitglieder gerade in Großunternehmen häufig auch Verantwortung wie „Co-Manager“ geht damit nicht eine Manager-Bezahlung einher. Es gilt vielmehr das Ehrenamtsprinzip des § 37 BetrVG, wonach Betriebsratsmitglieder von der eigentlichen Arbeit zur Erledigung der Betriebsratsaufgaben freigestellt sind, aber „ohne Minderung“ des Arbeitsentgelts (§ 37 Abs. 2 BetrVG). Die Entgeltentwicklung darf aber gemäß § 37 Abs. 4 BetrVG, was insbesondere für freigestellte Betriebsratsmitglieder wichtig ist, nicht hinter der vergleichbarer Arbeitnehmer zurückbleiben. Zudem darf die Vergütung nicht so bemessen werden, dass das Betriebsratsmitglied entgegen § 78 Satz 2 BetrVG benachteiligt wird (zum System der Betriebsratsvergütung vgl. ausführlich Deinert, VSSAR 22, 263). Das Ehrenamtsprinzip wird von der Rechtsprechung strikt verstanden (vgl. etwa zuletzt BAG 23. 11. 2022 – 7 AZR 122/22, NZA 23, 513). Ergänzende gesetzliche Regelungen sollen verhindern, dass mit Blick auf eine drohende Strafbarkeit der Manager unsachgemäßer Druck auf die Gestaltung der Vergütung ausgeübt wird (s. o. I 3 e). Im Nachgang zu einer Entscheidung des BGH (10. 1. 2023 – 6 StR 132/22, NZA 23, 301) wurden durch das Zweite Gesetz zur Änderung des Betriebsverfassungsgesetzes (s. o. I 3 f) folgende Änderungen vorgenommen:Abstellen auf vergleichbare Arbeitnehmer im Zeitpunkt der Amtsübernahme für die Bestimmung der Mindestentgeltentwicklung,Regelbarkeit der Bestimmung vergleichbarer Arbeitnehmer durch Betriebsvereinbarung,Konkretisierung der Vergleichbarkeit und der Vergleichspersonen durch Arbeitgeber und Betriebsrat, gerichtlich nur auf grobe Fehlerhaftigkeit überprüfbar,Wenn das Betriebsratsmitglied die betrieblichen Anforderungen und Kriterien für eine Vergütung erfüllt, ist eine Vergütung weder begünstigend noch benachteiligend, sofern die Festlegung nicht er
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.524)
+### Betriebsrat: Beauftragung zur Durchführung von Verhandlungen über Interessenausgleich und Sozialplan
+
+<!-- sem-asset-id: betriebsrat_beauftragung_zur_durchfuehrung_von_verhandlungen_ueber_interessenausgleich_und_sozialplan -->
+
+_Authors: Wolfgang Trittin, Olaf Deinert_
+
+**Beauftragung des Gesamtbetriebsrats (§ 50 Abs. 2 BetrVG)**
+
+
+
+Der Betriebsrat {{Betrieb}} der {{Firmenbezeichnung}} hat in seiner ordentlichen Sitzung vom {{Datum}} folgenden Beschluss gefasst:
+
+Der Betriebsrat der {{Firmenbezeichnung}} beauftragt den Gesamtbetriebsrat im Zusammenhang mit der geplanten Schließung des Betriebs {{Ort}} der {{Firmenbezeichnung}} Verhandlungen über einen Interessenausgleich durchzuführen und einen Sozialplan abzuschließen.
+
+Der Betriebsrat der {{Firmenbezeichnung}} behält sich die Entscheidungsfreiheit vor (§ 50 Abs. 2 Satz 2 BetrVG). Dies gilt auch für die Entscheidung darüber, ob die Verhandlungen gescheitert sind, ob die Einigungsstelle angerufen werden soll und wie sie besetzt wird.
+
+### Betriebsrat: Beauftragung des Gesamtbetriebsrats zur Durchsetzung von Mitbestimmungsrechten
+
+<!-- sem-asset-id: betriebsrat_beauftragung_des_gesamtbetriebsrats_zur_durchsetzung_von_mitbestimmungsrechten -->
+
+_Authors: Wolfgang Trittin, Olaf Deinert_
+
+Betriebsrat {{Betrieb}} der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+„Der Betriebsrat beauftragt den Gesamtbetriebsrat gem. § 50 Abs. 2 BetrVG mit der Durchsetzung seiner Mitbestimmungsrechte. Dieser Auftrag umfasst auch die Einleitung dazu erforderlicher Arbeitsgerichtsverfahren (Bestellungsverfahren, Unterlassungsverfügung usw.).
+
+Die endgültige Entscheidung behalten wir uns gem. § 50 Abs. 2 Nr. 2 BetrVG vor.
+
+Abstimmungsergebnis: Von den 11 Mitgliedern des Betriebsrats stimmten alle mit „Ja“. Damit ist der Antrag angenommen.“
+
+**Beschluss des Gesamtbetriebsrats über Scheitern der Verhandlungen, Einleitung von Arbeitsgerichtsverfahren und Besetzen der Einigungsstelle**
+
+Der GBR seinerseits fasst dann folgende Beschlüsse zur Einleitung der Verfahren:
+
+„Der Gesamtbetriebsrat stellt fest, dass die Gespräche über das Vorliegen einer Betriebsänderung gescheitert sind. Er ruft gem. § 111 BetrVG die Einigungsstelle an. Zur Sicherung seiner Mitbestimmungsrechte soll der Erlass einer einstweiligen Verfügung beantragt werden. Als Prozessbevollmächtigte wird RA {{Name}} in {{Ort}} beauftragt. Der GBR-Vorsitzende wird bevollmächtigt, alle weiteren notwendigen Schritte einzuleiten. Die Einigungsstelle soll seitens des Betriebsrats mit vier Beisitzern besetzt werden. Als Vorsitzender der Einigungsstelle soll Herr {{Name}}, Vizepräsident des Arbeitsgerichts {{Ort}} benannt werden.
+
+Abstimmungsergebnis: Von den 11 Mitgliedern des Betriebsrats stimmten alle mit „Ja“. Damit ist der Antrag angenommen.“
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.528)
+### Betriebsrat: Stellungnahme zur Vertragsauflösung mit einem leitenden Angestellten
+
+<!-- sem-asset-id: betriebsrat_stellungnahme_zur_vertragsaufloesung_mit_einem_leitenden_angestellten -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+Betriebsrat {{Ort}}, {{Datum}}
+
+{{Firmenbezeichnung, Adresse}}
+
+
+
+z. Hd. Herrn Geschäftsführer {{Name}}
+
+im Hause
+
+**Vertragsauflösung mit Herrn** {{Name}}
+
+Sehr geehrter Herr {{Name}},
+
+Sie haben dem Betriebsrat mit Schreiben vom {{Datum}} gemäß § 105 BetrVG mitgeteilt, dass Sie beabsichtigen, den Vertrag mit dem Niederlassungsleiter, Herrn {{Name}}, zum {{Datum}} durch Kündigung zu lösen.
+
+Obwohl dem Betriebsrat natürlich bekannt ist, dass ein Mitbestimmungsrecht gemäß § 102 BetrVG nicht besteht, da es sich bei Herrn {{Name}} um einen leitenden Angestellten gemäß § 5 Abs. 3 BetrVG handelt, möchten wir dennoch unser Unverständnis für diesen beabsichtigten Schritt erklären. Herr {{Name}}, an dessen fachlicher Qualifikation bisher niemals Zweifel bestanden, hat mit dem Betriebsrat stets zum Wohl des Unternehmens gut zusammengearbeitet. Deshalb ist uns die von Ihnen gewollte Vertragsauflösung unverständlich. Sicherlich werden in der Belegschaft eine erhebliche Unruhe und vielerlei Spekulationen Platz greifen. Der Betriebsrat würde im Interesse einer kontinuierlichen Zusammenarbeit die Weiterbeschäftigung von Herrn {{Name}} für wünschenswert halten.
+
+In der Hoffnung, dass Sie von der beabsichtigten Vertragsauflösung Abstand nehmen werden, verbleiben wir {{kasten}}.
+
+### Betriebsrat: Aufhebung einer betriebsverfassungswidrigen personellen Maßnahme
+
+<!-- sem-asset-id: betriebsrat_aufhebung_einer_betriebsverfassungswidrigen_personellen_massnahme -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+#### **Vorbemerkung**
+
+Ziel des Antrags des Betriebsrats gemäß § 101 Satz 1 BetrVG ist die **Aufhebung der betriebsverfassungswidrigen Maßnahme**. Hintergrund des Antrags ist der Umstand, dass ein ehemals leitender Mitarbeiter künftig in der Funktion eines nicht leitenden Mitarbeiters beschäftigt werden soll. Damit ein Titel vorliegt, der gemäß § 101 Satz 2 BetrVG zu einem täglichen Zwangsgeld wegen Zuwiderhandlung führen kann, muss der Antrag bzw. die Entscheidung des Arbeitsgerichts dahin gehen, dass dem Arbeitgeber untersagt wird, die personelle Maßnahme aufrechtzuerhalten (zu den Einzelheiten vgl. DKW-*Bachner/Wenckebach*, § 101 Rn. 4 ff.). Der Antrag auf Festsetzung eines Zwangsgeldes für jeden Tag der Zuwiderhandlung kann bereits mit dem Antrag auf Aufhebung der Maßnahme gestellt werden (DKW-*Bachner/Wenckebach*, § 101 Rn. 14).
+
+
+
+{{Bezeichnung}}
+
+{{Adresse}}
+
+In dem Beschlussverfahren
+
+mit den Beteiligten
+
+1. Betriebsrat der Firma {{Firmenbezeichnung, Adresse}}
+
+<p align="right">– Beteiligter zu 1. und Antragsteller –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+und
+
+2. Firma {{Firmenbezeichnung, Adresse}}
+
+<p align="right">– Beteiligte zu 2. und Antragsgegnerin –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+3. Arbeitnehmer {{Name, Adresse}}
+
+<p align="right">– Beteiligter zu 3. –</p>
+
+
+
+Wir zeigen an, dass uns der Antragsteller und Beteiligte zu 1. mit der Wahrnehmung seiner Interessen beauftragt hat. Wir bestellen uns hiermit zu dessen Verfahrensbevollmächtigten und beantragen namens und in Vollmacht des Antragstellers die Einleitung eines Vollstreckungsverfahrens im Beschlussverfahren mit folgenden Anträgen:
+
+1. Der Antragsgegnerin wird aufgegeben, den Beteiligten zu 3. bei Meidung eines Zwangsgelds, dessen Höhe in das Ermessen des Gerichtes gestellt wird, aus dem Betrieb zu entlassen.
+2. Der Streitwert wird festgesetzt.
+
+Gründe:
+
+Der Beteiligte zu 3. war bis einschließlich 31. 3. dieses Jahres als „Direktor Vertrieb“ der Beteiligten zu 2. am Essener Standort beschäftigt. Diese Position war nach den Gepflogenheiten der Beteiligten zu 2. stets als Funktion eines leitenden Angestellten behandelt worden. An der letzten Betriebsratswahl hat der Beteiligte zu 3. nicht teilgenommen. Durch eine Änderung der Geschäftsordnung der Geschäftsführung der Beteiligten zu 2. wurde das Aufgabengebiet des Beteiligten zu 3. unmittelbar auf die Geschäftsführungsebene übertragen und dem für Vertrieb zuständigen Geschäftsführungsmitglied zugewiesen. Seit dem 1. 4. dieses Jahres beschäftigt die Beteiligte zu 2. den Beteiligten zu 3. auf der Position eines Teamleiters Vertrieb, ebenfalls am Essener Standort. Der Beteiligte zu 1. wurde hierfür nicht im Verfahren des § 99 BetrVG unterrichtet. Eine Zustimmung zu der Maßnahme hat der Beteiligte zu 1. nicht erteilt.
+
+Mit dem vorliegenden Verfahren begehrt der Beteiligte zu 1. die Aufhebung der personellen Einzelmaßnahme und die Festsetzung eines Zwangsgeldes, dessen Höhe in das Ermessen des Gerichts gestellt wird, § 101 Satz 2 BetrVG.
+
+Der Antrag ist begründet. Scheidet ein bisher leitender Angestellter auf Grund veränderter Funktion und Aufgabenstellung aus dem Personenkreis des § 5 Abs. 3 BetrVG aus und soll diesem eine Tätigkeit im Bereich der nicht leitenden Angestellten zugewiesen werden, so handelt es sich aus Sicht der vom Betriebsrat vertretenen Belegschaft um eine Einstellung mit den sich aus § 99 BetrVG ergebenden Beteiligungsrechten (DKW-*Bachner/Deinert*, § 105 Rn. 2).
+
+[RREF5] SF_Klebe_BetrVG_BK.md (0.533)
+gen Einsicht zu nehmen.(4)Der Wirtschaftsausschuss hat über jede Sitzung dem Betriebsrat unverzüglich und vollständig zu berichten.(5)Der Jahresabschluss ist dem Wirtschaftsausschuss unter Beteiligung des Betriebsrats zu erläutern.(6)Hat der Betriebsrat oder der Gesamtbetriebsrat eine anderweitige Wahrnehmung der Aufgaben des Wirtschaftsausschusses beschlossen, so gelten die Absätze 1 bis 5 entsprechend.1.Häufigkeit und Durchführung der SitzungenDer Ausschuss kann auch öfter als monatlich tagen, da die Regelung nicht zwingend ist. Die Sitzungen finden grundsätzlich während der Arbeitszeit statt (§ 37 Abs. 2, 3). § 40 Abs. 2 gilt für den WA entsprechend.BAG, DB 91, 1523. Der Gesetzgeber hat darauf verzichtet, besondere Geschäftsführungsbestimmungen zu erlassen. Der WA kann sich selbst eine GeschäftsordnungMuster bei DKW-F-Däubler, §§ 106–109, Rn. 1–13. geben. Es wird notwendig sein, zu regeln, wer den Vorsitz führt, die Einladungen vornimmt, die Tagesordnungen festsetzt oder in welchem Umfang eine Niederschrift geführt werden soll. Das BAGBAG, DB 91, 1523. ist der Auffassung, dass der WA kein Recht hat, zusätzlich ein BR/GBR-Mitgl. als Protokollführer hinzuzuziehen. Das Protokoll muss entweder ein WA-Mitgl. oder eine Bürokraft gemäß § 40 Abs. 2 führen. Die Sitzungen des WA sind nicht öffentlich.So auch DKW-Däubler, Rn. 7; ErfK-Kania, Rn. 5. Das folgt schon aus den im Allgemeinen vertraulich zu behandelnden bzw. zum Teil geheimzuhaltenden Beratungsgegenständen.Im Anschluss an die Corona-Pandemie werden in § 30 Abs. 2 und 3 für den BR Abweichungsmöglichkeiten v. dem Regelfall der Präsenzsitzung dauerhaft festgelegt, Die Vorschriften gelten entsprechend für den WA wie bisherVgl. BAG 18. 11. 80, AP Nr. 2 zu § 108 BetrVG1972; DKW-Wedde, § 30 Rn. 1; DKW-Däubler, Rn. 7; Fitting, Rn. 11a; Hjort, AuR 23, 105 f. und wie auch in der Gesetzesbegründung klargestellt.BT-Drucks. 19/28899 v. 22. 4. 21, S. 20. Dies gilt auch als Folgevorschrift für § 33 Abs. 1 Satz 2 bei Beschlüssen des WA bzw. § 34 Abs. 1 Satz 4 für seine Sitzungsniederschriften (vgl. im Einzelnen die Anm. bei diesen Vorschriften). Der DGB-Entwurf für ein modernes BetrVGhttps://aur-blog.eu/reformvorschlag/. sieht in Abs. 2 klarstellend vor, dass nicht nur der AG, sondern auch der WA sachkundige AN des UN hinzuziehen kann (vgl. auch Rn. 3).2.Teilnahme des Unternehmers und anderer NichtmitgliederDer UN oder sein Vertr. sind verpflichtet, an Sitzungen des WA teilzunehmen. Hieraus kann jedoch nicht gefolgert werden, dass ohne eine solche Teilnahme eine Sitzung des WA nicht stattfinden könne. Der WA hat vielmehr auch das Recht, allein zusammenzukommen,BAG, DB 82, 1326. z. B. zu vorbereitenden Treffen.LAG SH 24. 11. 16 – 4 TaBV 40/16, juris. Wer den UN vertreten kann, bestimmt sich nach der inneren Organisation, ggf. auch nach den in Aussicht genommenen Beratungsgegenständen. Im Allgemeinen ist Vertr. diejenige Person, die nach Satzung, Geschäftsordnung oder Organisation des UN als rangnächste in der UN-Hierarchie anstelle des UN die Verantwortung trägt.Vgl. auch BAG, DB 91, 117.Der UN kann sachkundige AN des UN ebenso wie Vertreter des AG-Verbandes gemäß § 29 Abs. 4 analog hinzuziehen. Der WA kann neben sachkundigen AN/Auskunftspersonen (§§ 80 Abs. 2, 120 Abs. 1 Nr. 4)DKW-Däubler, Rn. 22. auch außenstehende Sachverständige gemäß § 80 Abs. 3 einschalten. Aufgabe des Sachverständigen ist es, dem WA die ihm zur Beurteilung einer konkreten aktuellen Frage fehlenden sachlichen Kenntnisse zu vermitteln.BAG, DB 78, 2223. Für geplante Betriebsänderungen ermöglicht § 111 Satz 2 dem BR die erleichterte und beschleunigte Einschaltung von Beratern (vgl. § 111 Rn. 1 a).Auch ein Gew.-Beauftragter kann analog § 31 an den WA-Sitzungen teilnehmen.BAG, DB 81, 1240. Der BR/GBR kann das Teilnahmerecht wegen der Unterstützungsfunktion der Gewerkschaften auch durch generellen Beschluss in seiner Geschäftsordnung einräumen.BAG, DB 90, 1288. Die frühere Entscheidung des BAG,BAG, DB 87, 2468. die einen Mehrheitsbeschluss des BR/GBR für jede einzelne Sitzung verlangte, ist als überholt anzusehen. Der WA kann die Hinzuziehung eines Gew.-Beauftragten jedenfalls selbst beschließen, wenn ihm der BR oder der GBR eine entsprechende Ermächtigung erteilt hat. Eine Gew. ist im Beschlussverfahren antragsberechtigt, wenn das Recht ihres Beauftragten auf Teilnahme an den Sitzungen des WA bestritten wird.BAG, DB 81, 1240. Die Gesamt-SBV ist ebenfalls berechtigt, an den Sitzungen des WA teilzunehmen.BAG, DB 87, 2467.3.Einsicht in UnterlagenSoweit der UN nach § 106 verpflichtet ist, den WA anhand der notwendigen Unterlagen umfassend über alle wirtschaftlichen Angelegenheiten zu unterrichten, haben die Mitgl. des WA das Recht, Einblick in diese Unterlagen zu nehmen. Das Einsichtsrecht steht jedem einzelnen Mitgl. zu. Soweit es zur Aufgabenerfüllung des WA notwendig ist, sind dessen Mitgl. nach Auffassung des BAG zwar berechtigt, sich Notizen zu machen, allerdings keine Abschriften/Ablichtungen.BAG, DB 85, 924.Je nach dem Umfang der Unterlagen muss den Mitgl. des WA vor der Beratung der entsprechenden Angelegenheiten ausreichend Zeit zur Einsicht gewährt werden. Daher kann der UN verpflichtet sein, Unterlagen schon vor der Sitzung vorzulegen oder diese den Mitgl. des WA zeitweise zu überlassen.BAG, DB 85, 924.4.Bericht des Wirtschaftsausschusses an den BetriebsratDa der WA eng mit dem BR zusammenzuarbeiten hat, ist er nach dieser Bestimmung zu unverzüglicher und vollständiger Berichterstattung über jede stattgefundene Sitzung verpflichtet. Besteht in einem UN ein GBR, so hat die Berichterstattung diesem gegenüber zu erfolgen. Eine besondere Schweigepflicht besteht nicht. Auch mitgeteilte Betriebs- und Geschäftsgeheimnisse sind weiterzugeben.Die Form, in der die Unterrichtung zu erfolgen hat, ist im Gesetz nicht geregelt. Eine bloße Aushändigung von Sitzungsprotokollen reicht jedoch grundsätzlich nicht aus.5.Erläuterung des JahresabschlussesDer für das jeweilige Geschäftsjahr aufzustellende Jahresabschluss, den der UN dem WA unter Beteiligung des BR zu erläutern hat, umfasst die Jahresbilanz und die Gewinn- und VerlustrechnungHierzu Cremer/Cremer, AiB 4/19, 23. sowie bei Kapitalgesellschaften und eingetragenen Genossenschaften den als ergänzende Erläuterung aufzustellenden Anhang und bei konzerngebundenen UN den Konzernabschluss.DKW-Däubler, Rn. 34. Ein Anspruch des WA auf Offenlegung der privaten Vermögenslage des UN als Person besteht nicht.Zum Verständnis des zu erläuternden Jahresabschlusses wird regelmäßig der Lagebericht mit den sog. nichtfinanziellen Informationen und auch der Bericht des Wirtschaftsprüfers vorzulegen sein.LAG Frankfurt, DB 88, 1807 f.; DKW-Däubler, Rn. 35 f.; vgl. auch BAG, BB 90, 458 und LAG Berlin, AiB 88, 314 f. Zudem können neben Auskunftspersonen (§ 80 Abs. 2) auch Sachverständige herangezogen werden (vgl. Rn. 3).Zu eng BAG, DB 78, 2223, das eine solche Möglichkeit nur im Fall besonderer und begründeter Notwendigkeit bejahen will. Die Mitgl. des WA sind berechtigt, sich bei der Erläuterung des Jahresabschlusses schriftliche Notizen zu machen.BAG, DB 85, 924; ausdrücklich für den Jahresabschluss LAG Hamm, DB 83, 131 f.6.Ordnungswidrigkeit, Aufgabenwahrnehmung durch AusschussEin Verstoß gegen diese Vorschrift ist eine Ordnungswidrigkeit i. S. des § 121.Die Bestimmung regelt, dass die vorstehenden Grundsätze entsprechend gelten, wenn die Aufgaben des WA auf einen Ausschuss des BR oder GBR nach § 107 Abs. 3 übertragen worden sind.
+150|117352§ 109 Beilegung von MeinungsverschiedenheitenbundimportedAsset##64f5d69a-bd90-47c8-b86c-d1c0602a8807Beilegung von Meinungsverschiedenheiten§ 109walhalla150|1523919§ 109Beilegung von MeinungsverschiedenheitenWird eine Auskunft über wirtschaftliche Angelegenheiten des Unternehmens im Sinn des § 106 entgegen dem Verlangen des Wirtschaftsausschusses nicht, nicht rechtzeitig oder nur ungenügend erteilt und kommt hierüber zwischen Unternehmer und Betriebsrat eine Einigung nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat. Die Einigungsstelle kann, wenn dies für ihre Entscheidung erforderlich ist, Sachverständige anhören; § 80 Abs. 4 gilt entsprechend. Hat der Betriebsrat oder der Gesamtbetriebsrat eine anderweitige Wahrnehmung der Aufgaben des Wirtschaftsausschusses beschlossen, so gilt Satz 1 entsprechend.1.Anrufung der EinigungsstelleDie Anrufung des ESt.Allgemein zum Verfahren Rupp/Laßmann, AiB 12, 598. kann nicht durch den WA selbst erfolgen. Dieser muss vielmehr – ein wirksamer Beschluss ist nicht Voraussetzung –BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393; a. A. LAG Düsseldorf 26. 2. 16 – 4 TaBV 8/16, LAGE § 109 BetrVG 2001 Nr. 3; LAG SH 24. 11. 16 – 4 TaBV 40/16, juris. mit seinem hinreichend bestimmten Auskunftsverlangen (welche Auskünfte genau sind nicht, nicht rechtzeitig oder nur ungenügend erteilt worden), zunächst den BR/GBR einschalten. Dabei kann es sich auch um künftig regelmäßig wiederkehrende Vorgänge handeln.BAG 17. 12. 19 – 1 ABR 35/18, NZA 20, 531. Kommt es zu keiner Einigung – eine Einigung ist auch für den WA verbindlich –BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393. kann der BR/GBR die ESt. anrufen, deren Entscheidung verbindlich ist.Vgl. DKW-F-Däubler, §§ 106–109a mit Schreiben des WA an BR/GBR (Rn. 23) und Anrufung der ESt. durch BR bei DKW-F-Berg, § 76 Rn. 8. Da eine Verschwiegenheitspflicht der WA-Mitgl. besteht, kann sich der UN auch nicht durch die Berufung auf eine Vertraulichkeit der zu behandelnden Angelegenheiten der Unterrichtungspflicht entziehen. Lediglich dann, wenn durch die Unterrichtung Betriebs- oder Geschäftsgeheimnisse des UN gefährdet werden, kann er die Unterrichtung verweigern (§ 106 Abs. 2). Es muss sich um Geschäfts- und Betriebsgeheimnisse handeln, an deren absoluter Geheimhaltung ein dringendes Interesse des UN besteht. Das festzustellen liegt nicht im subjektiven Ermessen des UN. Es muss sich vielmehr um objektiv feststellbare Tatbestände handeln.2.ZuständigkeitDie Zuständigkeit der ESt. ist weitreichend. Sie entscheidet nicht nur über Erteilung, Zeitpunkt und Umfang einer verlangten Auskunft, sondern auch über die Modalitäten der Vorlage von UnterlagenBAG 12. 2. 19 – 1 ABR 37/17, NZA 19, 787. und darüber, ob der UN die Auskunftserteilung unter Berufung darauf verweigern kann, dass andernfalls ein Betriebs- oder Geschäftsgeheimnis des UN gefährdet werden könnte.Vgl. BAG, DB 01, 600; OLG Karlsruhe, DB 86, 387 f.; LAG Düsseldorf, DB 78, 1695 ff. Sie befindet damit über Rechtsfragen. Die Frage, ob ein WA zu bestellen ist und ob der AG seine Pflicht zur Teilnahme an dessen Sitzungen verletzt hat, ist demgegenüber ebenso im arbeitsgerichtlichen Beschlussverfahren zu klärenLAG Hessen, NZA-RR 07, 199. wie die, ob eine wirtschaftliche Angelegenheit vorliegt.BAG, DB 91, 1176; NZA 96, 55.Zur Beilegung von Streitigkeiten über das Einsichtsrecht in vorzulegende Unterlagen nach § 108 Abs. 3 und über die Erl. des Jahresabschlusses nach § 108 Abs. 5 ist ebenfalls die ESt. zuständig.BAG, BB 90, 458; LAG Düsseldorf, DB 78, 1695 ff. Sie kann zudem darüber befinden, ob der UN verpflichtet ist, dem WA im Zusammenhang mit der Erl. den Wirtschaftsprüferbericht vorzulegenBAG a. a. O.; vgl. auch LAG Berlin, AiB 88, 314 ff. und ob der AG verpflichtet ist, Berichte in Papier- oder in elektronischer Form vorzulegen.LAG Köln 10. 3. 17 – 9 TaBV 17/16, juris.Die ESt. ist für die Frage nicht nach § 100 ArbGG offensichtlich unzuständig, ob der WA verlangen kann, dass ihm bereits der Entwurf des Jahresabschlusses vor konzerninterner Abgleichung vorzulegen ist.LAG Berlin, AiB 88, 314 f. Deshalb ist sie auch in diesem Fall zu bilden. Das gilt auch für die Vorlage von Studien, die der AG selbst nicht in Auftrag gegeben hat, die ihm jedoch zur Verfügung stehen und von denen er Kenntnis genommen hatHessLAG, AiB 96, 668. oder bei Meinungsverschiedenheiten darüber, ob bei einer Veräußerung der Geschäftsanteile der entsprechende Vertrag dem WA vorzulegen ist.AG Berlin, AiB 11, 260. Die ESt. ist auch zu bilden, wenn der WA eines Gemeinschaftsbetriebs von Tochter-UN von der übergeordneten Konzernholding, die bei diesem mehrfach in unternehmerische Entscheidungen eingegriffen hat, bei einer Umorganisation wissen will, welche Vermögenswerte an welche Tochter-UN gegangen sind.LAG Nds. 3. 11. 09 – 1 TaBV 63/09, NZA-RR 10, 142 = AiB 10, 263 m. Anm. Trittin/Gilles. Der Streit als Vorfrage darüber, ob der WA überhaupt wirksam gebildet wurde, führt ebenfalls nicht zu einer offensichtlichen Unzuständigkeit der ESt. Diese Frage hat die ESt. vielmehr im Rahmen ihrer Zuständigkeitsprüfung zu klären.LAG Köln 27. 5. 16 – 10 TaBV 28/16; LAG Hessen 1. 8. 06 – 4 TaBV 11/06, NZA-RR 07, 199; zu Unrecht a. A. LAG Niedersachsen 19. 2. 13 – 1 TaBV 155/12; vgl. auch LAG BB 17. 11. 22 – 26 Ta (Kost) 6090/22, NZA 23, 383 m. w. N. zum Streitstand.3.Sachverständige, Überprüfung des SpruchsHält die ESt. es für erforderlich, kann sie auch ohne entsprechende Vereinbarung zwischen BR und AG Sachverständige hinzuziehen. Entscheidet sie zugunsten des WA, kann sich der BR/GBR einen Vollstreckungstitel im arbeitsgerichtl. Beschlussverfahren verschaffen, um z. B. die Auskunft zu erzwingen. Der Spruch der ESt., der funktional einer Regelungsabrede entspricht und deshalb keiner Schriftform bedarf,BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393. muss v. UN ggfs. umgesetzt werden.BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393. Er unterliegt der vollen Rechtskontrolle durch die ArbG.BAG 11. 7. 00 – 1 ABR 43/99, DB 01, 598 f.; 17. 12. 19 – 1 ABR 25/18, NZA 20, 393; Anfechtung eines ESt.-Spruchs bei DKW-F-Berg, § 76 Rn. 14. Sowohl AG als auch BR – nicht der WA, der nur ein Hilfsorgan des BR ist -BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393; 26. 2. 20 – 7 ABR 20/17, NZA 20, 960. können den Rechtsschutz in Anspruch nehmen und ggfs. auch nur einen selbständigen Teil des Spruchs anfechten.BAG 17. 12. 19 – 1 ABR 25/18, NZA 20, 393. Wehrt sich der AG im Beschlussverfahren gegen die ihm von der Est. auferlegte Verpflichtung, sollte der BR nicht nur die Abweisung dieses Antrags, sondern auch die von der Est. festgelegte Form der Unterrichtung geltend machen, um so die Durchsetzung mit Zwangsmitteln sicherzustellen.LAG Köln 5. 10. 11 – 9 TaBV 94/10, juris; DKW-Däubler, Rn. 14a. Wegen der Primärzuständigkeit der ESt. kann der BR seine Informationsrechte gemäß §§ 106 ff. nicht unter Verzicht auf das ESt.-Verfahren oder parallel hierzu direkt im Beschlussverfahren verfolgen.BAG, BB 90, 459; LAG Frankfurt, DB 88, 2519.
+150|117353§ 109a UnternehmensübernahmebundimportedAsset##78af78e5-e1ac-4878-8c58-5a46a44a3043Unternehmensübernahme§ 109awalhalla150|1523963§ 109aUnternehmensübernahmeIn Unternehmen, in denen kein Wirtschaftsausschuss besteht, ist im Fall des § 106 Abs. 3 Nr. 9a der Betriebsrat entsprechend § 106 Abs. 1 und 2 zu beteiligen; § 109 gilt entsprechend.Für den begrenzten Bereich des § 106 Abs. 3 Nr. 9a werden dem BR die
+
+
+
+---
+
+## Q-P1-CZ-06  (subtask: strategic_practical)
+
+### FRAGE
+Welche Strategien gibt es, um Vertrauen in der Belegschaft aufzubauen?
+
+### REFERENZ
+- Sichtbarkeit und Ansprechbarkeit
+- Probleme ernst nehmen
+- Beteiligungsformate schaffen
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten lassen sich mehrere strategische Ansätze identifizieren, um Vertrauen in der Belegschaft zu stärken. Diese umfassen die Gestaltung von Arbeitszeitmodellen, die Zusammenarbeit zwischen Betriebspartnern sowie Maßnahmen zur Beschäftigungssicherung.
+
+Hier sind die relevanten Strategien im Detail:
+
+### 1. Einführung von Vertrauensarbeitszeit mit begleitenden Schutzmaßnahmen
+Die Einführung von Vertrauensarbeitszeit kann ein Instrument zur Stärkung der Selbstbestimmung sein, erfordert jedoch begleitende Maßnahmen, um Missbrauch und Überlastung zu verhindern und somit das Vertrauen zu erhalten.
+
+*   **Schulungen und Bewusstseinsbildung:** Vor der Einführung sollten alle Arbeitnehmer:innen und Vorgesetzten Trainings im Zeitmanagement erhalten. Ziele sind die Schaffung von Bewusstsein für einen sinnvollen Umgang mit Arbeitszeit und die Vermeidung einer „Zeitverbrauchskultur" [RREF1].
+*   **Einbeziehung der Beschäftigten:** Die Betroffenen sollten aktiv in die Gestaltung einbezogen werden, beispielsweise durch Arbeitsgruppen oder als Auskunftspersonen gemäß § 80 Abs. 2 BetrVG [RREF2]. In Abteilungen oder Projektteams sind regelmäßige Besprechungen zur Arbeitsbelastung und zum Arbeitszeitausgleich durchzuführen [RREF1].
+*   **Schutz vor Überlastung:** Trotz des Vertrauensmodells ist eine genaue Erfassung der geleisteten Arbeitszeit notwendig, um gesetzliche Schutzvorschriften einzuhalten und Arbeitnehmer vor Überlastung zu schützen [RREF2].
+*   **Unterstützungsstrukturen:** Es sollte eine Arbeitszeitkommission eingerichtet werden, an die sich Arbeitnehmer:innen bei Problemen hinsichtlich Arbeitsmenge oder -belastung wenden können [RREF1].
+*   **Probephase:** Sofern keine Erfahrungen mit flexibler Arbeitszeit vorliegen, empfiehlt sich eine probeweise Einführung der Regelungen [RREF2].
+
+### 2. Vertrauensvolle Zusammenarbeit zwischen Arbeitgeber und Betriebsrat
+Das Betriebsverfassungsgesetz (BetrVG) fordert eine vertrauensvolle Zusammenarbeit, die als Grundkonzeption auch auf die Stimmung in der Belegschaft ausstrahlt.
+
+*   **Grundsatz der vertrauensvollen Zusammenarbeit:** Arbeitgeber und Betriebsrat müssen zum Wohl der Arbeitnehmer und des Betriebs zusammenarbeiten (§ 2 Abs. 1 BetrVG) [RREF4].
+*   **Vermeidung vollendeter Tatsachen:** Der Arbeitgeber darf keine vollendeten Tatsachen schaffen, bevor der Betriebsrat seine Mitbestimmungsrechte wahrnehmen kann. Der Betriebsrat kann sonst die Unterlassung verlangen [RREF4].
+*   **Wechselseitige Rücksichtnahmepflichten:** Beide Parteien müssen alles unterlassen, was der Wahrnehmung von Rechten entgegensteht. Dazu gehört auch die Einhaltung von Informationspflichten (z. B. bei Eingruppierungen) [RREF4].
+*   **Einbindung der Gewerkschaften:** Der Betriebsrat ist verpflichtet, in allen Fragen mit der im Betrieb vertretenen Gewerkschaft zusammenzuarbeiten, was die Interessenvertretung stärkt [RREF4].
+
+### 3. Aktive Beschäftigungssicherung (§ 92a BetrVG)
+Maßnahmen zur Sicherung von Arbeitsplätzen sind ein wesentlicher Vertrauensfaktor. Der Betriebsrat kann hier initiativ werden.
+
+*   **Initiative nach § 92a BetrVG:** Der Betriebsrat kann die Initiative ergreifen, um mit dem Arbeitgeber in einen Gedankenaustausch über beschäftigungssichernde Maßnahmen zu treten [RREF3].
+*   **Konstruktive Kommunikation:** Die Ansprache an den Arbeitgeber sollte bewusst freundlich gehalten sein, um die Ernsthaftigkeit des Vorhabens zu unterstreichen, ohne sofortige Konfrontation zu suchen [RREF3].
+*   **Konkrete Maßnahmenkataloge:** Vertrauen wird durch konkrete Vorschläge gestärkt, wie z. B.:
+    *   Bessere Aufteilung des Arbeitsvolumens (Abbau von Überstunden, Kurzarbeit) [RREF5].
+    *   Verbesserung des innerbetrieblichen Arbeitsmarkts (Vorrang interner Bewerber, Qualifizierung) [RREF5].
+    *   Unternehmerische Maßnahmen (Rückholung ausgelagerter Aufgaben, Beschränkung von Outsourcing) [RREF5].
+    *   Beschränkung oder Ausschluss von Kündigungen (Vorrang der Kurzarbeit vor der Kündigung) [RREF5].
+
+### Zusammenfassung
+Vertrauen in der Belegschaft wird nicht allein durch Appelle aufgebaut, sondern durch strukturelle Maßnahmen. Dazu gehören die qualifizierte Einführung von Flexibilisierungsmodellen wie der Vertrauensarbeitszeit unter Einhaltung von Schutzstandards [RREF1] [RREF2], die Einhaltung der gesetzlichen Grundsätze der vertrauensvollen Zusammenarbeit zwischen den Betriebsparteien [RREF4] sowie proaktive Initiativen zur Beschäftigungssicherung gemäß § 92a BetrVG [RREF3] [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.571)
+#### § 8 Zeiterfassung
+
+Beim Betreten und Verlassen des Betriebsgeländes ist die elektronische manipulationssichere Zeiterfassung zu betätigen. Die elektronische manipulationssichere Zeiterfassung erfolgt für Arbeitszeiten außerhalb des Betriebsgeländes mittels mobielen Eingabegeräten..
+
+> #### **Hinweis:**
+>
+> Siehe hierzu Betriebsvereinbarung Zeiterfassung und Zugangskontrolle Rn. 9.
+
+#### § 9 Einführung, Einbeziehung der Arbeitnehmer:innen
+
+#### 1. Einführung
+
+Vor Einführung der Vertrauensarbeitszeit erhalten alle Arbeitnehmer:innen und Vorgesetzten Trainings im Zeitmanagement. Die Trainings haben insbesondere folgende Ziele:
+
+- Schaffung von Bewusstsein für den sinnvollen Umgang mit Arbeitszeit,
+- Schaffung von Bewusstsein, dass eine Zeitverbrauchskultur bzw. ein Arbeiten ohne Ende weder produktiv noch gewünscht ist,
+- {{kasten}}.
+
+In den Schulungen werden den Arbeitnehmer:innen und Vorgesetzen Methoden vermittelt, wie sie diese Ziele in der Praxis umsetzen können.
+
+Die einzelnen Schulungsinhalte werden zwischen Arbeitgeber:in und Betriebsrat vereinbart. An jedem Training kann der Betriebsrat teilnehmen.
+
+> #### **Hinweis:**
+>
+> Sollen die Chancen der Vertrauensarbeitszeit realisiert werden und die Risiken vermieden bzw. in Grenzen gehalten werden, setzt dies bei Arbeitnehmer:in und Vorgesetzten ein entsprechendes Problembewusstsein voraus. Dieses lässt sich durch Trainings wecken.
+
+#### 2. Einbeziehung der Arbeitnehmer:innen
+
+In den Abteilungen bzw. in den Projektteams finden regelmäßig Besprechungen über die zu erledigenden Aufgaben, die Arbeitsbelastung und die Arbeitszeitsituation statt. In diesen Besprechungen können zwischen den Beteiligten Maßnahmen zum Arbeitszeitausgleich und zur gleichmäßigen Verteilung der Arbeitsbelastung vereinbart werden.
+
+Die Vereinbarungen sind zu dokumentieren.
+
+Einzelne Arbeitnehmer:innen oder Gruppen von Arbeitnehmer:innen können sich jederzeit an die Arbeitszeitkommission wenden und um Hilfestellung bei der Lösung von Problemen im Hinblick auf Arbeitsmenge bzw. -belastung bitten.
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.584)
+#### § 4 Schlussbestimmungen
+
+Diese Betriebsvereinbarung ist mit einer Frist von {{kasten}} Monaten zum Schluss eines Kalenderjahres kündbar, erstmals zum {{Datum}}. Die Kündigung dieser Betriebsvereinbarung ist nur wirksam, wenn sie schriftlich erfolgt. Die Betriebsvereinbarung wirkt nach. Anlagen sind Bestandteil dieser Betriebsvereinbarung.
+
+### Vertrauensarbeitszeit
+
+<!-- sem-asset-id: vertrauensarbeitszeit -->
+
+_Authors: Thomas Klebe, Micha Heilmann_
+
+#### **Vorbemerkung**
+
+Vertrauensarbeitszeit verspricht den Beschäftigten ein hohes Maß an Selbstbestimmung über ihre Arbeitszeit. Probleme entstehen durch die Zuteilung der Arbeitsmenge, die dazu führen kann, dass Beschäftigte letztlich „ohne Ende arbeiten“. Zwar unterliegen Arbeitnehmer:innen im Hinblick auf die Arbeitszeit keiner Kontrolle mehr, aber durch die Zuweisung von Arbeiten, die Vereinbarung von zu erreichenden Zielen, insbesondere bei Projektarbeit, wird das Betriebsrisiko auf den Arbeitnehmer verlagert (vgl. DKW-*Klebe*, § 87 Rn. 100 m. w. N.). Die mit der Vertrauensarbeitszeit möglichen individuellen Gestaltungsmöglichkeiten sind abhängig von der Personalausstattung. Ist die Personaldecke zu dünn, stehen die individuellen Gestaltungsspielräume nur auf dem Papier. Um die Arbeitnehmer:innen vor Überlastung zu schützen, ist es notwendig, die Arbeitszeit zu erfassen (vgl. DKW-*Klebe*, § 87 Rn. 100 m. w. N.).
+
+Besonderes Augenmerk muss auf die Einbeziehung der Betroffenen gelegt werden. Nur hierüber kann sichergestellt werden, dass die Chancen der Vertrauensarbeitszeit genutzt und die Risiken minimiert werden. Insbesondere im Rahmen von Projektarbeit sind Regelungen zu treffen, die bei längeren Projekten sicherstellen, dass Arbeitnehmer Ausgleichszeiten auch tatsächlich in Anspruch nehmen können.
+
+Die Einbeziehung kann z. B. über die Bildung von Arbeitsgruppen, die Einbeziehung von betroffenen Arbeitnehmern als Auskunftspersonen (§ 80 Abs. 2 BetrVG) in die Gestaltung der Betriebsvereinbarung sowie deren Durchführung erfolgen.
+
+Sofern keine Erfahrungen mit flexibler Arbeitszeit im Betrieb vorliegen, empfiehlt es sich, die Regelungen der Vertrauensarbeitszeit zunächst zur Probe einzuführen.
+
+Neben den tarifvertraglichen Regelungen müssen auch die gesetzlichen Schutzvorschriften des Arbeitszeitgesetzes eingehalten werden. Dazu ist eine genaue Erfassung der geleisteten Arbeitzeit erforderlich.
+
+Regelungen zur „Vertrauensarbeitszeit“ sind nicht über die Einigungsstelle erzwingbar, es handelt sich um eine freiwillige Betriebsvereinbarung (DKW-*Klebe*, § 87 Rn. 100).
+
+
+
+Ziel dieser Betriebsvereinbarung ist es, die Möglichkeiten zur individuellen Gestaltung der Arbeitszeit zu erhöhen. Dies setzt einen verantwortungsvollen Umgang mit den geschaffenen Freiräumen voraus.
+
+Die persönlichen Arbeitszeitwünsche sind dabei mit den betrieblichen Erfordernissen in Einklang zu bringen. Hierfür legt diese Betriebsvereinbarung die Prozesse fest.
+
+Die Betriebsparteien sind sich darüber einig, dass durch die Gestaltung der Prozesse, der Planung von Arbeitsprozessen und der Planung der Arbeitszeit, insbesondere im Rahmen von Projektarbeit, sichergestellt werden muss, dass Arbeitnehmer ausreichend Möglichkeiten haben, Ausgleichszeiten in Anspruch zu nehmen.
+
+Bei der Vereinbarung von Zielen oder der Zuweisung von Aufgaben usw. für einzelne Arbeitnehmer:innen und/oder Gruppen von Arbeitnehmern dürfen keine Ziele, Aufgaben usw. vereinbart oder zugewiesen werden, die im Rahmen der geltenden Arbeitszeit nicht zu bearbeiten sind.
+
+Gesetzliche, tarifliche und betriebliche Regelungen sind einzuhalten.
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.628)
+### Beschäftigungsförderung
+
+<!-- sem-asset-id: beschaeftigungsfoerderung -->
+
+_Authors: Wolfgang Däubler_
+
+Der Übergang von der Beschäftigungssicherung zur Beschäftigungsförderung ist fließend. Im Folgenden sind solche Vorschläge aufgelistet, bei denen die Erweiterung der Zahl der Arbeitsplätze im Vordergrund steht. Dies schließt nicht aus, dass bei einer tatsächlichen Umsetzung lediglich eine Sicherung des bestehenden Umfangs eintritt.
+
+(1) Erschließung neuer Geschäftsfelder
+
+(2) Steigerung des Exports
+
+(3) Innovationsfreundliche Arbeitsorganisation
+
+(4) Kundenfreundlichere Arbeitszeiten
+
+(5) Qualifizierung für neue Aufgaben
+
+(6) Qualifizierung während der Elternzeit
+
+(7) Investitionen in Zukunftstechnologien
+
+(8) Förderung der Beschäftigungsfähigkeit der Arbeitnehmer (Employability)
+
+### Betriebsrat schreibt an Arbeitgeber wegen Beschäftigungssicherung
+
+<!-- sem-asset-id: betriebsrat_schreibt_an_arbeitgeber_wegen_beschaeftigungssicherung -->
+
+_Authors: Wolfgang Däubler_
+
+Betriebsrat der Firma {{Firmenbezeichnung, Adresse}} {{Ort}}, {{Datum}}
+
+Betriebsratsvorsitzender {{Name}}
+
+
+
+{{Firmenbezeichnung}}
+
+im Hause
+
+
+
+uns allen ist bewusst, dass der Außendienst unseres Unternehmens im vergangenen Jahr eine weitreichende Umstrukturierung erfahren hat. Dabei wurde die Zahl der Arbeitsplätze von 540 auf 480 verringert.
+
+Als Betriebsrat der Hauptverwaltung werden wir fast täglich von Beschäftigten darauf angesprochen, ob eine vergleichbare Entwicklung nicht auch im Innendienst droht. Wir möchten deshalb nach § 92a BetrVG die Initiative ergreifen, um mit Ihnen in einen Gedankenaustausch über beschäftigungssichernde Maßnahmen zu treten. Als vorläufige Themengebiete haben wir ins Auge gefasst:
+
+- Zurückführung des Fremdfirmeneinsatzes,
+- Besetzung offener Stellen mit Bewerbern aus dem Unternehmen, die ggf. auf ihre neue Funktion durch Weiterbildungsmaßnahmen vorzubereiten wären;
+- Erweiterung des Angebots (bei einem Versicherungsunternehmen z. B. im Bereich der Sach- und der Haftpflichtversicherung).
+
+Wegen der Vereinbarung eines konkreten Besprechungstermins, der möglichst bis {{Datum}} stattfinden sollte, werden wir in den nächsten Tagen auf Sie zukommen.
+
+> #### **Hinweis:**
+>
+> Der Brief ist bewusst freundlich gehalten, zumal man ja bei jeder Konfrontation rechtlich den Kürzeren ziehen würde. Die Nennung von drei Gebieten unterstreicht die Ernsthaftigkeit des Vorhabens, ohne dass man dadurch auf genau diese Bereiche festgelegt wäre. Der dritte Vorschlag betrifft den Gegenstand des Unternehmens (im konkreten Fall ging es um ein Versicherungsunternehmen) und könnte etwas Verstimmung beim Vorstand auslösen („Davon verstehen die doch nichts“). Deshalb sollte der Betriebsrat etwas Derartiges nur ansprechen, wenn er hier wirklich ein paar neue Ideen hat.
+
+[RREF4] SF_Klebe_BetrVG_BK.md (0.629)
+lgt die Steuerung des Personaleinsatzes und die Nutzung der Betriebsmittel nur durch ein Unternehmen, liegt eine einheitliche Leitung nicht vor.BAG, NZA 05, 1248 f. Auch bei Restaurants derselben Franchisekette liegt ein gemeinsamer Betrieb nicht vor, wenn kein betriebsübergreifender Personaleinsatz stattfindet, der von der übergeordneten Leitungsebene gesteuert wird. Eine allein unternehmerische Zusammenarbeit reicht für die Annahme eines gemeinsamen Betriebes von zwei oder mehr UN nicht aus.BAG 23. 11. 16 – 7 ABR 3/15, NZA 17, 1003; vgl. zur Zusammenarbeit in einer Mediengruppe (gem. Betrieb vereint) LAG BB 27. 1. 2015 – 11 Sa 868/14. Allein die Tatsache, dass ein Unternehmen im Rahmen eines Konzernverhältnisses von einem anderen beherrscht wird, rechtfertigt nicht die Annahme eines gemeinsamen Betriebes bzw. einer Führungsvereinbarung.BAG 11. 12. 07, NZA-RR 2008, 298. Da eine solche meist nicht schriftlich vorliegt, wird aus der praktischen Durchführung der einheitlichen Leitung geschlossen, dass dieser eine Führungsvereinbarung zugrunde liegt. Wenn z. B. Unternehmen, die an einer ambulanten Dialyseeinrichtung beteiligt sind, wechselseitig dafür Personal (incl. Leitungspersonal) stellen und wechselseitig an der Personalleitung beteiligt sind, spricht dies für eine Führungsvereinbarung.LAG MV 13. 6. 17 – 5 Sa 209/16. Nur der formale Abschluss einer Führungsvereinbarung, ohne dass diese in der Praxis auch umgesetzt wird, reicht nicht aus, um von einem gemeinsamen Betrieb zweier oder mehrerer UN auszugehen.BAG 8. 3. 22 – 1 ABR 19/21; 20. 2. 18 – 1 ABR 53/16. Liegen die – widerlegbaren – Voraussetzungen eines der beiden Vermutungstatbestände nach Abs. 2 vor, wird der gemeinsame Betrieb und damit auch die gemeinsame Leitung samt Führungsvereinbarung vermutet.Muster einer Führungsvereinbarung brwo-Trittin, § 1 Führungsvereinbarung zum gemeinsamen Betrieb. Die Vermutungsregeln des Abs. 2 sollen es der Praxis erleichtern festzustellen, wann ein gemeinsamer Betrieb gegeben ist. Ein gemeinsamer Betrieb zweier UN liegt aber nicht nur in den beiden Fällen der Vermutungen des Abs. 2 vor. Liegen die Voraussetzungen der Vermutungstatbestände nicht vor, ist nach o. g. Grundsätzen zu prüfen, ob mehrere UN einen Gemeinschaftsbetrieb betreiben.BAG 11. 2. 04 – 7 ABR 27/03; vgl. DKW-Trümner, Rn. 92 ff.; vgl. Fitting, Rn. 84 ff. Folgende tatsächliche Umstände werden u. a. von der Rspr. bei der Beantwortung der Frage, ob ein gemeinsamer Betrieb vorliegt, herangezogen:DKW-Trümner, Rn. 96.gemeinsame Nutzung von Räumen;gemeinsame Einrichtungen für die Arbeitnehmer der Unternehmen, wie z. B. Betriebsrestaurant, Kindergarten, Personalabteilung, Lohnbuchhaltung, Druckerei;gemeinsame Durchführung von Ausbildung;Personenidentität der Geschäftsführung; gem. Nutzung von Betriebsmitteln; Arbeitnehmertausch; einheitliche Dienst- bzw. Urlaubspläne.Eine steuerliche Organschaft zweier Unternehmen (§ 2 Abs. 2 Nr. 2 UStG) kann ein Indiz für einen gemeinsamen Betrieb sein. Sie allein begründet ihn aber nicht.BAG, DB 05, 1914.Auch dann, wenn die Vermutungstatbestände nicht gegeben sind, kann ein gemeinsamer Betrieb vorliegen.BAG 23. 11. 16 – 7 ABR 3/15. Dies kann der Fall sein, wenn betriebsangehörige AN durch Leih-AN einer unternehmenseigenen Personalservicegesellschaft ersetzt werden, ohne dass die betriebliche Organisation sonst verändert wird.LAG Nds. 20. 1. 09 – 13 TaBV 3/08; a. A. LAG Düsseldorf 15. 1. 09 – 15 TaBV 379/08.Wird für ein UN, das mit einem anderen UN einen Gemeinschaftsbetrieb unterhält, das Insolvenzverfahren eröffnet, löst sich der Gemeinschaftsbetrieb auf. Etwas anderes gilt nur dann, wenn der Insolvenzverwalter aktiv den Gemeinschaftsbetrieb fortführt.LAG Köln 26. 6. 18 – 7 Sa 794/17.Steht fest, dass die organisatorischen Voraussetzungen für einen Gemeinschaftsbetrieb nicht vorliegen, kommt es auf die Vermutung eines einheitlichen Leitungsapparates (Abs. 2) nicht an.BAG 13. 2. 13 – 7 ABR 36/11. Ein gemeinsamer Betrieb liegt dann nicht vor. Sofern mehrere UN mehrere gemeinsame Betriebe führen, hat dies nicht zur Folge, dass diese zu einem einzigen gemeinsamen Betrieb werden. Eine Zusammenfassung mehrerer gemeinsamer Betriebe kann nicht über § 1 Abs. 1 Satz 2, Abs. 2 erfolgen.BAG 18. 1. 12 – 7 ABR 72/10.Liegt ein gemeinsamer Betrieb mehrerer Unternehmen vor, ist dessen AN-Zahl – und nicht die der einzelnen am gemeinsamen Betrieb beteiligten Unternehmen – für die Schwellenwerte des BetrVG maßgebend; dies gilt auch für die Schwellenwerte beim Interessenausgleich und Sozialplan (§ 111 ff.).LAG Düsseldorf 19. 8. 14 – 17 Sa 67/14; DKW-Trümner § 1 Rn. 195; DKW-Däubler § 111 Rn. 33.Wird der gemeinsame Betrieb mehrerer UN aufgelöst und werden die einzelnen Betriebsteile fortgeführt, hat dies nicht automatisch zur Folge, dass der ursprüngliche Betrieb untergeht. Dies hängt vielmehr davon ab, ob die Identität des Betriebs erhalten bleibt.BAG 8. 3. 22 – 1 ABR 19/21.b)Gemeinsame arbeitstechnische ZweckeNach Abs. 2 Nr. 1 wird ein Gemeinschaftsbetrieb widerlegbar vermutet, wenn von den UN die in einer Betriebsstätte vorhandenen materiellen und immateriellen Betriebsmittel für den oder die arbeitstechnischen Zwecke genutzt und die AN von einer einheitlichen Leitung gemeinsam eingesetzt werden.BAG 13. 8. 08 – 7 ABR 21/07. Dabei ist nicht entscheidend, zu welchem der UN (AG) die AN in einem Arbeitsverhältnis stehen. Ein typisches Beispiel für einen solchen Gemeinschaftsbetrieb ist ein von mehreren UN betriebenes Rechenzentrum. Liegen die Voraussetzungen der gemeinsamen Nutzung der Betriebsmittel bzw. des gemeinsamen Einsatzes der AN vor, was nicht nur in der gemeinsamen räumlichen Unterbringung, sondern auch in der personellen, technischen und organisatorischen Verknüpfung der Arbeitsabläufe sichtbar werden kann, wird gesetzlich eine einheitliche Leitung vermutet.Vgl. BAG 22. 6. 05 – 7 ABR 57/04. Dabei ist nicht erforderlich, dass die Leitungsfunktion auch wirtschaftliche Angelegenheiten umfasst. Es genügt, wenn sie sich auf soziale und personelle Angelegenheiten erstreckt.Vgl. BAG 18. 1. 90 – 2 AZR 355/89. Die vom Gesetz vermutete Leitungsfunktion kann von den beteiligten UN, wenn es darüber zu einem Rechtsstreit kommt, in dem dann zu führenden Beschlussverfahren widerlegt werden.c)Folgen der UnternehmensspaltungDie zweite Vermutungsregelung (Abs. 2 Nr. 2) betrifft den Fall, dass im Zuge der Spaltung eines UN von einem Betrieb dieses UN ein oder mehrere Betriebsteile einem anderen UN, das an der Spaltung beteiligt ist, zugeordnet werden. Der Begriff der Spaltung umfasst die Fälle der Aufspaltung, der Abspaltung und der Ausgliederung. Voraussetzung für die Anwendung der Vermutungsregelung des Abs. 2 Nr. 2 ist, dass sich die Organisation des gespaltenen Betriebs nicht wesentlich ändert. Die an der Spaltung beteiligten UN wollen den Betrieb als gemeinsamen Betrieb weiterführen, um auch zukünftig die Vorteile eines eingespielten Betriebs und seiner Organisation nutzen zu können. Ein wesentliches Indiz dafür, dass sich die Organisation des betroffenen Betriebs nicht wesentlich ändert, besteht in der gemeinsamen Benutzung wesentlicher materieller und immaterieller Betriebsmittel; darüber hinaus auch darin, dass die personelle, technische und organisatorische Verknüpfung der Arbeitsabläufe im Wesentlichen gleich bleibt. Die gesetzliche Vermutung eines gemeinsamen Betriebs ist auch bei dieser Vermutungsregelung widerlegbar. Im Streitfall haben die ArbG im Wege des Beschlussverfahrens zu entscheiden.
+150|117232§ 2 Stellung der Gewerkschaften und Vereinigungen der ArbeitgeberbundimportedAsset##1ab1ab36-e8ed-4347-b60a-be30b6dc911fStellung der Gewerkschaften und Vereinigungen der Arbeitgeber§ 2walhalla150|1523722§ 2Stellung der Gewerkschaften und Vereinigungen der Arbeitgeber(1)Arbeitgeber und Betriebsrat arbeiten unter Beachtung der geltenden Tarifverträge vertrauensvoll und im Zusammenwirken mit den im Betrieb vertretenen Gewerkschaften und Arbeitgebervereinigungen zum Wohl der Arbeitnehmer und des Betriebs zusammen.(2)Zur Wahrnehmung der in diesem Gesetz genannten Aufgaben und Befugnisse der im Betrieb vertretenen Gewerkschaften ist deren Beauftragten nach Unterrichtung des Arbeitgebers oder seines Vertreters Zugang zum Betrieb zu gewähren, soweit dem nicht unumgängliche Notwendigkeiten des Betriebsablaufs, zwingende Sicherheitsvorschriften oder der Schutz von Betriebsgeheimnissen entgegenstehen.(3)Die Aufgaben der Gewerkschaften und der Vereinigungen der Arbeitgeber, insbesondere die Wahrnehmung der Interessen ihrer Mitglieder, werden durch dieses Gesetz nicht berührt.1.Grundsätze der ZusammenarbeitDas Gebot der „vertrauensvollen Zusammenarbeit“ in Verbindung mit dem Verbot von Arbeitskämpfen zwischen BR und AG (§ 74 Abs. 2; s. § 74 Rn. 2) liegt dem BetrVG als Grundkonzeption zugrunde. BR und AG haben sich am (nicht definierten) Wohl des Betriebes und dem Wohl der Arbeitnehmer zu orientieren. Der BR ist aber Interessenvertreter der AN.BAG 2. 11. 55 – 1 ABR 30/54. Mit dem Gebot der vertrauensvollen Zusammenarbeit wird eine gesetzliche Forderung aufgestellt, keineswegs aber die betriebliche Wirklichkeit beschrieben.Aus dem Gebot der vertrauensvollen Zusammenarbeit folgen für BR und AG wechselseitige Rücksichtnahmepflichten. Diese gebieten u. a. alles zu unterlassen, was der Wahrnehmung eines konkreten Mitbestimmungsrechts des BR entgegensteht.BAG 28. 5. 14 – 7 ABR 36/12; 18. 5. 10 – 1 ABR 6/09. Aus dem Gebot der vertrauensvollen Zusammenarbeit können aber keine weiteren, über die im BetrVG genannten Rechte und Pflichten hinausgehenden Ansprüche hergeleitet werden.BAG 28. 5. 14 – 7 ABR 36/12.Der Grundsatz der vertrauensvollen Zusammenarbeit wird verletzt, wenn der AG Urlaubsgrundsätze vor der kurz bevorstehenden Konstituierung des neu gewählten BR einführt.LAG RP 19. 2. 09 – 11 TaBV 29/08. Gleiches gilt, wenn einzelne BR-Mitgl. Werkszeitungen, die Betriebsinterna enthalten, auf ihrer Homepage im Internet veröffentlichen (vgl. § 74 Rn. 3).HessLAG 15. 7. 04 – 9 TaBV 190/03. Es widerspricht auch der vertrauensvollen Zusammenarbeit, wenn der AG bei von ihm gemachten Regelungsvorschlägen dem BR für den Fall der Ablehnung das rechtsmissbräuchliche Ausweichen auf mitbestimmungsfreie Regelungsspielräume androht.BAG 26. 5. 98 – 1 AZR 704/97. Eine Verletzung des Grundsatzes liegt auch vor, wenn der AG seine Informationspflichten bei Eingruppierungen verletzt, indem er dem BR standardisierte Eingruppierungsunterlagen die er benutzt, vorenthält.LAG Köln 16. 4. 15 – 7 TaBV 17/14. Auch dürfen die Betriebsparteien keine Personen zu Einigungsstellenbeisitzern benennen, die offensichtlich ungeeignet sind, um über die von Est. zu entscheidenden Fragen zu befinden.BAG 28. 5. 14 – 7 ABR 36/12, NZA 14, 1213, im konkreten Fall verneint (Beleidigung von leit. Ang.). Zur Frage, ob ein grober Verstoß gegen das Gebot der vertrauensvollen Zusammenarbeit seitens des BR (unzulässige Rechtsausübung) Unterlassungsansprüchen ggü. dem AG entgegenstehen kann,So, für einen Ausnahmefall BAG 12. 3. 19 – 1 ABR 42/17, NZA 19 843. s. § 23 Rn. 2.Der Grundsatz der vertrauensvollen Zusammenarbeit wird nicht verletzt, wenn der BR in einem innerbetrieblichen Aushang sachlich mitbestimmungswidriges Verhalten des Arbeitgebers darstellt und den Namen der Personalleiterin nennt.LAG SH 1. 4. 09 – 3 TaBVGa 2/09. Der BR darf das Logo des Unternehmens auf seinem Briefpapier verwenden. Dies gilt auch, wenn das Logo als Marke geschützt ist. Aus dem Grundsatz der vertrauensvollen Zusammenarbeit folgt, dass er grundsätzlich das gleiche Briefpapier verwenden darf wie der AG; es darf nicht durch Verwendung eines anderen Briefpapiers der Eindruck entstehen, der BR sei nicht Teil des Betriebes und außenstehend.ArbG Oberhausen 15. 12. 10 – 1 BV 58/10. Aus den Schreiben des BR muss nur klar hervorgehen, dass der BR Absender ist und nicht der AG. Der BR ist berechtigt, im Rahmen seiner Aufgaben eigenständig Mitarbeiter mittels Fragebögen zu befragen. Aus dem Gebot der vertrauensvollen Zusammenarbeit folgt nicht, dass der BR vorher den Arbeitgeber um Erlaubnis fragen muss.Sächsisches LAG 15. 7. 22 – 4 TaBVGa 1/22, NZA-RR 23, 250. Es liegt ein Verstoß vor, wenn der alte BR und der AG kurz vor einer Neuwahl allein die Kündigungsmöglichkeit von BVen so verändern, dass der neu gewählte BR während seiner Amtszeit praktisch keine Möglichkeit hat, diese neu zu verhandeln.HessLAG 3. 3. 11 – 9 TaBV 168/10.Der Grundsatz der vertrauensvollen Zusammenarbeit gebietet daher auch, dass der AG gegenüber dem BR keine vollendeten Tatsachen schafft. Der BR kann andernfalls die Unterlassung mitbestimmungswidriger Maßnahmen verlangen.BAG 3. 5. 94 – 1 ABR 24/93. Im Übrigen erstreckt sich die geforderte Zusammenarbeit nicht nur auf das Verhältnis zwischen AG und BR. Der BR ist darüber hinaus verpflichtet, in allen Fragen mit der im Betrieb vertretenen Gew. zusammenzuarbeiten.AG und BR haben die im Betrieb geltenden Tarifverträge, seien es Haus- oder Flächentarifverträge, zu beachten. Sie dürfen also durch ihre Zusammenarbeit die geltenden Tarifverträge nicht verletzen (zu den Einzelheiten des Verhältnisses zwischen TV und BV s. § 87 Rn. 6).Vgl. DKW-Berg, Rn. 71 f.Der Grundsatz der vertrauensvollen Zusammenarbeit gilt nicht für das Verhältnis zwischen Gew. und AG.Sächsisches LAG 27. 3. 06 – 3 TaBV 6/06; DKW-Berg Rn. 4 m. w. N.; a. A. BAG 14. 2. 67 – 1 ABR 7/66 für Arbeit von Gew. im Rahmen des BetrVG.2.Die GewerkschaftseigenschaftDie Gew.-Eigenschaft kommt nicht jeder AN-Vereinigung zu. Der Gew.-Begriff deckt sich nicht mit dem Koalitionsbegriff des Art. 9 Abs. 3 GG, sondern ist enger zu verstehen. Die Gew.-Eigenschaft kommt bei Anwendung des § 2 und bei den gewerkschaftlichen Unterstützungs- und Beratungsfunktionen im Rahmen dieses Gesetzes nur den AN-Vereinigungen (Koalitionen) zu, die auch tariffähig sind (h. M.).Vgl. etwa DKW-Berg, Rn. 11 ff., Fitting, Rn. 33; zu den Auswirkungen fehlender Gewerkschaftseigenschaft auf Aufsichtsratswahlen BAG 15. 5. 19 – 7 ABR 35/17, NZA 19, 1595. Nach der Rspr. des BAG müssen Gew. folgende Voraussetzungen erfüllen: freiwilliger Zusammenschluss; demokratische Binnenstruktur; unabhängig in ihrem Bestand vom Wechsel der Mitgl.; Gegnerfreiheit (in der Willensbildung von den AG unabhängig; Arbeitgeber können nicht Mitglied sein); Unabhängigkeit von Staat, Kirchen und Parteien; Eintreten für eine Verbesserung der Arbeits- und Wirtschaftsbedingungen der Mitgl. auf kollektivvertraglicher Basis; überbetriebliche Organisation; Bereitschaft zum Arbeitskampf und dabei soziale Mächtigkeit, damit auf die AG-Seite wirkungsvoller Druck ausgeübt werden kann.Vgl. etwa BAG 28. 3. 06 – 1 ABR 58/04, NZA 06, 1112; BAG 6. 6. 00, NZA 01, 160; vgl. aber auch BVerfG, DB 82, 231 zum Sonderfall eines Hausgehilfinnenverbandes. Vgl. BVerfG 11. 7. 17 – 1 BvR 1571/15 – Tarifeinheitsgesetz – NZA 17, 915 in dem das BVerfG ausdrücklich diese Rspr. billigt. Die Tariffähigkeit ist unteilbar, d. h. die Gewerkschaft. muss als Ganzes tariffähig
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.634)
+## § 92a Beschäftigungssicherung
+
+### Verhandlungen Betriebsrat – Arbeitgeber
+
+<!-- sem-asset-id: verhandlungen_betriebsrat_arbeitgeber -->
+
+_Authors: Wolfgang Däubler_
+
+![Abbildung: 159|40918](#)
+
+### Beschäftigungssicherung
+
+<!-- sem-asset-id: beschaeftigungssicherung -->
+
+_Authors: Wolfgang Däubler_
+
+Die bestehende Beschäftigung lässt sich bei evtl. drohendem Arbeitsplatzabbau in folgender Weise sichern:
+
+**I. Bessere Aufteilung des Arbeitsvolumens**
+
+(1) Abbau von Überstunden
+
+(2) Verstärkte Berücksichtigung von Teilzeitwünschen
+
+(3) Nutzung der Möglichkeiten des Altersteilzeitgesetzes
+
+(4) Vorzeitiges Ausscheiden Älterer auf freiwilliger Grundlage
+
+(5) Abbau von oder Verzicht auf Leiharbeit
+
+(6) Arbeitszeitverkürzung mit Lohnausgleich
+
+(7) Kurzarbeit
+
+(8) Arbeitszeitverkürzung ohne (vollen) Lohnausgleich
+
+(9) Ausschöpfung der Möglichkeiten evtl. bestehender Beschäftigungssicherungs-Tarifverträge
+
+(10) Ausschöpfung von Flexibilisierungsmöglichkeiten bei der Arbeitszeit
+
+**II. Verbesserung des innerbetrieblichen Arbeitsmarkts**
+
+(11) Interne Stellenausschreibungen
+
+(12) Vorrang interner Bewerber bei ausreichender Qualifikation
+
+(13) Unternehmens- und konzernweite Versetzung
+
+(14) Qualifizierung für betriebliche Tätigkeiten, bei denen Arbeitskräftemangel besteht
+
+(15) Vorrang der von Arbeitslosigkeit Bedrohten und der befristet Beschäftigten bei der Besetzung neuer Stellen
+
+(16) Grundsätzliche Bereitschaft, von Arbeitnehmern gewünschte Aufhebungsverträge abzuschließen
+
+**III. Unternehmerische Maßnahmen**
+
+(17) Verbesserung der Arbeitsorganisation
+
+(18) Rückholung von Aufgaben, die bisher auf selbstständige Dienstleister ausgelagert waren
+
+(19) Beschränkung oder Ausschluss von Outsourcing
+
+(20) Vergrößerung der Zahl der Zulieferer und der Abnehmer
+
+**IV. Beschränkung oder Ausschluss der Kündigung**
+
+(21) Vorrang der Änderungs- vor der Beendigungskündigung
+
+(22) Vorrang der Kurzarbeit vor der Kündigung
+
+(23) Mitbestimmung bei betriebsbedingten Kündigungen (s. Betriebsvereinbarung zu § 102 Abs. 6 BetrVG)
+
+(24) Ausschluss der betriebsbedingten Kündigung auf Zeit
+
+
+
+---
+
+## Q-P1-CZ-07  (subtask: paragraph_knowledge)
+
+### FRAGE
+Welche besonderen Kündigungsschutzrechte gelten für Betriebsratsmitglieder?
+
+### REFERENZ
+- Ordentliche Kündigung ausgeschlossen
+- Außerordentliche Kündigung nur mit Zustimmung des BR
+- Nachwirkungsschutz 1 Jahr nach Amtsende
+- Schutz auch für Ersatzmitglieder unter bestimmten Bedingungen
+- Schutz auch für Wahlinitiatoren und Wahlbewerber
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten gelten für Betriebsratsmitglieder und andere betriebsverfassungsrechtliche Mandatsträger besondere Kündigungsschutzrechte, die sich aus einer Kombination von § 15 KSchG, § 103 BetrVG und § 626 BGB ergeben. Im Folgenden sind die wesentlichen Schutzrechte und Verfahrensanforderungen zusammengefasst:
+
+### 1. Geschützter Personenkreis
+Der besondere Kündigungsschutz umfasst nicht nur Mitglieder des Betriebsrats, sondern auch:
+*   Mitglieder der Jugend- und Auszubildendenvertretung (JAV), der Bordvertretung und des Seebetriebsrats.
+*   Mitglieder des Wahlvorstands sowie Wahlbewerber [RREF1][RREF2].
+*   Ersatzmitglieder genießen den Schutz für die gesamte Dauer der Vertretung eines ordentlichen Mitglieds [RREF2].
+*   Auch Vertrauenspersonen der schwerbehinderten Menschen fallen gem. § 179 Abs. 3 SGB IX i. V. mit § 103 unter diesen Schutz [RREF2].
+
+### 2. Schutz vor ordentlicher Kündigung
+*   **Grundsätzliches Verbot:** Die ordentliche Kündigung ist während der Amtszeit sowie innerhalb eines Jahres nach Beendigung der Amtszeit (nachwirkender Kündigungsschutz) grundsätzlich unzulässig (§ 15 KSchG) [RREF2].
+*   **Ausnahmen:** Eine ordentliche Kündigung ist lediglich im Falle einer **Betriebsstilllegung** (§ 15 Abs. 4 KSchG) oder bei Stilllegung einer **Betriebsabteilung** (hier gilt ein Übernahmeanspruch in andere Abteilungen) zulässig [RREF1][RREF2].
+*   **Verfahren:** Auch bei zulässiger ordentlicher Kündigung (z. B. Betriebsstilllegung) ist der Betriebsrat gemäß § 102 BetrVG zu hören [RREF1][RREF5].
+
+### 3. Schutz vor außerordentlicher Kündigung (§ 103 BetrVG)
+Eine außerordentliche (fristlose) Kündigung ist nur unter strengen Voraussetzungen möglich:
+*   **Wichtiger Grund:** Es muss ein wichtiger Grund im Sinne des § 626 BGB vorliegen [RREF1].
+*   **Zustimmungserfordernis:** Die Kündigung bedarf der vorherigen **Zustimmung des Betriebsrats** [RREF1][RREF2].
+*   **Fehlender Betriebsrat:** Besteht im Betrieb kein Betriebsrat, muss der Arbeitgeber die Zustimmung des Arbeitsgerichts einholen (§ 103 Abs. 2a BetrVG) [RREF1][RREF2].
+
+### 4. Verfahren bei Zustimmungsverweigerung
+Verweigert der Betriebsrat die Zustimmung oder äußert er sich nicht, gelten folgende Fristen und Schritte:
+*   **Unterrichtung:** Der Arbeitgeber muss den Betriebsrat innerhalb der Zweiwochenfrist des § 626 Abs. 2 BGB über die Kündigungsabsicht informieren [RREF1].
+*   **Stellungnahme des BR:** Der Betriebsrat hat **drei Tage** Zeit, um Bedenken gegen eine außerordentliche Kündigung mitzuteilen. Schweigen gilt hierbei **nicht** als Zustimmung [RREF1].
+*   **Antrag auf Ersetzung:** Verweigert der Betriebsrat die Zustimmung oder schweigt er, muss der Arbeitgeber innerhalb der laufenden **Zweiwochenfrist** beim Arbeitsgericht einen Antrag auf Ersetzung der Zustimmung stellen [RREF1][RREF4].
+*   **Fristwahrung:** Wird der Antrag auf Ersetzung nicht fristgerecht gestellt, ist das Kündigungsrecht verwirkt [RREF4].
+*   **Weiterbeschäftigung:** Während des Gerichtsverfahrens bleibt der Arbeitnehmer beschäftigt und übt sein Amt unbeschränkt aus [RREF1]. Die Mitgliedschaft im Betriebsrat besteht während des Zustimmungsverfahrens fort [RREF3].
+*   **Kündigungsausspruch:** Ersetzt das Gericht die Zustimmung, muss der Arbeitgeber die Kündigung unverzüglich nach Rechtskraft aussprechen [RREF1].
+
+### 5. Nachwirkender Kündigungsschutz
+*   **Dauer:** Nach Beendigung des Amtes besteht für **ein Jahr** (bei Bordvertretung sechs Monate) ein nachwirkender Kündigungsschutz [RREF2].
+*   **Art des Schutzes:** In diesem Zeitraum ist nur eine außerordentliche Kündigung aus wichtigem Grund möglich (keine betriebsbedingte Kündigung) [RREF1].
+*   **Keine Zustimmungspflicht:** Diese Kündigung ist **nicht mehr an die Zustimmung des Betriebsrats gebunden**. Der Betriebsrat ist jedoch gemäß § 102 BetrVG zu hören [RREF1].
+*   **Beginn der Frist:** Endet die Amtszeit vorzeitig, führt der Betriebsrat die Geschäfte jedoch weiter bis zur Konstituierung des neuen Gremiums, beginnt der einjährige Schutz erst ab tatsächlicher Beendigung der Geschäftsführung [RREF2].
+
+### 6. Schutz vor Versetzung
+*   **Zustimmungspflicht:** Die Versetzung von geschützten Personen bedarf der Zustimmung des Betriebsrats, wenn sie zu einem **Verlust des Amtes oder der Wählbarkeit** führen würde (§ 103 Abs. 3 BetrVG) [RREF2].
+*   **Gerichtliche Ersetzung:** Verweigert der Betriebsrat die Zustimmung, kann das Arbeitsgericht diese ersetzen, wenn die Versetzung aus **dringenden betrieblichen Gründen** notwendig ist [RREF2].
+*   **Einverständnis:** Ist der betroffene Arbeitnehmer mit der Versetzung einverstanden, ist keine Zustimmung des Betriebsrats erforderlich [RREF2].
+
+### 7. Allgemeine Anhörungspflicht (§ 102 BetrVG)
+Unabhängig vom besonderen Kündigungsschutz ist der Betriebsrat vor **jeder** Kündigung (ordentlich oder außerordentlich) zu hören. Der Arbeitgeber hat die Gründe mitzuteilen. Eine ohne Anhörung ausgesprochene Kündigung ist unwirksam [RREF5]. Bei Widerspruch des Betriebsrats gegen eine ordentliche Kündigung hat der Arbeitnehmer unter bestimmten Voraussetzungen einen Anspruch auf Weiterbeschäftigung bis zum rechtskräftigen Abschluss des Rechtsstreits [RREF5].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.288)
+## § 103 Außerordentliche Kündigung und Versetzung in besonderen Fällen
+
+### Voraussetzungen für die außerordentliche Kündigung eines Betriebsratsmitglieds
+
+<!-- sem-asset-id: voraussetzungen_fuer_die_ausserordentliche_kuendigung_eines_betriebsratsmitglieds -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+§ 103 ist Bestandteil einer **komplexen Gesamtregelung** des Kündigungsschutzes für betriebsverfassungsrechtliche Mandatsträger, die in **drei verschiedenen Gesetzen** geregelt ist:
+
+(1) § 15 KSchG schließt für den Normalfall (Ausnahme: Betriebsschließung oder Schließung einer Betriebsabteilung) die ordentliche Kündigung gegenüber dem geschützten Mandatsträgerkreis aus und lässt lediglich die außerordentliche Kündigung mit Zustimmung des Betriebsrats zu.
+
+(2) § 103 BetrVG bindet die Erklärung dieser außerordentlichen Kündigung an die vorher erteilte Zustimmung des Betriebsrats und legt dem Arbeitgeber auf, sie im Verweigerungsfalle vor Kündigungsausspruch durch das Gericht ersetzen zu lassen.
+
+(3) Die Frage der materiellen Berechtigung der außerordentlichen Kündigung wegen Vorliegens eines wichtigen Grundes ist in § 626 BGB geregelt.
+
+**Verfahrensabläufe bzw. Anforderungen** bei einer vom Arbeitgeber beabsichtigten außerordentlichen Kündigung gegenüber einem nach § 15 KSchG und § 103 BetrVG geschützten Arbeitnehmer:
+
+(1) Es muss ein wichtiger Kündigungsgrund i. S. d. § 626 BGB vorliegen.
+
+(2) Der Arbeitgeber muss den Betriebsrat innerhalb der Zweiwochenfrist des § 626 Abs. 2 BGB über seine Kündigungsabsicht informieren und zur Zustimmung auffordern.
+
+(3) Die Zweiwochenfrist wird längstens für eine Woche gehemmt, wenn der Arbeitgeber dem zu kündigenden Betriebsratsmitglied zur Aufklärung des Sachverhalts Gelegenheit zur Stellungnahme gibt.
+
+(4) Stimmt der Betriebsrat zu, muss die Kündigung noch innerhalb der laufenden Zweiwochenfrist erklärt werden.
+
+(5) Verweigert der Betriebsrat die Zustimmung bzw. äußert er sich innerhalb von drei Tagen nach der Unterrichtung nicht, muss der Arbeitgeber noch innerhalb der laufenden Zweiwochenfrist beim Arbeitsgericht den Antrag auf Ersetzung der Zustimmung zur Kündigung stellen. Das Schweigen des Betriebsrats gilt nicht als Zustimmung.
+
+(6) Während des Gerichtsverfahrens bleibt der Arbeitnehmer beschäftigt und übt sein Betriebsratsamt unbeschränkt aus.
+
+(7) Ersetzt das Arbeitsgericht die Zustimmung zur Kündigung, muss der Arbeitgeber die Kündigung unverzüglich nach Rechtskraft aussprechen.
+
+(8) Stimmt der Betriebsrat während des laufenden Gerichtsverfahrens nachträglich zu, muss gleichfalls unverzüglich nach Zustimmungserklärung gekündigt werden.
+
+(9) In einem Betrieb mit nur einem Betriebsratsmitglied (5 - 20 Arbeitnehmer) muss die Zustimmung des Ersatzmitglieds eingeholt werden. Ist ein Ersatzmitglied nicht vorhanden, so muss der Arbeitgeber innerhalb der Zweiwochenfrist die Zustimmungsersetzung beim Arbeitsgericht beantragen.
+
+(10) In einem Betrieb ohne Betriebsrat muss der Arbeitgeber gem. § 103 Abs. 2a BetrVG ebenfalls innerhalb der Zweiwochenfrist das Arbeitsgericht mit dem Ersuchen nach Zustimmungsersetzung anrufen.
+
+(11) Ersetzt das Arbeitsgericht die Zustimmung nicht, darf nicht gekündigt werden.
+
+
+
+(1) Nach Beendigung des jeweiligen Amtes erhält der geschützte Personenkreis einen **nachwirkenden Kündigungsschutz**. Dies bedeutet, dass dem Betreffenden für einen bestimmten Zeitraum nach Amtsende nur außerordentlich **aus wichtigem Grund** (insbesondere also nicht betriebsbedingt) gekündigt werden darf. Diese Kündigung ist jedoch dann **nicht mehr an die Zustimmung des Betriebsrats gebunden**. Der Betriebsrat ist lediglich gemäß § 102 BetrVG zu hören und kann entsprechend dieser Vorschrift Bedenken gegen die außerordentliche Kündigung äußern.
+
+(2) Ausnahmsweise lässt § 15 Abs. 4 KSchG die **ordentliche Kündigung** des geschützten Personenkreises im Falle einer **Betriebsstilllegung** zu, und zwar frühestens zum Zeitpunkt der Stilllegung. Auf eine solche Kündigung findet § 102 BetrVG Anwendung.
+
+(3) Wird nur eine **Betriebsabteilung stillgelegt**, sind die geschützten Personen in eine andere Betriebsabteilung zu übernehmen; falls dies nicht möglich ist, dürfen sie erst als letzte gekündigt werden (§ 15 Abs. 5 KSchG).
+
+[RREF2] SF_Klebe_BetrVG_BK.md (0.333)
+. 12 – 15 SaGa 243/12, brwo. Im Fall einer Betriebsstilllegung kann die tatsächliche Weiterbeschäftigung eines AN zu unveränderten Bedingungen gerade deshalb zu einer unzumutbaren Belastung des AG führen, wenn neben den reinen Entgeltkosten eigens mit hohem Aufwand eine betriebliche Infrastruktur aufrechterhalten werden müsste. In diesem Fall kann der AN nicht geltend machen, der AG bräuchte – ohne ihn tatsächlich zu beschäftigen – lediglich das Entgelt zu zahlen.LAG Düsseldorf 24. 4. 13 – 4 SaGa 6/13. Von einem offensichtlich unbegründeten Widerspruch des BR kann nur dann gesprochen werden, wenn dieser mutwillig erfolgte,ArbG Hannover, AuR 72, 381. die Grundlosigkeit sich bei unbefangener Beurteilung geradezu aufdrängtArbG Berlin, DB 73, 192. und für die Überlegungen des BR keinerlei Anhaltspunkte vorlagenLAG Frankfurt, AuR 77, 156. oder auch ohne besondere gerichtl. Aufklärung feststeht, dass der Widerspruchsgrund nicht vorliegen kann.LAG BB 12. 1. 23 – 26 SaGa 1111/22. Ein nicht ordnungsgemäßer Widerspruch des BR ist analog zum Fall des offensichtlich unbegründeten Widerspruchs zu behandeln.DKW-Bachner/Deinert, Rn. 329.Bei einer Änderungskündigung hängt der vorläufige Weiterbeschäftigungsanspruch des AN zu den (bisherigen) Arbeitsbedingungen davon ab, ob er die neuen Arbeitsbedingungen ablehnt oder unter Vorbehalt annimmt. Lehnt er ab, kann er die Weiterbeschäftigung unter den vorgenannten Voraussetzungen verlangen. Nimmt der AN das Änderungsangebot unter dem Vorbehalt der sozialen Rechtfertigung der geänderten Arbeitsbedingungen an, erklärt er sich bereit, zunächst zu den geänderten Bedingungen weiterzuarbeiten. Dadurch entfällt der aus dem Widerspruch des BR gegen die Beendigungskündigung resultierende betriebsverfassungsrechtliche Weiterbeschäftigungsanspruch.HessLAG 19. 6. 12 – 15 SaGa 242/12.Der AN hat einen Weitervergütungsanspruch, wenn der BR der ordentl. Kündigung nach Abs. 3 widersprochen und der AN innerhalb der Dreiwochenfrist des § 4 KSchG Kündigungsschutzklage erhoben sowie seine Weiterbeschäftigung gemäß Abs. 5 verlangt hat. Unter diesen Voraussetzungen muss der AG die Vergütung bis zum rechtskräftigen Abschluss des Kündigungsschutzprozesses weiterzahlen – und zwar sowohl dann, wenn der AG den AN nicht weiterbeschäftigt als auch unabhängig davon, ob der AN das Kündigungsschutzverfahren letztendlich gewinnt oder verliert. Der AN hat nur dann keinen Weitervergütungsanspruch, wenn sich der AG vom ArbG durch einstweilige Verfügung nach Abs. 5 Satz 2 von der Weiterbeschäftigungspflicht entbinden lässt. Die Entbindung des AG von der Weiterbeschäftigungspflicht lässt aber die bis zur gerichtl. Entbindungsentscheidung angefallenen Vergütungsansprüche des AN unberührt.BAG, NZA 96, 930. Keine Weiterbeschäftigungspflicht des AG nach dieser Bestimmung besteht, wenn der AN nicht den Kündigungsschutz nach dem KSchG genießt.ArbG Wuppertal, DB 75, 2329.6.Erweiterung der MitbestimmungsrechteDie Vorschrift erklärt eine BV, die dem BR ein volles MBR bei Kündigungen einräumt, ausdrücklich für zulässig. Die MBR des BR können aber auch in anderen Fällen über das Gesetz hinaus erweitert werden. So kann auch durch TV wirksam festgelegt werden, dass eine Kündigung der Zustimmung des BR bedarf und im Streitfall die ESt. verbindlich entscheidet.BAG, DB 88, 1397. Für eine einzelvertragliche Erweiterung des dem BR vor Ausspruch von Kündigungen zustehenden Beteiligungsrechts fehlt es jedoch an der erforderlichen gesetzlichen Ermächtigungsgrundlage.BAG, NZA 09, 915.Eine Vereinbarung, nach der eine Kündigung nur mit Zustimmung des BR zulässig ist, kann sich sowohl auf ordentliche als auch auf außerordentliche Kündigungen erstrecken. Sie bedarf der Unterzeichnung durch AG und BR auf einer Urkunde.BAG, DB 78, 1501. Liegt eine solche Vereinbarung vor und verweigert der BR seine Zustimmung, gleichgültig aus welchen Gründen, so entscheidet die ESt. und nicht das ArbG, ob die Verweigerung der Zustimmung durch den BR berechtigt ist.Erklärt die ESt. die Verweigerung der Zustimmung durch den BR für begründet, so ist eine Kündigung unzulässig. Ersetzt die ESt. die Zustimmung des BR, so bedeutet dies nicht, dass die Kündigung damit begründet ist. Ob die Kündigung wirksam ist, stellt das ArbG im Kündigungsschutzverfahren fest. Dabei kann der AN sich darauf berufen, dass der BR aus einem der in Abs. 3 genannten Gründe widersprochen hat, ohne dass der AG dem entgegenhalten kann, dass der Widerspruch des BR durch die ESt. ersetzt worden sei. Ebenso kann der AN nach Abs. 5 die Weiterbeschäftigung zu unveränderten Arbeitsbedingungen über die Kündigungsfrist hinaus bis zur rechtskräftigen Entscheidung des Rechtsstreits verlangen (str.).Der DGB-Entwurf für ein modernes BetrVGhttps://aur-blog.eu/reformvorschlag/. enthält eine Vielzahl an grundlegenden Änderungen der Vorschrift:Möglichkeit der einvernehmlichen Verlängerung der Wochen- sowie der Dreitagefrist,Verlängerung der Wochenfrist um eine weitere Woche bei Betroffenheit von mehr als 5 % der AN, mindestens 20 AN,Übersendung einer Abschrift der Stellungnahme des BR an den AN, wenn der AG trotz Widerspruchs gekündigt hat,Wirksamkeit der Kündigung nur dann, wenn sie bei Widerspruch des BR vom ArbG zugelassen wird,Verpflichtung des AG zur Weiterbeschäftigung des AN, wenn der AG ohne Zulassung der Kündigung durch das ArbG kündigt,Unwirksamkeit eines Aufhebungsvertrags, wenn er ohne vorherige Unterrichtung des BR abgeschlossen wurde.7.Beteiligung des Betriebsrats nach anderen VorschriftenDie Vorschrift stellt klar, dass die Beteiligung des BR bei anzeigepflichtigen Entlassungen nach dem KSchG unberührt bleibt. Danach ist der AG verpflichtet, Massenentlassungen gemäß § 17 KSchG der Agentur für Arbeit innerhalb von vier Wochen vorher schriftlich anzuzeigen. Wird die Kündigung vor einer nach § 17 Abs. 1 KSchG erforderlichen, den gesetzlichen Anforderungen entsprechenden Anzeige ausgesprochen, so ist sie unwirksam.BAG 28. 5. 09 – 8 AZR 273/08. Der BR ist vom AG zu hören; das Konsultationsverfahren nach § 17 Abs. 2 KSchG muss vor Ausspruch der Kündigung abgeschlossen sein, andernfalls ist die Kündigung unwirksam.LAG BB 10. 11. 16 – 14 Sa 828/16. Soweit erkennbare Veränderungen des Betriebs innerhalb der nächsten zwölf Monate voraussichtlich zu Massenentlassungen nach § 17 KSchG führen oder in dem dort genannten Umfang AN voraussichtlich auf andere Tätigkeiten umgesetzt werden, ist der BR ebenfalls zu hören. Die Unterrichtung nach § 17 Abs. 2 KSchG kann mit der Anhörung des BR nach § 102 Abs. 1 verbunden werden.BAG, NZA 87, 601. Der AG ist verpflichtet, die Stellungnahme des BR seiner Anzeige an die Landesagentur für Arbeit beizufügen. Ist die Stellungnahme in einem der Massenentlassungsanzeige beigefügten Interessenausgleich ohne Namensliste integriert, ist der gesetzlichen Anforderung genügt und es bedarf keiner separaten Stellungnahme in einem eigenständigen Dokument.BAG 21. 3. 12 – 6 AZR 596/10. Die Stellungnahme des örtl. BR ist der Massenentlassungsanzeige dann nicht beizufügen, wenn in einem betriebsübergreifenden Interessenausgleich, für dessen Abschluss der GBR zuständig war, die zu kündigenden AN namentlich bezeichnet sind; in diesem Fall folgt aus § 125 Abs. 3 InsO, dass der vom Insolvenzverwalter mit dem GBR abgeschlossene Interessenausgleich mit Namensliste die Stellungnahme der örtl. BR nach § 17 Abs. 3 Satz 2 KSchG zu den vom Insolvenzverwalter beabsichtigten Massenentlassungen ersetzt (s. auch § 50 Rn. 5).BAG 7. 7. 11 – 6 AZR 248/10.
+150|117346§ 103 Außerordentliche Kündigung und Versetzung in besonderen FällenbundimportedAsset##f5a0f25e-adb2-4417-8467-59c9dafb9423Außerordentliche Kündigung und Versetzung in besonderen Fällen§ 103walhalla150|2295810§ 103Außerordentliche Kündigung und Versetzung in besonderen Fällen(1)Die außerordentliche Kündigung von Mitgliedern des Betriebsrats, der Jugend- und Auszubildendenvertretung, der Bordvertretung und des Seebetriebsrats, des Wahlvorstands sowie von Wahlbewerbern bedarf der Zustimmung des Betriebsrats.(2)Verweigert der Betriebsrat seine Zustimmung, so kann das Arbeitsgericht sie auf Antrag des Arbeitgebers ersetzen, wenn die außerordentliche Kündigung unter Berücksichtigung aller Umstände gerechtfertigt ist. In dem Verfahren vor dem Arbeitsgericht ist der betroffene Arbeitnehmer Beteiligter.(2a)Absatz 2 gilt entsprechend, wenn im Betrieb kein Betriebsrat besteht.(3)Die Versetzung der in Absatz 1 genannten Personen, die zu einem Verlust des Amtes oder der Wählbarkeit führen würde, bedarf der Zustimmung des Betriebsrats; dies gilt nicht, wenn der betroffene Arbeitnehmer mit der Versetzung einverstanden ist. Absatz 2 gilt entsprechend mit der Maßgabe, dass das Arbeitsgericht die Zustimmung zu der Versetzung ersetzen kann, wenn diese auch unter Berücksichtigung der betriebsverfassungsrechtlichen Stellung des betroffenen Arbeitnehmers aus dringenden betrieblichen Gründen notwendig ist.1.Geschützter Personenkreis, Dauer des KündigungsschutzesDie ordentliche Kündigung von Mitgl. des BR, der JAV, der Bordvertretung und des See-BR, des WV sowie von Wahlbewerbern ist während der Amtszeit der genannten Personen sowie innerhalb eines Jahres, für Mitglieder einer Bordvertretung innerhalb von sechs Monaten, vom Zeitpunkt der Beendigung der Amtszeit an gerechnet grundsätzlich unzulässig (§ 15 KSchG). Eine Ausnahme gilt für den in § 15 Abs. 4 KSchG geregelten Fall der Betriebsstilllegung (s. Rn. 7). Darüber hinaus regelt § 103 den Schutz des genannten Personenkreises vor außerordentlichen Kündigungen, indem diese an die vorherige Zustimmung des BR gebunden sind. Besteht im Betrieb (noch) kein BR, hat der AG vor einer außerordentlichen Kündigung der in Abs. 1 genannten Personen die Zustimmung des ArbG einzuholen; dies stellt der mit dem BRMoG 2021 neu eingefügte Abs. 2a ausdrücklich klar. Der DGB-Entwurf für ein modernes BetrVGhttps://aur-blog.eu/reformvorschlag/. enthält darüber hinaus das Erfordernis der Zustimmung des ArbG zur außerordentlichen Kündigung von Wahl- und Vorfeldinitiatoren. Für die Frage, ob Sonderkündigungsschutz nach Abs. 1 Satz 1 besteht, ist bei ordentlichen oder nachgerückten BR-Mitgl. auf den Zeitpunkt des Zugangs der Kündigung i. S. von § 130 Abs. 1 Satz 1 BGB abzustellen.BAG 27. 9. 12 – 2 AZR 955/11. Bewerber für das Amt des WV zur Durchführung einer BR-Wahl sind keine „Wahlbewerber“ i. S. von § 15 Abs. 3 KSchG und § 103, sie genießen keinen besonderen Kündigungsschutz.BAG 31. 7. 14 – 2 AZR 503/13. Der Kündigungsschutz beginnt bei Mitgl. des WV mit ihrer wirksamen Wahl in einer Betriebsversammlung (§ 17 Abs. 2) oder mit einer Bestellung (§§ 16 ff.);LAG Hamm 15. 3. 13 – 13 Sa 6/13 m. w. N. im Fall der Bestellung durch das ArbG beginnt der besondere Kündigungsschutz mit der Verkündung und nicht erst mit der formellen Rechtskraft des Einsetzungsbeschlusses.BAG 26. 11. 09 – 2 AZR 185/08. Bei Wahlbewerbern beginnt der Kündigungsschutz mit der Aufstellung des gültigen Wahlvorschlags. Der Kündigungsschutz endet bei Mitgl. des WV und bei nicht gewählten Wahlbewerbern mit Ablauf von sechs Monaten nach Bekanntgabe des Wahlergebnisses (§ 15 Abs. 3 KSchG; vgl. auch Rn. 10.).ArbG Frankfurt am Main, AiB 00, 117. Unterbleibt die Bekanntgabe des Wahlergebnisses, ist der BR jedoch zu seiner konstituierenden Sitzung zusammengetreten, so endet der Schutz nach § 15 Abs. 3 Satz 1 mit diesem Zeitpunkt.BAG 5. 11. 09 – 2 AZR 487/08. § 103 erstreckt sich auf JAV i. S. der §§ 60 ff., nicht aber auf Auszubildendenvertretungen in reinen Ausbildungsbetrieben; etwas anderes gilt infolge tarifvertraglicher Bezugnahme für die Auszubildenden im Ausbildungsbetrieb der DT AG mit der Folge, dass Wahlbewerber zur dortigen Auszubildendenvertretung auch während der Probezeit dem besonderen Kündigungsschutz unterfallen.LAG Berlin-Brandenburg 5. 9. 13 – 26 Sa 667/13. Gem. § 179 Abs. 3 SGB IX i. V. mit § 103 bedarf auch die Kündigung des Arbeitsverhältnisses einer Vertrauensperson der schwerbehinderten Menschen der Zustimmung des BR (nicht aber der Zustimmung der SBV).BAG 19. 7. 12 – 2 AZR 989/11.Der Kündigungsschutz gilt auch für Änderungskündigungen, und zwar auch dann, wenn die Änderung der Arbeitsbedingungen eines durch § 15 KSchG geschützten AN im Rahmen von Massenänderungskündigungen herbeigeführt werden soll.BAG, AuR 87, 343. Dem Kündigungsschutz nach dieser Vorschrift unterliegen nicht die Organmitglieder, die aus einer nichtigen Wahl hervorgegangen sind.BAG, DB 86, 1883. Solange aber die Nichtigkeit der BR-Wahl nicht festgestellt ist, muss davon ausgegangen werden, dass eine ohne Zustimmung des BR oder ohne gerichtliche Ersetzung der Zustimmung erfolgte Kündigung des BR-Mitgl. nichtig ist.LAG Köln 24. 4. 15 – 4 TaBVGa 3/15. Ist eine BR-Wahl dagegen lediglich anfechtbar, besteht der Sonderkündigungsschutz der gewählten BR-Mitglieder bis zur rechtskräftigen Entscheidung über die Wirksamkeit der Wahl fort.HessLAG 24. 7. 20 – 14 Sa 264/19; LAG Hamm 17. 11. 06 – 10 Sa 1555/06.Mitgl. des BR, die ihr Amt niedergelegt haben, genießen ebenfalls den nachwirkenden Kündigungsschutz. Erklärt der AG im Nachwirkungszeitraum gegenüber einem früheren Mitgl. des BR eine ordentliche Kündigung, so ist diese auch dann nichtig, wenn ein wichtiger Grund zur fristlosen Kündigung vorgelegen hat.BAG, DB 79, 2327. Endet die Amtszeit des BR vorzeitig, führt der BR die Geschäfte jedoch weiter, bis der neue gewählt und das Wahlergebnis bekannt gegeben ist (vgl. § 13 Abs. 2 Nr. 1 bis 3 und § 22), so beginnt der nachwirkende einjährige Kündigungsschutz erst vom Zeitpunkt der tatsächlichen Beendigung der Geschäftsführung an.Ersatzmitgl. genießen den Kündigungsschutz für die gesamte Dauer der Vertretung eines ordentlichen BR-Mitgl.Vgl. dazu im Einzelnen Besgen, AiB 81, 98 f. und nicht nur an den Tagen, an denen sie Geschäfte eines BR-Mitgl. – etwa Teilnahme an einer Sitzung – wahrnehmen.BAG, DB 78, 495. Die Vertretung beginnt mit der Arbeitsaufnahme des Ersatzmitgl. an dem Tag, an dem das ordentliche Mitgl. erstmals verhindert ist. Eine zeitweilige Verhinderung i. S. von § 25 Abs. 1 Satz 2 (s. § 25 Rn. 3 f.) eines BR-Mitgl. liegt in der Regel auch vor, wenn es sich krank gemeldet hat und der Arbeit fernbleibt, sich später aber herausstellt, dass das BR-Mitgl. tatsächlich nicht arbeitsunfähig krank und deshalb unberechtigt der Arbeit ferngeblieben war.BAG 5. 9. 86, AP Nr. 25 § 103 BetrVG 1972. Das erste Ersatzmitgl. der jeweiligen Vorschlagsliste ist so lange Vertreter im BR, wie ein Vertretungsfall gegeben ist. Weitere Ersatzmitgl. rücken nach, solange und soweit weitere Vertretungsfälle eintreten. Fällt in eine kurze Vertretung oder zu Beginn einer längeren Vertretung eine Sitzung des BR, genießt das Ersatzmitgl. auch in der Vorbereitungszeit den besonderen Kündigungsschutz. Dies ist die Zeit ab Ladung; in der Regel sind jedoch drei Arbeitstage als Vorbereitungszeit ausreichend.BAG, DB 79, 1136. Der Sonderkündigungsschutz hängt nicht davon ab, dass das Ersatzmitgl. während der Vertretungszeit tatsäch
+
+[RREF3] Steiner_Bd2_Betriebsratssitzung_und_Beschlussfassung.md (0.382)
+#### Die Niederlegung des Betriebsratsamts ist jederzeit formlos möglich.
+
+#### Sie muss aber eindeutig sein. Sie ist entweder gegenüber dem Vorsitzen-
+
+#### den oder im Fall seiner Verhinderung gegenüber dem stellvertretenden
+
+#### Vorsitzenden zu erklären. Sie kann auch gegenüber dem gesamten Gre-
+
+#### mium erklärt werden.
+
+#### Mit Beendigung des Arbeitsverhältnisses erlischt auch die Mitglied-
+
+#### schaft im Betriebsrat. Im Fall einer Eigenkündigung oder eines Aufhe-
+
+#### bungsvertrags unter Einhaltung der Kündigungsfrist nach Ablauf der
+
+#### Kündigungsfrist.
+
+```
+Hinweis:
+Eine Beendigung des Arbeitsverhältnisses bedarf nach §  623 BGB der
+Schriftform.
+```
+
+#### Vorsicht bei Aufhebungsverträgen, da mit einer Sperre von der Agentur
+
+#### für Arbeit gerechnet werden muss.
+
+#### Die Kündigung eines Betriebsratsmitglieds bedarf – außer im Ausnahme-
+
+#### fall des § 15 Abs. 4 und 5 KSchG – der Zustimmung des Betriebsrats oder
+
+#### wenn der Betriebsrat die Zustimmung nicht erteilt hat, der Zustimmung
+
+#### des Arbeitsgerichts. Während des Zustimmungsverfahrens besteht die
+
+#### Mitgliedschaft im Betriebsrat fort. Wird die Zustimmung erteilt, endet
+
+#### das Arbeitsverhältnis mit Zugang der Kündigung oder nach Ablauf der
+
+#### in der Kündigung genannten Frist.
+
+#### Der Verlust der Wählbarkeit führt am gleichen Tag zur Beendigung des
+
+#### Betriebsratsamts. Dieser kommt in Betracht bei:
+
+#### • Ausscheiden aus der Belegschaft (Versetzung in einen anderen Be-
+
+#### trieb)
+
+#### • Verlust der Arbeitnehmer-Eigenschaft (z. B. bei Beförderung zum lei-
+
+#### tenden Angestellten)
+
+#### • Entmündigung, Aberkennung der Wählbarkeit durch Richterspruch
+
+#### Ein Ausschluss aus dem Betriebsrat kann nur durch rechtskräftigen ar-
+
+#### beitsgerichtlichen Beschluss gemäß § 23 Abs. 1 BetrVG erfolgen.
+
+#### Anders als bei dem Verlust der Wählbarkeit bezieht sich die gerichtliche
+
+#### Feststellung der Nichtwählbarkeit auf den Zeitpunkt der Wahl. Es wird
+
+#### vom Gericht überprüft, ob Wählbarkeit i. S. v. § 8 BetrVG zum Zeitpunkt
+
+```
+Betriebsratssitzung
+```
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.383)
+### Arbeitgeber: Antrag zu außerordentlicher Kündigung eines Betriebsratsmitglieds
+
+<!-- sem-asset-id: arbeitgeber_antrag_zu_ausserordentlicher_kuendigung_eines_betriebsratsmitglieds -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+#### **Vorbemerkung**
+
+Der Arbeitgeber hat innerhalb der Ausschlussfrist des § 626 Abs. 2 BGB (2 Wochen) den Antrag auf Ersetzung der Zustimmung beim Arbeitsgericht zu stellen, wenn er sein Kündigungsrecht nicht verlieren will (vgl. DKW-*Bachner/Deinert*, § 103 Rn. 41 ff.). Ein späterer Ersetzungsantrag ist unbegründet. Der Arbeitgeber muss somit innerhalb der Zweiwochenfrist des § 626 Abs. 2 BGB nicht nur das Zustimmungsverfahren beim Betriebsrat abschließen, sondern im Falle der ausdrücklichen oder stillschweigenden Zustimmungsverweigerung des Betriebsrats auch noch das Zustimmungsersetzungsverfahren innerhalb der Frist beim Arbeitsgericht einleiten.
+
+
+
+{{Adresse}}
+
+In dem Beschlussverfahren
+
+mit den Beteiligten
+
+1. Firma {{Firmenbezeichnung, Adresse}}, gesetzlich vertreten {{Name, Adresse}}
+
+<p align="right">– Antragstellerin und Beteiligte zu 1. –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+und
+
+2. Betriebsrat der Firma {{Firmenbezeichnung, Adresse}}, vertreten durch den Betriebsratsvorsitzenden {{Name}}, ebenda
+
+<p align="right">– Beteiligte zu 2. –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+wegen: **Ersetzung der Zustimmung des Betriebsrats zur Kündigung eines Betriebsratsmitglieds.**
+
+Wir bestellen uns zu Verfahrensbevollmächtigten der Antragstellerin und beantragen namens und in Vollmacht der Antragstellerin:
+
+Die Zustimmung des Betriebsrats zur Kündigung des Betriebsratsmitglieds {{Name}} wird ersetzt.
+
+Gründe:
+
+Die Antragstellerin ist ein Unternehmen des Einzelhandels. In ihrem Betrieb in {{kasten}} sind insgesamt ca. {{80}} Arbeitnehmer beschäftigt. Der Antragsgegner ist der {{fünfköpfige}} Betriebsrat des Betriebs der Antragstellerin in {{kasten}}.
+
+Die Antragstellerin beabsichtigt, dem Arbeitnehmer {{Name}} außerordentlich aus verhaltensbedingten Gründen zu kündigen. Zwischen der Antragstellerin und dem Arbeitnehmer {{Name}} besteht seit dem {{Datum}} ein Arbeitsverhältnis. Er ist {{kasten}} Jahre alt, verheiratet und hat {{kasten}} Kinder. Seit {{Datum}} ist er Mitglied des Betriebsrats der Antragstellerin in {{kasten}}.
+
+Mit dem als Anlage beigefügten Schreiben hat die Antragstellerin den Antragsgegner um Zustimmung zur außerordentlichen Kündigung des Betriebsratsmitglieds {{Name}} gebeten. Der Antragsgegner hat in der Sitzung vom {{Datum}} beschlossen, die erbetene Zustimmung zu verweigern. Dies hat er mit Schreiben vom {{Datum}} der Antragstellerin mitgeteilt.
+
+Der Antragsgegner hat die Zustimmung zu Unrecht verweigert; für die außerordentliche Kündigung besteht ein wichtiger Grund (§ 626 BGB).
+
+{{Es folgen Ausführungen zum wichtigen Grund.}}
+
+Deshalb hat der Antragsgegner die Zustimmung zu Unrecht verweigert. Den Anträgen ist daher stattzugeben.
+
+[RREF5] BetrVG.pdf p.34,y:165 (0.386)
+## § 102 Mitbestimmung bei Kündigungen
+- (1) Der Betriebsrat ist vor jeder Kündigung zu hören. Der Arbeitgeber hat ihm die Gründe für die Kündigung mitzuteilen. Eine ohne Anhörung des Betriebsrats ausgesprochene Kündigung ist unwirksam.
+- (2) Hat der Betriebsrat gegen eine ordentliche Kündigung Bedenken, so hat er diese unter Angabe der Gründe dem Arbeitgeber spätestens innerhalb einer Woche schriftlich mitzuteilen. Äußert er sich innerhalb dieser Frist nicht, gilt seine Zustimmung zur Kündigung als erteilt. Hat der Betriebsrat gegen eine außerordentliche
+
+[Page 35]: #
+
+[Y 927]: #
+Kündigung Bedenken, so hat er diese unter Angabe der Gründe dem Arbeitgeber unverzüglich, spätestens jedoch innerhalb von drei Tagen, schriftlich mitzuteilen. Der Betriebsrat soll, soweit dies erforderlich erscheint, vor seiner Stellungnahme den betroffenen Arbeitnehmer hören. § 99 Abs. 1 Satz 3 gilt entsprechend.
+- (3) Der Betriebsrat kann innerhalb der Frist des Absatzes 2 Satz 1 der ordentlichen Kündigung widersprechen, wenn
+- 1. der Arbeitgeber bei der Auswahl des zu kündigenden Arbeitnehmers soziale Gesichtspunkte nicht oder nicht ausreichend berücksichtigt hat,
+- 2. die Kündigung gegen eine Richtlinie nach § 95 verstößt,
+- 3. der zu kündigende Arbeitnehmer an einem anderen Arbeitsplatz im selben Betrieb oder in einem anderen Betrieb des Unternehmens weiterbeschäftigt werden kann,
+- 4. die Weiterbeschäftigung des Arbeitnehmers nach zumutbaren Umschulungs- oder Fortbildungsmaßnahmen möglich ist oder
+- 5. eine Weiterbeschäftigung des Arbeitnehmers unter geänderten Vertragsbedingungen möglich ist und der Arbeitnehmer sein Einverständnis hiermit erklärt hat.
+- (4) Kündigt der Arbeitgeber, obwohl der Betriebsrat nach Absatz 3 der Kündigung widersprochen hat, so hat er dem Arbeitnehmer mit der Kündigung eine Abschrift der Stellungnahme des Betriebsrats zuzuleiten.
+- (5) Hat der Betriebsrat einer ordentlichen Kündigung frist- und ordnungsgemäß widersprochen, und hat der Arbeitnehmer nach dem Kündigungsschutzgesetz Klage auf Feststellung erhoben, dass das Arbeitsverhältnis durch die Kündigung nicht aufgelöst ist, so muss der Arbeitgeber auf Verlangen des Arbeitnehmers diesen nach Ablauf der Kündigungsfrist bis zum rechtskräftigen Abschluss des Rechtsstreits bei unveränderten Arbeitsbedingungen weiterbeschäftigen. Auf Antrag des Arbeitgebers kann das Gericht ihn durch einstweilige Verfügung von der Verpflichtung zur Weiterbeschäftigung nach Satz 1 entbinden, wenn
+- 1. die Klage des Arbeitnehmers keine hinreichende Aussicht auf Erfolg bietet oder mutwillig erscheint oder
+- 2. die Weiterbeschäftigung des Arbeitnehmers zu einer unzumutbaren wirtschaftlichen Belastung des Arbeitgebers führen würde oder
+- 3. der Widerspruch des Betriebsrats offensichtlich unbegründet war.
+- (6) Arbeitgeber und Betriebsrat können vereinbaren, dass Kündigungen der Zustimmung des Betriebsrats bedürfen und dass bei Meinungsverschiedenheiten über die Berechtigung der Nichterteilung der Zustimmung die Einigungsstelle entscheidet.
+- (7) Die Vorschriften über die Beteiligung des Betriebsrats nach dem Kündigungsschutzgesetz bleiben unberührt.
+
+[Y 364]: #
+
+
+
+---
+
+## Q-P1-CZ-09  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Fristen gelten für Stellungnahmen oder Widersprüche des Betriebsrats?
+
+### REFERENZ
+- Personelle Maßnahmen: 1 Woche
+- Kündigungen: 3 Tage
+- Anhörungen: je nach Thema unterschiedlich, oft "unverzüglich"
+
+### MODELLANTWORT
+
+
+Basierend auf den vorliegenden Dokumenten gelten für Stellungnahmen und Widersprüche des Betriebsrats unterschiedliche Fristen, abhängig vom konkreten Verfahren (personelle Einzelmaßnahmen, Kündigungen oder Betriebsratswahl). Hier ist eine Übersicht der relevanten Fristen und Berechnungsregeln:
+
+### 1. Personelle Einzelmaßnahmen (§ 99 BetrVG)
+Für die Zustimmung oder Verweigerung der Zustimmung zu personellen Einzelmaßnahmen (z. B. Einstellungen, Versetzungen) gelten strikte Fristen:
+
+*   **Dauer der Frist:** Der Betriebsrat muss eine Zustimmungsverweigerung unter Angabe von Gründen **innerhalb einer Woche** nach Unterrichtung durch den Arbeitgeber schriftlich mitteilen [RREF1].
+*   **Fristbeginn:** Der Tag der Unterrichtung wird bei der Berechnung **nicht mitgerechnet** (§ 187 Abs. 1 BGB) [RREF1].
+*   **Fristende:** Die Frist endet mit Ablauf desjenigen Tages der letzten Woche, welcher durch seine Benennung dem Tag der Unterrichtung entspricht (z. B. Mittwoch zu Mittwoch) [RREF1].
+*   **Wochenend- und Feiertagsregelung:** Fällt das Fristende auf einen Samstag, Sonntag oder staatlich anerkannten Feiertag, tritt an die Stelle dieses Tages der nächste Werktag (§ 193 BGB) [RREF1].
+*   **Fristversäumnis:** Lässt der Betriebsrat die Frist verstreichen, gilt die Zustimmung als erteilt [RREF1].
+*   **Bei unvollständiger Information:**
+    *   Grundsätzlich beginnt die Frist gemäß § 99 Abs. 3 BetrVG nicht zu laufen, wenn die Unterrichtung nicht ordnungsgemäß ist [RREF3].
+    *   Erscheint die Information jedoch auf den ersten Blick vollständig, muss der Betriebsrat Unzulänglichkeiten **innerhalb der Wochenfrist** rügen und Nachfragen stellen. Unterlässt er dies, kann er sich nach Fristablauf nicht auf die Unordnungsgemäßheit berufen [RREF3].
+    *   Gibt der Arbeitgeber ergänzende Informationen nach, fängt die Frist des § 99 Abs. 3 BetrVG **erneut an zu laufen** [RREF3].
+
+### 2. Kündigungen (§ 102 BetrVG)
+Bei der Anhörung des Betriebsrats zu einer beabsichtigten Kündigung gelten folgende fristrechtliche Grundsätze:
+
+*   **Allgemeine Frist:** Der Betriebsrat muss seine abschließende Stellungnahme (z. B. Widerspruch oder Zustimmung) **innerhalb der Frist** abgeben [RREF2].
+*   **Nachfrage nach Informationen:** Eine Nachfrage des Betriebsrats nach weiteren Informationen führt **nicht automatisch zur Verlängerung** der Äußerungsfrist. Der Betriebsrat muss ausdrücklich um Verlängerung ersuchen. Wird diese nicht gewährt, muss die Stellungnahme innerhalb der ursprünglichen Frist erfolgen [RREF2].
+*   **Widerspruch:** Ein Widerspruch muss **frist- und ordnungsgemäß** erfolgen, um bestimmte Rechtswirkungen (z. B. Anspruch auf vorläufige Weiterbeschäftigung bei ordentlichen Kündigungen) auszulösen [RREF4].
+
+### 3. Betriebsratswahl (Einsprüche)
+Im Rahmen der Zusammensetzung und Wahl des Betriebsrats gelten spezifische Fristen für Einsprüche:
+
+*   **Einsprüche gegen die Wählerliste:** Diese können nur **innerhalb von zwei Wochen** nach Erlass des Wahlausschreibens eingelegt werden [RREF5].
+*   **Entscheidung über Einsprüche:** Der Wahlvorstand muss unverzüglich entscheiden. Spätestens muss die Entscheidung dem Einspruchsführer **am Tage vor der Wahl** schriftlich zugehen [RREF5].
+
+### 4. Zusammenfassung der Fristberechnung (BGB)
+Für die Berechnung der Fristen (insbesondere bei § 99 BetrVG) finden die §§ 186 ff. BGB Anwendung [RREF1]:
+*   **Faustregel:** Stellungnahmen haben immer mit Ablauf des namentlich gleichen Wochentages der darauf folgenden Woche zu erfolgen, an dem die Information zugegangen ist [RREF1].
+*   **Beispiel:** Zugang am Mittwoch, 4.8. → Fristende am folgenden Mittwoch, 11.8. [RREF1].
+*   **Beispiel Feiertag:** Zugang am Freitag, 26.3. → reguläres Ende Freitag, 2.4. (Karfreitag) → tatsächliches Fristende erst am Dienstag, 6.4. [RREF1].
+
+Jede der genannten Verhaltensweisen (Zustimmung, Widerspruch, Nachfragen etc.) bedarf zudem eines **Beschlusses des Betriebsrats** [RREF2].].
+-----------------------------------------
+References:
+
+[RREF1] SF_Arbeitshilfen_Sammlung.md (0.321)
+### Fristenbestimmung
+
+<!-- sem-asset-id: fristenbestimmung -->
+
+_Authors: Michael Bachner, Johanna Wenckebach_
+
+Will der Betriebsrat die Zustimmung zu einer vom Arbeitgeber geplanten personellen Einzelmaßnahme verweigern, so muss er dies unter Angabe von Gründen innerhalb einer Woche nach Unterrichtung durch den Arbeitgeber schriftlich mitteilen, § 99 Abs. 3 BetrVG. Lässt der Betriebsrat diese Frist verstreichen, so gilt die Zustimmung als erteilt.
+
+Die Fristenberechnung erfolgt gemäß §§ 186 ff. BGB. § 187 Abs. 1 BGB lautet wie folgt:
+
+„Ist für den Anfang einer Frist ein Ereignis oder ein in den Lauf eines Tages fallender Zeitpunkt maßgebend, so wird bei der Berechnung der Frist der Tag nicht mitgerechnet, in welchen das Ereignis oder der Zeitpunkt fällt.“
+
+Gemäß § 188 Abs. 2 BGB endet eine nach Wochen bestimmte Frist mit Ablauf desjenigen Tages der letzten Woche, welcher durch seine Benennung dem Tage entspricht, in den das Ereignis - also die Unterrichtung über die beabsichtigte personelle Einzelmaßnahme - fällt.
+
+Folgende Faustregel findet Anwendung: Die Zustimmungsverweigerung und Stellungnahme gegenüber dem Arbeitgeber haben immer mit Ablauf des namentlich gleichen Wochentages der darauf folgenden Woche, an dem die Information des Arbeitgebers dem Betriebsrat zugegangen ist, zu erfolgen.
+
+**Beispiel 1:**Ist die Arbeitgebermitteilung einem empfangsberechtigten Betriebsratsmitglied am Mittwoch, dem 4. 8. 2021 zugegangen, dann muss die Zustimmungsverweigerung gegenüber dem Arbeitgeber vor Ablauf des darauffolgenden Mittwochs, dem 11. 8. 2021, erfolgen und diesem zugestellt werden.Folgende Besonderheit ist zu beachten: Fällt das Ende einer Frist auf einen Samstag, Sonn- oder einen staatlich anerkannten allgemeinen Feiertag, dann tritt nach § 193 BGB an die Stelle eines solchen Tages der nächste Werktag.
+
+**Beispiel 2:**Ist die Arbeitgebermitteilung einem empfangsberechtigten Betriebsratsmitglied am Freitag, dem 26. 3. 2021, zugegangen, so muss die Zustimmungsverweigerung gegenüber dem Arbeitgeber eigentlich vor Ablauf des darauffolgenden Freitags, dem 2. 4. 2021, erfolgen. Hierbei handelt es sich jedoch um den Karfreitag und damit um einen staatlich anerkannten allgemeinen Feiertag: daher endet die Frist für die Zustimmungsverweigerung erst mit Ablauf des 6. 4. 2021, dem Dienstag nach Ostern.
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.342)
+#### **Vorbemerkung**
+
+Es liegt im **Ermessen des Betriebsrats**, welche Haltung er gegenüber der Kündigungsabsicht einnimmt. Der Arbeitnehmer hat keinen Rechtsanspruch auf ein bestimmtes Tätigwerden, insbesondere die Erhebung eines Widerspruchs durch den Betriebsrat. Der Betriebsrat hat gegenüber einer vom Arbeitgeber mitgeteilten Kündigungsabsicht folgende **Reaktionsmöglichkeiten**:
+
+- Verstreichenlassen der Frist
+- ausdrücklicher Hinweis auf Nicht-Stellungnahme (DKW-*Bachner/Deinert*, § 102 Rn. 189)
+- Nachfrage nach Informationen und ergänzenden Unterlagen (vgl. Rn. 15)
+- Äußerung von Bedenken (vgl. Rn. 22)
+- Zustimmung zur Kündigung
+- Erhebung eines Widerspruchs (vgl. Rn. 16 ff.)
+
+Jede der hier skizzierten Verhaltensweisen bedarf eines **Beschlusses des Betriebsrats**.
+
+
+
+
+
+z. Hd. des Personalleiters {{Name}}
+
+im Hause
+
+**Beabsichtigte Kündigung des Herrn** {{Name}}
+
+Sehr geehrter Herr {{Personalleiter}},
+
+der Betriebsrat bestätigt hiermit, vor Ausspruch der Kündigung von Herrn {{Name}} ordnungsgemäß angehört worden zu sein. Der Betriebsrat wird in diesem Zusammenhang keine weitere Stellungnahme abgeben.
+
+### Betriebsrat: Nachfrage nach weiteren Informationen
+
+<!-- sem-asset-id: betriebsrat_nachfrage_nach_weiteren_informationen -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+#### **Vorbemerkung**
+
+Die Nachfrage des Betriebsrats nach weiteren Informationen führt nicht automatisch zur Verlängerung der Äußerungsfrist. Der Betriebsrat muss vielmehr ausdrücklich um Verlängerung ersuchen. Für den Fall, dass der Arbeitgeber keine Fristverlängerung gewährt und hierzu auch nicht ausnahmsweise verpflichtet ist, muss der BR seine abschließende Stellungnahme **innerhalb der Frist** abgeben (vgl. DKW-*Bachner/Deinert*, § 102 Rn. 180). Um kein Risiko einzugehen, ist es in jedem Fall auch bei einer aus Sicht des Betriebsrats unvollständigen Information zu empfehlen, sich vorsorglich auch inhaltlich zu äußern.
+
+
+
+
+
+z. Hd. des Personalleiters {{Name}}
+
+im Hause
+
+**Beabsichtigte Kündigung des Herrn** {{Name}}
+
+Sehr geehrter Herr {{Personalleiter}},
+
+der Betriebsrat hält die in der o. g. Personalangelegenheit bislang zur Verfügung gestellten Informationen für nicht ausreichend. Er hat deshalb in seiner Sitzung vom {{Datum}} beschlossen, die Personalabteilung zur Unterrichtung über nachfolgende Gegenstände aufzufordern:
+
+1. {{kasten}}
+
+2. {{kasten}}
+
+Der Betriebsrat fordert Sie deshalb auch auf, die Anhörungsfrist um drei Tage beginnend ab abschließender Unterrichtung zu verlängern. Um entsprechende Stellungnahme wird gebeten. Höchst vorsorglich hat der Betriebsrat auch beschlossen, der beabsichtigten Kündigung aus folgenden Gründen zu widersprechen: {{kasten}}
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.359)
+#### **Vorbemerkung**
+
+Nach der Rechtsprechung des BAG berechtigt die nicht ordnungsgemäße Unterrichtung des Betriebsrats nicht zum Widerspruch gemäß § 99 Abs. 2 Nr. 1 BetrVG wegen eines Gesetzesverstoßes (DKW-*Wenckebach*, § 99 Rn. 131, 197). Die betriebsverfassungsrechtliche Sanktion liegt ausschließlich im Verfahren nach §§ 99, 100 BetrVG selbst. Demnach beginnt die **Frist** gemäß § 99 Abs. 3 BetrVG nicht zu laufen mit der Folge, dass die Zustimmung des Betriebsrats auch nicht im Gerichtsverfahren ersetzt werden kann. Hat der Arbeitgeber allerdings innerhalb der Wochenfrist eine Information gegeben, die - auf den ersten Blick - alle Positionen erfasst, die üblicherweise zu einer ordnungsgemäßen Information gehören, dann darf der Betriebsrat, der diese Information für unvollständig hält, sich nicht „zurücklehnen“ im Vertrauen darauf, dass er dies dem Arbeitgeber im Zustimmungsersetzungsverfahren später entgegenhalten könne. Das BAG verlangt vielmehr vom Betriebsrat aus dem Grundsatz der vertrauensvollen Zusammenarbeit, den Arbeitgeber innerhalb der Wochenfrist des § 99 Abs. 3 BetrVG auf eine etwaige Unzulänglichkeit seiner Informationen hinzuweisen und entsprechende **Nachfragen** zu stellen (diesen Hinweis kann der Betriebsrat selbstverständlich mit einer „hilfsweisen“ Zustimmungsverweigerung verbinden). Unterlässt dies der Betriebsrat, so kann er sich nach Ablauf der Wochenfrist nicht darauf berufen, seine Zustimmung könne mangels ordnungsgemäßer Information nicht als ersetzt gelten und auch im Verfahren gemäß Abs. 4 nicht mehr ersetzt werden. Gibt der Arbeitgeber auf Nachfrage **ergänzende Informationen**, fängt die **Frist** des § 99 Abs. 3 BetrVG erneut an zu laufen.
+
+
+
+{{Arbeitgeber Firmenbezeichnung, Adresse}}
+
+
+
+z. Hd. des Personalleiters {{Name}}
+
+im Hause
+
+**Ihre Mitteilung vom** {{Datum}} **zu einer beabsichtigten Einstellung**
+
+Sehr geehrte:r {{Personalleiter:in}},
+
+durch das Mitglied unseres Betriebsrats {{Name}} habe ich heute erfahren, dass Sie beabsichtigen, kurzfristig in der Marketingabteilung eine neue Mitarbeiterin einzustellen, um den auch aus unserer Sicht erheblichen Arbeitsanfall und die zwischenzeitlich eingetretene Vakanz durch die Kündigung von {{Arbeitnehmer}} zu bewältigen.
+
+Wir dürfen schon heute darauf hinweisen, dass wir auch in diesem Fall auf der ordnungsgemäßen Durchführung des Unterrichtungsverfahrens gemäß § 99 Abs. 1 BetrVG bestehen müssen. Nur vollständigkeitshalber weisen wir darauf hin, dass Sie nach dieser Bestimmung dem Betriebsrat u. a. vor jeder Einstellung die erforderlichen Bewerbungsunterlagen vorzulegen, den zu besetzenden Arbeitsplatz zu beschreiben und die vorgesehene Eingruppierung mitzuteilen haben. Wir möchten Sie bitten, dies kurzfristig nachzuholen.
+
+Wir weisen auch darauf hin, dass Sie die Mitteilung an einen nicht empfangsberechtigten Betriebsratskollegen gegeben haben. Ihr Ansprechpartner im Betriebsrat ist grundsätzlich dessen Vorsitzende:r, im Verhinderungsfall dessen Stellvertretung. Grundsätzlich hat der Betriebsrat nach ordnungsgemäßer Information eine Woche Zeit für die Abgabe einer Stellungnahme. Auch hierauf möchten wir aus heutiger Sicht, auch um etwaigen anderen Bewerber:innen eine Chance zu geben, bestehen. In diesem Zusammenhang verweisen wir schon jetzt auf unsere Betriebsvereinbarung zur Konkretisierung von § 93 BetrVG hin, die zunächst eine innerbetriebliche Stellenausschreibung vorsieht.
+
+[RREF4] SF_Arbeitshilfen_Sammlung.md (0.360)
+### Betriebsrat: Widerspruch nach § 102 Abs. 3 Nr. 1 BetrVG
+
+<!-- sem-asset-id: betriebsrat_widerspruch_nach_par_102_abs_3_nr_1_betrvg -->
+
+_Authors: Michael Bachner, Olaf Deinert_
+
+#### **Vorbemerkung**
+
+Der Betriebsrat kann jeder Kündigung**„widersprechen“** (allgemein vgl. DKW-*Bachner/Deinert*, § 102 Rn. 190). Er kann dies sowohl gegenüber einer ordentlichen als auch einer außerordentlichen Kündigung tun. Er kann dies auch mit beliebigen Gründen tun, um so den Kündigungsentschluss des Arbeitgebers nachhaltig zu beeinflussen. Jedoch löst grundsätzlich nur ein **frist- und ordnungsgemäßer Widerspruch** gegen eine ordentliche Kündigung gemäß § 102 Abs. 3 BetrVG einen Anspruch des Arbeitnehmers auf vorläufige Weiterbeschäftigung gemäß § 102 Abs. 5 BetrVG aus. Ein sog. „Widerspruch“ gegen eine außerordentliche Kündigung hat diese Wirkung nicht. Dies gilt auch für Widersprüche, deren Begründung nicht den gesetzlichen Anforderungen entsprechen.
+
+Der Widerspruch muss schriftlich oder in Textform erfolgen (DKW-*Bachner/Deinert*, § 102 Rn. 200 ff.). Er muss darüber hinaus
+
+- sich auf einen der in § 102 Abs. 3 BetrVG genannten Gründe beziehen und
+- durch **Angabe konkreter Tatsachen** begründet werden.
+
+Es reicht also nicht aus, dass der Betriebsrat lediglich den Gesetzestext wiederholt. Er muss vielmehr durch Tatsachenhinweise deutlich machen, warum der jeweils genannte Widerspruchsgrund gerade in diesem Einzelfall gegeben ist. Der Betriebsrat muss das Vorhandensein der widerspruchsbegründenden Tatsachen positiv behaupten. Die bloße Äußerung von Zweifeln, z. B. ob der Arbeitnehmer nicht doch auf einem anderen Arbeitsplatz zu anderen Bedingungen beschäftigt werden könnte, reicht nicht aus.
+
+Der Betriebsrat kann den Widerspruch nach § 103 Abs. 3 Nr. 1 BetrVG (zu den Einzelheiten vgl. DKW-*Bachner/Deinert*, § 102 Rn. 209 ff.) darauf stützen, dass der Arbeitgeber bei der Auswahl des zu kündigenden Arbeitnehmers soziale Gesichtspunkte nicht oder nicht ausreichend berücksichtigt hat. Dieser Widerspruchsgrund kommt naturgemäß nur bei betriebsbedingten Kündigungen in Betracht.
+
+Eine ordnungsgemäße Widerspruchsbegründung erfordert nicht, dass der Betriebsrat andere Arbeitnehmer namentlich bezeichnet, die anstelle des vom Arbeitgeber genannten Arbeitnehmers gekündigt werden könnten. Es ist vielmehr ausreichend, dass der Betriebsrat darauf hinweist, dass er
+
+- die nach seiner Ansicht in die soziale Auswahl einzubeziehenden vergleichbaren Arbeitnehmer und
+- die sozialen Gesichtspunkte (z. B. Hinweis auf die Dauer der Betriebszugehörigkeit und die Zahl der unterhaltsberechtigten Personen des Arbeitnehmers und Feststellung, dass es im Kreise der vergleichbaren Arbeitnehmer Arbeitskollegen mit kürzerer Betriebszugehörigkeit und geringeren Unterhaltsverpflichtungen gibt)
+
+als unzureichend berücksichtigt ansieht.
+
+
+
+
+
+z. Hd. des Personalleiters {{Name}}
+
+im Hause
+
+**Beabsichtigte betriebsbedingte Kündigung von Frau** {{Name}}
+
+Sehr geehrter Herr {{Personalleiter}},
+
+der Betriebsrat hat in seiner Sitzung am {{Datum}} beschlossen, der von Ihnen beabsichtigten Kündigung unserer Vertriebsmitarbeiterin {{Name}} zu widersprechen. Zwar ist in der Gruppe der Vertriebsmitarbeiter ein Arbeitsplatz weggefallen; der Betriebsrat ist jedoch der Auffassung, dass die erforderliche Sozialauswahl nicht ordnungsgemäß durchgeführt worden ist (§ 102 Abs. 3 Nr. 1 BetrVG).
+
+
+
+Frau {{Name}}, geboren am {{Datum}}, ist seit dem {{Datum}} in unserem Unternehmen, zunächst in {{kasten}} und dann ab dem {{Datum}} in {{kasten}} beschäftigt. Frau {{Name}} ist verheiratet und Mutter von drei schulpflichtigen Kindern.
+
+Der Betriebsrat hält die derzeitige wirtschaftliche Situation unseres Unternehmens gleichfalls für schwierig. Wir verkennen deshalb nicht, dass auch beim Personal Einschnitte notwendig sind. Frau {{Name}} steht allerdings aufgrund ihrer persönlichen Sozialdaten nach Auffassung des Betriebsrats nicht zur Kündigung in der Gruppe der Vertriebsmitarbeiter an. Eine Kündigung von Frau {{Name}} würde die gesetzlich erforderliche Sozialauswahl fehlerhaft machen. Wie Sie wissen, sind in unserem Betrieb mehrere Vertriebsmitarbeiter tätig, die über eine deutliche kürzere Betriebszugehörigkeit verfügen. Zwei dieser Arbeitnehmer haben sogar keinerlei Unterhaltsverpflichtungen.
+
+Der Betriebsrat widerspricht deshalb der beabsichtigten Kündigung von Frau {{Name}} ausdrücklich.
+
+[RREF5] SF_Arbeitshilfen_Sammlung.md (0.374)
+## §§ 7 – 20 Zusammensetzung und Wahl des Betriebsrats – Wahlformulare Normales Wahlverfahren
+
+### § 7 Wahlberechtigung
+
+<!-- sem-asset-id: par7_wahlberechtigung -->
+
+#### Übersicht normales Wahlverfahren
+
+Nach dem Betriebsverfassungsgesetz (BetrVG) und der Wahlordnung (WO) sind für den Ablauf der Betriebsratswahlen grundsätzlich folgende Fristen zu beachten:
+
+- Vor der Wahl
+    - **Spätestens** zehn Wochen vor Ablauf der Amtszeit des alten Betriebsrats ist ein Wahlvorstand einzusetzen (§ 16 Abs. 1 BetrVG). Der Wahlvorstand hat die Wahl einzuleiten, durchzuführen und das Wahlergebnis festzustellen (§ 18 Abs. 1 BetrVG).
+    - Der Wahlvorstand hat eine Liste der Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern, aufzustellen (§ 2 Abs. 1 WO). Er hat festzustellen, welches Geschlecht in der Minderheit ist und wie viele Betriebsratssitze dem Minderheitengeschlecht mindestens zustehen (§ 5 WO).
+    - **Spätestens** sechs Wochen vor dem ersten Tag der Stimmabgabe hat der Wahlvorstand das Wahlausschreiben zu erlassen (§ 3 Abs. 1 WO). Damit ist die Wahl eingeleitet.
+    - Nur innerhalb von zwei Wochen nach Erlass des Wahlausschreibens können Einsprüche gegen die Wählerliste eingelegt und Vorschlagslisten eingereicht werden (§ 4 Abs. 1, § 6 Abs. 1 WO). Die Vorschlagslisten muss der Wahlvorstand unverzüglich prüfen und Ungültigkeit oder Beanstandungen unverzüglich schriftlich unter Angabe der Gründe dem Listenvertreter mitteilen (§ 7 Abs. 2 WO).
+    - **Spätestens** eine Woche vor dem Wahltag hat die Bekanntmachung der gültigen Vorschlagslisten in gleicher Weise wie das Wahlausschreiben zu erfolgen (§ 10 Abs. 2 WO).
+    - Über Einsprüche gegen die Wählerliste muss der Wahlvorstand unverzüglich entscheiden. **Spätestens** muss seine Entscheidung dem Arbeitnehmer/der Arbeitnehmerin, der/die den Einspruch eingelegt hat, am Tage vor der Wahl schriftlich zugehen (§ 4 Abs. 2 WO).
+
+
+**Wahltag**
+
+- Nach der Wahl
+    - Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen vor und gibt das (vorläufige) Wahlergebnis bekannt (§ 13 WO). Es ist eine Wahlniederschrift anzufertigen (§ 16 WO).
+    - Der Wahlvorstand muss die gewählten Arbeitnehmer/Arbeitnehmerinnen unverzüglich verständigen (§ 17 WO).
+    - Der Wahlvorstand hat die Namen der gewählten Arbeitnehmer/Arbeitnehmerinnen bekannt zu machen, sobald sie endgültig feststehen (§ 18 WO).
+    - Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand den neugewählten Betriebsrat zur konstituierenden Sitzung einzuberufen (§ 29 Abs. 1 BetrVG). Die Wahlunterlagen sind dem neu gewählten Betriebsrat zu übergeben, der sie mindestens bis zur Beendigung seiner Amtszeit aufzubewahren hat (§ 19 WO).
+
+
+
+---
+
+## Q-P1-CZ-10  (subtask: multi_paragraph_synthesis)
+
+### FRAGE
+Welche Mitbestimmungsrechte hat ein Personalrat in Niedersachsen?
+
+### REFERENZ
+- Mitbestimmung nach NPersVG 59: einhaltung geltender Gesetze - z.B. DSGVO
+- Mitbestimmun gnach NPersVG 64-67: u.a. Zustimmungsverweigerungsrechte bei personellen Einzelmaßnahmen
+
+### MODELLANTWORT
+
+
+Bei der Beantwortung Ihrer Frage ist eine wichtige rechtliche Unterscheidung zu treffen, die sich auch bei der Analyse der von Ihnen bereitgestellten Dokumente [RREF1] bis [RREF5] zeigt.
+
+### 1. Unterscheidung zwischen Betriebsrat und Personalrat
+
+Die von Ihnen zur Verfügung gestellten Referenzen ([RREF1] bis [RREF5]) beziehen sich ausschließlich auf das **Betriebsverfassungsgesetz (BetrVG)**. Dieses Gesetz regelt die Rechte des **Betriebsrats** in Unternehmen der **privaten Wirtschaft**.
+
+*   **Beleg aus den Referenzen:** Die Dokumente zitieren explizit §§ des BetrVG, wie z. B. § 87 BetrVG (Mitbestimmungsrechte in sozialen Angelegenheiten) [RREF1], § 99 BetrVG (Mitbestimmung bei personellen Einzelmaßnahmen) [RREF4] oder § 83 BetrVG (Einsicht in Personalakten) [RREF5].
+
+Ein **Personalrat** hingegen vertritt die Interessen der Beschäftigten im **öffentlichen Dienst** (z. B. Behörden, Schulen, öffentliche Unternehmen in Niedersachsen). Für diesen gilt nicht das BetrVG, sondern das **Niedersächsische Personalvertretungsgesetz (NPersVG)**. Die Mitbestimmungsrechte sind zwar inhaltlich ähnlich strukturiert, basieren aber auf einer anderen gesetzlichen Grundlage.
+
+### 2. Mitbestimmungsrechte des Personalrats in Niedersachsen (NPersVG)
+
+Da die bereitgestellten Dokumente das NPersVG nicht abdecken, informiere ich Sie basierend auf der allgemeinen Rechtslage zum Niedersächsischen Personalvertretungsgesetz. Der Personalrat in Niedersachsen hat gemäß NPersVG Mitbestimmungsrechte in folgenden Hauptkategorien:
+
+#### A. Soziale Angelegenheiten
+Ähnlich wie in § 87 BetrVG [RREF1], hat der Personalrat in sozialen Fragen ein Mitbestimmungsrecht. Dazu gehören typischerweise:
+*   Fragen der Ordnung des Dienststellenbetriebs und des Verhaltens der Beschäftigten.
+*   Beginn und Ende der täglichen Arbeitszeit, Pausen und Verteilung der Arbeitszeit.
+*   Einführung und Anwendung von technischen Einrichtungen zur Überwachung (z. B. Software zur Leistungskontrolle).
+*   Regelungen zur Verhütung von Arbeitsunfällen und Gesundheitsschutz.
+*   Grundsätze für das betriebliche Vorschlagswesen und Gruppenarbeit.
+
+#### B. Personelle Angelegenheiten
+Ähnlich wie in § 99 BetrVG [RREF4], muss der Personalrat bei personellen Einzelmaßnahmen beteiligt werden. Dazu zählen:
+*   Einstellungen, Eingruppierungen, Umgruppierungen und Versetzungen.
+*   Der Dienststellenleiter muss den Personalrat rechtzeitig unterrichten und dessen Zustimmung einholen.
+*   Der Personalrat kann die Zustimmung aus bestimmten Gründen verweigern (z. B. wenn gegen gesetzliche Vorschriften verstoßen wird oder eine Benachteiligung ohne sachlichen Grund vorliegt).
+
+#### C. Organisatorische Angelegenheiten
+Der Personalrat hat zudem Mitbestimmungsrechte bei organisatorischen Maßnahmen, die sich auf die Arbeit oder die Leistung der Beschäftigten auswirken (z. B. Zuschnitt der Dienststellen, Arbeitsabläufe). Dies geht teilweise über die Regelungen des BetrVG hinaus.
+
+### 3. Zusammenfassung und Empfehlung
+
+| Merkmal | Betriebsrat (Ihre Referenzen) | Personalrat (Ihre Frage) |
+| :--- | :--- | :--- |
+| **Gesetz** | Betriebsverfassungsgesetz (BetrVG) [RREF1, RREF4] | Niedersächsisches Personalvertretungsgesetz (NPersVG) |
+| **Bereich** | Private Wirtschaft | Öffentlicher Dienst (Niedersachsen) |
+| **Mitbestimmung** | § 87 BetrVG (Sozial), § 99 BetrVG (Personell) [RREF1, RREF4] | Entsprechende §§ im NPersVG (Sozial, Personell, Organisatorisch) |
+
+**Fazit:** Die von Ihnen hochgeladenen Dokumente [RREF1]–[RREF5] sind für die Beantwortung der Frage nach dem **Personalrat in Niedersachsen** rechtlich nicht direkt anwendbar, da sie das falsche Gesetz (BetrVG statt NPersVG) betreffen. Für eine präzise rechtliche Einordnung im öffentlichen Dienst Niedersachsens muss das **NPersVG** herangezogen werden.
+
+Sollten Sie spezifische Paragraphen des NPersVG benötigen oder eine Betriebsvereinbarung im öffentlichen Dienst prüfen wollen, kann ich gerne weitere Recherchen in der Datenbank nach dem Niedersächsischen Personalvertretungsgesetz durchführen.
+
+*Hinweis: Diese Auskunft dient der ersten Orientierung und ersetzt keine anwaltliche Rechtsberatung.*.*
+-----------------------------------------
+References:
+
+[RREF1] BetrVG.pdf p.29,y:338 (0.449)
+## § 86a Vorschlagsrecht der Arbeitnehmer
+Jeder Arbeitnehmer hat das Recht, dem Betriebsrat Themen zur Beratung vorzuschlagen. Wird ein Vorschlag von mindestens 5 vom Hundert der Arbeitnehmer des Betriebs unterstützt, hat der Betriebsrat diesen innerhalb von zwei Monaten auf die Tagesordnung einer Betriebsratssitzung zu setzen.
+
+[Y 338]: #
+## Dritter Abschnitt Soziale Angelegenheiten
+## § 87 Mitbestimmungsrechte
+- (1) Der Betriebsrat hat, soweit eine gesetzliche oder tarifliche Regelung nicht besteht, in folgenden Angelegenheiten mitzubestimmen:
+- 1. Fragen der Ordnung des Betriebs und des Verhaltens der Arbeitnehmer im Betrieb;
+- 2. Beginn und Ende der täglichen Arbeitszeit einschließlich der Pausen sowie Verteilung der Arbeitszeit auf die einzelnen Wochentage;
+- 3. vorübergehende Verkürzung oder Verlängerung der betriebsüblichen Arbeitszeit;
+- 4. Zeit, Ort und Art der Auszahlung der Arbeitsentgelte;
+- 5. Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplans sowie die Festsetzung der zeitlichen Lage des Urlaubs für einzelne Arbeitnehmer, wenn zwischen dem Arbeitgeber und den beteiligten Arbeitnehmern kein Einverständnis erzielt wird;
+
+[Page 30]: #
+- 6. Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen;
+- 7. Regelungen über die Verhütung von Arbeitsunfällen und Berufskrankheiten sowie über den Gesundheitsschutz im Rahmen der gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften;
+- 8. Form, Ausgestaltung und Verwaltung von Sozialeinrichtungen, deren Wirkungsbereich auf den Betrieb, das Unternehmen oder den Konzern beschränkt ist;
+- 9. Zuweisung und Kündigung von Wohnräumen, die den Arbeitnehmern mit Rücksicht auf das Bestehen eines Arbeitsverhältnisses vermietet werden, sowie die allgemeine Festlegung der Nutzungsbedingungen;
+- 10. Fragen der betrieblichen Lohngestaltung, insbesondere die Aufstellung von Entlohnungsgrundsätzen und die Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung;
+- 11. Festsetzung der Akkord- und Prämiensätze und vergleichbarer leistungsbezogener Entgelte, einschließlich der Geldfaktoren;
+- 12. Grundsätze über das betriebliche Vorschlagswesen;
+- 13. Grundsätze über die Durchführung von Gruppenarbeit; Gruppenarbeit im Sinne dieser Vorschrift liegt vor, wenn im Rahmen des betrieblichen Arbeitsablaufs eine Gruppe von Arbeitnehmern eine ihr übertragene Gesamtaufgabe im Wesentlichen eigenverantwortlich erledigt;
+- 14. Ausgestaltung von mobiler Arbeit, die mittels Informations- und Kommunikationstechnik erbracht wird.
+- (2) Kommt eine Einigung über eine Angelegenheit nach Absatz 1 nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
+
+[Y 580]: #
+
+[RREF2] SF_Arbeitshilfen_Sammlung.md (0.458)
+### Betriebsrat: Antrag auf Feststellung eines Mitbestimmungsrechts
+
+<!-- sem-asset-id: betriebsrat_antrag_auf_feststellung_eines_mitbestimmungsrechts -->
+
+_Authors: Michael Bachner, Johanna Wenckebach_
+
+#### **Vorbemerkung**
+
+Sowohl Arbeitgeber als auch Betriebsrat können als Antragsteller auftreten. Die Anträge können sich auf die generelle Feststellung erstrecken, dass eine bestimmte personelle Maßnahme der Zustimmung des Betriebsrats bedarf oder nicht bedarf.
+
+
+
+{{Bezeichnung}}
+
+{{Anschrift}}
+
+In dem Beschlussverfahren
+
+mit den Beteiligten
+
+Beteiligte zu 1. Betriebsrat {{Name}}
+
+<p align="right">– Antragsteller –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+und
+
+Beteiligte zu 2. Firma {{Bezeichnung, Adresse}}
+
+<p align="right">– Antragsgegner –</p>
+
+Verfahrensbevollmächtigte: {{Name, Adresse}}
+
+wegen **Feststellung des Mitbestimmungsrechts bei einer personellen Einzelmaßnahme**
+
+Wir bestellen uns zu Verfahrensbevollmächtigten des Antragstellers und beantragen, einen möglichst frühen Anhörungstermin anzuberaumen, in dem wir beantragen zu erkennen:
+
+Es wird festgestellt, dass der Antragsteller bei {{Anlass}} ein Mitbestimmungsrecht hat.
+
+{{Beispiele:}}
+
+{{- Einstellung von „freien Mitarbeitern“ (vgl. DKW- Wenckebach, § 99 Rn. 39),}}
+
+{{- Antrag auf Feststellung, dass die Verlängerung eines befristeten Arbeitsvertrags der Zustimmung des Betriebsrats bedarf (vgl. DKW- Wenckebach, § 99 Rn. 47),}}
+
+{{- Abordnung von Arbeitnehmer:innen einer Filiale eines Unternehmens in eine andere Filiale für den Betriebsrat des aufnehmenden Betriebs, auch wenn Abordnung nur für wenige Tage erfolgt (vgl. DKW- Wenckebach, § 99 Rn. 106),}}
+
+{{- Weiterbeschäftigung von Arbeitnehmer:innen über eine tarifliche Altersgrenze hinaus (vgl. DKW- Wenckebach, § 99 Rn. 47).}}
+
+
+
+Mit Schreiben vom {{Datum}} forderte der Antragsteller den Antragsgegner auf, künftig bei solchen personellen Maßnahmen das Mitbestimmungsrecht des Antragstellers zu beachten.
+
+Der Antragsgegner bestreitet jedoch ein Mitbestimmungsrecht des Antragstellers, wie sich aus dem beigefügten Schreiben des Antraggegners vom {{Datum}} ergibt. Vor diesem Hintergrund ist die Einleitung des vorliegenden Verfahrens geboten.
+
+[RREF3] SF_Arbeitshilfen_Sammlung.md (0.486)
+#### § 1: Gleichberechtigte Mitbestimmung des Betriebsrats
+
+Der Betriebsrat hat in folgenden Angelegenheiten, bezogen auf die Gesamtheit und einzelne Gruppen der Mitarbeiterschaft sowie auf einzelne Mitarbeiter, gleichberechtigt mitzubestimmen:
+
+1. Einstellungen einschließlich Auswahl der Bewerber;
+2. Eingruppierungen;
+3. Übertragung höherwertiger Tätigkeiten;
+4. Umgruppierungen;
+5. Versetzungen;
+6. Kündigungen;
+7. Dauer, Beginn und Ende der täglichen Arbeitszeit, einschließlich der Pausen, soweit Arbeitszeit-Sonderregelungen tarifvertraglich zulässig sind;
+8. Festsetzung von Kurz- und Mehrarbeit;
+9. Festsetzung der Urlauberquoten;
+10. Aufstellung von Entlohnungsgrundsätzen, Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung;
+11. Planung und Durchführung der Ausbildung, Fortbildung und Umschulung;
+12. Grundsätzliche Maßnahmen der Organisation, soweit dadurch die Arbeit oder die Leistung der Mitarbeiter beeinflusst wird; hierzu gehören auch geplante Betriebsänderungen;
+13. Maßnahmen zur Ordnung des Betriebs und des Verhaltens der Mitarbeiter im Betrieb, auch wenn diese arbeitstechnologisch bedingt sind;
+14. Form, Ausgestaltung und Verwaltung bestehender oder vom Vorstand zu errichtender Sozialeinrichtungen;
+15. Zuweisung und Kündigung von Wohnungen, die von der {{Firmenbezeichnung}} nur mit Rücksicht auf das Bestehen eines Arbeitsverhältnisses vermietet werden und Festsetzung der Nutzungsbedingungen;
+16. Schadensersatzansprüche und Rückgewähransprüche der {{Firmenbezeichnung}} gegen Mitarbeiter.
+
+> #### **Hinweis:**
+>
+> Die Erweiterung der Mitbestimmung in personellen Angelegenheiten (Nr. 1 - 6) ist ebenso wie die Erweiterung der Mitbestimmung in sozialen Angelegenheiten (Nr. 7 - 11) unproblematisch zulässig. Nr. 12 unterwirft auch geplante Betriebsänderungen der Mitbestimmung, was auf eine Erzwingbarkeit des Interessenausgleichs hinausläuft. Nr. 13 - 16 betrifft wiederum Fragen, die zu den sozialen Angelegenheiten gehören.
+
+#### § 2: Information des Betriebsrats
+
+Der Betriebsrat hat Anspruch auf die zur Erfüllung seiner Aufgaben erforderliche, d. h. rechtzeitige und ausreichende Information durch den Vorstand bzw. die von diesem Beauftragten. Hierzu gehört auch die Information in allen gravierenden und für die Zukunft der {{Firmenbezeichnung}} bedeutsamen wirtschaftlichen Angelegenheiten.
+
+> #### **Hinweis:**
+>
+> Die Vorschrift hat im Grunde nur deklaratorische Bedeutung, da sich Entsprechendes an sich schon aus § 80 Abs. 2 Satz 1 BetrVG ergibt. Bei den wirtschaftlichen Angelegenheiten wäre allerdings der Wirtschaftsausschuss, nicht der Betriebsrat zuständig.
+
+[RREF4] BetrVG.pdf p.33,y:754 (0.490)
+## Dritter Unterabschnitt Personelle Einzelmaßnahmen
+## § 99 Mitbestimmung bei personellen Einzelmaßnahmen
+- (1) In Unternehmen mit in der Regel mehr als zwanzig wahlberechtigten Arbeitnehmern hat der Arbeitgeber den Betriebsrat vor jeder Einstellung, Eingruppierung, Umgruppierung und Versetzung zu unterrichten, ihm die erforderlichen Bewerbungsunterlagen vorzulegen und Auskunft über die Person der Beteiligten zu geben; er hat dem Betriebsrat unter Vorlage der erforderlichen Unterlagen Auskunft über die Auswirkungen der geplanten Maßnahme zu geben und die Zustimmung des Betriebsrats zu der geplanten Maßnahme einzuholen. Bei Einstellungen und Versetzungen hat der Arbeitgeber insbesondere den in Aussicht genommenen Arbeitsplatz und die vorgesehene Eingruppierung mitzuteilen. Die Mitglieder des Betriebsrats sind verpflichtet, über die ihnen im Rahmen der personellen Maßnahmen nach den Sätzen 1 und 2 bekanntgewordenen persönlichen Verhältnisse und Angelegenheiten der Arbeitnehmer, die ihrer Bedeutung oder ihrem Inhalt nach einer vertraulichen Behandlung bedürfen, Stillschweigen zu bewahren; § 79 Abs. 1 Satz 2 bis 4 gilt entsprechend.
+- (2) Der Betriebsrat kann die Zustimmung verweigern, wenn
+
+[Page 34]: #
+- 1. die personelle Maßnahme gegen ein Gesetz, eine Verordnung, eine Unfallverhütungsvorschrift oder gegen eine Bestimmung in einem Tarifvertrag oder in einer Betriebsvereinbarung oder gegen eine gerichtliche Entscheidung oder eine behördliche Anordnung verstoßen würde,
+- 2. die personelle Maßnahme gegen eine Richtlinie nach § 95 verstoßen würde,
+- 3. die durch Tatsachen begründete Besorgnis besteht, dass infolge der personellen Maßnahme im Betrieb beschäftigte Arbeitnehmer gekündigt werden oder sonstige Nachteile erleiden, ohne dass dies aus betrieblichen oder persönlichen Gründen gerechtfertigt ist; als Nachteil gilt bei unbefristeter Einstellung auch die Nichtberücksichtigung eines gleich geeigneten befristet Beschäftigten,
+- 4. der betroffene Arbeitnehmer durch die personelle Maßnahme benachteiligt wird, ohne dass dies aus betrieblichen oder in der Person des Arbeitnehmers liegenden Gründen gerechtfertigt ist,
+- 5. eine nach § 93 erforderliche Ausschreibung im Betrieb unterblieben ist oder
+- 6. die durch Tatsachen begründete Besorgnis besteht, dass der für die personelle Maßnahme in Aussicht genommene Bewerber oder Arbeitnehmer den Betriebsfrieden durch gesetzwidriges Verhalten oder durch grobe Verletzung der in § 75 Abs. 1 enthaltenen Grundsätze, insbesondere durch rassistische oder fremdenfeindliche Betätigung, stören werde.
+- (3) Verweigert der Betriebsrat seine Zustimmung, so hat er dies unter Angabe von Gründen innerhalb einer Woche nach Unterrichtung durch den Arbeitgeber diesem schriftlich mitzuteilen. Teilt der Betriebsrat dem Arbeitgeber die Verweigerung seiner Zustimmung nicht innerhalb der Frist schriftlich mit, so gilt die Zustimmung als erteilt.
+- (4) Verweigert der Betriebsrat seine Zustimmung, so kann der Arbeitgeber beim Arbeitsgericht beantragen, die Zustimmung zu ersetzen.
+
+[RREF5] BetrVG.pdf p.28,y:98 (0.491)
+## § 83 Einsicht in die Personalakten
+
+[Page 29]: #
+
+[Y 915]: #
+- (1) Der Arbeitnehmer hat das Recht, in die über ihn geführten Personalakten Einsicht zu nehmen. Er kann hierzu ein Mitglied des Betriebsrats hinzuziehen. Das Mitglied des Betriebsrats hat über den Inhalt der Personalakte Stillschweigen zu bewahren, soweit es vom Arbeitnehmer im Einzelfall nicht von dieser Verpflichtung entbunden wird.
+- (2) Erklärungen des Arbeitnehmers zum Inhalt der Personalakte sind dieser auf sein Verlangen beizufügen.
+## § 84 Beschwerderecht
+- (1) Jeder Arbeitnehmer hat das Recht, sich bei den zuständigen Stellen des Betriebs zu beschweren, wenn er sich vom Arbeitgeber oder von Arbeitnehmern des Betriebs benachteiligt oder ungerecht behandelt oder in sonstiger Weise beeinträchtigt fühlt. Er kann ein Mitglied des Betriebsrats zur Unterstützung oder Vermittlung hinzuziehen.
+- (2) Der Arbeitgeber hat den Arbeitnehmer über die Behandlung der Beschwerde zu bescheiden und, soweit er die Beschwerde für berechtigt erachtet, ihr abzuhelfen.
+- (3) Wegen der Erhebung einer Beschwerde dürfen dem Arbeitnehmer keine Nachteile entstehen.
+## § 85 Behandlung von Beschwerden durch den Betriebsrat
+- (1) Der Betriebsrat hat Beschwerden von Arbeitnehmern entgegenzunehmen und, falls er sie für berechtigt erachtet, beim Arbeitgeber auf Abhilfe hinzuwirken.
+- (2) Bestehen zwischen Betriebsrat und Arbeitgeber Meinungsverschiedenheiten über die Berechtigung der Beschwerde, so kann der Betriebsrat die Einigungsstelle anrufen. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat. Dies gilt nicht, soweit Gegenstand der Beschwerde ein Rechtsanspruch ist.
+- (3) Der Arbeitgeber hat den Betriebsrat über die Behandlung der Beschwerde zu unterrichten. § 84 Abs. 2 bleibt unberührt.
+## § 86 Ergänzende Vereinbarungen
+Durch Tarifvertrag oder Betriebsvereinbarung können die Einzelheiten des Beschwerdeverfahrens geregelt werden. Hierbei kann bestimmt werden, dass in den Fällen des § 85 Abs. 2 an die Stelle der Einigungsstelle eine betriebliche Beschwerdestelle tritt.
+
+
