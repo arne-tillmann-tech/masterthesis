@@ -185,9 +185,9 @@ Anthropic-fallback bullet at the top of this section if you have the key.
 ## Status / scope
 
 - Phase-1 corpus (18 Q): full matrix evaluated post-FIX (see *Results*).
-- Phase-2 corpus (17 Q): parked at `data/legal_qa/questions_pending_reference.jsonl` until expert reference answers are commissioned. Two paths under consideration:
+- Phase-2 corpus (17 Q): parked at `data/legal_qa/questions_pending_reference.jsonl` until expert reference answers are available. Two paths under consideration:
   - **GEN milestone** — AI-drafted references reviewed and corrected by experts.
-  - **UNION milestone** — references written from scratch via the ver.di expert network.
+  - **UNION milestone** — references written from scratch via the union expert network.
 - IRR validation: protocol design at `docs/irr-protocol.md`; sample materials at `data/irr/` (currently calibrated against the pre-FIX confounded matrix — pending regeneration). Expert raters TBD.
 
 ## Results
