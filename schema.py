@@ -223,3 +223,39 @@ class Verdict(BaseModel):
                 "expert rating"
             )
         return self
+
+
+# ── DivaResponse (one streamed DIVA101 call, persisted for playback) ────────
+
+
+class DivaResponse(BaseModel):
+    """One streamed DIVA101 call: (SUT × Arcana tier × question) → response.
+
+    Persisted to JSONL by `scripts/diva_fetch.py`. The Inspect-AI evaluation
+    task replays these via the `diva_playback` solver, decoupling the
+    long-running streaming RAG fetch from the (judge-driven) scoring step.
+
+    Required because Inspect-AI's `OpenAICompatibleAPI` cannot enable HTTP
+    streaming via `extra_body={"stream": true}` (the SDK's hard cast at
+    `openai_compatible.py:290` rejects the resulting `AsyncStream`), but
+    DIVA101's SAIA gateway requires `stream: true` plus the
+    `inference-service: saia-openai-gateway` header to invoke Arcana
+    retrieval — non-streaming requests hit a server-side ~10s ReadTimeout
+    before the qwen reasoning preamble finishes.
+    """
+
+    # ── Identity ────────────────────────────────────────────────────────────
+    question_id: str = Field(..., pattern=QUESTION_ID_PATTERN)
+    sut_model: str = Field(..., min_length=1, description="GWDG model id, e.g. 'qwen3.5-397b-a17b'")
+    rag_label: str = Field(..., min_length=1, description="human label, e.g. 'Öff. Mat.'")
+    arcana_id: str = Field(..., min_length=1, description="Arcana RAG id, e.g. 'ananyapam.de01/Betriebsverfassungsgesetz'")
+
+    # ── Response ────────────────────────────────────────────────────────────
+    raw_response: str = Field(..., description="full concatenated streamed text (incl. inlined [RREF] markers)")
+    rref_markers: list[str] = Field(default_factory=list, description="extracted '[RREF<N>] filename p.X,y:Y (relevance)' tokens, verbatim")
+    finish_reason: Optional[str] = None
+
+    # ── Run metadata ────────────────────────────────────────────────────────
+    fetched_at: str = Field(..., min_length=10, description="ISO-8601 UTC timestamp of when the call returned")
+    elapsed_s: float = Field(..., ge=0.0, description="wall-clock seconds for the streamed call")
+    error: Optional[str] = Field(None, description="exception text if the call failed; raw_response will be empty")

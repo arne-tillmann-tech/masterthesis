@@ -27,9 +27,9 @@ from pathlib import Path
 
 from inspect_ai import Task, task
 from inspect_ai.dataset import Sample, json_dataset
-from inspect_ai.model import GenerateConfig, get_model
+from inspect_ai.model import GenerateConfig, ModelOutput, get_model
 from inspect_ai.scorer import Score, Target, mean, scorer, stderr
-from inspect_ai.solver import TaskState, generate, system_message
+from inspect_ai.solver import Generate, Solver, TaskState, generate, solver, system_message
 
 
 # ── Paths ────────────────────────────────────────────────────────────────────
@@ -244,22 +244,92 @@ def legal_qa_verdict_scorer(
     return score
 
 
+# ── Playback solver (DIVA two-phase: fetch then judge) ──────────────────────
+
+
+@solver
+def diva_playback(jsonl_path: str | Path) -> Solver:
+    """Replay precomputed DIVA101 streaming responses keyed by `question_id`.
+
+    Used by the DIVA matrix: `scripts/diva_fetch.py` writes one
+    `DivaResponse` JSONL per (SUT × Arcana tier), and this solver substitutes
+    those raw responses for `generate()` so Inspect-AI runs only the judge.
+    See `Agent-ClaudeCode/diagnostics/2026-04-29_arcana-finding-followup.md`
+    §1 (option c) for why the fetch and the eval are decoupled.
+
+    Args:
+        jsonl_path: Path to a JSONL file of `DivaResponse` rows.
+
+    Raises (at solve time):
+        FileNotFoundError: if the JSONL is missing.
+        KeyError: if a sample's `question_id` is not in the JSONL.
+        RuntimeError: if the fetched row recorded an error (no `raw_response`).
+    """
+    path = Path(jsonl_path)
+    if not path.exists():
+        raise FileNotFoundError(f"diva_playback: JSONL not found at {path}")
+
+    responses: dict[str, dict] = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        rec = json.loads(line)
+        responses[rec["question_id"]] = rec
+
+    sut_models = {rec.get("sut_model") for rec in responses.values()}
+    sut_label = next(iter(sut_models)) if len(sut_models) == 1 else "diva-playback-mixed"
+
+    async def solve(state: TaskState, generate: Generate) -> TaskState:
+        sample_id = str(state.sample_id)
+        rec = responses.get(sample_id)
+        if rec is None:
+            raise KeyError(
+                f"diva_playback: no precomputed response for sample {sample_id!r} "
+                f"in {path.name} (have {len(responses)} rows)"
+            )
+        if rec.get("error"):
+            raise RuntimeError(
+                f"diva_playback: fetch row for {sample_id} recorded an error — "
+                f"rerun the fetcher before evaluating. Original error: {rec['error']}"
+            )
+        text = rec.get("raw_response") or ""
+        if not text:
+            raise RuntimeError(
+                f"diva_playback: empty raw_response for {sample_id} (no error logged)"
+            )
+        state.output = ModelOutput.from_content(model=sut_label, content=text)
+        return state
+
+    return solve
+
+
 # ── Task definition ──────────────────────────────────────────────────────────
 
 
 @task
-def legal_qa_benchmark():
-    """Evaluate frontier LLMs on legal-QA against expert references.
+def legal_qa_benchmark(playback_jsonl: str | Path | None = None):
+    """Evaluate models on legal-QA against expert references.
 
-    Pipeline: DIVA101 system prompt → SUT generates → LLM-judge compares to
-    expert reference → 3-level verdict (mapped 0/1/2) + binary `correct`.
+    Two solver paths:
+      * Default (frontier LLMs): DIVA101 system prompt → `generate()` → judge.
+      * `playback_jsonl` set (DIVA matrix): replay precomputed streaming
+        responses → judge. The system prompt was already applied during the
+        fetch, so we don't re-apply it here.
+
+    Args:
+        playback_jsonl: If provided, path to a `DivaResponse` JSONL. The
+            evaluation skips `generate()` and uses the stored response.
     """
-    return Task(
-        dataset=load_questions(),
-        solver=[
+    if playback_jsonl is not None:
+        solver_chain = [diva_playback(playback_jsonl)]
+    else:
+        solver_chain = [
             system_message(DIVA101_SYSTEM_PROMPT),
             generate(),
-        ],
+        ]
+    return Task(
+        dataset=load_questions(),
+        solver=solver_chain,
         scorer=legal_qa_verdict_scorer(),
         config=SUT_DECODING,
     )
