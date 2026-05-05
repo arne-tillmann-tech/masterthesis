@@ -24,13 +24,19 @@ expert-authored questions; 18 carry reference answers and are scorable today,
 ## File layout
 
 ```
-legal_qa_schema.py                              Pydantic models for the Question records
-inspect_benchmark.py                            Inspect AI task — the entry point
-judge_prompt.txt                                German LLM-judge prompt (3-level verdict)
-data/legal_qa/questions_with_reference.jsonl    18 Phase-1 records (scorable)
-data/legal_qa/questions_pending_reference.jsonl 17 Phase-2 records (target=null, parked)
-scripts/_run_diva.py                            DIVA matrix runner (2 SUTs × 4 RAGs)
-scripts/_copilot_proxy.py                       Local OpenAI-compatible proxy for the Copilot grader path
+schema.py                                        Pydantic models (Question, Verdict, ModelEvaluation, DivaResponse)
+inspect_benchmark.py                             Inspect AI task — the entry point. Contains both the
+                                                 `legal_qa_benchmark` task (default frontier path) and the
+                                                 `diva_playback` solver (replay precomputed DIVA responses)
+judge_prompt.txt                                 German LLM-judge prompt (3-level verdict)
+data/legal_qa/questions_with_reference.jsonl     18 Phase-1 records (scorable)
+data/legal_qa/questions_pending_reference.jsonl  17 Phase-2 records (target=null, parked)
+data/diva_responses/<sut>__<tier>.jsonl          DivaResponse fetch artefacts — one file per (SUT × tier);
+                                                 replayed by the diva_playback solver
+scripts/diva_fetch.py                            Streaming DIVA fetcher — SAIA gateway + Arcana RAG, async,
+                                                 idempotent JSONL writes, configurable concurrency
+scripts/_run_diva.py                             DIVA matrix orchestrator (2 SUTs × 4 RAG tiers): fetch then eval
+scripts/_copilot_proxy.py                        Local OpenAI-compatible proxy for the Copilot grader path
 ```
 
 ## Quickstart
@@ -50,17 +56,60 @@ evaluate all 18.
 
 DIVA101 is hosted on KISSKI/GWDG (`openai-api/gwdg/<model>`) with Arcana RAG
 over four document tiers (Öff. Mat. → + Gew. Mat. → + b+Bund Mat. → + all DIVA
-documents). The DIVA matrix uses the GitHub Copilot API as its grader path,
-fronted by a local proxy that handles Copilot's OAuth → bearer flow and the
-required IDE headers.
+documents). The matrix uses the GitHub Copilot API as its grader path, fronted
+by a local proxy that handles Copilot's OAuth → bearer flow and IDE headers.
+
+**Two-phase pipeline.** The DIVA SUT call cannot run inside Inspect-AI's
+generate path: SAIA gateway invocation requires `inference-service:
+saia-openai-gateway` header + `stream: true` (Arcana retrieval routinely takes
+30–60s, exceeding the gateway's non-streaming timeout), and Inspect-AI's
+`OpenAICompatibleAPI` cannot enable HTTP streaming via vendor `extra_body`
+(the SDK hard-casts the response to `ChatCompletion`). So the matrix is
+decoupled into:
+
+1. **Fetch** (`scripts/diva_fetch.py`) — streams DIVA responses with
+   the SAIA header + Arcana ID + DIVA101 system prompt; writes one JSONL
+   row per (SUT × tier × question). Bounded concurrency, retry on transient
+   failures, idempotent (skip-by-question_id), with `[RREF…]` retrieval
+   markers extracted via regex.
+2. **Score** (`inspect_benchmark.py:diva_playback` solver) — reads the JSONL
+   and replays each row's `raw_response` as the model output for the
+   LLM-judge to grade. No SUT call happens during the eval phase.
+
+The orchestrator (`scripts/_run_diva.py`) chains both phases per (SUT × tier).
 
 ```bash
-# Terminal 1: start the proxy (reads COPILOT_OAUTH from .env)
+# Terminal 1: start the Copilot proxy (reads COPILOT_OAUTH from .env)
 python scripts/_copilot_proxy.py
 
 # Terminal 2: run the 2 SUTs × 4 RAGs × 18 questions matrix
 python scripts/_run_diva.py
+# Speed knob: --concurrency N (default 4). N=6 is safe; the GWDG SAIA
+# gateway tolerates ~9 concurrent streams per API key before silent drops.
+python scripts/_run_diva.py --concurrency 6
+
+# Other useful flags:
+python scripts/_run_diva.py --models qwen3.5 --rags Öff   # filter
+python scripts/_run_diva.py --skip-fetch                  # eval-only on existing JSONLs
+python scripts/_run_diva.py --only-fetch                  # populate JSONLs, skip judge
+python scripts/_run_diva.py --limit 1                     # smoke-test one question per cell
 ```
+
+**T4 = logical union.** The fourth Arcana tier (`+ all DIVA documents`) uses
+the SAIA gateway's undocumented multi-arcana extension — comma-separated IDs
+in the `arcana.id` field invoke each Arcana in sequence. The canonical
+"All+Documents" arcana on `ananyapam.de01` does not resolve, so T4 is wired
+as `…/Betriebsverfassungsgesetz,…/Public+Veridbb,…/Public+Bund` (verified to
+retrieve from all three corpora simultaneously, 6 `arcana.event` frames per
+call). Swap to the canonical ID if/when it surfaces.
+
+**Resumability.** Every fetch failure persists as an `error`-tagged row in
+the JSONL. A re-run of the orchestrator skips successful rows and retries
+only the errored ones. The GWDG/SAIA gateway has flaky moments under
+sustained load (occasional `APIConnectionError`, `ReadTimeout`, or silent
+empty-stream); the fetcher's inline retry handles the cheap transients
+(APIConnectionError + silent-EMPTY); ReadTimeouts cost 600s each so they
+rely on the orchestrator-level rerun rather than inline retry.
 
 **SKU gate.** Default grader is `gpt-5-mini`. The `free_educational_quota`
 Copilot SKU blocks `claude-sonnet-*`, `claude-opus-*`, and `gpt-5.2`/`5.4`
@@ -71,53 +120,66 @@ on the unmetered free pool. If you have `ANTHROPIC_API_KEY` set, edit
 
 ## Status / scope
 
-- Phase-1 corpus (18 Q): scorable today against the LLM-judge.
+- Phase-1 corpus (18 Q): full matrix evaluated post-FIX (see *Results*).
 - Phase-2 corpus (17 Q): parked at `data/legal_qa/questions_pending_reference.jsonl` until expert references are commissioned (GEN milestone — AI-augmented; UNION milestone — union-network commissioned).
-- IRR validation: protocol design at `docs/irr-protocol.md`; sample materials at `data/irr/`. Expert raters TBD.
+- IRR validation: protocol design at `docs/irr-protocol.md`; sample materials at `data/irr/` (currently calibrated against the pre-FIX confounded matrix — pending regeneration). Expert raters TBD.
 
 ## Results
 
-Pilot DIVA matrix run on 2026-04-29 — judge prompt v2 + `gpt-5-mini`
-grader, 2 SUTs × 4 Arcana RAG configurations × 18 Phase-1 questions = 144
-graded samples.
+Full DIVA matrix run 2026-05-04 (post-FIX milestone — see *Methodology
+disclosure* below): judge prompt v2 + `gpt-5-mini` grader, 2 SUTs × 4
+Arcana RAG configurations × 18 Phase-1 questions = **144 graded samples**.
 
-**Verdict distribution across the 144 samples:**
+**Per-cell verdict counts:**
 
-| Verdict | Count | Share |
-|---|---:|---:|
-| `worse_than_reference` | 41 | 28.5% |
-| `on_par_with_reference` | 84 | 58.3% |
-| `better_than_reference` | 19 | 13.2% |
+| SUT × Tier                          | worse | on_par | better | verdict mean (0–2) | correct % |
+|-------------------------------------|------:|-------:|-------:|-------------------:|----------:|
+| `qwen3.5-397b-a17b` × Öff. Mat.     |     8 |      1 |      9 |              1.056 |     55.6% |
+| `qwen3.5-397b-a17b` × + Gew. Mat.   |     6 |      2 |     10 |              1.222 |     66.7% |
+| `qwen3.5-397b-a17b` × + b+Bund Mat. |     4 |      4 |     10 |              1.333 |     77.8% |
+| `qwen3.5-397b-a17b` × + all DIVA    |     4 |      0 |     14 |          **1.556** |     77.8% |
+| `openai-gpt-oss-120b` × Öff. Mat.   |     7 |      2 |      9 |              1.111 |     61.1% |
+| `openai-gpt-oss-120b` × + Gew. Mat. |     3 |      7 |      8 |              1.278 | **83.3%** |
+| `openai-gpt-oss-120b` × + b+Bund    |     6 |      0 |     12 |              1.333 |     66.7% |
+| `openai-gpt-oss-120b` × + all DIVA  |     4 |      3 |     11 |              1.389 |     77.8% |
 
-**Per-SUT roll-up:**
+**Verdict mean across 144 samples:** 1.286. **Aggregate correct rate:** 73.6%.
 
-| SUT | verdict mean (0–2 scale) | correct rate (on_par OR better) |
-|---|---:|---:|
-| `qwen3.5-397b-a17b` | 1.12 | 0.88 |
-| `openai-gpt-oss-120b` | 0.57 | 0.56 |
-
-**Per-config matrix (verdict mean):**
-
-|                          | Öff. Mat. | + Gew. Mat. | + b+Bund Mat. | + all DIVA documents |
-|--------------------------|----------:|------------:|--------------:|---------------------:|
-| `qwen3.5-397b-a17b`      | 1.00      | 1.28        | 1.17          | 1.06                 |
-| `openai-gpt-oss-120b`    | 0.56      | 0.56        | 0.67          | 0.50                 |
-
-**Findings:** the 3-level scale distributes across all buckets, so the
-benchmark can rank model configurations. `qwen3.5-397b-a17b` is materially
-stronger than `openai-gpt-oss-120b` for German labor-law QA across all
-four RAG tiers. RAG depth has a small, non-monotonic effect within each
-SUT — increasing the document corpus does not reliably move correctness.
+**Findings:**
+- **`qwen3.5-397b-a17b` shows strict monotonic tier elevation** in both metrics (1.06 → 1.22 → 1.33 → 1.56 in verdict mean; 56% → 67% → 78% → 78% in correct rate). Adding retrieval breadth reliably improves answer quality.
+- **`openai-gpt-oss-120b` is non-monotonic in correct%**: peaks at T2 (83.3%), dips at T3 (66.7%), recovers at T4 (77.8%). Verdict mean still climbs (1.11 → 1.28 → 1.33 → 1.39), but the T2→T3 transition flips 3 hits back to misses. Adding b+Bund material *hurt* gpt-oss on a subset of questions.
+- **gpt-oss × T2 (Gew. Mat.) is the matrix's strongest single cell** — 83.3% correct, 7 on_par + 8 better. Training material moves gpt-oss the most in absolute terms.
+- **Both SUTs converge at the T4 logical union (77.8% correct)**, but `qwen3.5-397b-a17b` leverages broad retrieval into `better_than_reference` more often (mean 1.556 vs gpt-oss's 1.389). qwen3.5 T4 has 14 `better` and 0 `on_par` (highly polarized toward exceeding the reference).
+- **RAG depth materially moves quality** — contradicting the pre-FIX matrix's reading. The pre-FIX matrix was actually measuring raw vLLM with no RAG (see *Methodology disclosure*); the cross-tier deltas there were batch-inference noise across no-op parameter values.
 
 **Caveat:** these verdicts are LLM-judge verdicts only; **inter-rater
 reliability against human experts is not yet validated**. The IRR sample
-at `data/irr/` is the next step. Treat the numbers above as pilot
-signal, not as benchmarked claims.
+at `data/irr/` is the next step. Treat the numbers above as benchmark
+signal pending IRR validation, not as final claims.
 
-Reproducibility: per-sample `.eval` logs at
-`data/logs/2026-04-29T10-*` and `2026-04-29T14-01-49*` (the latter is the
-`gpt-oss-120b × + Gew. Mat.` rerun after a Copilot-bearer-expiry fix in
-`scripts/_copilot_proxy.py`). Open with `inspect view --log-dir data/logs/`.
+**Reproducibility.** Per-(SUT × tier) DIVA responses persisted as JSONL at
+`data/diva_responses/<sut>__<tier>.jsonl`; replay any row through the judge
+with `python scripts/_run_diva.py --skip-fetch`. Per-sample grading `.eval`
+logs at `data/logs/2026-05-04T13-*` and `2026-05-04T14-*`. Open with
+`inspect view --log-dir data/logs/`.
+
+## Methodology disclosure
+
+The DIVA matrix at commit `8949ea9` (2026-04-29) measured raw vLLM model
+output, **not** Arcana-augmented DIVA RAG. The matrix configuration set
+`extra_body={"arcana": {"id": ...}}` on the OpenAI-compatible endpoint, but
+SAIA gateway routing requires the `inference-service: saia-openai-gateway`
+header to actually invoke RAG retrieval. Without that header, the gateway
+silently accepts and discards the arcana parameter. The bug was discovered
+2026-04-29 via direct httpx probing (an *invalid* arcana ID returned 200
+OK without the header but a 500 error with the header — the smoking gun
+for silent no-op).
+
+The fix landed 2026-05-04 as a two-phase pipeline (see *DIVA-specific
+path*). The full matrix in this README's *Results* section uses
+post-FIX data only. The pre-FIX `.eval` logs at `data/logs/2026-04-29T*`
+remain in the repo as evidence but should not be cited for cross-tier
+conclusions.
 
 ## Historical context
 
